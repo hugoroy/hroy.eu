@@ -1,5 +1,5 @@
 This is my first post.
 
-I’ve been thinking about using ikiwiki for some time now. I don’t exactly know what I’ll do here, but I suspect I’m moving away from wordpress-powered http://blog.hugoroy.eu. The main reason is that I’m fed up of using the wordpress admin interface when all I want is to publish something I’ve written on my machine.
+I’ve been thinking about using ikiwiki for some time now. I don’t exactly know what I’ll do here, but I suspect I’m moving away from wordpress-powered <http://blog.hugoroy.eu>. The main reason is that I’m fed up of using the wordpress admin interface when all I want is to publish something I’ve written on my machine.
 
 And git history.
