@@ -7,7 +7,7 @@
 # Posts [[archives/]]
 
 [[!inline pages="page(./posts/*) and !*/Discussion" show="10"
-actions=no rootpage="posts"]]
+actions=no]]
 
 # [[Tips|tips/]]
 
