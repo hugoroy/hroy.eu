@@ -2,4 +2,4 @@ Here is a full list of VIM tips. My beginner’s [~/.vim][dot-vim] is public.
 
 [dot-vim]: https://github.com/hugoroy/.vim
 
-[[!inline pages="page(./vim/*) and !*/Discussion" archive=yes feedshow=10 quick=yes trail=yes action=yes rootpage="tips"]]
+[[!inline pages="page(./vim/*) and !*/Discussion" archive=yes feedshow=10 quick=yes trail=yes action=yes]]
