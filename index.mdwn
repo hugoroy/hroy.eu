@@ -4,5 +4,12 @@
 [[!inline pages=sidebar raw=yes]]
 """]]
 
+# Posts [[archives/]]
+
 [[!inline pages="page(./posts/*) and !*/Discussion" show="10"
-actions=yes rootpage="posts"]]
+actions=no rootpage="posts"]]
+
+# [[Tips|tips/]]
+
+[[!inline pages="tips/*" show="10" actions=no]]
+
