@@ -1,0 +1,11 @@
+/* ikiwiki local style sheet */
+
+/* Add local styling here, instead of modifying style.css. */
+
+.inlinepage {
+    overflow-y: hidden;
+}
+
+.sidebar {
+    padding: 0 2ex;
+}
