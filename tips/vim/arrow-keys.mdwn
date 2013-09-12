@@ -23,4 +23,4 @@ updated version on github</a>
 
 
 
-[[!tag vimrc ]]
+[[!tag vimrc lang:en ]]
