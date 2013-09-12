@@ -1,0 +1,4 @@
+[[!meta title="pages tagged vimrc"]]
+
+[[!inline pages="tagged(vimrc)" actions="no" archive="yes"
+feedshow=10]]
