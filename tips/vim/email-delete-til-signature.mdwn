@@ -30,8 +30,8 @@ So when you're below the part you’re replying to, just press
 <code>,dd</code> and it will delete the rest of the email between
 the line and your signature. 
 
-It only works if your signature is well delimited by “-- ” and if
-folding is on.
+It only works if your signature is well delimited by <code>-- </code> 
+and if folding is on.
 
 
 [[!tag vimrc lang:en ]]
