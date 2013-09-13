@@ -1,0 +1,6 @@
+# Tweets and Dents
+
+[[!aggregate  name="identi.ca" dir="posts"
+feedurl="https://pump2rss.com/feed/hugoroy@identi.ca.atom"
+url="https://identi.ca/hugoroy"
+updateinterval="15" tag="identi.ca"]]

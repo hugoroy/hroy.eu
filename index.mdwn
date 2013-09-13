@@ -6,10 +6,9 @@
 
 # Posts [[archives/]]
 
-[[!inline pages="page(./posts/*) and !*/Discussion" show="10"
-actions=no]]
+[[!inline pages="page(./posts/*) and !*/Discussion" show="10" actions=no]]
 
 # [[Tips|tips/]]
 
-[[!inline pages="tips/*" show="10" actions=no]]
+[[!inline pages="page(./tips/*) and !*/Discussion" show="10" actions=no]]
 
