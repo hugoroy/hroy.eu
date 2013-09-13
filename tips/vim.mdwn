@@ -1,5 +1,14 @@
-Here is a full list of VIM tips. My beginner’s [~/.vim][dot-vim] is public.
+I began using [vim](http://vim.org) in January 2013. (I was mostly
+using gedit before, but it was so slow at times that it couldn’t
+keep up with me typing on the keyboard.) I suppose my use of vim
+isn’t the most widespread. I write code occasionally only, I
+mainly write emails and documents, so my set-up reflects this and
+the tips I share here are not the most interesting for coders.
+
+Here is a full list of vim tips. My beginner’s [~/.vim][dot-vim]
+is public.
 
 [dot-vim]: https://github.com/hugoroy/.vim
 
-[[!inline pages="page(./vim/*) and !*/Discussion" archive=yes feedshow=10 quick=yes trail=yes action=yes]]
+[[!inline pages="page(./vim/*) and !*/Discussion" archive=yes
+feedshow=10 quick=yes trail=yes action=yes]]
