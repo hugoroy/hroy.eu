@@ -1,0 +1,4 @@
+[[!meta title="pages tagged tweets"]]
+
+[[!inline pages="tagged(tweets)" actions="no" archive="yes"
+feedshow=10]]
