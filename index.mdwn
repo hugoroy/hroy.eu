@@ -4,11 +4,8 @@
 [[!inline pages=sidebar raw=yes]]
 """]]
 
-# Posts [[archives/]]
+# You can’t do that online anymore!
 
 [[!inline pages="page(./posts/*) and !*/Discussion" show="10" actions=no]]
 
-# [[Tips|tips/]]
-
-[[!inline pages="page(./tips/*) and !*/Discussion" show="10" actions=no]]
 
