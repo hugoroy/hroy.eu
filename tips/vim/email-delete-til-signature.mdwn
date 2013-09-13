@@ -19,7 +19,7 @@ href="https://github.com/hugoroy/.vim/blob/master/vimrc">~/.vimrc</a>:
 <script src="https://gist.github.com/hugoroy/6553429.js"></script>
 <noscript><pre>
 " for email: unfold and delete to your signature
-noremap ,dd zi:.;/^-- $/d<CR>O-- <UP><End><CR><CR
+noremap ,dd zi:.;/^-- $/d&lt;CR&gt;O-- &lt;UP&gt;&lt;End&gt;&lt;CR&gt;&lt;CR
 </pre>
 <a
 href="https://gist.github.com/hugoroy/6553429/raw/0828d0a604398fac8523c3d65907ed635b682b20/email-delete-til-signature.vimrc">most
