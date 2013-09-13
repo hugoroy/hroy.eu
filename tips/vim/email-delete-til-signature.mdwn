@@ -1,0 +1,27 @@
+Reply to an email, easily delete the parts below line
+=====================================================
+
+When I reply to emails, mutt fires up vim in markdown mode. Then
+I can quickly navigate until I reach the parts I want to reply to
+specifically. Sometimes it’s just a portion of the whole email,
+so I want to leave out the rest. [Matthias][mk@fsfe] shared a
+nice tip that allowed him to do that quickly. Unfortunately, it
+wasn’t working properly for me. I figured out it was because in
+markdown mode, some parts are folded. By default, my own
+signature is folded. So I modified the rule a little bit, and
+here it goes, just add in your <a
+href="https://github.com/hugoroy/.vim/blob/master/vimrc">~/.vimrc</a>:
+
+<script src="https://gist.github.com/hugoroy/6553429.js"></script>
+<noscript><pre>
+" for email: unfold and delete to your signature
+noremap ,dd zi:.;/^-- $/d<CR>O-- <UP><End><CR><CR
+</pre>
+<a
+href="https://gist.github.com/hugoroy/6553429/raw/0828d0a604398fac8523c3d65907ed635b682b20/email-delete-til-signature.vimrc">most
+updated version on github</a>
+</noscript>
+
+[mk@fsfe]: https://blogs.fsfe.org/mk
+
+[[!tag vimrc lang:en ]]
