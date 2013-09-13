@@ -9,3 +9,7 @@
 .sidebar {
     padding: 0 2ex;
 }
+
+.header .title {
+    display: inline-block;
+}
