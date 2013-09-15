@@ -26,4 +26,6 @@ body{font-size:14px}
 article.inlinepage{border:0;margin:.7em 0 7em 0}
 .sidebar{padding:0 2ex}
 .header .title{display:inline-block}
+.pageheader .action{top:0}.pageheader .action ul li{border:0}
+#searchform{bottom:.5em}
 [id^="fnref:"].footnote,[id*=" fnref:"].footnote{vertical-align:super;font-size:.8em;line-height:.7em}
