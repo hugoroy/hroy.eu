@@ -1,0 +1,114 @@
+body, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: "Roboto", Roboto, "Open Sans","OpenSans", "DejaVu Sans", sans-serif;
+    text-rendering: optimizeLegibility;
+    -moz-font-feature-settings: "liga", "calt";
+    -webkit-font-feature-settings: "liga", "calt";
+    -ms-font-feature-settings: "liga";
+    -o-font-feature-settings: "liga";
+    font-feature-settings: "liga";
+}
+
+a:hover, a:active, a:focus {
+    text-decoration: none;
+    color: #d9261c;
+    transition-property: color;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-out;
+}
+
+a:focus {
+    outline: 1px dashed rgba(51,51,51,0.5);
+}
+
+h1, h2, h3, .h1, .h2, .h3 {
+    /*font-family: "Source Sans Pro";*/
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    word-spacing: 0.1em;
+}
+
+body.roman {
+
+    article {
+        font-size: 1.4em;
+        font-family: "EB Garamond", "Garamond Premier Pro", "Garamond", Georgia, serif;
+        p, h1, h2, h3, .h1, .h2, .h3 {
+            font-family: "EB Garamond", "Garamond Premier Pro", "Garamond", Georgia, serif;
+            max-width: 666px;
+        }
+        p {
+        font-size: 1.1em;
+        }
+    }
+}
+
+pre, code {
+    font-family:"Inconsolata",Monaco,Menlo,Consolas,"Courier New",monospace;
+}
+
+img {
+    max-width: 100%;
+}
+
+.collapser {
+    cursor: pointer;
+    opacity: 0.5;
+}
+
+
+aside {
+    font-size: 0.9em;
+}
+
+
+article {
+
+    p, h1, h2, h3, h4, h5, h6 {
+        /*max-width: 39em;*/
+        max-width: 666px;
+    }
+    p {
+        margin: 0px 0px 1.1em;
+        font-size: 1.11em;
+        line-height: 140%;
+        -moz-hyphens: auto;
+        -webkit-hyphens: auto;
+        -ms-hyphens: auto;
+        -o-hyphens: auto;
+        hyphens: auto;
+    }
+    dt {
+        margin-top: 1em;
+    }
+    h1, .h1, h2, .h2, h3, .h3 {
+        font-family: "EB Garamond", "Garamond Premier Pro", Garamond, Georgia, serif;
+    }
+    h1, .h1 {font-size: 2.8em; }
+    h2, .h2 {font-size: 2.4em; }
+    h3, .h3 {font-size: 1.8em; }
+    figure {
+        margin: 2em 0;
+    }
+    figcaption {
+        padding: 7px;
+        font-weight: 300;
+    }
+    .footnotes {
+        ol li p a:last-child {
+            margin-left:0.5em;
+        }
+    }
+}
+article:last-child {
+    margin-bottom: 0;
+}
+
+footer {
+    font-size: 0.9em;
+}
+
+.feed-link, .feedbutton {
+    font-variant: small-caps;
+    text-transform: lowercase;
+}
+
