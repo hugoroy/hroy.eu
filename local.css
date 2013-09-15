@@ -21,7 +21,8 @@ article .footnotes ol li p a:last-child{margin-left:.5em}
 article:last-child{margin-bottom:0}
 footer{font-size:.9em}
 .feed-link,.feedbutton{font-variant:small-caps;text-transform:lowercase}
+body{font-size:14px}
 .inlinepage{overflow-y:hidden}
 .sidebar{padding:0 2ex}
 .header .title{display:inline-block}
-[id^="fnref:"].footnote,[id*=" fnref:"].footnote{vertical-align:super;font-size:.8em;line-height:.8em}
+[id^="fnref:"].footnote,[id*=" fnref:"].footnote{vertical-align:super;font-size:.8em;line-height:.7em}
