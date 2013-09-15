@@ -11,4 +11,4 @@
 [[Tips]]
 
 [[Tags]]:
-[[!pagestats style="list" pages="./tags/*" among="./posts/*"]]
+[[!pagestats style="list" pages="./tags/*" among="*"]]
