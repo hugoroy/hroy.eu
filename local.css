@@ -23,6 +23,7 @@ footer{font-size:.9em}
 .feed-link,.feedbutton{font-variant:small-caps;text-transform:lowercase}
 body{font-size:14px}
 .inlinepage{overflow-y:hidden}
+article.inlinepage{border:0;margin:.7em 0 7em 0}
 .sidebar{padding:0 2ex}
 .header .title{display:inline-block}
 [id^="fnref:"].footnote,[id*=" fnref:"].footnote{vertical-align:super;font-size:.8em;line-height:.7em}
