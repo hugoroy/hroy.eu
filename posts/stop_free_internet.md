@@ -42,6 +42,25 @@ avoid: Cloud computing, Big Data, Open Web, (add yours).
 
 * * *
 
+On a side note, the argument of the evening was that the EU
+Commission proposal that evening was: if you fight against us on
+this, that means you're against enabling internet-innovation for
+hospitals. Because you know, if your hospital does not have the
+right surgeon, there’s an app for that…
+
+This kind of thinking must be avoided. Laws that regulate internet
+intermediaries should not be made solely on the basis of market
+regulation; because the internet is an important infrastructure of
+all our lives, so it's also more importantly a matter of freedom
+and human rights.
+
+BTW, if you apply that market approach to the examples of
+hospitals in need of prioritized internet access, that also
+implies that you allow telecoms to charge hospitals more money
+for the privilege of prioritized access. Well done.
+
+* * *
+
 PS: I’ve always disliked the expression “open Web.” Not so much
 because I prefer the term Free Software over Open Source because
 it refers to freedom, which I think is more important and less
