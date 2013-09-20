@@ -966,7 +966,7 @@ footer{font-size:.9em}
 body{font-size:14px}
 .inlinepage{overflow-y:hidden}
 article.inlinepage{border:0;margin:.7em 0 7em 0}
-.sidebar{padding:0 2ex}
+.sidebar{padding:0 2ex;min-width:190px}
 .pageheader{background:transparent;border:0}
 .pageheader .header{width:100%}
 .pageheader .actions{top:0;height:1px;font-size:80%}.pageheader .actions ul li{border:0;background:transparent}.pageheader .actions ul li a{color:transparent}
