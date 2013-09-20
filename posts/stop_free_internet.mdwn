@@ -1,7 +1,8 @@
 Time to stop talking about the free/open Internet?
 ==================================================
 
-Last week, instead of working on the bar exams, I spent some minutes on
+Last week, instead of working on the bar exams, I spent some
+time on
 Twitter discussing with Ryan Heath, spokesperson for EU Commissioner
 Neelie Kroes who's pushing for a new law on telecommunications. The
 draft is drawing some criticism right now, as it's said to defeat
@@ -16,7 +17,7 @@ curiosity](https://twitter.com/hugoroyd/status/377880421859475456). What
 does “free/open internet” mean for a EU commissioner spokesperson? So
 here's what he wrote:
 
-> open Internet" means a network everyone can access affordably and
+> “open Internet” means a network everyone can access affordably and
 > without restrictions on content, with room to innovate
 
 When I asked what he meant exactly by no restrictions on content, he
@@ -36,8 +37,8 @@ Cloud computing, Big Data, Open Web, (add yours).
 
 * * * * *
 
-On a side note, the argument of the evening was that the EU Commission
-proposal that evening was: if you fight against us on this, that means
+On a side note, the argument of the EU Commission spokesperson
+that evenining was: if you fight against us on this, that means
 you're against enabling [internet-innovation for
 hospitals](https://twitter.com/RyanHeathEU/status/377873152787099648).
 Because you know, if your hospital does not have the right surgeon,
@@ -46,8 +47,8 @@ that…](https://twitter.com/RyanHeathEU/status/378196072856043521)
 
 This kind of thinking must be avoided. Laws that regulate internet
 intermediaries should not be made solely on the basis of market
-regulation; because the internet is an important infrastructure of all
-our lives, so it's also more importantly a matter of freedom and human
+regulation; because the internet is an important infrastructure
+for all of us, it's more importantly a matter of freedom and human
 rights.
 
 BTW, if you apply that market approach to the examples of hospitals in
