@@ -972,6 +972,7 @@ article.inlinepage{border:0;margin:.7em 0 7em 0}
 .pageheader .actions{top:0;height:1px;font-size:80%}.pageheader .actions ul li{border:0;background:transparent}.pageheader .actions ul li a{color:transparent}
 .pageheader .actions:hover{height:14px}.pageheader .actions:hover ul li a{color:#333}
 #pageinfo{border-color:#ccc;padding:0 1em}
+.inlinepage h1,.inlinepage h2,.inlinepage h3,.inlinepage h4,.inlinepage h5,.inlinepage h6{font-family:"Roboto",Roboto,"Open Sans","OpenSans","DejaVu Sans",sans-serif}
 [id^="fnref:"].footnote,[id*=" fnref:"].footnote{vertical-align:super;font-size:.8em;line-height:.7em}
 .footnotes li p{font-size:1em}
 #content header.header{display:none}
