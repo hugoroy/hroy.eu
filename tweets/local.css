@@ -1,3 +1,5 @@
+@import "/local.css";
+
 /* tweets stylesheet */
 
 header.header { display: none; }
