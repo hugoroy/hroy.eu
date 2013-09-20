@@ -1,3 +1,4 @@
 @import "/hroy.css";
-.pageheader .header{background:url(/background.jpg);color:#fff;text-shadow:0 0 .2em #000}
+.pageheader{background:url(/background.jpg)}
+.pageheader .header{color:#fff;text-shadow:0 0 .2em #000}
 .pageheader .parentlinks a{text-shadow:0 0 .2em #d9261c}
