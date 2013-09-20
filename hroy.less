@@ -24,11 +24,25 @@ article.inlinepage {
     display: inline-block;
 }
 
-.pageheader .action {
+.pageheader .actions {
     top: 0;
+    height: 1px;
 
     ul li {
         border: 0;
+        background: transparent;
+
+        a {
+            color: transparent;
+        }
+    }
+}
+
+.pageheader:hover .actions {
+    height: 14px;
+
+    ul li a {
+        color: #333;
     }
 }
 

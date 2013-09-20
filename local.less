@@ -1,12 +1,21 @@
 @import "/hroy.less";
 
-.pageheader {
-    background: url(/background.jpg);
-}
-
 .pageheader .header {
+    background: url(/background.jpg) 50% bottom #333;
     color: #fff;
     text-shadow: 0px 0px 0.2em rgb(0, 0, 0);
+}
+
+@media (min-width: 700px) {
+    .pageheader .header {
+        position: fixed;
+        width: 220px;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        padding-top: 10%;
+        text-align: center;
+    }
 }
 
 .pageheader .parentlinks a {

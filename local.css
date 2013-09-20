@@ -948,7 +948,7 @@ pre,code{font-family:"Inconsolata",Monaco,Menlo,Consolas,"Courier New",monospace
 img{max-width:100%}
 .collapser{cursor:pointer;opacity:.5}
 aside{font-size:.9em}
-@media (max-width:400px){.sidebar{float:none}}@media (min-width:700px){#pagebody{margin:0 0 0 220px}}@media (min-width:1300px){#pagebody{margin:0 0 0 320px}}@media (min-width:1500px){#pagebody{margin:0 0 0 440px}}article p,article h1,article h2,article h3,article h4,article h5,article h6{max-width:666px}
+@media (max-width:400px){.sidebar{float:none}}@media (min-width:700px){#pagebody{margin:0 0 0 220px} #searchform{position:fixed;bottom:20px;width:180px;left:.5em}}@media (min-width:1300px){#pagebody{margin:0 0 0 320px}}@media (min-width:1500px){#pagebody{margin:0 0 0 440px}}article p,article h1,article h2,article h3,article h4,article h5,article h6{max-width:666px}
 article p{margin:0 0 1.1em;font-size:1.11em;line-height:140%;-moz-hyphens:auto;-webkit-hyphens:auto;-ms-hyphens:auto;-o-hyphens:auto;hyphens:auto}
 article dt{margin-top:1em}
 article h1,article .h1,article h2,article .h2,article h3,article .h3{font-family:"EB Garamond","Garamond Premier Pro",Garamond,Georgia,serif}
@@ -966,9 +966,9 @@ body{font-size:14px}
 article.inlinepage{border:0;margin:.7em 0 7em 0}
 .sidebar{padding:0 2ex}
 .header .title{display:inline-block}
-.pageheader .action{top:0}.pageheader .action ul li{border:0}
+.pageheader .actions{top:0;height:1px}.pageheader .actions ul li{border:0;background:transparent}.pageheader .actions ul li a{color:transparent}
+.pageheader:hover .actions{height:14px}.pageheader:hover .actions ul li a{color:#333}
 #searchform{bottom:.5em}
 [id^="fnref:"].footnote,[id*=" fnref:"].footnote{vertical-align:super;font-size:.8em;line-height:.7em}
-.pageheader{background:url(/background.jpg)}
-.pageheader .header{color:#fff;text-shadow:0 0 .2em #000}
-.pageheader .parentlinks a{text-shadow:0 0 .2em #d9261c}
+.pageheader .header{background:url(/background.jpg) 50% bottom #333;color:#fff;text-shadow:0 0 .2em #000}
+@media (min-width:700px){.pageheader .header{position:fixed;width:220px;left:0;top:0;bottom:0;padding-top:10%;text-align:center}}.pageheader .parentlinks a{text-shadow:0 0 .2em #d9261c}
