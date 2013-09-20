@@ -947,7 +947,7 @@ body.roman article p{font-size:1.1em}
 pre,code{font-family:"Inconsolata",Monaco,Menlo,Consolas,"Courier New",monospace}
 img{max-width:100%}
 .collapser{cursor:pointer;opacity:.5}
-#ma-tete{border-width:1px;border-style:solid;border-radius:50%;width:50px;height:50px;box-shadow:0 0 .5em rgba(0,0,0,0.3)}
+#ma-tete{border-width:2px;border-style:solid;border-radius:50%;width:52px;height:52px;box-shadow:0 0 .5em rgba(0,0,0,0.3)}
 aside{font-size:.9em}
 #searchform{position:relative;top:0;right:0;bottom:0}
 @media (max-width:400px){.sidebar{float:none}}@media (min-width:700px){#pagebody,#footer.pagefooter{margin:0 0 0 220px} #searchform{position:fixed;top:90%;bottom:20px;width:180px;left:.5em}}@media (min-width:1300px){#pagebody,#footer.pagefooter{margin:0 0 0 320px} #searchform{left:2.5em}}@media (min-width:1500px){#pagebody,#footer.pagefooter{margin:0 0 0 440px} #searchform{left:5em}}article p,article h1,article h2,article h3,article h4,article h5,article h6{max-width:666px}
@@ -975,5 +975,6 @@ article.inlinepage{border:0;margin:.7em 0 7em 0}
 #pageinfo{border-color:#ccc;padding:0 1em}
 [id^="fnref:"].footnote,[id*=" fnref:"].footnote{vertical-align:super;font-size:.8em;line-height:.7em}
 #ma-tete{display:block;margin:1em auto}
-.pageheader .header{background:url(/background.jpg) 50% bottom #333;color:#fff;text-shadow:0 0 .2em #000}
-@media (min-width:700px){.pageheader .header{position:fixed;width:220px;left:0;top:0;bottom:0;padding-top:1em;text-align:center}}@media (min-width:1300px){.pageheader .header{width:280px}}@media (min-width:1500px){.pageheader .header{width:400px}}.pageheader .parentlinks a{text-shadow:0 0 .2em #000}
+.pageheader .header{background:url(/background.jpg) 50% bottom #333;color:#fff;text-shadow:0 0 .2em #000;text-align:center;padding:1em}
+@media (min-width:700px){.pageheader .header{position:fixed;width:220px;left:0;top:0;bottom:0;padding:1em 0 0 0}}@media (min-width:1300px){.pageheader .header{width:280px}}@media (min-width:1500px){.pageheader .header{width:400px}}#searchform{opacity:.7}
+.pageheader .parentlinks a{text-shadow:0 0 .2em #000}
