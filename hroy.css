@@ -949,7 +949,7 @@ img{max-width:100%}
 .collapser{cursor:pointer;opacity:.5}
 aside{font-size:.9em}
 #searchform{position:relative;top:0;right:0;bottom:0}
-@media (max-width:400px){.sidebar{float:none}}@media (min-width:700px){#pagebody,#footer.pagefooter{margin:0 0 0 220px} #searchform{position:fixed;top:90%;bottom:20px;width:180px;left:.5em}}@media (min-width:1300px){#pagebody{margin:0 0 0 320px}}@media (min-width:1500px){#pagebody{margin:0 0 0 440px}}article p,article h1,article h2,article h3,article h4,article h5,article h6{max-width:666px}
+@media (max-width:400px){.sidebar{float:none}}@media (min-width:700px){#pagebody,#footer.pagefooter{margin:0 0 0 220px} #searchform{position:fixed;top:90%;bottom:20px;width:180px;left:.5em}}@media (min-width:1300px){#pagebody,#footer.pagefooter{margin:0 0 0 320px} #searchform{left:2.5em}}@media (min-width:1500px){#pagebody,#footer.pagefooter{margin:0 0 0 440px} #searchform{left:5em}}article p,article h1,article h2,article h3,article h4,article h5,article h6{max-width:666px}
 article p{margin:0 0 1.1em;font-size:1.11em;line-height:140%;-moz-hyphens:auto;-webkit-hyphens:auto;-ms-hyphens:auto;-o-hyphens:auto;hyphens:auto}
 article dt{margin-top:1em}
 article h1,article .h1,article h2,article .h2,article h3,article .h3{font-family:"EB Garamond","Garamond Premier Pro",Garamond,Georgia,serif}
