@@ -2,4 +2,4 @@
 
 /* tweets stylesheet */
 
-header.header { display: none; }
+#content header.header { display: none; }
