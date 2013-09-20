@@ -67,3 +67,5 @@ thing as a “closed Web.” Then, what would that be? A website with Flash?
 I don't even consider flash as part of the web, but just some
 proprietary blobs served over http. I don't think that everything served
 over http is necessarily part of the web.
+
+[[!tag lang:en nonsense]]
