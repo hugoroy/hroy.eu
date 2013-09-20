@@ -969,6 +969,7 @@ article.inlinepage{border:0;margin:.7em 0 7em 0}
 .sidebar{padding:0 2ex;min-width:190px}
 .pageheader{background:transparent;border:0}
 .pageheader .header{width:100%}
+.header .title{display:inline-block}
 .pageheader .actions{top:0;height:1px;font-size:80%}.pageheader .actions ul li{border:0;background:transparent}.pageheader .actions ul li a{color:transparent}
 .pageheader .actions:hover{height:14px}.pageheader .actions:hover ul li a{color:#333}
 #pageinfo{border-color:#ccc;padding:0 1em}
@@ -977,7 +978,6 @@ article.inlinepage{border:0;margin:.7em 0 7em 0}
 [id^="fnref:"].footnote,[id*=" fnref:"].footnote{vertical-align:super;font-size:.8em;line-height:.7em}
 .footnotes li p{font-size:1em}
 #ma-tete{display:block;margin:1em auto}
-.pageheader .header{background:url(/background.jpg) 50% bottom #333;color:#fff;text-shadow:0 0 .2em #000;text-align:center;padding:1em}
+.pageheader .header{background:url(/background.jpg) 50% bottom #333;color:#fff;text-shadow:0 0 .2em #000;text-align:center;padding:1em}.pageheader .header .title{display:block}
 @media (min-width:700px){.pageheader .header{position:fixed;width:220px;left:0;top:0;bottom:0;padding:1em 0 0 0}}@media (min-width:1300px){.pageheader .header{width:280px}}@media (min-width:1500px){.pageheader .header{width:400px}}#searchform{opacity:.7}
 .pageheader .parentlinks a{text-shadow:0 0 .2em #000}
-#Hugo’s blog time .relativedate:first-child:before{content:"Blogging for "}
