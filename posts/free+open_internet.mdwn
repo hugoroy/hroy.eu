@@ -69,3 +69,4 @@ proprietary blobs served over http. I don't think that everything served
 over http is necessarily part of the web.
 
 [[!tag lang:en nonsense]]
+[[!meta title="“free/open internet”"]]
