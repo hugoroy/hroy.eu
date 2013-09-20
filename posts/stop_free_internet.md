@@ -44,9 +44,10 @@ avoid: Cloud computing, Big Data, Open Web, (add yours).
 
 On a side note, the argument of the evening was that the EU
 Commission proposal that evening was: if you fight against us on
-this, that means you're against enabling internet-innovation for
-hospitals. Because you know, if your hospital does not have the
-right surgeon, there’s an app for that…
+this, that means you're against enabling [internet-innovation for
+hospitals](https://twitter.com/RyanHeathEU/status/377873152787099648). Because you know, if your hospital does not have the
+right surgeon, [there’s an app for
+that…](https://twitter.com/RyanHeathEU/status/378196072856043521)
 
 This kind of thinking must be avoided. Laws that regulate internet
 intermediaries should not be made solely on the basis of market
@@ -56,7 +57,8 @@ and human rights.
 
 BTW, if you apply that market approach to the examples of
 hospitals in need of prioritized internet access, that also
-implies that you allow telecoms to charge hospitals more money
+implies that you allow telecoms to [charge hospitals more
+money](https://twitter.com/RyanHeathEU/status/377873152787099648)
 for the privilege of prioritized access. Well done.
 
 * * *
