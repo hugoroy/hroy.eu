@@ -11,3 +11,7 @@
 [[Copyright Info|copyright]]
 
 Please keep the comments on-topic. 
+
+Here's a nearly exhaustive overview of this blog/wiki.
+
+[[!map pages="page(*) and !*/discussion and !recentchanges and !plugins/* and !sandbox/*"]]
