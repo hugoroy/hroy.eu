@@ -1,6 +1,6 @@
-[[!if test="enabled(calendar)" then="""
+<!--[[!if test="enabled(calendar)" then="""
 [[!calendar pages="page(./posts/*) and !*/Discussion"]]
-"""]]
+"""]]-->
 
 [[Recent Comments|comments]]
 
