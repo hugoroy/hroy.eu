@@ -1,5 +1,7 @@
 # Tweets and Dents
 
+[[!inline pages="internal(tweets/*) and !*/Discussion" show=55]]
+
 [[!aggregate  name="identi.ca" dir="tweets"
 feedurl="https://pump2rss.com/feed/hugoroy@identi.ca.atom"
 url="https://identi.ca/hugoroy"
