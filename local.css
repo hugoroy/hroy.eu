@@ -967,7 +967,7 @@ article.inlinepage{border:0;margin:.7em 0 7em 0}
 .sidebar{padding:0 2ex}
 .header .title{display:inline-block}
 .pageheader{background:transparent;border:0}
-.pageheader .actions{top:0;height:1px}.pageheader .actions ul li{border:0;background:transparent}.pageheader .actions ul li a{color:transparent}
+.pageheader .actions{top:0;height:1px;font-size:80%}.pageheader .actions ul li{border:0;background:transparent}.pageheader .actions ul li a{color:transparent}
 .pageheader:hover .actions{height:14px}.pageheader:hover .actions ul li a{color:#333}
 [id^="fnref:"].footnote,[id*=" fnref:"].footnote{vertical-align:super;font-size:.8em;line-height:.7em}
 .pageheader .header{background:url(/background.jpg) 50% bottom #333;color:#fff;text-shadow:0 0 .2em #000}
