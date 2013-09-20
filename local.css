@@ -974,4 +974,4 @@ article.inlinepage{border:0;margin:.7em 0 7em 0}
 #pageinfo{border-color:#ccc;padding:0 1em}
 [id^="fnref:"].footnote,[id*=" fnref:"].footnote{vertical-align:super;font-size:.8em;line-height:.7em}
 .pageheader .header{background:url(/background.jpg) 50% bottom #333;color:#fff;text-shadow:0 0 .2em #000}
-@media (min-width:700px){.pageheader .header{position:fixed;width:220px;left:0;top:0;bottom:0;padding-top:10%;text-align:center}}.pageheader .parentlinks a:link{text-shadow:0 0 .2em #000;color:#ccc}
+@media (min-width:700px){.pageheader .header{position:fixed;width:220px;left:0;top:0;bottom:0;padding-top:10%;text-align:center}}.pageheader .parentlinks a{text-shadow:0 0 .2em #000}
