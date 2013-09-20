@@ -973,3 +973,4 @@ article.inlinepage{border:0;margin:.7em 0 7em 0}
 .pageheader .actions:hover{height:14px}.pageheader .actions:hover ul li a{color:#333}
 #pageinfo{border-color:#ccc;padding:0 1em}
 [id^="fnref:"].footnote,[id*=" fnref:"].footnote{vertical-align:super;font-size:.8em;line-height:.7em}
+.footnotes li p{font-size:1em}
