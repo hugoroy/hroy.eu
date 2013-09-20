@@ -1,3 +1,2 @@
-Here are some short notes, mainly aggregated from [[twitter|tweets]].
 
 [[!inline pages="page(./notes/*) and !*/Discussion" archive=yes feedshow=10 quick=yes trail=yes]]
