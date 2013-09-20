@@ -33,5 +33,5 @@ the line and your signature.
 It only works if your signature is well delimited by <code>-- </code> 
 and if folding is on.
 
-
+[[!meta title="Email: delete until signature"]]
 [[!tag vimrc lang:en ]]
