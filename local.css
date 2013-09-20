@@ -967,6 +967,7 @@ article.inlinepage{border:0;margin:.7em 0 7em 0}
 .sidebar{padding:0 2ex}
 .header .title{display:inline-block}
 .pageheader{background:transparent;border:0}
+#searchform{position:relative;top:0;bottom:0;float:none}
 .pageheader .actions{top:0;height:1px;font-size:80%}.pageheader .actions ul li{border:0;background:transparent}.pageheader .actions ul li a{color:transparent}
 .pageheader .actions:hover{height:14px}.pageheader .actions:hover ul li a{color:#333}
 #pageinfo{border-color:#ccc;padding:0 1em}
