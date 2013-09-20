@@ -1,0 +1,13 @@
+[[!if test="enabled(sidebar)" then="""
+[[!sidebar]]
+""" else="""
+[[!inline pages=sidebar raw=yes]]
+"""]]
+
+# About
+
+<a href="http://hugoroy.eu/index.en.html" rel="me">Who am I?</a>
+
+[[Copyright Info|copyright]]
+
+Please keep the comments on-topic. 

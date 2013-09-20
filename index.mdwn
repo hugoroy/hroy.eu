@@ -9,4 +9,3 @@
 [[!inline pages="page(./posts/*) and !*/Discussion" show="10" actions=no]]
 
 
-<small>[[Copyright info|Copyright]]</small>
