@@ -973,7 +973,7 @@ article.inlinepage{border:0;margin:.7em 0 7em 0}
 .pageheader .actions:hover{height:14px}.pageheader .actions:hover ul li a{color:#333}
 #pageinfo{border-color:#ccc;padding:0 1em}
 .inlinepage h1,.inlinepage h2,.inlinepage h3,.inlinepage h4,.inlinepage h5,.inlinepage h6{font-family:"Roboto",Roboto,"Open Sans","OpenSans","DejaVu Sans",sans-serif}
-.feedbutton{display:block;font-family:"Roboto",Roboto,"Open Sans","OpenSans","DejaVu Sans",sans-serif;margin-top:.5em}
+.feedbutton{font-family:"Roboto",Roboto,"Open Sans","OpenSans","DejaVu Sans",sans-serif;margin-top:.5em}
 [id^="fnref:"].footnote,[id*=" fnref:"].footnote{vertical-align:super;font-size:.8em;line-height:.7em}
 .footnotes li p{font-size:1em}
 #ma-tete{display:block;margin:1em auto}
