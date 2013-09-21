@@ -1,0 +1,115 @@
+There’s a constant debate when it comes to patents and copyright
+laws. Do they fit in a general category of property rights? Are
+they like property at all? [[!toggle  id="rms-cr" text="[+]"]]
+
+[[!toggleable  id="rms-cr" text="""
+I can’t hide that my opinion has been influenced by the writings
+of Richard Stallman, who’s been challenging the status quo for
+over two decades. I’ve summarised in French some of [his
+publications on the
+subject](https://pinboard.in/u:hugoroy/t:richard_stallman/t:copyright/).
+[[!toggle id="rms-cr" text="[hide]"]]"""]]
+
+Current developments in patent law, especially in the US, have
+given rise to concerns about the harm they might do to innovation
+which they seek to guide incentives. This has been more than
+obvious in the case of software and patent trolls.
+
+Some people, instead of fixing what’s inherently wrong with
+patents, are trying to find some minor fixes. Recently it has been
+[proposed](http://ssrn.com/abstract=2318521) to make the patent
+fees vary depending on how much the patent is “practised” by the
+holder.
+
+I stumbled upon this article (which might be a good idea, although
+I think it misses the larger picture) while reading [patentlyo this
+afternoon](http://www.patentlyo.com/patent/2013/09/raising-maintenance-fees-for-non-practiced-inventions.html):
+
+ > Post-grant patent maintenance fees offer an easy mechanism for
+ > shifting patentee behavior. In the US, patent holders must pay
+ > a maintenance fee three times during the life of an issued
+ > patent. I **think of the fee as akin to property tax.** When a
+ > real-property owner fails to pay the property taxes, the state
+ > forecloses. In the patent system failure to pay the maintenance
+ > fees similarly results in the property right be taken from the
+ > non-payer.
+
+I couldn’t resist to take this opportunity to give a small excerpt
+of how little value I think this analogy to property bears with
+thinking about patents.
+
+Earlier this year, I attended a small seminar on
+“comparative perspectives of patent laws” which introduced itself
+with some American literature on general theories of property.
+[[!toggle  id="comp-persp" text="[+]"]]
+
+[[!toggleable  id="comp-persp" text="""
+Apart from the criticism that follows, I have to say it was a very
+interesting seminar and comparative legal studies are often good
+ways to self-questioning one’s views. The introduction also
+featured Barry Field, “the Evolution of Property Rights” (1989)
+worth reading as a whole for explaining patterns of emergence of
+property rights, but maybe also for the historical account of UK
+patent hero James Watt.
+[[!toggle id="comp-persp" text="[hide]"]]"""]]
+
+We were given to read Harold Demsetz, “Toward a Theory of Property
+Rights” (1967). This is not the only attempt at trying a general
+theory of property law that encompass patents and copyright. But
+this one is interesting for some of the analysis it brings
+regarding the interaction of individuals, the law, and the State;
+which is at the centre of patentlyo’s thinking of patent fees akin
+to property taxes.
+
+In this theory, patent laws aim at modifying behaviour by
+internalising externalities. Yes, this is an economic theory…
+Later in the text, about the concept and role of property rights,
+the author  outlines two ways for enrolling people
+in the military. In the first one, where people are free to join
+or not, the State tries to buy people in with providing for
+education, salaries, etc.  In the second one, people are drafted
+by default, so they can only buy a way out of the army. For the
+author, there’s a kind of dynamic from no-property to property,
+once we have a system that creates benefit of internalising that’s
+higher than the cost of excluding people of the benefit. (In the
+second system, the State gets all the benefit).
+
+This thinking in terms of property theory is nonsense to me, just
+like saying the patent fees are akin to property tax. What’s the
+connection exactly? Is anything the State is creating a tax for to
+be understood in terms of a property logic? Then, I’ll say that
+the patent fees are like the tax on cigarettes. Just like taxing
+cigarettes try to discourage people from smoking, the patent fees
+try to discourage the patent holders from keeping on their patents
+too long instead of unleashing the benefits of the invention to
+everyone.
+
+That’s absurd, just as absurd as  Demsetz’s theory of thinking as
+military drafting in terms of property. Who’s owning what exactly?
+When I was trying to answer that question while reading Demsetz,
+my conclusion was that Demsetz thought of a property right in
+owning oneself. But you don’t “own yourself” in the sense that
+most people give meaning to the verb owning. You are free to do
+things, you are responsible for your actions. 
+
+There’s some kind of confusion between having the freedom to do
+something that impacts other people, and having a right of
+property on something. It’s usually much more helpful to think in
+terms of rights and freedoms in general and try to think what’s
+the subject/object of a “right”. [[!toggle  id="kant-rechts" text="[+]"]]
+
+[[!toggleable  id="kant-rechts" text="""
+If you don’t know what I mean here, because this is just a blog
+post and I’m not thinking it through, I’m trying to draw from the
+distinction made by Kant between personal rights and “real rights”
+(I’m not even sure this is how it’s translated in English).
+[[!toggle id="kant-rechts" text="[hide]"]]"""]]
+
+This is to me the original flaw that’s also inherent to thinking
+of patent fees akin to property tax; it’s a confusion between the
+object of a right (an invention, a house) and the right itself
+(your patent right, your property right). Thinking of patent law
+in terms of property brings confusion.
+
+[[!meta title="Patent fees are not like property tax"]]
+[[!tag lang:en patent law nonsense]]
