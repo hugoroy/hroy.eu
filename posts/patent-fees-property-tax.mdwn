@@ -107,9 +107,9 @@ distinction made by Kant between personal rights and “real rights”
 
 This is to me the original flaw that’s also inherent to thinking
 of patent fees akin to property tax; not acknowledgeing the
-fundamental difference between the objects of a right (an
-patentable invention, a house) for which there are rights as such
-(your patent, your property right). 
+fundamental difference between the objects of a right (a
+*patentable* invention, a house) for which there are rights as such
+(a patent, a property right). 
 
 Thinking of patent law in terms of property brings confusion.
 
