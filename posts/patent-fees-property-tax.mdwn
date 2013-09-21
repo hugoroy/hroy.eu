@@ -1,3 +1,5 @@
+## Thinking of patents as property?
+
 There’s a constant debate when it comes to patents and copyright
 laws. Do they fit in a general category of property rights? Are
 they like property at all? [[!toggle  id="rms-cr" text="[+]"]]
@@ -73,6 +75,8 @@ author, there’s a kind of dynamic from no-property to property,
 once we have a system that creates benefit of internalising that’s
 higher than the cost of excluding people of the benefit. (In the
 second system, the State gets all the benefit).
+
+## Property and rights
 
 This thinking in terms of property theory is nonsense to me, just
 like saying the patent fees are akin to property tax. What’s the
