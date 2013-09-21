@@ -966,7 +966,7 @@ footer{font-size:.9em}
 body{font-size:14px}
 .inlinepage{overflow-y:hidden}
 article.inlinepage{border:0;margin:.7em 0 7em 0}
-.sidebar{padding:0 2ex;min-width:190px}
+.sidebar{padding:0 2ex;min-width:150px}
 .pageheader{background:transparent;border:0}
 .pageheader .header{width:100%}
 .header .title{display:inline-block}
@@ -975,7 +975,8 @@ article.inlinepage{border:0;margin:.7em 0 7em 0}
 #pageinfo{border-color:#ccc;padding:0 1em}
 .inlinepage h1,.inlinepage h2,.inlinepage h3,.inlinepage h4,.inlinepage h5,.inlinepage h6{font-family:"Roboto",Roboto,"Open Sans","OpenSans","DejaVu Sans",sans-serif}
 .feedbutton{font-family:"Roboto",Roboto,"Open Sans","OpenSans","DejaVu Sans",sans-serif;margin-top:.5em}
-[id^="fnref:"].footnote,[id*=" fnref:"].footnote{vertical-align:super;font-size:.8em;line-height:.7em}
+.feedlink.pull-right{float:none !important}
+@media (min-width:700px){float:right !important}[id^="fnref:"].footnote,[id*=" fnref:"].footnote{vertical-align:super;font-size:.8em;line-height:.7em}
 .footnotes li p{font-size:1em}
 #ma-tete{display:block;margin:1em auto}
 .pageheader .header{background:url(/background.jpg) 50% bottom #333;color:#fff;text-shadow:0 0 .2em #000;text-align:center;padding:1em}.pageheader .header .title{display:block}
