@@ -1,2 +1,2 @@
 @import "../local.css";
-.pagedate .relativedate:first-child{display:block !important}
+.pagedate .relativedate:first-child{display:inline-block !important}
