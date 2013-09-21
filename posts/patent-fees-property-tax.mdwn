@@ -111,6 +111,11 @@ fundamental difference between the objects of a right (a
 *patentable* invention, a house) for which there are rights as such
 (a patent, a property right). 
 
+The patent fees do not serve the same purpose as the property tax.
+The first one is a reminder that patents are privileges
+granted by the State in exchange for everyone else's freedom to
+use the invention.
+
 Thinking of patent law in terms of property brings confusion.
 
 [[!meta title="Patent fees are not like property tax"]]
