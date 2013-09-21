@@ -982,6 +982,6 @@ article.inlinepage{border:0;margin:.7em 0 7em 0}
 .footnotes li p{font-size:1em}
 #content .toggleable{margin-left:1.5em}
 #ma-tete{display:block;margin:1em auto}
-.pageheader .header{background:url(/background.jpg) 50% bottom #333;color:#fff;text-shadow:0 0 .2em #000;text-align:center;padding:1em}.pageheader .header .title{display:block}
+.pageheader .header{background:url(/background.jpg) 50% 66% #333;color:#fff;text-shadow:0 0 .2em #000;text-align:center;padding:1em}.pageheader .header .title{display:block}
 @media (min-width:700px){.pageheader .header{position:fixed;width:220px;left:0;top:0;bottom:0;padding:1em 0 0 0}}@media (min-width:1300px){.pageheader .header{width:280px}}@media (min-width:1500px){.pageheader .header{width:400px}}#searchform{opacity:.7}
 .pageheader .parentlinks a{text-shadow:0 0 .2em #000}
