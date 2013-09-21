@@ -972,6 +972,7 @@ article.inlinepage{border:0;margin:.7em 0 7em 0}
 .header .title{display:inline-block}
 .pageheader .actions{top:0;height:1px;font-size:80%}.pageheader .actions ul li{border:0;background:transparent}.pageheader .actions ul li a{color:transparent}
 .pageheader .actions:hover{height:14px}.pageheader .actions:hover ul li a{color:#333}
+.pageheader .trails{display:none}
 #pagebody{padding:0 1em}
 .pagedate.published{display:none}
 #pageinfo{border-color:#ccc;padding:0 1em}
