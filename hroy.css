@@ -980,3 +980,4 @@ article.inlinepage{border:0;margin:.7em 0 7em 0}
 .feedlink.pull-right{float:none !important}
 @media (min-width:700px){.feedlink.pull-right{float:right !important}}[id^="fnref:"].footnote,[id*=" fnref:"].footnote{vertical-align:super;font-size:.8em;line-height:.7em}
 .footnotes li p{font-size:1em}
+#content .toggleable{margin-left:1.5em}
