@@ -6,10 +6,8 @@ and elsewhere.
 <small>If you’re not interested in exhaustivity but rather in
 hand-made curating, you might want to subscribe to [this rss
 feed](http://hugoroy.eu/feed.rss) instead, or go to
-<http://hugoroy.eu/#blog>.</small>
-
-<small>If all this is TL;DR for you, I’ve got [[tweets and
-dents|tweets]].</small>
+<http://hugoroy.eu/#blog>. If all this is TL;DR for you, I’ve got
+[[tweets and dents|tweets]].</small>
 
 - My posts from here: [[!aggregate name="posts" dir="planet"
   feedurl="http://hroy.eu/index.rss" url="http://hroy.eu"]]
