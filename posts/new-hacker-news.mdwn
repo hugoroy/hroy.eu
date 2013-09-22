@@ -1,0 +1,51 @@
+I stumbled upon a Wired article [on Hacker
+News](https://news.ycombinator.com/item?id=6417084) this morning,
+explaining how bitcoin could help homeless people:
+
+> The bitcoin system could become an equalizer for the country’s
+> homeless, a place where the stigma of living on the streets
+> isn’t as pronounced.
+
+The article shows three persons sitting on the floor with dogs and
+laptops.
+
+I started reading Morozov’s [“To Save everything Click
+Here”](http://clickherethebook.com/) and I thought it was kind of
+sad that this article wasn’t published *before* the book was
+released. I’m sure Morozov would have had some brilliant way to
+depict how insanely absurd this is. [[!toggle  id="save-everything" text="[+]"]]
+
+[[!toggleable  id="save-everything" text="""
+I had to stop reading it when I really had to focus on the bar
+written exams which was this week. So far, I liked it a lot and I
+really recommend it. I suppose I’ll write a short review soon.
+[[!toggle id="save-everything" text="[hide]"]]"""]]
+
+The article as featured on Hacker News. I find this website less
+and less interesting. It has its own cycles. For some time, I
+think the website should really have been renamed “Startup News.”
+But now, I don’t even think that’s what it is any more. I can’t
+really tell. 
+
+Needless to say, I feel that I really lost interest in it.
+I started enjoying RSS again when I discovered
+Feedbin.me (which was recently published as free software ☺ [on
+github](https://github.com/feedbin/feedbin)) but this is a very
+different kind of source for reading than communities like hacker
+news can be. 
+
+So I feel like somebody should start a replacement for hacker
+news. Maybe something more focused on actual hackery. Why not
+something else more focused on political and technological
+discussions, on software freedom and larger subjects related to
+technology and freedom (which are both at the centre of what
+hacking means to me).
+
+I had a look at Lamer News, a hacker news clone based on ruby
+using redis for handling data. I tried deploying it to heroku but
+it didn’t work for me ☹. I will investigate this later. If you’re
+interested, please [get in
+touch](http://hugoroy.eu/index.en.html#email).
+
+[[!meta title="We need another Hacker News"]]
+[[!tag lang:en news technology nonsense]]
