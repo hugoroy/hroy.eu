@@ -29,6 +29,9 @@ dents|tweets]].</small>
 - My slideshows: [[!aggregate name="speakerdeck" dir="planet"
   feedurl="http://speakerdeck.com/hugo.atom"
   url="http://speakerdeck.com/hugo"]]
+- My videos: [[!aggregate name="youtube" dir="planet"
+  feedurl="http://gdata.youtube.com/feeds/base/users/HugoJRoy/uploads?alt=rss&v=2&orderby=published&client=ytapi-youtube-profile"
+  url="http://www.youtube.com/user/HugoJRoy"]]
 
 
 [[!inline pages="internal(planet/*) and !*/Discussion" show=100]]
