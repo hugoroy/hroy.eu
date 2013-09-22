@@ -47,5 +47,14 @@ it didn’t work for me ☹. I will investigate this later. If you’re
 interested, please [get in
 touch](http://hugoroy.eu/index.en.html#email).
 
+PS: In case you didn’t know, there’s a way to get the best out of
+Hacker News. First, go to your profile settings and enable the
+noprocrast option which prevents you from procrastinating too much
+(the feature is explained in the FAQ). Second, change your
+bookmark and go read the best: <https://news.ycombinator.com/best>
+and eventually leave the rest. (The fact that the “best” of HN is
+so bad these days is a sign that the overall quality has really
+degraded IMHO).
+
 [[!meta title="We need another Hacker News"]]
 [[!tag lang:en news technology nonsense]]
