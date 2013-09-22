@@ -1,0 +1,4 @@
+[[!meta title="pages tagged technology"]]
+
+[[!inline pages="tagged(technology)" actions="no" archive="yes"
+feedshow=10]]
