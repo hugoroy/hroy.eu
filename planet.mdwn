@@ -1,0 +1,33 @@
+[[!meta title="& elsewhere"]]
+
+I’m trying to gather on this page all the posts I publish here
+and elsewhere.
+
+<small>If you’re not interested in exhaustivity but rather in
+hand-made curating, you might want to subscribe to [this rss
+feed](http://hugoroy.eu/feed.rss) instead, or go to
+<http://hugoroy.eu/#blog>.</small>
+
+<small>If all this is TL;DR for you, I’ve got [[tweets and
+dents|tweets]].</small>
+
+- My posts: [[!aggregate name="posts" dir="planet"
+  feedurl="http://hroy.eu/index.rss" url="http://hroy.eu"]]
+- My tips: [[!aggregate name="tips" dir="planet"
+  feedurl="http://hroy.eu/tips/index.rss"
+  url="http://hroy.eu/tips"]]
+- My FSFE blog: [[!aggregate name="fsfe" dir="planet"
+  feedurl="http://blogs.fsfe.org/hugo/feed/"
+  url="http://blogs.fsfe.org/hugo/"]]
+- My previous blog: [[!aggregate name="blog.hugoroy.eu"
+  dir="planet" feedurl="http://blog.hugoroy.eu/feed/"
+  url="http://blog.hugoroy.eu/"]]
+- My pictures: [[!aggregate name="flickr" dir="planet"
+  feedurl="http://www.flickr.com/services/feeds/photos_public.gne?id=91392976@N05&format=rss_200"
+  url="http://www.flickr.com/photos/hugoroyd"]]
+- My slideshows: [[!aggregate name="speakerdeck" dir="planet"
+  feedurl="http://speakerdeck.com/hugo.atom"
+  url="http://speakerdeck.com/hugo"]]
+
+
+[[!inline pages="internal(planet/*) and !*/Discussion" show=100]]
