@@ -11,12 +11,13 @@ feed](http://hugoroy.eu/feed.rss) instead, or go to
 <small>If all this is TL;DR for you, I’ve got [[tweets and
 dents|tweets]].</small>
 
-- My posts: [[!aggregate name="posts" dir="planet"
+- My posts from here: [[!aggregate name="posts" dir="planet"
   feedurl="http://hroy.eu/index.rss" url="http://hroy.eu"]]
-- My tips: [[!aggregate name="tips" dir="planet"
+- My tips from here: [[!aggregate name="tips" dir="planet"
   feedurl="http://hroy.eu/tips/index.rss"
   url="http://hroy.eu/tips"]]
-- My FSFE blog: [[!aggregate name="fsfe" dir="planet"
+- My blog at the Free Software Foundation Europe: [[!aggregate
+  name="fsfe" dir="planet"
   feedurl="http://blogs.fsfe.org/hugo/feed/"
   url="http://blogs.fsfe.org/hugo/"]]
 - My previous blog: [[!aggregate name="blog.hugoroy.eu"
