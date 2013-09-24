@@ -1,0 +1,4 @@
+[[!meta title="Archiving email from Maildir"]]
+[[!tag email]]
+
+![Screenshot of offlineimap](Capture du 2013-09-24 12:49:30.png)
