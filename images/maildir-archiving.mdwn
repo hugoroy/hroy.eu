@@ -1,6 +1,7 @@
 [[!meta title="Archiving email from Maildir"]]
 [[!tag email]]
-
-![Screenshot of offlineimap](Capture_du_2013-09-24_12:49:30.png)
-
+<!--![Screenshot of
+offlineimap](Capture_du_2013-09-24_12:49:30.png)-->
+<div>
 [[!img Capture_du 2013-09-24_12:49:30.png alt="Screenshot of offlineimap"]]
+</div>
