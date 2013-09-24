@@ -4,7 +4,6 @@
 <!--![Screenshot of
 offlineimap](Capture_du_2013-09-24_12:49:30.png)-->
 
-[[!img Capture_du 2013-09-24_12:49:30.png alt="Screenshot of
-offlineimap"]]
+[[!img Capture_du 2013-09-24_12:49:30.png alt="Screenshot of offlineimap"]]
 
 <span class="caption">Screenshot of offlineimap</span>
