@@ -13,7 +13,7 @@ I started reading Morozov’s [“To Save everything Click
 Here”](http://clickherethebook.com/) and I thought it was kind of
 sad that this article wasn’t published *before* the book was
 released. I’m sure Morozov would have had some brilliant way to
-depict how insanely absurd this is. [[!toggle  id="save-everything" text="[+]"]]
+depict how insanely absurd this is.[^1] [[!toggle  id="save-everything" text="[+]"]]
 
 [[!toggleable  id="save-everything" text="""
 I had to stop reading it when I really had to focus on the bar
@@ -58,3 +58,12 @@ degraded IMHO).
 
 [[!meta title="We need another Hacker News"]]
 [[!tag lang:en news technology nonsense]]
+
+[^1]: <blockquote class="twitter-tweet"><p>I&#39;ve suspected this
+all along: Bitcoin is just an underground government welfare
+program for the homeless.</p>&mdash; Evgeny Morozov
+(@evgenymorozov) <a
+href="https://twitter.com/evgenymorozov/statuses/382164506534608896">September
+23, 2013</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js"
+charset="utf-8"></script>
