@@ -1,0 +1,3 @@
+[[!meta title="Posts to the FSFE planet"]]
+
+[[!inline pages="(tagged(fsfe) or tagged(free_software) or tagged(technology) or tagged(patent) or page(tips/*)) and tagged(lang:en) and !*/Discussion" actions="no" archive="yes" feedshow=10]]
