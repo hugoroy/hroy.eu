@@ -6,7 +6,7 @@ try to write something in more than 140 characters.
 [Matthias](https://fsfe.org/about/kirschner/kirschner.html) showed
 me a nice firefox extension: [“it's all
 text”](https://addons.mozilla.org/en-US/firefox/addon/its-all-text/)
-(you can also install it from debian repos). For each text boxes,
+(you can also install it from debian repos). For each text box,
 you just click a small “edit” button and it will fire up vim[^1] and
 let you edit the text there, then send it back to the web
 interface.
