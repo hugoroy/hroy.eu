@@ -1,0 +1,18 @@
+When you get used to a text editor that you like, you start to
+get annoyed by all the times you have to enter some text and
+you're using a shitty editor. This is so true on the web when you
+try to write something in more than 140 characters.
+
+[Matthias](https://fsfe.org/about/kirschner/kirschner.html) showed
+me a nice firefox extension: [“it's all
+text”](https://addons.mozilla.org/en-US/firefox/addon/its-all-text/)
+(you can also install it from debian repos). For each text boxes,
+you just click a small “edit” button and it will fire up vim[^1] and
+let you edit the text there, then send it back to the web
+interface.
+
+[^1]: Actually, I had to configure it to start GVim instead of
+vim. I suppose there's a way to launch a terminal and then vim…
+
+[[!meta title="It’s all text!"]]
+[[!tag lang:en firefox vim]]
