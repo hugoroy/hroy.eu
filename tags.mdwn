@@ -3,4 +3,4 @@
 On the right you can see the tag cloud for this blog. Below is a
 tag cloud for [my bookmarks](https://pinboard.in/u:hugoroy)
 
-<script language="javascript" src="http://pinboard.in/badge?user=hugoroy&num=999&color=040069998999-040069993000&size=12-30"></script>
+<script language="javascript" src="https://pinboard.in/badge?user=hugoroy&num=999&color=040069998999-040069993000&size=12-30"></script>
