@@ -965,7 +965,7 @@ footer{font-size:.9em}
 .feed-link{font-variant:small-caps;text-transform:lowercase}
 body{font-size:14px}
 .inlinepage{overflow-y:hidden}
-article.inlinepage{border:0;margin:.7em 0 7em 0}
+article.inlinepage{border:0;margin:1em 0 10em 0}
 .sidebar{padding:0 2ex;min-width:150px}
 .pageheader{background:transparent;border:0}
 .pageheader .header{width:100%}
