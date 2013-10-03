@@ -1,0 +1,44 @@
+[[!meta title="Coming back from the first FSFE Coordinators
+Meeting]]
+[[!tag fsfe lang:en]]
+
+[[!img 2013-09-ECM-group-picture.JPG caption="Some of the 22
+FSFE coordinators and Karsten" alt="group picture"
+link="/images/fsfe_ecm-group_pic/" size="200x200"]]
+
+Last week, I left Paris for the [first ever FSFE coordinators
+meeting](https://blogs.fsfe.org/lucile.falg/2013/10/01/first-european-coordinators-meeting-2/
+"Short blog post from Lucile"). So-called “coordinators” who came
+to this meeting are FSFE activists, usually volunteers, organising
+activities and campaigns with other FSFE fellows and free software
+activists in their local area. They also usually hold FSFE
+fellowship meetings to prepare such activities, discuss Free
+Software, attend and organise talks, etc. Some of these groups
+were started around 2005 when the Free Software Foundation Europe
+launched the Fellowship programme, which is the primary way free
+software activists can identify with the FSFE and support it work. 
+
+(BTW, there's now a very simple way to show us your support, and
+that's to sign-up as a supporter: <https://fsfe.org/support>.)
+
+As [former fellowship
+representative](https://wiki.fsfe.org/election11), I attended 2
+[General Assemblies](https://fsfe.org/about/members.html) for
+FSFE, and thus had the chance to visit 2 European cities I've
+never been to, and connect to free software users and developers
+in the area of Ljubljana and Lisbon (in 2 weeks, it will be
+Vienna!)
+
+However, I've expressed on these occasions that there should be
+other face-to-face meetings within the FSFE, because they're
+important for our personal relations and they're
+motivations-booster. Aside from that, the meetings themselves can
+also be very productive.
+
+So the mere fact that this first FSFE coordinators meeting has
+happened is already great, and I'm sure looking forward to the
+next one! I think we should take the chance that most of us will
+be at FOSDEM, as usual, to organise something in addition to
+FOSDEM (like one day before).
+
+Thanks for everyone who joined!
