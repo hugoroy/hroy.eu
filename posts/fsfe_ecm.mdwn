@@ -2,9 +2,11 @@
 Meeting"]]
 [[!tag fsfe lang:en]]
 
+<aside class="pull-right">
 [[!img /images/fsfe_ecm-group_pic/2013-09-ECM-group-picture.JPG caption="Some of the 22
 FSFE coordinators and Karsten" alt="group picture"
 link="/images/fsfe_ecm-group_pic/" size="200x200"]]
+</aside>
 
 Last week, I left Paris for the [first ever FSFE coordinators
 meeting](https://blogs.fsfe.org/lucile.falg/2013/10/01/first-european-coordinators-meeting-2/). So-called “coordinators” who came
@@ -31,7 +33,7 @@ Vienna!)
 However, I've expressed on these occasions that there should be
 other face-to-face meetings within the FSFE, because they're
 important for our personal relations and they're
-motivations-booster. Aside from that, the meetings themselves can
+motivation-boosters. Aside from that, the meetings themselves can
 also be very productive.
 
 So the mere fact that this first FSFE coordinators meeting has
@@ -40,4 +42,4 @@ next one! I think we should take the chance that most of us will
 be at FOSDEM, as usual, to organise something in addition to
 FOSDEM (like one day before).
 
-Thanks for everyone who joined!
+Thanks to everyone who joined!
