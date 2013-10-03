@@ -2,7 +2,7 @@
 Meeting"]]
 [[!tag fsfe lang:en]]
 
-[[!img /images/2013-09-ECM-group-picture.JPG caption="Some of the 22
+[[!img /images/fsfe_ecm-group_pic/2013-09-ECM-group-picture.JPG caption="Some of the 22
 FSFE coordinators and Karsten" alt="group picture"
 link="/images/fsfe_ecm-group_pic/" size="200x200"]]
 
