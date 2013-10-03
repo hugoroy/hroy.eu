@@ -1,0 +1,4 @@
+[[!meta title="pages tagged fsfe"]]
+
+[[!inline pages="tagged(fsfe)" actions="no" archive="yes"
+feedshow=10]]
