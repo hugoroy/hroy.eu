@@ -3,5 +3,5 @@ Meeting Pictures"]]
 [[!tag fsfe]]
 
 [[!img 2013-09-ECM-group-picture.JPG caption="Group Picture on Friday
-morning IIRC" alt="group picture" size="100%x100%"]]
+morning IIRC" alt="group picture"]]
 
