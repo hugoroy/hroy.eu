@@ -15,11 +15,15 @@ activists, usually volunteers, organising activities and campaigns
 with other FSFE fellows and free software activists in their local
 area. They also usually hold FSFE fellowship meetings to prepare
 such activities, discuss Free Software, attend and organise talks,
-etc. These coordinators are amongst the most important volunteers
+etc.[^meanwhile] These coordinators are amongst the most important volunteers
 within FSFE. Some of the groups they coordinate were started
 around 2005 when the Free Software Foundation Europe launched the
 Fellowship programme, which is the primary way free software
 activists can identify with the FSFE and support it work. 
+
+[^meanwhile]: Meanwhile in Vienna, Fellows of the FSFE had a booth
+at the city hall for the Game City Fair. [Check it
+out!](http://blogs.fsfe.org/franz.gratzer/2013/10/03/fsfe-booth-on-game-city-fair-2013-in-vienna/)
 
 (BTW, there's now a very simple way to show us your support, and
 that's to sign-up as a supporter: <https://fsfe.org/support>.)
