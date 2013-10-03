@@ -9,15 +9,16 @@ link="/images/fsfe_ecm-group_pic/" size="200x200"]]
 </aside>
 
 Last week, I left Paris for the [first ever FSFE coordinators
-meeting](https://blogs.fsfe.org/lucile.falg/2013/10/01/first-european-coordinators-meeting-2/). So-called “coordinators” who came
-to this meeting are FSFE activists, usually volunteers, organising
-activities and campaigns with other FSFE fellows and free software
-activists in their local area. They also usually hold FSFE
-fellowship meetings to prepare such activities, discuss Free
-Software, attend and organise talks, etc. Some of these groups
-were started around 2005 when the Free Software Foundation Europe
-launched the Fellowship programme, which is the primary way free
-software activists can identify with the FSFE and support it work. 
+meeting](https://blogs.fsfe.org/lucile.falg/2013/10/01/first-european-coordinators-meeting-2/).
+So-called “coordinators” who came to this meeting are FSFE
+activists, usually volunteers, organising activities and campaigns
+with other FSFE fellows and free software activists in their local
+area. They also usually hold FSFE fellowship meetings to prepare
+such activities, discuss Free Software, attend and organise talks,
+etc. Some of these groups were started around 2005 when the Free
+Software Foundation Europe launched the Fellowship programme,
+which is the primary way free software activists can identify with
+the FSFE and support it work. 
 
 (BTW, there's now a very simple way to show us your support, and
 that's to sign-up as a supporter: <https://fsfe.org/support>.)
