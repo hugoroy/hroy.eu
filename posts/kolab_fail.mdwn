@@ -49,4 +49,4 @@ get…
 
 Yes. Quite annoying.
 
-[[!tag kolab self-hosting bug]]
+[[!tag kolab self-hosting free_software bug lang:en]]
