@@ -1,0 +1,52 @@
+Grr. I just spent some minutes setting up a new debian machine to
+serve as a new personal and self hosted server. So I started with
+trying out kolab.
+
+I followed the instructions in the official doc and then run 
+
+    setup-kolab
+
+Unfortunately, it didn't work. When accessing the Kolab web admin
+interface, I had no way to add users. Then I figured out that I
+could not connect as root to mysql even though I had just set up a
+root account for mysql during the setup-kolab process. After
+trying out with the former mysql password, I discovered the
+database was there properly. But still, the Kolab web admin
+wouldn’t let me add users as if there was a problem and indeed
+the Roundcube panel was giving a nice 
+
+> DATABASE ERROR: CONNECTION FAILED!
+
+At this point I thought I could try running setup-kolab again to
+see what could get wrong. I can't even get to the end of it, now I
+get…
+
+    Kolab Service password []: 
+    Traceback (most recent call last):
+      File "/usr/sbin/setup-kolab", line 42, in <module>
+        setup.run()
+      File "/usr/lib/python2.7/dist-packages/pykolab/setup/__init__.py", line 43, in run
+        components.execute('_'.join(to_execute))
+      File "/usr/lib/python2.7/dist-packages/pykolab/setup/components.py", line 170, in execute
+        execute(component)
+      File "/usr/lib/python2.7/dist-packages/pykolab/setup/components.py", line 202, in execute
+        components[component_name]['function'](conf.cli_args, kw)
+      File "/usr/lib/python2.7/dist-packages/pykolab/setup/setup_ldap.py", line 405, in execute
+        auth._auth.ldap.add_s(dn, ldif)
+      File "/usr/lib/python2.7/dist-packages/ldap/ldapobject.py", line 195, in add_s
+        return self.result(msgid,all=1,timeout=self.timeout)
+      File "/usr/lib/python2.7/dist-packages/ldap/ldapobject.py", line 458, in result
+        resp_type, resp_data, resp_msgid = self.result2(msgid,all,timeout)
+      File "/usr/lib/python2.7/dist-packages/ldap/ldapobject.py", line 462, in result2
+        resp_type, resp_data, resp_msgid, resp_ctrls = self.result3(msgid,all,timeout)
+      File "/usr/lib/python2.7/dist-packages/ldap/ldapobject.py", line 469, in result3
+        resp_ctrl_classes=resp_ctrl_classes
+      File "/usr/lib/python2.7/dist-packages/ldap/ldapobject.py", line 476, in result4
+        ldap_result = self._ldap_call(self._l.result4,msgid,all,timeout,add_ctrls,add_intermediates,add_extop)
+      File "/usr/lib/python2.7/dist-packages/ldap/ldapobject.py", line 99, in _ldap_call
+        result = func(*args,**kwargs)
+    ldap.INAPPROPRIATE_AUTH: {'info': 'Anonymous access is not allowed.', 'desc': 'Inappropriate authentication'}
+
+Yes. Quite annoying.
+
+[[!tag kolab self-hosting bug]]
