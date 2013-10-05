@@ -2,7 +2,8 @@ Grr. I just spent some minutes setting up a new debian machine to
 serve as a new personal and self hosted server. So I started with
 trying out kolab.
 
-I followed the instructions in the official doc and then run 
+I followed the instructions in [the official
+doc](http://docs.kolab.org/fr-FR/Kolab_Groupware/3.0/html/Community_Installation_Guide/chap-Community_Installation_Guide-Configuration.html) and then run 
 
     setup-kolab
 
@@ -50,3 +51,4 @@ get…
 Yes. Quite annoying.
 
 [[!tag kolab self-hosting free_software bug lang:en]]
+[[!meta title="Installing kolab, part 1"]]
