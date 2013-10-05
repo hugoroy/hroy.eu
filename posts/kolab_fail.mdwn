@@ -1,4 +1,4 @@
-Grr. I just spent some minutes setting up a new debian machine to
+Grr. I just spent some time setting up a new debian machine to
 serve as a new personal and self hosted server. So I started with
 trying out kolab.
 
