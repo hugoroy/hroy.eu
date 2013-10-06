@@ -1,0 +1,12 @@
+So the problem related to a former installation of "sldap". So
+now I purged everything and tried running setup-kolab again. It
+seems now to be fine. Except that I can't send emails, getting
+SMTP error 454 in roundcube.
+
+But again, I found it was incredibly hard to set up kolab for
+self-hosting amateurs. On the one hand, I wished they could get
+some inspiration from [YunoHost](http://yunohost.org/), on the
+other hand, Kolab has been there for so long that it's very
+professional.
+
+Let’s see how it goes…
