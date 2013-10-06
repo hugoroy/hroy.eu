@@ -9,17 +9,27 @@ explaining how bitcoin could help homeless people:
 The article shows three persons sitting on the floor with dogs and
 laptops.
 
-I started reading Morozov’s [“To Save everything Click
-Here”](http://clickherethebook.com/) and I thought it was kind of
-sad that this article wasn’t published *before* the book was
-released. I’m sure Morozov would have had some brilliant way to
-depict how insanely absurd this is.[^1] [[!toggle  id="save-everything" text="[+]"]]
+[[!toggle id="save-everything" text="<i
+class="icon-sort-down"></i>"]] I started reading Morozov’s [“To
+Save everything Click Here”](http://clickherethebook.com/) and I
+thought it was kind of sad that this article wasn’t published
+*before* the book was released. I’m sure Morozov would have had
+some brilliant way to depict how insanely absurd this is.[^1] 
 
 [[!toggleable  id="save-everything" text="""
+<blockquote class="twitter-tweet"><p>I&#39;ve suspected this
+all along: Bitcoin is just an underground government welfare
+program for the homeless.</p>&mdash; Evgeny Morozov
+(@evgenymorozov) <a
+href="https://twitter.com/evgenymorozov/statuses/382164506534608896">September
+23, 2013</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js"
+charset="utf-8"></script>
+
 I had to stop reading it when I really had to focus on the bar
 written exams which was this week. So far, I liked it a lot and I
 really recommend it. I suppose I’ll write a short review soon.
-[[!toggle id="save-everything" text="[hide]"]]"""]]
+"""]]
 
 The article as featured on Hacker News. I find this website less
 and less interesting. It has its own cycles. For some time, I
@@ -59,11 +69,3 @@ degraded IMHO).
 [[!meta title="We need another Hacker News"]]
 [[!tag lang:en news technology nonsense]]
 
-[^1]: <blockquote class="twitter-tweet"><p>I&#39;ve suspected this
-all along: Bitcoin is just an underground government welfare
-program for the homeless.</p>&mdash; Evgeny Morozov
-(@evgenymorozov) <a
-href="https://twitter.com/evgenymorozov/statuses/382164506534608896">September
-23, 2013</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js"
-charset="utf-8"></script>
