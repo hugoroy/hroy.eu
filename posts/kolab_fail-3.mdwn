@@ -10,3 +10,6 @@ other hand, Kolab has been there for so long that it's very
 professional.
 
 Let’s see how it goes…
+
+[[!tag kolab free_software bug lang:en]]
+[[!meta title="Installing kolab, part 3"]]
