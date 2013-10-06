@@ -10,7 +10,7 @@ The article shows three persons sitting on the floor with dogs and
 laptops.
 
 <i class="icon-sort-down">
-[[!toggle id="save-everything" text=""]]
+[[!toggle id="save-everything" text=" "]]
 </i>
 I started reading Morozov’s [“To Save everything Click
 Here”](http://clickherethebook.com/) and I thought it was kind of
@@ -34,7 +34,7 @@ written exams which was this week. So far, I liked it a lot and I
 really recommend it. I suppose I’ll write a short review soon.
 """]]
 
-The article as featured on Hacker News. I find this website less
+The article was featured on Hacker News. I find this website less
 and less interesting. It has its own cycles. For some time, I
 think the website should really have been renamed “Startup News.”
 But now, I don’t even think that’s what it is any more. I can’t
