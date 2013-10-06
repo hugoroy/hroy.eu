@@ -9,7 +9,7 @@ explaining how bitcoin could help homeless people:
 The article shows three persons sitting on the floor with dogs and
 laptops.
 
-[[!toggle id="save-everything" text="<i class="icon-sort-down"></i>"]] 
+[[!toggle id="save-everything" text="<i class=\"icon-sort-down\">+</i>"]] 
 I started reading Morozov’s [“To Save everything Click
 Here”](http://clickherethebook.com/) and I thought it was kind of
 sad that this article wasn’t published *before* the book was
