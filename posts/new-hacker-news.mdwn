@@ -10,7 +10,7 @@ The article shows three persons sitting on the floor with dogs and
 laptops.
 
 <i class="icon-sort-down">
-[[!toggle id="save-everything" text="+"]]
+[[!toggle id="save-everything" text=""]]
 </i>
 I started reading Morozov’s [“To Save everything Click
 Here”](http://clickherethebook.com/) and I thought it was kind of
@@ -19,6 +19,7 @@ released. I’m sure Morozov would have had some brilliant way to
 depict how insanely absurd this is. 
 
 [[!toggleable  id="save-everything" text="""
+
 <blockquote class="twitter-tweet"><p>I&#39;ve suspected this
 all along: Bitcoin is just an underground government welfare
 program for the homeless.</p>&mdash; Evgeny Morozov
