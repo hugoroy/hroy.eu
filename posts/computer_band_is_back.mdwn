@@ -16,7 +16,7 @@ partout de toute façon…)
 <aside class="pull-right">
 [[!img jackson_2005_pub_001.jpg
 caption="Jackson, 2005, Warp.net" alt="photo of Jackson sitting on
-a bed" size="240x165"]]
+a bed" link="http://warp.net/records/jackson-and-his-computerband" size="240x165"]]
 </aside>
 
 Sauf que le fameux Jackson, là, difficile de pouvoir le suivre. En
@@ -26,7 +26,7 @@ concert de Warp à Paris. Je me souviens avoir trouvé un
 enregistrement de ses mix sur YouTube et de m'être demandé ce que
 c'était que ce truc un peu naze…
 
-Sauf que le deuxième album est [sorti le mois
+Le deuxième album est [sorti le mois
 dernier](http://jacksonandhiscomputerband.tv/),
 et qu'il est franchement bon, très différent du premier, pas du
 tout aussi détraqué, mais comme un peu fou et toujours une bonne
