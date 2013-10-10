@@ -14,7 +14,7 @@ partout de toute façon…)
 [Lumpy Gravy]: http://globalia.net/donlope/fz/lyrics/Lumpy_Gravy.html
 
 <aside class="pull-right">
-[[!img http://media.warp.net/images/jackson_2005_pub_001.jpg
+[[!img jackson_2005_pub_001.jpg
 caption="Jackson, 2005, Warp.net" alt="photo of Jackson sitting on
 a bed" size="360x247"]]
 </aside>
