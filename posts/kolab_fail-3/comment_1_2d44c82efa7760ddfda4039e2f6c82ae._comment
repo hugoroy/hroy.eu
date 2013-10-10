@@ -1,0 +1,14 @@
+[[!comment format=mdwn
+ ip="84.215.146.252"
+ claimedauthor="Paul Boddie"
+ subject="My experiences"
+ date="2013-10-06T23:55:47Z"
+ content="""
+I also had problems with setup-kolab, and the suggestion was made that I should try a completely \"fresh\" installation of Debian to avoid contention with existing services. When I did that, the setup seemed to more or less work. My conclusion was that setup-kolab could be a bit more fault-tolerant and aware of existing (potentially compatible or incompatible) services.
+
+I wrote about my experiences here:
+
+<http://blogs.fsfe.org/pboddie/?p=228>
+
+Generally, you have to watch the Kolab logs to see if some component is repeatedly failing. In my case, the IMAP server needed resetting to stop such failures and for things to work.
+"""]]
