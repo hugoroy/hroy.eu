@@ -1,0 +1,4 @@
+Here are some configs that I did for my home servers.
+
+[[!inline pages="page(./configs/*) and !*/Discussion" archive=yes
+feedshow=10 quick=yes trail=yes feeds=yes]]
