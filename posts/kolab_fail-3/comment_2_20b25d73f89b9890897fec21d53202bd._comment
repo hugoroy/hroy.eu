@@ -1,0 +1,9 @@
+[[!comment format=mdwn
+ username="hugo"
+ ip="82.66.209.187"
+ subject="SMTP Issues"
+ date="2013-10-10T21:03:11Z"
+ content="""
+Yes, it needs to be on a fresh debian (in my case, wheezy). But it’s not enough to get it to work it seems. I’m now having issues with SMTP (error 454, authentication problem). Anyway the current documentation is incomplete and I’ve read they’re moving it to another, simpler system. I hope it will improve things!
+
+"""]]
