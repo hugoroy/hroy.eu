@@ -1,9 +1,11 @@
 [[!meta title="Setting up Firefox Sync"]]
 [[!tag lang:en firefox free_software self-hosting]] 
 
-Sync enables to have Firefox on several devices and to sync
+[Sync][Firefox Sync] enables to have Firefox on several devices and to sync
 bookmarks, passwords, history, and other browser data between
 them.
+
+[Firefox Sync]: https://en.wikipedia.org/wiki/Firefox_Sync
 
 By default, Firefox Sync will use Mozilla's servers. (Hence, you
 have to agree to their Privacy Policy and to their Terms, I hope
@@ -14,7 +16,7 @@ Software. But on the one hand, there's definitely something
 troubling with sending very private data such as browsing history
 over the internet.  Fortunately, Sync encrypts locally before
 uploading data and I hope they’re up to the Free Software
-standards of crypto. 
+standards of [crypto](https://wiki.mozilla.org/Labs/Weave/Crypto). 
 
 On the other hand, centralisation is often a problem (don't put
 all your eggs in the same basket!). First, it puts the burden of
