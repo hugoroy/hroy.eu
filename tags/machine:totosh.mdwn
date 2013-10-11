@@ -1,0 +1,4 @@
+[[!meta title="pages tagged machine:totosh"]]
+
+[[!inline pages="tagged(machine:totosh)" actions="no" archive="yes"
+feedshow=10]]
