@@ -1,0 +1,4 @@
+[[!meta title="pages tagged openPGP"]]
+
+[[!inline pages="tagged(openPGP)" actions="no" archive="yes"
+feedshow=10]]
