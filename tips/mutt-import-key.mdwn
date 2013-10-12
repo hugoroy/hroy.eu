@@ -5,5 +5,5 @@ That makes signing and keys even easier ☺
 
 Thanks [gollo](https://blogs.fsfe.org/gollo) for the tip!
 
-[[!meta title="Import openPGP Keys with mutt]]
+[[!meta title="Import openPGP Keys with mutt"]]
 [[!tag lang:en mutt openPGP]]
