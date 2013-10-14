@@ -31,9 +31,13 @@ So when you're below the part you’re replying to, just press
 the line and your signature. 
 
 It only works if your signature is well delimited by <code>--
-</code> and if folding is on. If you do not use folding, then use
+</code> and if folding is on. If you do not use folding, then use
 [the original config provided by
-Matthias](https://joindiaspora.com/posts/3167663).
+Matthias](https://joindiaspora.com/posts/3167663):
+
+<pre>
+noremap ,dd :.;/^-- $/dO-- 
+</pre>
 
 [[!meta title="Email: delete until signature"]]
 [[!tag vimrc lang:en ]]
