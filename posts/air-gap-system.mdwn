@@ -1,0 +1,141 @@
+Looking for a way to escape NSA surveillance on your own? Patricia
+has designed an air gap system for you… good luck!
+
+> patricia • [October 12, 2013 12:59 AM](https://www.schneier.com/blog/archives/2013/10/air_gaps.html#c1884527)
+> 
+> The properties of my airgap system:
+> 
+> 1. It is inexpensive.
+> 2. It is not require much technical know how (not reverse engineering your BIOS to verify its integrity or trying to debug rootkits).
+> 3. The overhead involved is scalable to the amount of security required. That is, many shortcuts can be taken without weakening the overall system.
+> 4. It is an unambiguous set of steps that don't require judgment to be performed.
+> 5. It is fault tolerant (many components can get pwned, and it still is very secure).
+> 6. It is effective against a variety of threat models, up to and including a nation-state which has full knowledge of your setup, a team of hackers working to pwn you individually, and a black bag team that can enter your home without your knowledge.
+> 
+> Let's call our adversary Eve. I believe unless Eve can bring to bear the resources described in item 6, your setup is perfectly secure. Any feedback on the protocol I describe would be appreciated.
+> 
+> The threat models we will consider:
+> 
+> 1. A targeted attack in which the Eve has perfect knowledge of your setup and unlimited resources to craft an attack over the internet.
+> 
+> 2. Same as 1, but they will attack using malware which infects your hardware (BIOS, NIC, etc.) before you purchase it (the supply chain attack).
+> 
+> 3. Side channel attacks
+> 
+> 4. Black bag/ physical access to your home and computers.
+> 
+> 5. Untargeted attacks
+> 
+> I assume the reader can acquired uninfected software. One method for doing this is documented on the TOR website. The basic idea is to download from multiple sources, from multiple internet connects, compare the hashes, and verify downloads with PGP signatures.
+> 
+> Here's the setup:
+> 
+> The first computer (which I'll call CannonFodder) connects to the internet via TOR, ideally with PORTAL between the computer and the internet. PORTAL is the grugq's open source project which installs on Raspberry Pi and acts like a proxy forwarding all your traffic to TOR. Recently a hidden service was discovered on TOR which hacks the browser and phones home through the user's non-TOR internet connection the actual IP address and MAC address of the user. PORTAL prevents this attack by only allowing traffic to route through TOR, and blocking any other traffic.
+> 
+> The purpose of CannonFodder is to receive PGP encrypted messages and send PGP encrypted messages. It's what connects to the internet so the rest of the equipment doesn't have to. While it will be assumed to be hacked into and rootkit'ed, it is not going to be an easy target.
+> 
+> On CannonFodder install whatever personal security products you can get your hands on. Anti-virus, anti-persistence software, software that whitelists good processes and blacklists bad processes, EMIT... anything and everything possible. Make sure the OS and all software on it is patched regularly. What OS runs on the host is up to you. The host will run a VM and nothing else. What virtualization software you use is up to you, but the OS you run in the VM should be different from the host. So if the host is windows, the VM should be some flavor of linux or BSD.
+> 
+> The VM is going to run another VM. That VM will be a third OS, different from the other two. It's only job is to run a browser that can connect to TOR. Whether that means the TOR browser bundle, or Chrome connecting through PORTAL, it is up to you. Chrome is a good choice, since it auto-updates itself, making patching mindless. Once the VMs are set up, snapshot them. After every use, revert to the most recent snapshot. When new patches become available, revert the VMs, apply the patches, and take a new snapshot.
+> 
+> Make sure the browser has NoScript installed (meaning no javascript). Do not whitelist any websites in NoScript. Make sure the browser has no plugins installed besides NoScript. That means no Java, no silverlight, and certainly no flash.
+> 
+> The idea of all of this is if someone tries to exploit your browser, they might not get a rootkit on your host, because Eve may not have realized you are in a VM, and therefore might not be prepared to escape your VM. She may not even have a VM escape. If she does, she will still need to have a variety of exploits and be willing to use them against you. She may be unwilling because you are not a noob, a complicated setup like your's could trip up her exploits, and maybe expose them in a way that you can steal them. Think about it: Eve needs VM escapes for two different pieces of software, code that can run in all flavors of Linux, Windows, and BSD, possibly privilege escalations for each of those OS's, and most likely the ability to navigate PORTAL before phoning home. You are a complicated target relative to most people on the internet. Patched software ensures Eve must throw 0day at you. Personal security products can trip up her exploits or mean she'll have to invest even more individual attention in crafting exploits that sidestep your protections.
+> 
+> If CannonFodder is running on Sparc or MIPS or ARM, even more bonus points, because now even fewer people have the expertise required exploit and rootkit you.
+> 
+> CannonFodder is only used for visiting email, saving email, sending email, and burning CDs. No other browsing is allowed. A different email account is used for every different pen pal. In between logging into each email account, a new TOR identity is generated-- in the TOR browser bundle just click the generate new identity, using PORTAL it is a little more complicated. Messages should move from public email addresses tied to real identities to burner email accounts as quickly as possible. You should register a new email address for each new pen pal you correspond with. The email address should have no information that ties your real identity or your pen pal's real identity to the address.
+> 
+> CannonFodder can either be a laptop (which has had the camera removed, the mic destroyed, etc.) or a desktop. A laptop has the advantage that you can take it to different restaurants and connect to a different wifi access points every time CannonFodder connects to the internet. A desktop has the advantage of convenience (driving to a new access point every time you want to send an email eats up a lot of time). The downside to the laptop is other users of the wifi access point can attack your laptop. The downside to the desktop is your IP address is easy to obtain from your internet company, and with your IP address it is not far fetched that Eve can hack your router, and then your desktop.
+> 
+> Every day (or every other day, or every week) check the email accounts. Each email account gets its own CD. Any messages received from Alice are burned to CD A, any messages received from Bob are burned to a separate CD B, and so on.
+> 
+> By using TOR, not browsing the internet, and using random email accounts the hope is that you will be harder identify as someone to target and harder to locate once you are targeted. The VMs and other mitigations will ideally tip you off once you are targeted since your unusual setup could cause their attack to fail in a loud way. Even if it doesn't tip you off, it may be effective in preventing your computer from being rootkit'ed indefinitely, since Eve may not have the techniques readily available to breakout of your VMs.
+> 
+> Even given all these precautions, we will always assume CannonFodder is owned and has a rootkit which is recording every keystroke, the MAC addresses of all wifi access points in proximity, and whatever other information your computer might be privy to.
+> 
+> Now for the airgap. The second computer, which I'll call IvoryTower, is air gapped. If the only secrets you are trying to hide are your private PGP keys, the cleartext of your messages, and the cleartext of your pen pals'' messages, IvoryTower should be a raspberry Pi with a USB CD (read-write) drive. If you also want to read PDFs, I'm unsure if a raspberry pi can handle this, so you might have to use a desktop. The raspberry pi has several advantages when it comes to side channel attacks and black bag attacks. We'll discuss these later. It also has the advantage of being ARM architecture instead of x86 and x64. The architecture matters because in depth knowledge of x86 and x64 are much more abundant than knowledge of ARM. You increase the cost of attacking you by using a more unusual architecture.
+> 
+> IvoryTower is our most privileged machine, because private keys are used to decrypt messages on it. If we can prevent it from being rootkit'ed, our secrets are safe (except from black bags, more on this later). However, we should always assume IvoryTower is pwned and take steps to guarantee none of the secrets it protects leak onto CannonFodder and from there onto the internet.
+> 
+> Backing up for a moment, IvoryTower is where the PGP keys you use to correspond with your pen pals' are generated. The first day IvoryTower is set up, when it has the lowest likelihood of being rootkit'ed, generate a ton of PGP key pairs and burn them to CDs. If you are very security conscious, IvoryTower should be shutdown in between each key you generate. This is to clear the RAM of the device (always use an OS which overwrites RAM at shutdown). Many rootkits can't survive a reboot. A shutdown could clean the machine. If a rootkit does infect the computer, and private key material from other pen pals is still in memory, the malware can compromise more of your private keys than it would have been able to otherwise.
+> 
+> If IvoryTower is a desktop, it should have no hard drive, and it should boot from a live CD in a CD-ROM (no write) drive. The CD containing the new messages from Alice can be put in a separate CD drive. When the encrypted messages are copied to the desktop, they will be put in RAM on the device. Insert the CD containing the private key corresponding to the public key you gave to Alice, and decrypt the messages. Read then, then reboot. Write a new message to Alice, encrypt it with her public key. You can retrieve her public key either from the same CD that holds the private key you use to communicate with her, or by requesting she append it to the messages she sends. Burn your encrypted message to a new CD, and destroy the CD that transfered Alice's messages from CannonFodder to IvoryTower.
+> 
+> Part of Alice's message should be a new email address she created just to receive your next message. Similarly, your new message to her should contain the email address you've registered to receive her next reply. In the message you are sending should be an email address that they can send their next message to. This protocol, of always sending to a new email address, means Eve has fewer selectors to key in on when she taps the internet backbone, and she can't use your old email address as a selector to serve an exploit to you when you visit the old email account. If she gets your key, the messages are not all aggregated in one place for her to decrypt. Since the next email address is encrypted in each message, she will not know the next place a message is being sent.
+> 
+> Now for a trick. Write down the exact size (in bytes) of the encrypted message that is destined for Alice. Open the encrypted message in a hex editor (still on IvoryTower). Write down the first 5 bytes of the file. Write down the last 5 bytes. Pick a random offset (or 2 or 10) and write down 5 bytes there along with the offset. Reboot.
+> 
+> Repeat the procedure on IvoryTower for every correspondence that sent you a new message.
+> 
+> Now another trick. Using a public-key/private-key pair you've kept reserved for testing purposes, encrypt a fake message. If can say anything, just make sure you'll recognize your fake message when you decrypt it (more about this later).
+> 
+> You have destroyed the CDs with the messages your pen pals' sent you, you have a bunch of CDs with messages you'd like to send on CannonFodder, and you recorded some metadata about each of the encrypted messages (i.e., filesize, the first five bytes).
+> 
+> We have now reached the most dangerous part of the process, because if IvoryTower is rootkit'ed, any of the CDs could contain information about your secret key, information about the cleartext of your message or your pen pals'' messages. For example, if GPG on IvoryTower has been subverted by malware, the malware could have used the Eve's key to encrypt your message instead of Alice's public key. Then, when you transfer the message to CannonFodder, malware on that system could use Eve's private key to decrypt the message, send it to Eve, and re-encrypt the message with Alice's public key. You would have not idea you were compromised, because from your perspective Alice got the message OK.
+> 
+> To guard against this, we have a third computer, which I'll call DoubtingThomas. This is the one computer who's integrity is important. Luckily, it too can get rootkit'ed, as long as it is rootkit'ed by an untargeted attack. If Eve and her minions target yo and get on DoubtingThomas, you're in trouble.
+> 
+> DoubtingThomas is a raspberry pi. This is a nice choice because it can be physically hidden, making physical tampering by a black bag team more difficult. It also uses much less power than a desktop, meaning many side channel attacks don't apply. Also, electronic devices (bugs) that could be hidden on a desktop computer's motherboard or PCI peripherals stand out much more on a raspberry pi.
+> 
+> The most important thing about DoubtingThomas is simplicity. We want very little surface area on DoubtingThomas. IvoryTower runs a full fledged OS with lots of code and lots of surface area, making it easier to own. DoubtingThomas, however, just needs to have a hex editor, GPG, and the ability to read from a CD. Ideally the CD has filesystem, since a filesystem is more surface area for an exploit, so a raw filesystem that can be read with would work well, especially if that meant 'dd /dev/[cdrom]' would have identical output to the encrypted blob IvoryTower produced.
+> 
+> DT has a CD-ROM (no write) drive connected by usb so it needs a USB driver as well. The OS on DoubtingThomas would be custom coded to be minimal and only have what is needed for this task. On DT we open the encrypted messages from IT in a hex editor so you can visually inspect the file is unchanged since being on IT. It is important also verify that the file size is the same, and that the rest of the disk is empty.
+> 
+> What does this buy you? If the hex editor on DoubtingThomas shows the same values as the hex editor on IvoryTower, you know you can trust IvoryTower's hex editor and burner. However, you cannot know for sure what key actually encrypted the message. Eve could easily have encrypted the payload if she was on IT and subverted GPG. Basically, you can trust the burning software and the hex editor, but you still don't know if you can trust the install of GPG on IT.
+> 
+> This is where the message you encrypted with a public key for which you have the private key comes in. Decrypt it on IvoryTower, and if it decrypts correctly, you know you can trust GPG on IvoryTower. Why? Because if malware has subverted GPG on IvoryTower the fake message won't decrypt correctly. If your message is encrypted with the Eve's key, there's no way to tell just by looking at the encrypted file.
+> 
+> After the test on DoubtingThomas, you know you can safely put the CDs in CannonFodder, and email your messages to your pen pals'.
+> 
+> 
+> That's the procedure, now how does it stand up to our threats, and are there any other things we can do to make it even more secure?
+> 
+> 1) Attack from the internet.
+> 
+> If CannonFodder is pwned, when you burn a CD of messages addressed to you, an filesystem exploit or an exploit that targets any of the other code that is required to read from a CD could be burned to the CD too. This is the only way IvoryTower can be rootkit'ed if Eve limits herself to attacking over the internet. If IvoryTower is rootkit'ed, you can't trust the output of any of the software on that system. IvoryTower could:
+> 
+> a) encrypt with the Eve's public key when it says it's encrypting with Alice's public key (they get cleartext of your message to Alice)
+> b) append your private key, encrypt with the Eve's public key (they get your private key for corresponding with Alice, and your message to Alice).
+> c) Write your private key and any cleartext left in RAM to slack space on the CD.
+> 
+> DoubtingThomas verifies the work of IvoryTower as described earlier. However, there are ways malware could get around this. The first that comes to mind is maintaining a whitelist of keys that it will subvert and your fake key is not on the list. But that would be so targeted, and require such perfect knowledge it's not believable.
+> 
+> Make sure to generate plenty of private keys as soon as you get IvoryTower setup. Once it's subverted it could be generating weak keys. Also register lots of email accounts on CannonFodder.
+> 
+> 2 and 3) Your equipment was pre-pwned with BIOS malware before you bought it and side channel attacks
+> 
+> This would have to be general purpose malware that didn't target you specifically (because you were careful enough to buy hardware in person from a big store and not online with your credit card, where it could be messed with in a targeted way). There are a couple threats here. The first is that IvoryTower's key generation is weakened. This is a serious flaw that I don't know a good way around. The second is the computer is modified to transmit data through side channels. So, for example, it flickers the screen at a frequency imperceptible to the human eye, and it just scans through RAM constantly doing this, so that a sensor picking up the flickers would have a dump of RAM. Or it scans through RAM and modifies the power unit to transmit data (using the power cord to create an antenna, or to communicate with another device on the same power circuit, perhaps CannonFodder). Or it blinks an LED faster than humanly perceptible. Or it uses the wire that wraps around the perimeter of the monitor that connects to the LED and forms an antenna to ex-filtrate data. Or it produces auditory signals by the making the processor hum. It can control the frequency of the hum with the type of operation it has it do. Or Eve uses Van Eck Phreaking to reconstruct your monitor display by the radiation it gives off.
+> 
+> Side channel attacks are real. They are very hard to defend against. On the positive side, I assume they are expensive to deploy. But since our assumption is we must be resistant to expensive attacks, we must consider side channel attacks.
+> 
+> First I'll point out that the only computer in our setup that must be resistant to a side channel attack is IvoryTower. If IvoryTower is a raspberry pi, it draws such little power that the power cord attack is not feasible. Any form of radiation attack (the antennas, Van Eck phreaking) can be mitigated by only running IvoryTower in a local restaurant's walk-in freezer (the poor man's faraday cage). A Raspberry Pi is portable enough to take to a walking freezer. For Eve to pull off the visual and auditory based attacks she presumably requires a black bag team to place sensors in your workspace (more on this in a minute), but a raspberry pi based system could be set up in a different location every time you use it (meaning it's much harder to 'bug' in this way).
+> 
+> Note that the cords for keyboards and mice should have shielded cabling. Every cord in your setup for IvoryTower should. Peripherals should never be shared amongst computers since they could be infected with malware.
+> 
+> All LEDs should be disabled in all your computers/ monitors/ peripherals by digging out the LED.
+> 
+> 4) Blackbag team visits your house while you aren't there
+> 
+> You are going to have to have a good place to stash the CDs containing your private keys as well are your raspberry pi(s). They are the prize you are trying to defend.
+> 
+> One threat is Eve's henchmen break into your house and replace your keyboard with a duplicate that has a key logger, or that infects your device with malware when you plug it in. For this reason, put distinctive scratches into all your peripherals, take a photo, and regularly check that the scratches are identical to the photo. This is how weapons inspectors ensure the seals protecting weapons caches have not been tampered with. The seals are scratched in a distinctive way that can't be forged, then check periodically. Use tamper evident tape on your devices to slow down a burglar that wants to plant a keylogger in your keyboard.
+> 
+> If IvoryTower is infected in its BIOS and it is capable of stashing private keys (in the BIOS or in the firmware of PCI peripherals on the system), then a black bag team could get your keys this way. This is another argument for IvoryTower being a raspberry pi and being stashed somewhere. If IvoryTower is hidden and the burglar can't find it, they can pull the private keys from the BIOS. On a desktop, the fewer PCI peripherals, the less space the malware has to stash keys if it is in fact using this strategy. So make sure you have no PCI peripherals. If you have a desktop, put super glue in all the USB interfaces so they aren't functional. Do the same to any interface on the mother boards that could attach removable media. Try to make the case impossible to open (bonus points for encasing it in cement except for the fan, CD tray, cables for keyboard/mouse, power cable and power button). Your attack surface for a burglar becomes what they can modify with a liveCD and maybe the drivers that handle input from your monitor (minimal).
+> 
+> 5) Other threats
+> Most other threats won't get past your browser, because it's fully patched, and it they do, they'll be destroyed by reverting your VM.
+> 
+> 
+> ## Questions:
+> 
+> Is it easier to verify raspberry pi's embedded code than a desktop's BIOS?
+> 
+> What if IvoryTower is pwned before you buy it and produces weak PGP keys?
+> 
+> What to put for full name, email address in PGP key?
+> 
+> How long should keys stay valid for?
+
+[[!meta title="Air Gap design"]]
+[[!tags lang:en paranoia NSA]]
