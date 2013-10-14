@@ -1,6 +1,7 @@
 Looking for a way to escape NSA surveillance on your own? Patricia
 has designed an air gap system for you… good luck!
 
+
 > patricia • [October 12, 2013 12:59 AM](https://www.schneier.com/blog/archives/2013/10/air_gaps.html#c1884527)
 > 
 > The properties of my airgap system:
@@ -138,4 +139,4 @@ has designed an air gap system for you… good luck!
 > How long should keys stay valid for?
 
 [[!meta title="Air Gap design"]]
-[[!tags lang:en paranoia NSA]]
+[[!tag lang:en paranoia NSA]]
