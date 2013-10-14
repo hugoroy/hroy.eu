@@ -1,0 +1,4 @@
+[[!meta title="pages tagged paranoia"]]
+
+[[!inline pages="tagged(paranoia)" actions="no" archive="yes"
+feedshow=10]]
