@@ -983,6 +983,7 @@ article.inlinepage{border:0;margin:1em 0 10em 0}
 @media (min-width:700px){.feedlink.pull-right{float:right !important}}[id^="fnref:"].footnote,[id*=" fnref:"].footnote{vertical-align:super;font-size:.8em;line-height:.7em}
 .footnotes li p{font-size:1em}
 #content .toggleable{margin-left:1.5em}
+.pageheader{padding:0}
 #content{margin:0}
 @media (min-width:700px){#content{margin:1em 2em}}#ma-tete{display:block;margin:1em auto}
 .pageheader .header{background:url(/background.jpg) 50% 66% #333;color:#fff;text-shadow:0 0 .2em #000;text-align:center;padding:1em}.pageheader .header .title{display:block}
