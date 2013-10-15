@@ -5,8 +5,9 @@
 <ul class="nav" role="menu">
 <li>[[Recent Comments|comments]]</li>
 <li>[[About]]</li>
-<li>[[Archives]]</li>
+<!--li>[[Archives]]</li-->
 <li>[[Elsewhere|planet]]</li>
+<li>[[Posts]]</li>
 <li>[[Tips]]</li>
 <li>[[Tags]]
 <!--[[!pagestats style="list" pages="./tags/*" among="*"]]--></li>
