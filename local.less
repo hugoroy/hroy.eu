@@ -69,3 +69,19 @@
     .nav>li>.selflink:hover,.nav>li>.selflink:focus{text-decoration:none;background-color:#eee}
 
 }
+
+article aside {
+    .pull-right, .pull-left {
+        float: none !important;
+    }
+}
+@media (min-width: 700px) {
+    article aside {
+        .pull-right {
+            float: right !important;
+        }
+        .pull-left {
+            float: left !important;
+        }
+    }
+}

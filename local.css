@@ -991,3 +991,5 @@ article.inlinepage{border:0;margin:1em 0 10em 0}
 .sidebar{border-left:1px solid rgba(0,0,0,0.1)}.sidebar .nav{margin:0 -2ex}
 .sidebar .nav>li>.selflink{position:relative;display:block;padding:10px 15px;color:#666}
 .sidebar .nav>li>.selflink:hover,.sidebar .nav>li>.selflink:focus{text-decoration:none;background-color:#eee}
+article aside .pull-right,article aside .pull-left{float:none !important}
+@media (min-width:700px){article aside .pull-right{float:right !important} article aside .pull-left{float:left !important}}
