@@ -12,9 +12,9 @@ them.
    <!--([cache](run-sync.html))-->
  * sqluri changed <code>sqlite:///tmp/</code> to
    <code>sqlite:///home/hrd/Sync/</code>
+ * Adjusted the per-user quota to <code>quota_size = 51200</code>
  * Sync server available and running from
    <http://totosh.ampoliros.net:5000/> [TODO: HTTPS]
- * Adjusted the per-user quota to <code>quota_size = 51200</code>
 
 The last parameter is the only one you need to know if you use
 to wish my Sync server instead of Mozilla’s. But let me warn
