@@ -60,7 +60,7 @@ var Emphasis = {
         This uses some common markup for plain and simple paragraphs - those that are not empty, no classes.
         We use PrototypeJS for its css selector awesomeness, but your needs might be simpler (getElementsByTagName('p') etc.)
     */
-        this.paraSelctors      = $("article p");
+        this.paraSelctors      = $("#content p");
 
     //  Class names
         this.classReady        = "emReady";
