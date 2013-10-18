@@ -1,0 +1,127 @@
+[[!meta title="Facebook, an open source company?"]]
+[[!tag lang:en nonsense free_software openness Facebook]]
+
+In today’s world, communication and branding matter almost as much
+in business as they do in conveying ideas and ethics. Which is why
+I often wonder, what the people using the term “Open Source” are
+doing against
+[this](http://readwrite.com/2013/10/17/is-facebook-the-worlds-largest-open-source-company):
+
+ > Is Facebook The World's Largest Open Source Company?
+
+Yes, says Matt Asay–who claimed that for Free Software/Open Source
+to succeed in business, [“it may need a little help from
+proprietary software.”](http://news.cnet.com/8301-13505_3-10168267-16.html)
+
+So, one must wonder… 
+
+# What makes Facebook an Open Source company?
+
+I hope that, at this point, we can drop the notion of Free
+Software; because free software focuses on the [users’
+rights](http://www.gnu.org/philosophy/free-sw.en.html) to be
+in control of the technology that affects them. If there’s anyone
+in control of Facebook, it’s Mark Zuckerberg, certainly not the
+users.
+[[!toggle id="save-everything" text="↓↓↓"]]
+
+[[!toggleable  id="save-everything" text="""
+ - Even though open source software and free software designate
+   the [exact same category of
+   software](http://www.gnu.org/philosophy/categories.en.html),
+   and the [community of people who develop free and open source
+   software](http://blog.hugoroy.eu/2012/02/23/free-software-v-open-source-community/)
+   is not as divided as some might think, there’s no denying that
+   the terms convey different meaning, have a different emphasis.
+
+    Actually, it’s not entirely clear to me what the term Open Source
+    conveys any more. What hasn’t helped at all, is the belief that
+    “the Internet”, as Morozov would put it, can been used as the
+    driver for solving everything in all areas; and that the
+    same is true of Open Source. Open Source bears some of the
+    same hype that “the Internet” does. Think open data, open
+    access, open innovation[^1], open government, open science, etc.
+
+[^1]: What’s most troubling about “open innovation” is that
+innovation itself is deeply misunderstood, too often confused with
+merely “packaging” existing technologies–at which Apple excels,
+even though Apple is far, far, from being “open.”
+"""]]
+
+What “[open](http://dictionary.reference.com/browse/open)” even
+means is relatively ambiguous. Ambiguous enough that Facebook can
+claim as far as 2006 to be about a “[spirit of
+openness](https://www.facebook.com/notes/facebook/the-spirit-of-openness/2223862130).”
+
+That reminds me of an [internal European Commission
+draft](http://fsfe.org/activities/os/eifv2.en.html) that was
+leaked on which I worked with Karsten at the
+[FSFE](http://fsfe.org) in 2009:
+
+> "Specifications, software and software development methods
+that promote collaboration and the results of which can freely be
+accessed, reused and shared are considered open and lie at one end
+of the spectrum while non-documented, proprietary specifications,
+proprietary software and the reluctance or resistance to reuse
+solutions, i.e. the "not invented here" syndrome, lie at the other
+end.
+
+> The spectrum of approaches that lies between these two
+extremes can be called the openness continuum."
+
+With this kind of nonsense, you can say anything. I was trying to
+put it into words. I remember Georg put it brilliantly: to say
+that proprietary software lies at one end of the openness
+continuum equals to saying that North-Korea lies at one end of the
+democratic continuum.
+
+Maybe all this is possible, because in this context, open is meant
+to refer explicitly to free software/open source software. But
+that’s missing the point of what free software actually is about,
+and about how you categorise free software.
+
+Proprietary software isn’t at the end of the free software
+continuum, it’s antagonistic to free software. They’re opposite.
+You can't have both; it's either something’s been distributed to
+the users of the program with a license that grants them the four
+essential rights to use, share, study and improve the program; or
+it's not.
+
+Now, let’s go back to Facebook. Without thinking clearly, sure,
+Facebook could end up inside the “openness continuum” of whatever.
+
+But before saying that Facebook is an open source company, one
+must ask: is Facebook a software company to begin with? And if
+not, then what is Facebook doing that has to do with open source
+at all?
+
+Look closely, and you’ll realise that all that Facebook’s
+releasing as free software/open source is not related to the core
+of the service they're providing their users with over at
+facebook.com. 
+
+Sure, it's publishing some of its in-house developed software, for
+data centers, database, etc. In that sense, it's quite clearly in
+accordance to the current mantra, “[open source (almost)
+everything](http://tom.preston-werner.com/2011/11/22/open-source-everything.html)”
+in which the part that's left off is actually the most important
+part.
+
+But that's not enough to call yourself an “open source company.”
+Or does that mean that all manufacturers embedding a linux kernel
+in their device are open source companies as soon as they release
+sources of their modifications to the kernel?  Of course not!
+
+# What makes a Free Software company, then?
+
+ >  usage of and contribution to Free Software are not
+ >  differentiators for what makes a Free Software company. The
+ >  critical differentiator is provision of Free Software
+ >  downstream to customers. In other words: Free Software
+ >  companies are companies that have adopted business models in
+ >  which the revenue streams are not tied to proprietary software
+ >  model licensing conditions.
+
+Georg published [an
+article](https://fsfe.org/freesoftware/enterprise/freesoftwarecompany.en.html)
+in 2008 precisely about this issue.
