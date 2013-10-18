@@ -23,9 +23,9 @@ rights](http://www.gnu.org/philosophy/free-sw.en.html) to be
 in control of the technology that affects them. If there’s anyone
 in control of Facebook, it’s Mark Zuckerberg, certainly not the
 users.
-[[!toggle id="save-everything" text="↓↓↓"]]
+[[!toggle id="fsvos" text="↓↓↓"]]
 
-[[!toggleable  id="save-everything" text="""
+[[!toggleable  id="fsvos" text="""
  - Even though open source software and free software designate
    the [exact same category of
    software](http://www.gnu.org/philosophy/categories.en.html),
@@ -40,9 +40,9 @@ users.
     driver for solving everything in all areas; and that the
     same is true of Open Source. Open Source bears some of the
     same hype that “the Internet” does. Think open data, open
-    access, open innovation[^1], open government, open science, etc.
+    access, open innovation[^open-innov], open government, open science, etc.
 
-[^1]: What’s most troubling about “open innovation” is that
+[^open-innov]: What’s most troubling about “open innovation” is that
 innovation itself is deeply misunderstood, too often confused with
 merely “packaging” existing technologies–at which Apple excels,
 even though Apple is far, far, from being “open.”
