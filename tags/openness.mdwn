@@ -1,0 +1,4 @@
+[[!meta title="pages tagged openness"]]
+
+[[!inline pages="tagged(openness)" actions="no" archive="yes"
+feedshow=10]]
