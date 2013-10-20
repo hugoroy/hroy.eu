@@ -65,12 +65,12 @@ The conclusion, that others have got to on the IRC channel (hello
 bertie if you read this!) is that Kolab is not working on Debian.
 
 So I'm now trying CentOS, which I never used… I’m not too happy to
-have to try get used to a whole new system just to run Kolab. But
+have to try to get used to a whole new system just to run Kolab. But
 I guess it can't hurt to learn a little bit about CentOS and since
 the machine's only purpose is actually to run Kolab, it seems like
 the best choice.
 
 Still, it would have been nice to run it on Debian. What would
-have been even nicer from Kolab would be to have giant warning.
+have been even nicer from Kolab would be to have a giant warning.
 
 Don't waste your time trying to setup Kolab on Debian.
