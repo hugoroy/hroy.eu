@@ -1,0 +1,76 @@
+[[!tag kolab free_software bug lang:en]]
+[[!meta title="Installing kolab, part 4"]]
+[[!template id=note text="""
+Other posts in the *Installing Kolab series*:
+ - **[part 1](/posts/kolab_fail/ "Database error after setup script")**
+ - **[part 2](/posts/kolab_fail-2/ "Setup script failure because of SLDAP")**
+ - **[part 3](/posts/kolab_fail-3/ "SMTP Error 454")**
+"""]]
+
+After I upgraded from Kolab 3.0 to 3.1, hoping it would solve the
+SMTP issue (i.e. I could not send email from the roundcube app
+freshly setup by the kolab script! Same problem with msmtp…), I
+ended up with another broken kolab instance: Roundcube wouldn't
+connect to the database any more. When I was trying to restart
+kolab's service, all I got was:
+
+    root@totosh:/home/hrd# service kolab-saslauthd start
+    root@totosh:/home/hrd# Traceback (most recent call last):
+      File "/usr/lib/python2.7/dist-packages/saslauthd/__init__.py", line 114, in run
+        self.do_saslauthd()
+      File "/usr/lib/python2.7/dist-packages/saslauthd/__init__.py", line 195, in do_saslauthd
+        auth.connect()
+      File "/usr/lib/python2.7/dist-packages/pykolab/auth/__init__.py", line 148, in connect
+        from pykolab.auth import ldap
+      File "/usr/lib/python2.7/dist-packages/pykolab/auth/ldap/__init__.py", line 38, in <module>
+       import auth_cache
+    ImportError: No module named auth_cache
+
+Quite fed up, I tried to re-install the thing again. Yes, I'm
+trying really hard to make this work.
+
+So this time, I followed the [not-yet-official
+docs](http://hosted.kolabsys.com/~vanmeeuwen/build/html/installation-guide/setup-kolab.html#install-setup-kolab)
+which are up-to-date to deal with kolab 3.1, the latest release
+version.
+
+During the setup, I got this:
+
+    Please supply a Kolab Service account password. This account is used by various
+    services such as Postfix, and Roundcube, as anonymous binds to the LDAP server
+    will not be allowed.
+
+    Kolab Service password [xxxxxxxxxxxxxx]: 
+    Traceback (most recent call last):
+      File "/usr/sbin/setup-kolab", line 42, in <module>
+        setup.run()
+      File "/usr/lib/python2.7/dist-packages/pykolab/setup/__init__.py", line 43, in run
+        components.execute('_'.join(to_execute))
+      File "/usr/lib/python2.7/dist-packages/pykolab/setup/components.py", line 170, in execute
+        execute(component)
+      File "/usr/lib/python2.7/dist-packages/pykolab/setup/components.py", line 202, in execute
+        components[component_name]['function'](conf.cli_args, kw)
+      File "/usr/lib/python2.7/dist-packages/pykolab/setup/setup_ldap.py", line 483, in execute
+        auth.connect()
+      File "/usr/lib/python2.7/dist-packages/pykolab/auth/__init__.py", line 148, in connect
+        from pykolab.auth import ldap
+      File "/usr/lib/python2.7/dist-packages/pykolab/auth/ldap/__init__.py", line 38, in <module>
+        import auth_cache
+    ImportError: No module named auth_cache
+
+Yet again, on a completely fresh Debian wheezy, Kolab's setup
+fails.
+
+The conclusion, that others have got to on the IRC channel (hello
+bertie if you read this!) is that Kolab is not working on Debian.
+
+So I'm now trying CentOS, which I never used… I’m not too happy to
+have to try get used to a whole new system just to run Kolab. But
+I guess it can't hurt to learn a little bit about CentOS and since
+the machine's only purpose is actually to run Kolab, it seems like
+the best choice.
+
+Still, it would have been nice to run it on Debian. What would
+have been even nicer from Kolab would be to have giant warning.
+
+Don't waste your time trying to setup Kolab on Debian.

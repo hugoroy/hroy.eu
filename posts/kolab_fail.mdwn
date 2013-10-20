@@ -1,3 +1,10 @@
+[[!template id=note text="""
+Other posts in the *Installing Kolab series*:
+ - **[part 2](/posts/kolab_fail-2/ "Setup script failure because of SLDAP")**
+ - **[part 3](/posts/kolab_fail-3/ "SMTP Error 454")**
+ - **[part 4](/posts/kolab_fail-4/ "Setup script failure on 3.1")**
+"""]]
+
 Grr. I just spent some time setting up a new debian machine to
 serve as a new personal and self hosted server. So I started with
 trying out kolab.

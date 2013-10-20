@@ -1,3 +1,10 @@
+[[!template id=note text="""
+Other posts in the *Installing Kolab series*:
+ - **[part 1](/posts/kolab_fail/ "Database error after setup script")**
+ - **[part 2](/posts/kolab_fail-2/ "Setup script failure because of SLDAP")**
+ - **[part 4](/posts/kolab_fail-4/ "Setup script failure on 3.1")**
+"""]]
+
 So the problem related to a former installation of "sldap". So
 now I purged everything and tried running setup-kolab again. It
 seems now to be fine. Except that I can't send emails, getting

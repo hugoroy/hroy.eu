@@ -1,3 +1,10 @@
+[[!template id=note text="""
+Other posts in the *Installing Kolab series*:
+ - **[part 1](/posts/kolab_fail/ "Database error after setup script")**
+ - **[part 3](/posts/kolab_fail-3/ "SMTP Error 454")**
+ - **[part 4](/posts/kolab_fail-4/ "Setup script failure on 3.1")**
+"""]]
+
 I’ve been told not to run setup-kolab twice, and to try the
 development packages provided by
 <http://mirror.kolabsys.com/pub/debian/kolab-3.0/>.
