@@ -5,6 +5,7 @@ Other posts in the *Installing Kolab series*:
  - **[part 1](/posts/kolab_fail/ "Database error after setup script")**
  - **[part 2](/posts/kolab_fail-2/ "Setup script failure because of SLDAP")**
  - **[part 3](/posts/kolab_fail-3/ "SMTP Error 454")**
+ - **[part 5](/posts/kolab_up/ "Kolab, Up and Running on   CentOS 6")**
 """]]
 
 After I upgraded from Kolab 3.0 to 3.1, hoping it would solve the

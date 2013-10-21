@@ -1,27 +1,11 @@
 [[!meta title="Network interfaces for totosh"]]
 [[!tag machine:totosh lang:en]]
 
-<code>/etc/network/interfaces/</code>
+<code>/etc/sysconfig/network</code>
 
-    # This file describes the network interfaces available on your system
-    # and how to activate them. For more information, see interfaces(5).
-
-    # The loopback network interface
-    auto lo
-    iface lo inet loopback
-
-    # The primary network interface
-    allow-hotplug eth0
-    iface eth0 inet static
-            address 192.168.0.11
-            netmask 255.255.255.0
-            gateway 192.168.0.254
-
-    # The IPv6 interface
-    iface eth0 inet6 static
-            address 2a01:e35:242d:1bb0:21c:7eff:fe7d:6ab3
-            netmask 64
-            gateway fe80::207:cbff:fecc:28af
+    NETWORKING=yes
+    HOSTNAME=totosh.ampoliros.net
+    GATEWAY=192.168.0.254
 
 <code>/etc/resolv.conf</code>
 
