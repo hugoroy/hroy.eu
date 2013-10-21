@@ -12,15 +12,8 @@ them.
    <!--([cache](run-sync.html))-->
     
     On CentOS 6, you need to install these packages:
-
-     - mercurial
-     - python
-     - python-devel
-     - python-virtualenv
-     - sqlite-devel
-     - openssl-devel
-     - make
-     - gcc
+    <code>mercurial python python-devel python-virtualenv
+    sqlite-devel openssl-devel make gcc</code>
 
 
  * sqluri changed <code>sqlite:///tmp/</code> to
