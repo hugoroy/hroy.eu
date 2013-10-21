@@ -25,9 +25,12 @@ them.
 
  * sqluri changed <code>sqlite:///tmp/</code> to
    <code>sqlite:///home/hrd/Sync/</code>
+
  * Adjusted the per-user quota to <code>quota_size = 51200</code>
-  (this should be more than enough, even for I who have not
-  emptied my browser history for years)
+  
+    (this should be more than enough, even for I who have not
+    emptied my browser history for years)
+
  * I added this in <code>/etc/sysconfig/iptables</code>:
         
         -A INPUT -m state --state NEW -m tcp -p tcp --dport 5000 -j ACCEPT
