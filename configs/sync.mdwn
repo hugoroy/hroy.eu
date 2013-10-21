@@ -10,13 +10,35 @@ them.
  * followed the instructions provided at
    <http://docs.services.mozilla.com/howtos/run-sync.html>
    <!--([cache](run-sync.html))-->
+    
+    On CentOS 6, you need to install these packages:
+
+     - mercurial
+     - python
+     - python-devel
+     - python-virtualenv
+     - sqlite-devel
+     - openssl-devel
+     - make
+     - gcc
+
+
  * sqluri changed <code>sqlite:///tmp/</code> to
    <code>sqlite:///home/hrd/Sync/</code>
  * Adjusted the per-user quota to <code>quota_size = 51200</code>
+  (this should be more than enough, even for I who have not
+  emptied my browser history for years)
+ * I added this in <code>/etc/sysconfig/iptables</code>:
+        
+        -A INPUT -m state --state NEW -m tcp -p tcp --dport 5000 -j ACCEPT
+
+    and restarted iptables.
+
  * Sync server available and running from
-   <http://totosh.ampoliros.net:5000/> [TODO: HTTPS]
+   <http://totosh.ampoliros.net:5000/>
+    * TODO enable https
 
 The last parameter is the only one you need to know if you use
 to wish my Sync server instead of Mozilla’s. But let me warn
 you: this is really for personal purposes, so please set
-yourself elsewhere, it's [easy to set up!](/posts/setup_mozilla-sync)
+yourself elsewhere, it's good and [easy to set up!](/posts/setup_mozilla-sync)
