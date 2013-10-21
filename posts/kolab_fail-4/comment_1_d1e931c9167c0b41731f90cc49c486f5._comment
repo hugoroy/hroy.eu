@@ -1,0 +1,8 @@
+[[!comment format=mdwn
+ ip="84.215.150.97"
+ claimedauthor="Paul Boddie"
+ subject="LDAP and IMAP"
+ date="2013-10-21T19:06:33Z"
+ content="""
+You managed to persuade me to take another look at my Kolab installation from June, and to my surprise it didn't seem to work any more. I eventually discovered some things that will probably need fixing in the packaging, and I've written them up here: <http://blogs.fsfe.org/pboddie/?p=446>
+"""]]
