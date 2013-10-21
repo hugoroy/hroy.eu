@@ -1,0 +1,43 @@
+[[!template id=note text="""
+Other posts in the *Installing Kolab series*:
+ - **[part 1](/posts/kolab_fail/ "Database error after setup script")**
+ - **[part 2](/posts/kolab_fail-2/ "Setup script failure because of SLDAP")**
+ - **[part 3](/posts/kolab_fail-3/ "SMTP Error 454")**
+ - **[part 4](/posts/kolab_fail-4/ "Setup script failure on 3.1")**
+"""]]
+[[!tag kolab free_software self-hosting lang:en]]
+[[!meta title="Kolab, Up and Running on CentOS 6"]]
+
+So, after about 4 tries on Debian, I decided to give Kolab a
+try on CentOS, the community derivative of Red Hat Entreprise
+Linux. Fortunately, I was not completely lost here, it seems I
+kept some habits from when I was using Fedora.
+
+A few hints, if you want to install CentOS 6.
+
+ - Finding the download link is not easy from the project's
+   home page. [Go to the wiki.](http://wiki.centos.org/Download)
+ - If you do a netinstall, make sure to use reliable sources
+    - when I first tried using free.fr (my ISP's) mirrors, I
+      had an error during the install process (something like
+      <http://bugs.centos.org/view.php?id=6130>)
+    - when I used the official CentOS mirrors, it went okay:
+      <http://mirror.centos.org/centos/6/os/x86_64/>
+ - if you try with the Live CD/DVD, make sure that your hard
+   drive is encrypted using a QWERTY-layout-friendly pass
+   phrase… 
+
+After CentOS was set up, I just followed the not-yet-official
+docs at kolab:
+<http://hosted.kolabsys.com/~vanmeeuwen/build/html/installation-guide/>.
+Everything went smoothly this time. And within a few minutes, I
+was running Kolab.
+
+So far, the only issue I've got was that I could not get an
+email delivered to a @gmail.com address, Google decided that I
+did not meet [their
+standards](https://support.google.com/mail/answer/81126?p=ipv6_authentication_error&rd=1#authentication).
+It seems the problem is that the IP address has changed and
+thus Google does not like that… I hope it will resolve in the
+future, there's nothing wrong with moving servers around and
+pointing the domain to a new IP address after all!
