@@ -961,7 +961,7 @@ article h3,article .h3{font-size:1.8em}
 article figure{margin:2em 0}
 article figcaption{padding:7px;font-weight:300}
 article .footnotes ol li p a:last-child{margin-left:.5em}
-article pre.terminal,article code.terminal{background-color:#372037;border-color:#666}
+article pre.terminal,article code.terminal{background-color:#372037;border-color:#333;color:#fff}
 article pre.terminal{border-radius:0;border-width:0 0 0 6px}
 article:last-child{margin-bottom:0}
 footer{font-size:.9em}
