@@ -1,0 +1,4 @@
+[[!meta title="pages tagged IPv4"]]
+
+[[!inline pages="tagged(IPv4)" actions="no" archive="yes"
+feedshow=10]]
