@@ -10,12 +10,13 @@ and enable a
 [workaround](http://christian.skala.me/blog/gmail-why-are-you-doing-this-to-me/)
 so that email sent to gmail.com uses IPv4 instead.
 
-In <code>/etc/postfix/main.cf</code>:
+In <code>/etc/postfix/main.cf</code> the transport maps was
+already defined:
 
-    transport_maps = hash:/etc/postfix/transport_gmail
+    transport_maps = hash:/etc/postfix/transport
 
-in this <code>transport_gmail</code> file I just wrote
-<code>gmail.com smtp-ipv4:</code>
+in this <code>transport</code> file I just added
+<code>gmail.com         smtp-ipv4:</code>
 
 In <code>/etc/postfix/master.cf</code>:
 
@@ -39,7 +40,7 @@ You should also see the config about [DKIM](/configs/dkim/totosh/ "DomainKeys Id
 When finished,
 
 <pre class="terminal">
-<code># postmap /etc/postfix/transport_gmail
+<code># postmap /etc/postfix/transport
 # service postfix reload</code>
 </pre>
 
