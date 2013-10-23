@@ -9,6 +9,23 @@ The differences are the key files:
 
 <code>/etc/opendkim.conf</code>
 
+    Domain ampoliros.net
+    # […]
     KeyFile /etc/opendkim/keys/ampoliros.net.private
+    # […] not sure what this does:
+    Selector mail
 
-Also see: [Postfix](/configs/postfix/totosh)
+Also see: [Postfix](/configs/postfix/totosh/#postfix-dkim) config
+files to use DKIM.
+
+Then just create <code>/etc/default/opendkim</code> with
+<code>SOCKET="inet:8891@localhost" # listen on loopback on port
+8891</code> and make sure to open the port in the firewall.
+
+In the DNS records of <http://ampoliros.net> at Gandi, I just put
+(in DNS zone expert mode edit):
+
+    mail._domainkey 3600 IN TXT "v=DKIM1; k=rsa; t=y;
+    p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNXXXXXXXXXXXXXetc."
+
+Which is what's in quote at in the <code>ampoliros.net.txt</code> key.

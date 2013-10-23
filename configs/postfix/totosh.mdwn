@@ -26,7 +26,7 @@ which makes email to gmail.com use only IPv4, in order to avoid
 Google's restrictions over email sent using IPv6.
 
 You should also see the config about [DKIM](/configs/dkim/totosh/ "DomainKeys Identified Mail for totosh"). I added this to
-<code>main.cf</code>:
+<code id="postfix-dkim">main.cf</code>:
 
     # DKIM
     milter_default_action = accept
