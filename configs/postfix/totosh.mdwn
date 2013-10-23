@@ -36,3 +36,12 @@ You should also see the config about [DKIM](/configs/dkim/totosh/
     non_smtpd_milters = inet:localhost:8891
 
 (with appropriate rules in <code>/etc/sysconfig/iptables</code>).
+
+When finished,
+
+<div class="term">
+
+    # postmap /etc/postfix/transport_gmail
+    # service postfix reload
+</div>
+
