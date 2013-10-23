@@ -1,0 +1,37 @@
+[[!meta title="Postfix config for totosh"]]
+[[!tag machine:totosh postfix IPv6 IPv4 lang:en]]
+
+I could not get my email delivered to @gmail.com addresses
+because of Google's guidelines on IPv6. So I decided to follow
+[Tanguy's
+advice](http://tanguy.ortolo.eu/blog/article109/google-ipv6-smtp-restrictions)
+and enable a
+[workaround](http://christian.skala.me/blog/gmail-why-are-you-doing-this-to-me/)
+so that email sent to gmail.com use IPv4 instead.
+
+In <code>/etc/postfix/main.cf</code>:
+
+    transport_maps = hash:/etc/postfix/transport_gmail
+
+in this <code>transport_gmail</code> file I just wrote
+<code>gmail.com smtp-ipv4:</code>
+
+In <code>/etc/postfix/master.cf</code>:
+
+    smtp-ipv4           unix        -       -       -       -       -       smtp
+        -o inet_protocols=ipv4
+
+which makes email to gmail.com use only IPv4, in order to avoid
+Google's restrictions over email sent using IPv6.
+
+You should also see the config about [DKIM](/configs/dkim/totosh/
+"DomainKeys Identified Mail for totosh"). I added this to
+<code>main.cf</code>:
+
+    # DKIM
+    milter_default_action = accept
+    milter_protocol = 2
+    smtpd_milters = inet:localhost:8891
+    non_smtpd_milters = inet:localhost:8891
+
+(with appropriate rules in <code>/etc/sysconfig/iptables</code>).

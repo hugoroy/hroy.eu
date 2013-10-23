@@ -1,0 +1,14 @@
+[[!meta title="DomainKeys Identified Mail (DKIM) for totosh"]]
+[[!tag machine:totosh lang:en]]
+
+I followed
+<http://christian.skala.me/blog/gmail-why-are-you-doing-this-to-me/>
+to enable [DKIM](https://en.wikipedia.org/wiki/DKIM).
+
+The differences are the key files:
+
+<code>/etc/opendkim.conf</code>
+
+    KeyFile /etc/opendkim/keys/ampoliros.net.private
+
+Also see: [Postfix](/configs/postfix/totosh)
