@@ -41,7 +41,6 @@ When finished,
 
 <pre class="terminal">
 <code># postmap /etc/postfix/transport_gmail
-# service postfix reload
-</code>
+# service postfix reload</code>
 </pre>
 
