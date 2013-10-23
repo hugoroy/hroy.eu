@@ -31,8 +31,7 @@ them.
     and restarted iptables.
 
  * Sync server available and running from
-   <http://totosh.ampoliros.net:5000/>
-    * TODO enable https
+   <https://totosh.ampoliros.net:5000/>
 
 The last parameter is the only one you need to know if you use
 to wish my Sync server instead of Mozilla’s. But let me warn
