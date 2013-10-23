@@ -25,7 +25,6 @@ Then just create <code>/etc/default/opendkim</code> with
 In the DNS records of <http://ampoliros.net> at Gandi, I just put
 (in DNS zone expert mode edit):
 
-    mail._domainkey 3600 IN TXT "v=DKIM1; k=rsa; t=y;
-    p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNXXXXXXXXXXXXXetc."
+    mail._domainkey 3600 IN TXT "v=DKIM1; k=rsa; t=y; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNXXXXXXXXXXXXXetc."
 
 Which is what's in quote at in the <code>ampoliros.net.txt</code> key.
