@@ -8,7 +8,7 @@ because of Google's
 advice](http://tanguy.ortolo.eu/blog/article109/google-ipv6-smtp-restrictions)
 and enable a
 [workaround](http://christian.skala.me/blog/gmail-why-are-you-doing-this-to-me/)
-so that email sent to gmail.com use IPv4 instead.
+so that email sent to gmail.com uses IPv4 instead.
 
 In <code>/etc/postfix/main.cf</code>:
 
@@ -25,8 +25,7 @@ In <code>/etc/postfix/master.cf</code>:
 which makes email to gmail.com use only IPv4, in order to avoid
 Google's restrictions over email sent using IPv6.
 
-You should also see the config about [DKIM](/configs/dkim/totosh/
-"DomainKeys Identified Mail for totosh"). I added this to
+You should also see the config about [DKIM](/configs/dkim/totosh/ "DomainKeys Identified Mail for totosh"). I added this to
 <code>main.cf</code>:
 
     # DKIM
