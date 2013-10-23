@@ -40,9 +40,8 @@ You should also see the config about [DKIM](/configs/dkim/totosh/
 When finished,
 
 <pre>
-<code class="terminal">
-    # postmap /etc/postfix/transport_gmail
-    # service postfix reload
+<code class="terminal"># postmap /etc/postfix/transport_gmail
+# service postfix reload
 </code>
 </pre>
 
