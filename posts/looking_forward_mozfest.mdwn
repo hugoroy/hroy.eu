@@ -48,10 +48,10 @@ like today without the work they have done (including a lot of
 volunteers and a [very open way](http://paulrouget.com/e/openness/)).
 I can't wait to feel the atmosphere of the festival!
 
-So if you're in London too, even if you're not attending Mozilla
-Festival (I have read the event is already full!) do not hesitate
+So if you're in London too, even if you're not attending #MozFest 
+(I have read the event is already full!) do not hesitate
 to get in touch. Tomorrow I'll try to meet with
-[Andreas](http://sny.no/ato/) who's been a volunteer with the Free
+[Andreas](http://sny.no/ato) who's been a volunteer with the Free
 Software Foundation Europe for a long time, and a good friend
 (We met at Fosdem 2010 if I'm not mistaken!) and also Mark Lizar
 who's one of the core person behind Open Notice, the place where
