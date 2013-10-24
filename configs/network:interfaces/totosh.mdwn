@@ -24,4 +24,5 @@ reverse DNS setup is described at
 <http://www.free.fr/assistance/248.html>.
 
 To check the rDNS:
-<pre class="terminal"><code>$ host 82.66.209.187</code></pre>
+<pre class="terminal"><code>$ host 82.66.209.187
+187.209.66.82.in-addr.arpa domain name pointer totosh.ampoliros.net.</code></pre>
