@@ -1,0 +1,56 @@
+[[!meta title="Looking forward to the Mozilla Festival!"]]
+[[!tag lang:en Mozilla IAAL kolab Debian]]
+
+I just had a good day ☺ 
+
+The results of the first part of the [bar
+exam](https://en.wikipedia.org/wiki/Bar_examination#France) were
+announced earlier today. I passed! So I’ve got no more excuses:
+now I’ve got to work to pass the second part (oral exams). Of
+course, that's kind of a relief, with these kinds of exams you're
+never really sure that you succeeded. 
+
+To make things even better today, it looks like Kolab on Debian is
+going to get some love from the Free Software community!
+
+ - Kolab now has [nightly builds for both CentOS and
+   Debian](https://kolab.org/blog/timotheus-pokorra/2013/10/23/nightly-builds-kolab-centos-and-debian)
+ - Torsten published a [Call for
+   Participation](https://kolab.org/blog/grote/2013/10/23/call-participation)
+   explaining some of the reasons why Kolab on Debian does not
+   benefit from the same level of involvement than Kolab on
+   CentOS.
+ - So now, it's our job as a community to take care of it and make
+   sure that Kolab becomes a first citizen on Debian! If you have
+   some experience in packaging: please go read
+   [HowTo improve Debian packages using OBS](https://kolab.org/blog/timotheus-pokorra/2013/10/24/howto-improve-debian-packages-using-obs)
+ - It seems like Paul is [already looking into helping!](http://blogs.fsfe.org/pboddie/?p=455)
+
+As far as I'm concerned, this is all great news. It is a bit sad
+that I was too impatient and went for [CentOS to try
+Kolab](/posts/kolab_up/). But at least now, I know I can recommend
+Kolab to all my friends who use Debian: the community is here to
+help you! I'll have to find a way to help personally though ☺ 
+
+Oh and BTW, I'm now in London until Monday. Mozilla invited me to
+run [a session at the Mozilla
+festival](http://sessions.mozillafestival.org/proposals/fighting-the-biggest-lie-on-the-web-i-have-read-and-agree-to-the-terms-of-service/)
+on “Fighting the biggest lie on the Web” (I agree to the terms of
+service!)
+
+I am really looking forward to this. Mozilla is one of the most
+important organisation building the technologies that empower
+people! I don't even want to think about what the web would look
+like today without the work they have done (including a lot of
+volunteers and a [very open way](http://paulrouget.com/e/openness/)).
+
+So if you're in London too, even if you're not attending Mozilla
+Festival (I have read the event is already full!) do not hesitate
+to get in touch. Tomorrow I'll try to meet with
+[Andreas](http://sny.no/ato/) who's been a volunteer with the Free
+Software Foundation Europe for a long time, and a good friend
+(We met at Fosdem 2010 if I'm not mistaken!) and also Mark Lizar
+who's one of the core person behind Open Notice, the place where
+projects related to ToS and privacy policies collaborate.
+
+Exciting week-end ahead!
