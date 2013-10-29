@@ -4,9 +4,11 @@
 [[!inline pages=sidebar raw=yes]]
 """]]
 
-# About
+# About Hugo
 
 <a href="http://hugoroy.eu/index.en.html" rel="me">Who am I?</a>
+
+# About this web space
 
 [[Copyright Info|copyright]]
 

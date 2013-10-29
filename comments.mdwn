@@ -1,10 +1,14 @@
-[[!sidebar content="""
-[[!inline pages="comment_pending(./posts/*)" feedfile=pendingmoderation
-description="comments pending moderation" show=-1]]
-Comments in the [[!commentmoderation desc="moderation queue"]]:
-[[!pagecount pages="comment_pending(./posts/*)"]]
+[[!if test="enabled(sidebar)" then="""
+[[!sidebar]]
+""" else="""
+[[!inline pages=sidebar raw=yes]]
 """]]
 
 Recent comments on posts in the [[blog|index]]:
 [[!inline pages="./posts/*/Discussion or comment(./posts/*)"
 template="comment"]]
+
+[[!inline pages="comment_pending(./posts/*)" feedfile=pendingmoderation
+description="comments pending moderation" show=-1]]
+Comments in the [[!commentmoderation desc="moderation queue"]]:
+[[!pagecount pages="comment_pending(./posts/*)"]]
