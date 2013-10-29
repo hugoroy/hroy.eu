@@ -4,8 +4,8 @@
 [[!inline pages=sidebar raw=yes]]
 """]]
 
-# You can’t do that online anymore!
+# <span class="title" style="color: rgb(204,204,204)">You can’t do that online anymore!</span>
 
 [[!inline pages="page(./posts/*) and !*/Discussion" show="10" actions=no]]
 
-
+If you got here, you should head to the full list of [[posts]].
