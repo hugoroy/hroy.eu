@@ -1,3 +1,10 @@
+[[!if test="enabled(sidebar)" then="""
+[[!sidebar]]
+""" else="""
+[[!inline pages=sidebar raw=yes]]
+"""]]
+
+
 Here is a full list of tips, and [below](#configs), some [configs](/configs).
 
 [[!inline pages="page(./tips/*) and !*/Discussion" archive=yes

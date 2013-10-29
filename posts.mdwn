@@ -1,3 +1,9 @@
+[[!if test="enabled(sidebar)" then="""
+[[!sidebar]]
+""" else="""
+[[!inline pages=sidebar raw=yes]]
+"""]]
+
 Here is a full list of posts to the [[blog|index]] in both
 [[English|tags/lang:en]] and [[French|tags/lang:fr]].
 

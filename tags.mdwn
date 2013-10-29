@@ -1,3 +1,9 @@
+[[!if test="enabled(sidebar)" then="""
+[[!sidebar]]
+""" else="""
+[[!inline pages=sidebar raw=yes]]
+"""]]
+
 [[!pagestats pages="./tags/*" among="*"]]
 
 Above, you can see the tag cloud for this blog. Below is a

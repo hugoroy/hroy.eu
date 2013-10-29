@@ -1,4 +1,10 @@
 [[!meta title="& elsewhere"]]
+[[!if test="enabled(sidebar)" then="""
+[[!sidebar]]
+""" else="""
+[[!inline pages=sidebar raw=yes]]
+"""]]
+
 
 I’m trying to gather on this page all the posts I publish here
 and elsewhere.
