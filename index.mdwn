@@ -8,4 +8,4 @@
 
 [[!inline pages="page(./posts/*) and !*/Discussion" show="10" actions=no]]
 
-If you got here, you should head to the full list of [[posts]].
+If you’ve read until here, you should head to the full list of [[posts]].

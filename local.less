@@ -60,8 +60,12 @@ body#comments { margin: 0; padding: 0; }
     }
 }
 
-#searchform {
+#searchform, .feed-link {
     opacity: 0.7;
+}
+
+#searchform:focus, #searchform:hover, .feed-link:hover {
+    opacity: 1;
 }
 
 .pageheader .parentlinks a {
