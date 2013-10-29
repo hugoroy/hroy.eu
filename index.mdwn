@@ -4,7 +4,7 @@
 [[!inline pages=sidebar raw=yes]]
 """]]
 
-# <span class="title" style="color: rgb(204,204,204)">You can’t do that online anymore!</span>
+<h1 class="title" style="color: rgb(204,204,204)">You can’t do that online anymore!</h1>
 
 [[!inline pages="page(./posts/*) and !*/Discussion" show="10" actions=no]]
 
