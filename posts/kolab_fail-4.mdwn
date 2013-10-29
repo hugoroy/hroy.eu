@@ -60,10 +60,11 @@ During the setup, I got this:
     ImportError: No module named auth_cache
 
 Yet again, on a completely fresh Debian wheezy, Kolab's setup
-fails.
+failed.
 
 The conclusion, that others have got to on the IRC channel (hello
-bertie if you read this!) is that Kolab is not working on Debian.
+bertie if you read this!) is that Kolab was not working on Debian
+at that point.
 
 So I'm now trying CentOS, which I never used… I’m not too happy to
 have to try to get used to a whole new system just to run Kolab. But
@@ -71,7 +72,5 @@ I guess it can't hurt to learn a little bit about CentOS and since
 the machine's only purpose is actually to run Kolab, it seems like
 the best choice.
 
-Still, it would have been nice to run it on Debian. What would
-have been even nicer from Kolab would be to have a giant warning.
-
-Don't waste your time trying to setup Kolab on Debian.
+Fortunately now, some people are contributing to [fix the Debian
+packages of Kolab](/posts/looking_forward_mozfest/). I'll try again in the future!
