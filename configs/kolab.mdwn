@@ -1,0 +1,17 @@
+# CardDav and CalDav server
+
+After [setting up Kolab 3.1](/posts/kolab_up/), I tried to get the
+cardDav and CalDav server configured with clients. But it did not
+work. Going with a web browser to
+<https://totosh.ampoliros.net/iRony/> I got the error:
+
+> Requested uri (/iRony/) is out of base uri
+
+To fix the error you have to change "null" in
+<code>/etc/iRony/dav.inc.php</code>
+
+    $rcmail_config['base_uri'] = '/iRony/';
+
+[[!meta title="Kolab server]]
+[[!tag lang:en machine:totosh Kolab self-hosting]]
+
