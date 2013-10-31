@@ -42,7 +42,7 @@ I mean that it should work without requiring non-free software.
 
 And here comes the Dell XPS 13.
 
-# Dell XPS 13 with Ubuntu: wireless issues with <code>Qualcomm Atheros AR9462 Wireless Network Adapter</code>
+# Dell XPS 13 Ubuntu: wireless issues with Qualcomm Atheros AR9462
 
 Dell has launched a project to provide developers with a good
 laptop. I am not really a developer in my day-to-day life, but I
@@ -76,10 +76,10 @@ the setup process, hoping that the wireless connectivity does not
 drop too often, because the laptop is too thin to have an RJ45
 port as backup!
 
-[One thing that did not go well during the setup process, even
+<small>One thing that did not go well during the setup process, even
 though Ubuntu asked me for the keyboard layout, it sticked to
 QWERTY afterwards, making it quite painful to enter passwords and
-stuff.]
+stuff.</small>
 
 After the setup (which went very quickly), I decided to upgrade
 everything. Maybe that'll solve it… It didn't. Of course.
