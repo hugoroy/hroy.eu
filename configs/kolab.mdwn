@@ -12,6 +12,6 @@ To fix the error you have to change "null" in
 
     $rcmail_config['base_uri'] = '/iRony/';
 
-[[!meta title="Kolab server]]
+[[!meta title="Kolab server"]]
 [[!tag lang:en machine:totosh Kolab self-hosting]]
 
