@@ -1,0 +1,4 @@
+[[!meta title="pages tagged Dell-XPS-13"]]
+
+[[!inline pages="tagged(Dell-XPS-13)" actions="no" archive="yes"
+feedshow=10]]
