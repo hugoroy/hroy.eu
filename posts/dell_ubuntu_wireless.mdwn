@@ -9,15 +9,16 @@ not in control at all of the software that I use on my computers.
 
 As many users of GNU/Linux systems know, it's incredibly difficult
 to buy a decent laptop without being forced into buying Microsoft
-Windows on it, even if you don't want to use it. This is what we
-usually refer to as “the Windows tax.” These has two consequences:
+Windows, even if you don't want to use it. This is what we
+usually refer to as “the Windows tax.” This has two consequences:
 
  * we have to *pay* indirectly for a Microsoft Windows license
    fee through the manufacturer, and we do not even know how much
    it really costs us,
- * we get hardware that may or may not work be supported by the
-   Linux kernel out-of-the-box, resulting in wasting time to
-   adjust settings (or worse).
+
+ * we get hardware that *may or may not* be supported by the
+   Linux kernel out-of-the-box, which results in a waste of time
+   in settings adjustment (or worse).
 
 If you're looking for information on where to get hardware free of
 pre-installed proprietary software, FSFE volunteers maintain a
@@ -43,6 +44,8 @@ I mean that it should work without requiring non-free software.
 And here comes the Dell XPS 13.
 
 # Dell XPS 13 Ubuntu: wireless issues with Qualcomm Atheros AR9462
+
+[[!img http://i.dell.com/images/global/brand/ui/logo-wt-bl.png alt="Dell logo"]]
 
 Dell has launched a project to provide developers with a good
 laptop. I am not really a developer in my day-to-day life, but I
