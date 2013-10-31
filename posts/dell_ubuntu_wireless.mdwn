@@ -1,0 +1,113 @@
+[[!meta title="Dell XPS 13 with Ubuntu: wrong wireless chipset"]]
+[[!tag Dell-XPS-13 Ubuntu Windows_Tax Free_Software lang:en]]
+
+# The Windows Tax problem and free software
+
+At this point, you must have figured this out. I am a free
+software advocate. I think it's both painful and wrong when I'm
+not in control at all of the software that I use on my computers.
+
+As many users of GNU/Linux systems know, it's incredibly difficult
+to buy a decent laptop without being forced into buying Microsoft
+Windows on it, even if you don't want to use it. This is what we
+usually refer to as “the Windows tax.” These has two consequences:
+
+ * we have to *pay* indirectly for a Microsoft Windows license
+   fee through the manufacturer, and we do not even know how much
+   it really costs us,
+ * we get hardware that may or may not work be supported by the
+   Linux kernel out-of-the-box, resulting in wasting time to
+   adjust settings (or worse).
+
+If you're looking for information on where to get hardware free of
+pre-installed proprietary software, FSFE volunteers maintain a
+[list of Hardware Vendors](https://wiki.fsfe.org/Hardware%20Vendors).
+
+If you already bought a machine with Windows and want to get your
+money back, there's also tons of information on how to get a
+[Windows Tax Refund](https://wiki.fsfe.org/WindowsTaxRefund) (make
+sure to look at information [specific to your country](https://wiki.fsfe.org/WindowsTaxRefund#Information_for_specific_countries)).
+
+But getting your money back does not fully fix the problem and
+takes a lot of time (sometimes met with deception). Indeed, it
+does not resolve the hardware support issue in any way because it
+does not impact the manufacturers' sale, and it sure does not help
+to make demand of GNU/Linux grow on the market of pre-installed
+laptops.
+
+So obviously, one of the best strategy is to reward manufacturers
+that meet our demands and supply laptops with GNU/Linux
+pre-installed and good hardware support. By good hardware support,
+I mean that it should work without requiring non-free software. 
+
+And here comes the Dell XPS 13.
+
+# Dell XPS 13 with Ubuntu: wireless issues with <code>Qualcomm Atheros AR9462 Wireless Network Adapter</code>
+
+Dell has launched a project to provide developers with a good
+laptop. I am not really a developer in my day-to-day life, but I
+could certainly enjoy a good laptop as well ☺ 
+
+Especially, the [XPS 13 comes with Ubuntu](http://www.ubuntu.com/partners/dell/dellxps). 
+I have been told by Otto Kekäläinen (FSFE head in Finland!)
+there's even a custom linux kernel and all that. I could have a
+look at his XPS 13 while 
+[in Berlin last month](https://hroy.eu/posts/fsfe_ecm/ "Coming back from the first FSFE Coordinators Meeting")
+and it looked amazing.
+
+So I decided to get one, as I was [looking to
+replace](http://blogs.fsfe.org/hugo/2013/01/im-looking-for-a-new-laptop-suggestions/)
+the Thinkpad Edge that has been around me for the last 3 years
+(which I have not been very pleased with because of several
+hardware issues and not so helpful Lenovo customer relations). The
+only thing that was holding me on from buying the XPS 13 was the
+price. It's 50% more expensive than the budget I usually put into
+a laptop.
+
+About two weeks ago, I made up my mind and bought one. I got my
+hands on it today. And surprise! the wireless connection drops off
+momentarily here and then, something like every 10 minutes. And
+when I deactivate bluetooth using the Ubuntu menu in the top-right
+hand corner, the wifi drops as well (and it's super strange to get
+it back, I have not found the exact pattern that works).
+
+At this point, I was kind of surprised. But well, I go on with
+the setup process, hoping that the wireless connectivity does not
+drop too often, because the laptop is too thin to have an RJ45
+port as backup!
+
+[One thing that did not go well during the setup process, even
+though Ubuntu asked me for the keyboard layout, it sticked to
+QWERTY afterwards, making it quite painful to enter passwords and
+stuff.]
+
+After the setup (which went very quickly), I decided to upgrade
+everything. Maybe that'll solve it… It didn't. Of course.
+
+So I opened the terminal, and
+
+<pre class="terminal">
+<code>$ lspci
+Network controller: Atheros Communications Inc. AR9462 Wireless Network Adapter</code>
+</pre>
+
+Why. Oh, why Dell? Why are you doing this to me? The [original
+page](http://www.dell.com/fr/entreprise/p/xps-13-linux/pd)
+where I bought the laptop from states quite clearly:
+
+> Intel® Centrino® Advanced-N 6230 802.11 a/g/n 
+
+Having a quick look around and searching, I see that I'm not the
+only one who got a different wireless chipset than the one
+announced by Dell. I wouldn't care so much if it were working
+out-of-the-box after updating. But it doesn't!
+
+And No, I don't want to fix it myself. The reason why I'm buying a
+pre-installed GNU/Linux computer in the first place is to make
+sure everything is perfectly supported!
+
+I'm now trying to get mine exchanged for the Intel Centrino
+wireless card…  But of course, tomorrow is a holiday.
+
+Well, maybe it's for the best. I am not supposed to tweak my
+laptop these days: the bar exam orals are approaching!
