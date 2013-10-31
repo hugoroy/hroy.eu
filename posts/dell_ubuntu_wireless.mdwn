@@ -45,9 +45,7 @@ And here comes the Dell XPS 13.
 
 # Dell XPS 13 Ubuntu: wireless issues with Qualcomm Atheros AR9462
 
-<aside class="pull-right">
-[[!img logo-wt-bl.png alt="Dell logo"]]
-</aside>
+[[!img logo-wt-bl.png alt="Dell logo" class="pull-right"]]
 
 Dell has launched a project to provide developers with a good
 laptop. I am not really a developer in my day-to-day life, but I
