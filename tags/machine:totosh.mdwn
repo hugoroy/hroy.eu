@@ -1,8 +1,5 @@
 
 [[!meta title="Totosh"]]
-<aside  class="pull-right">[[!img toshiba-tecra.jpg alt="picture of toshiba tecra"]]</aside>
-
-This machine is setup primarily for my personal email, using [[!taglink Kolab]] since October 2013. It is accessed through <https://totosh.ampoliros.net>
 
 [[!inline pages="tagged(machine:totosh)" actions="no" archive="yes"
 feedshow=10]]
