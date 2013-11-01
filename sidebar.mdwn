@@ -9,6 +9,5 @@
 <li>[[Elsewhere|planet]]</li>
 <li>[[Posts]]</li>
 <li>[[Tips]]</li>
-<li>[[Tags]]
-<!--[[!pagestats style="list" pages="./tags/*" among="*"]]--></li>
+<li>[[Tags]]</li>
 </ul>
