@@ -1,8 +1,10 @@
-<div <TMPL_IF ID>id="<TMPL_VAR ID ESCAPE=HTML>"</TMPL_IF> class="feedlink pull-right">
+<div <TMPL_IF ID>id="<TMPL_VAR ID ESCAPE=HTML>"</TMPL_IF> class="subscribers pull-right">
+<span class="btn btn-xs btn-warning">Subscribe to feed&#160;:
 <TMPL_IF RSSURL>
-<a class="feedbutton btn btn-xs btn-warning" type="application/rss+xml" rel="alternate" title="<TMPL_VAR RSSDESC>" href="<TMPL_VAR RSSURL>">RSS</a>
+<a class="feedbutton" type="application/rss+xml" rel="alternate" title="<TMPL_VAR RSSDESC>" href="<TMPL_VAR RSSURL>">RSS</a>
 </TMPL_IF>
 <TMPL_IF ATOMURL>
-<a class="feedbutton btn btn-xs btn-warning" type="application/atom+xml" rel="alternate" title="<TMPL_VAR ATOMDESC>" href="<TMPL_VAR ATOMURL>">Atom</a>
+<a class="feedbutton" type="application/atom+xml" rel="alternate" title="<TMPL_VAR ATOMDESC>" href="<TMPL_VAR ATOMURL>">Atom</a>
 </TMPL_IF>
+</span>
 </div>
