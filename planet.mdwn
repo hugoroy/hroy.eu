@@ -39,7 +39,6 @@ feed](http://hugoroy.eu/feed.rss) instead, or go to
 
 
 <div class="subscribers" style="float:left;">
-    <a class="btn btn-xs btn-info" title="Hugo’s blog (email
-    subscription)" href="http://feedburner.google.com/fb/a/mailverify?uri=hroyplanet&loc=en_US">Subscribe by email</a>
+    <a class="email feedbutton btn btn-xs btn-info" title="Hugo’s blog (email subscription)" href="http://feedburner.google.com/fb/a/mailverify?uri=hroyplanet&loc=en_US">Subscribe by email <i class="icon-envelope"></i></a>
 </div>
 [[!inline pages="internal(planet/*) and !*/Discussion" show=100]]
