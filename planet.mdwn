@@ -15,6 +15,14 @@ feed](http://hugoroy.eu/feed.rss) instead, or go to
 <http://hugoroy.eu/#blog>. If all this is TL;DR for you, I’ve got
 [[tweets and dents|tweets]].</small>
 
+
+<div class="subscribers" style="float:left;">
+    <a class="email feedbutton btn btn-xs btn-info" title="Hugo’s blog (email subscription)" href="http://feedburner.google.com/fb/a/mailverify?uri=hroyplanet&loc=en_US">Subscribe by email <i class="icon-envelope"></i></a>
+</div>
+[[!inline pages="internal(planet/*) and !*/Discussion" show=100]]
+
+## Sources
+
 - My posts from here: [[!aggregate name="posts" dir="planet"
   feedurl="http://hroy.eu/index.rss" url="http://hroy.eu"]]
 - My tips from here: [[!aggregate name="tips" dir="planet"
@@ -37,8 +45,3 @@ feed](http://hugoroy.eu/feed.rss) instead, or go to
   feedurl="http://gdata.youtube.com/feeds/base/users/HugoJRoy/uploads?alt=rss&v=2&orderby=published&client=ytapi-youtube-profile"
   url="http://www.youtube.com/user/HugoJRoy"]]
 
-
-<div class="subscribers" style="float:left;">
-    <a class="email feedbutton btn btn-xs btn-info" title="Hugo’s blog (email subscription)" href="http://feedburner.google.com/fb/a/mailverify?uri=hroyplanet&loc=en_US">Subscribe by email <i class="icon-envelope"></i></a>
-</div>
-[[!inline pages="internal(planet/*) and !*/Discussion" show=100]]
