@@ -6,6 +6,9 @@
 
 <h1 class="title" style="color: rgb(204,204,204)">You can’t do that online anymore!</h1>
 
+<div class="subscribers" style="float:left;">
+    <a class="btn btn-xs btn-info" title="Hugo’s blog (email subscription)" href="http://feedburner.google.com/fb/a/mailverify?uri=hroyblog&loc=en_US">Subscribe by email</a>
+</div>
 [[!inline pages="page(./posts/*) and !*/Discussion" show="10" actions=no]]
 
 If you’ve read until here, you should head to the full list of [[posts]].
