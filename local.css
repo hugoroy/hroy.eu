@@ -1000,4 +1000,11 @@ body#comments{margin:0;padding:0}
 .sidebar .nav>li>.selflink{position:relative;display:block;padding:10px 15px;color:#666}
 .sidebar .nav>li>.selflink:hover,.sidebar .nav>li>.selflink:focus{text-decoration:none;background-color:#eee}
 article aside.pull-right,article aside.pull-left{float:none !important}
+article h1,article .h1{font-size:2em}
+article h2,article .h2{font-size:1.6em}
+article h3,article .h3{font-size:1.3em}
+.inlinepage header{font-size:1.6em}
+.inlinepage h1,.inlinepage .h1{font-size:1.3em}
+.inlinepage h2,.inlinepage .h2{font-size:1.1em}
+.inlinepage h3,.inlinepage .h3{font-size:1em}
 @media (min-width:500px){article aside.pull-right{float:right !important} article aside.pull-left{float:left !important}}#blog-motto{color:#ccc}
