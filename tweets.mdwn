@@ -8,5 +8,6 @@ feedurl="https://pump2rss.com/feed/hugoroy@identi.ca.atom"
 url="https://identi.ca/hugoroy"
 updateinterval="15"]]
 
-[[!inline pages="internal(tweets/*) and !*/Discussion" show=55]]
+[[!inline pages="internal(tweets/*) and !*/Discussion" show=55
+template="microblog"]]
 
