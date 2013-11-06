@@ -165,6 +165,11 @@
 <TMPL_UNLESS DYNAMIC>
 <TMPL_IF HTML5><nav id="pageinfo"><TMPL_ELSE><div id="pageinfo"></TMPL_IF>
 
+<div class="pagedate">
+Last edited <TMPL_VAR MTIME> <a href="<TMPL_VAR HISTORYURL>">History</a>
+<!-- Created <TMPL_VAR CTIME> -->
+</div>
+
 <TMPL_VAR TRAILS>
 
 <TMPL_IF TAGS>
@@ -208,10 +213,6 @@ License: <TMPL_VAR LICENSE>
 </div>
 </TMPL_IF>
 
-<div class="pagedate">
-Last edited <TMPL_VAR MTIME> <a href="<TMPL_VAR HISTORYURL>">History</a>
-<!-- Created <TMPL_VAR CTIME> -->
-</div>
 
 <TMPL_IF HTML5></nav><TMPL_ELSE></div></TMPL_IF>
 <TMPL_IF EXTRAFOOTER><TMPL_VAR EXTRAFOOTER></TMPL_IF>
