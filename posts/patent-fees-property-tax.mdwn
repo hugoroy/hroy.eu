@@ -2,8 +2,9 @@
 
 There’s a constant debate when it comes to patents and copyright
 laws. Do they fit in a general category of property rights? Are
-they like property at all? [[!toggle  id="rms-cr" text="»"
-class="icon-chevron-right"]]
+they like property at all? [[!toggle  id="rms-cr" text="<i
+class="icon-chevron-right">[+]</i>"
+]]
 
 [[!toggleable  id="rms-cr" text="""
 I can’t hide that my opinion has been influenced by the writings
