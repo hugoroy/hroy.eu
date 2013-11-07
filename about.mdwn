@@ -28,7 +28,9 @@
     > This service will comply with court orders to turn over your
     > private information.
 
-  - Please keep the comments on-topic. I reserve the right to hide
+  - <span class="title" id="comment-policy">Comment policy</span>
+  
+    Please keep the comments on-topic. I reserve the right to hide
     the content of your comment in my own discretion. Feel free to
     send me replies from other corners of the Web, I will happily
     link to them.
