@@ -10,19 +10,20 @@ programs because they are linked to a contact list already.
 However, for those of us using mutt, there's no full contact
 integration so you need to rely on something else.
 
-One obvious solution is to to rely on a mail indexer to search and
+One obvious solution is to rely on a mail indexer to search and
 find addresses in emails from the past. If you use mu, [here's how 
 Karsten does it](http://blogs.fsfe.org/gerloff/2013/11/07/address-lookup-in-mutt-with-mu/).
 
 However, that's not really helping if you have contact information
-from multiple sources (e.g. typing somebody's email address you
-just met AFK). This is where a contact server is handy.
+from multiple sources (e.g. typing on your mobile the email
+address of somebody you just met AFK). This is where a contact
+server is handy.
 
 ----
 
 If you use Google's contacts, you can use [goobook] it works well
 but it's quite slow IMHO. And obviously, the problem is that you
-have given up all your contact list to Google.
+have given up your whole contact list to Google.
 
 [goobook]: https://pypi.python.org/pypi/goobook/1.4alpha4#mutt
 
@@ -36,7 +37,7 @@ With [Kolab 3.1] comes a CardDav/CalDav/webDav server!  Version
   - When I set up Kolab 3.1 before the official release, I got a
     packaging bug in CentOS, but [it's easy to fix](http://source.hroy-eu.branchable.com/?p=source.git;a=blob_plain;f=configs/kolab.mdwn;hb=7581e11fef10a7f7d01ac5f718b3f65178b0fd7c).
 
-  - The *Dav server are located at <https://kolab.example.org/iRony>.
+  - The *Dav server is located at <https://kolab.example.org/iRony>.
     Now, you need to find how to link to a specific addressbook. I
     tried to have a look at the Roundcube interface, for a folder
     id or something, but I could not find any that was working.
@@ -68,7 +69,6 @@ month:
 
     <pre class="terminal"><code>% pc_query hugo
 searching for hugo...
-
 Name: Hugo Roy
 TEL (CELL): +...
 EMAIL (INTERNET\, WORK): hugo at fsfe dot org</code></pre>
@@ -82,5 +82,5 @@ I just added this to my [~/.muttrc](https://github.com/hugoroy/.mutt):
 
 That way, in mutt, just type ‘Q’ to search for a contact. Or you
 can also press ‘m’ to start a new message, start typing in the
-‘To:’ field the name of your contact and just press <Tab> to have
+‘To:’ field the name of your contact and just press [Tab] to have
 autocompletion!
