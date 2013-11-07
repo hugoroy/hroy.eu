@@ -77,10 +77,28 @@ article.inlinepage {
     padding: 0 1em;
 }
 
-.inlinepage {
-    h1, h2, h3, h4, h5, h6 {
-        font-family: "Roboto", Roboto, "Open Sans","OpenSans", "DejaVu Sans", sans-serif;
+#comments {
+    margin-top: 4em;
+
+    .subscribers:before {
+        content: "Comments ";
+        font-size: 1.1em;
+        font-weight: bold;
+        color: rgb(154, 154, 154);
+        font-family: "Cantarell", sans-serif;
+        float: left;
     }
+
+    .comment {
+        border: 0;
+        margin-bottom: 2em;
+    }
+    .comment-header {
+        font-weight: 500;
+    }
+}
+
+.inlinepage {
 }
 
 .feedbutton {
