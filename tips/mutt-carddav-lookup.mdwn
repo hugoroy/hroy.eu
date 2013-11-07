@@ -46,6 +46,10 @@ With [Kolab 3.1] comes a CardDav/CalDav/webDav server!  Version
     server) to the iRony folder, and then just navigate to find
     the addressbook identifier (look in the address bar!)
 
+Hopefully, this will soon [not be needed any longer](https://issues.kolab.org/show_bug.cgi?id=2488).
+There will be a "Show address book URL" setting directly in
+Roundcube's contacts menu.
+
 # Sync your CardDav addressbook with pyCardDAV
 
 Now install [pyCardDav] which just landed on Debian last
