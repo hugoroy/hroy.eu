@@ -56,7 +56,7 @@ month:
 <pre class="terminal"><code># apt-get install pycarddav</code></pre>
 
   - Sync pycarddav after you entered the Kolab addressbook
-    resource in the config file with <code>pycardsyncr</code>
+    resource in the config file with <code>pycardsyncer</code>
 
     I advise you run this with <code>--debug</code> to make sure
     that it does not get stuck in case you have some illegal
