@@ -1,4 +1,4 @@
 [[!meta title="Hugo Roy - April"]]
 
-[[!inline pages="(tagged(fsfe) or tagged(april.org) or
-tagged(free_software) or tagged(technology) or tagged(patent) or page(./tips/*)) and tagged(lang:fr) and !*/Discussion" actions="no" archive="yes" feedshow=10]]
+[[!inline pages="(tagged(fsfe) or tagged(april.org) or tagged(free_software) or tagged(technology) or tagged(patent) or page(tips/*)) and tagged(lang:fr) and !*/Discussion" actions="no" archive="yes" feedshow=10]]
+
