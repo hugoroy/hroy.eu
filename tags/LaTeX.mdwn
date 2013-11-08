@@ -1,0 +1,4 @@
+[[!meta title="pages tagged LaTeX"]]
+
+[[!inline pages="tagged(LaTeX)" actions="no" archive="yes"
+feedshow=10]]
