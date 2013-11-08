@@ -1,0 +1,4 @@
+[[!meta title="pages tagged GNU"]]
+
+[[!inline pages="tagged(GNU)" actions="no" archive="yes"
+feedshow=10]]
