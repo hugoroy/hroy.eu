@@ -7,7 +7,8 @@ direction GNOME is taking. I can't wait to see GNOME 3.10 with the
 high-resolution display capabilities!
 
 So I opened one of the GNOME application that I use the most (and
-I have been using it for, what? 3-4 years?): [Empathy].
+I have been using it for, what? 3-4 years?): [Empathy]. But this
+upgrade has got me wondering: do GNOME designers use it?
 
 [Empathy]: https://live.gnome.org/Empathy
 
