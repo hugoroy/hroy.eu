@@ -986,6 +986,7 @@ article.inlinepage{border:0;margin:1em 0 10em 0}
 #comments .comment{border:0;margin-bottom:2em}
 #comments .comment-header{font-weight:500}
 #comments a.terms{color:#9a9a9a;font-size:.9em;vertical-align:middle;padding:0 .5em}
+#footer .contact{margin-top:1em}
 .feedbutton{font-family:"Roboto",Roboto,"Open Sans","OpenSans","DejaVu Sans",sans-serif;margin-top:.5em}
 .feedlink.pull-right{float:none !important}
 @media (min-width:700px){.feedlink.pull-right{float:right !important}}[id^="fnref:"].footnote,[id*=" fnref:"].footnote{vertical-align:super;font-size:.8em;line-height:.7em}
