@@ -1,3 +1,3 @@
 [[!meta title="Posts to the FSFE planets"]]
 
-[[!inline pages="(tagged(fsfe) or tagged(free_software) or tagged(technology) or tagged(patent) or page(./tips/*)) and !*/Discussion" actions="no" archive="yes" feedshow=10]]
+[[!inline pages="(tagged(fsfe) or tagged(free_software) or tagged(GNOME) or tagged (GNU) or tagged(Linux) or tagged(technology) or tagged(patent) or page(./tips/*)) and !*/Discussion" actions="no" archive="yes" feedshow=10]]
