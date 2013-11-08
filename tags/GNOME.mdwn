@@ -1,0 +1,4 @@
+[[!meta title="pages tagged GNOME"]]
+
+[[!inline pages="tagged(GNOME)" actions="no" archive="yes"
+feedshow=10]]
