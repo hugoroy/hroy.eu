@@ -1,0 +1,29 @@
+[[!meta title="Suggestion for a GNU/Linux install process"]]
+[[!tag LaTeX GNU Linux]]
+
+[[!img Facepalm666.png]]
+
+This morning, I wasted a bit less than an hour solving problems
+with an <code>apt-get dist-upgrade</code>.
+
+The problem? I ran out of space on the /root partition while
+depackaging the upgrade, causing some problems because following
+packages could not be extracted properly and so on. I'm not
+entirely sure I get everything about what went wrong exactly. Hey,
+I'm not a Debian packaging expert!
+
+Anyhow, it's easy to spot the factor here: texlive.
+
+TeXlive is a full TeX distribution. So it's massive, it's huge.
+TeX is so old, maybe that's why (or maybe because it's big because
+it's literate programming? No idea.)
+
+So, small suggestion for the installers out there:
+
+At the step where the user chooses the /root partition size, maybe
+ask the question: “Are you going to use LaTeX on that system?” and
+if yes, increase the size!
+
+(OK, I'm kidding, I should know better. Still, it would be helpful
+to use as much as the default settings from GNU/Linux installs as
+possible. Because I trust them to make more sense than I will.)
