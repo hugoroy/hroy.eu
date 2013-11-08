@@ -3,16 +3,16 @@
 
 [[!img Facepalm666.png]]
 
-This morning, I wasted a bit less than an hour solving problems
-with an <code>apt-get dist-upgrade</code>.
+This morning, I wasted a bit less than an hour solving errors
+during an <code>apt-get dist-upgrade</code>.
 
 The problem? I ran out of space on the /root partition while
-depackaging the upgrade, causing some problems because following
+depackaging the upgrade, causing some issues because following
 packages could not be extracted properly and so on. I'm not
 entirely sure I get everything about what went wrong exactly. Hey,
 I'm not a Debian packaging expert!
 
-Anyhow, it's easy to spot the factor here: texlive.
+Anyway, it's easy to spot the factor here: texlive.
 
 TeXlive is a full TeX distribution. So it's massive, it's huge.
 TeX is so old, maybe that's why (or maybe because it's big because
