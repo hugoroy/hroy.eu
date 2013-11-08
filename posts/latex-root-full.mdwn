@@ -1,5 +1,5 @@
 [[!meta title="Suggestion for a GNU/Linux install process"]]
-[[!tag LaTeX GNU Linux]]
+[[!tag LaTeX GNU Linux lang:en]]
 
 [[!img Facepalm666.png]]
 
