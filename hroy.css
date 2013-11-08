@@ -946,7 +946,7 @@ h1,h2,h3,.h1,.h2,.h3{font-weight:500;letter-spacing:-0.02em;word-spacing:.1em}
 body.roman article{font-size:1.4em;font-family:"EB Garamond","Garamond Premier Pro","Garamond",Georgia,serif}body.roman article p,body.roman article h1,body.roman article h2,body.roman article h3,body.roman article .h1,body.roman article .h2,body.roman article .h3{font-family:"EB Garamond","Garamond Premier Pro","Garamond",Georgia,serif;max-width:666px}
 body.roman article p{font-size:1.1em}
 pre,code{font-family:"Inconsolata",Monaco,Menlo,Consolas,"Courier New",monospace}
-img{max-width:100%}
+img{max-width:100%;height:auto}
 .collapser{cursor:pointer;opacity:.5}
 #ma-tete{border-width:2px;border-style:solid;border-radius:50%;width:52px;height:52px;box-shadow:0 0 .5em rgba(0,0,0,0.3)}
 aside{font-size:.9em}
