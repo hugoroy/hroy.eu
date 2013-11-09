@@ -1,0 +1,12 @@
+[[!comment format=mdwn
+ username="hugo"
+ ip="82.66.209.187"
+ subject="Non-free kernel?"
+ date="2013-11-09T11:10:47Z"
+ content="""
+I thought it could run with entirely free software! What about the [sputnik kernel](https://launchpad.net/~canonical-hwe-team/+archive/sputnik-kernel)? Are you saying there are also issues with the intel wireless chip? 
+
+I can’t believe it!
+
+(And yes, I intend to run Debian on it in the future, as soon as there's GNOME 3.10 support)
+"""]]
