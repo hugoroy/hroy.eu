@@ -7,7 +7,4 @@ template="microblog"]]
  * Twitter: [[!aggregate name="@hugoroyd" dir="tweets" 
 feedurl="https://alpha-api.app.net/feed/rss/users/133334/posts"
 url="https://twitter.com/hugoroyd" updateinterval="15"]]
- * identi.ca: [[!aggregate  name="@hugoroy" dir="tweets"
-feedurl="https://pump2rss.com/feed/hugoroy@identi.ca.atom"
-url="https://identi.ca/hugoroy"
-updateinterval="15"]]
+
