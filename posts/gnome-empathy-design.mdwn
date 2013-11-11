@@ -74,3 +74,13 @@ With the same screen estate, Empathy would be able to show 4
 connected people at the same time, instead of 16. Combine this
 with a group view, and you've got a decent way to see who's
 online; which is what the list view is for, right?
+
+----
+
+*Update*: I opened an issue about this
+<https://bugzilla.gnome.org/show_bug.cgi?id=711667>.
+
+And apparently, GNOME is exploring other designs for the Chat
+application: <https://wiki.gnome.org/Design/Apps/Chat>. But that
+still seems like a long way to go, while my proposal seems like a
+quick fix.
