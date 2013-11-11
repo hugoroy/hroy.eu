@@ -144,6 +144,8 @@
 <TMPL_VAR CONTENT>
 <TMPL_IF HTML5></section><TMPL_ELSE></div></TMPL_IF>
 
+<TMPL_VAR TRAILS>
+
 <TMPL_UNLESS DYNAMIC>
 <TMPL_IF COMMENTS>
 <TMPL_IF HTML5><section id="comments"><TMPL_ELSE><div id="comments"></TMPL_IF>
@@ -174,8 +176,6 @@
 Last edited <TMPL_VAR MTIME> <a href="<TMPL_VAR HISTORYURL>">History</a>
 <!-- Created <TMPL_VAR CTIME> -->
 </div>
-
-<TMPL_VAR TRAILS>
 
 <TMPL_IF TAGS>
 <TMPL_IF HTML5><nav class="tags"><TMPL_ELSE><div class="tags"></TMPL_IF>
