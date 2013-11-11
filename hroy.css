@@ -943,7 +943,7 @@ th.visible-print,td.visible-print{display:none !important}
 a:hover,a:active,a:focus{text-decoration:none;color:#d9261c;transition-property:color;transition-duration:.5s;transition-timing-function:ease-out}
 a:focus{outline:1px dashed rgba(51,51,51,0.5)}
 h1,h2,h3,.h1,.h2,.h3{font-weight:500;letter-spacing:-0.02em;word-spacing:.1em}
-body.roman article{font-size:1.4em;font-family:"EB Garamond","Garamond Premier Pro","Garamond",Georgia,serif}body.roman article p,body.roman article h1,body.roman article h2,body.roman article h3,body.roman article .h1,body.roman article .h2,body.roman article .h3{font-family:"EB Garamond","Garamond Premier Pro","Garamond",Georgia,serif;max-width:666px}
+body.roman article{font-size:1.4em;font-family:"EB Garamond","Garamond Premier Pro","Garamond",Georgia,serif}body.roman article p,body.roman article h1,body.roman article h2,body.roman article h3,body.roman article .h1,body.roman article .h2,body.roman article .h3,body.roman article .trails{font-family:"EB Garamond","Garamond Premier Pro","Garamond",Georgia,serif;max-width:666px}
 body.roman article p{font-size:1.1em}
 pre,code{font-family:"Inconsolata",Monaco,Menlo,Consolas,"Courier New",monospace}
 img{max-width:100%;height:auto}
@@ -951,7 +951,7 @@ img{max-width:100%;height:auto}
 #ma-tete{border-width:2px;border-style:solid;border-radius:50%;width:52px;height:52px;box-shadow:0 0 .5em rgba(0,0,0,0.3)}
 aside{font-size:.9em}
 #searchform{position:relative;top:0;right:0;bottom:0}
-@media (max-width:400px){.sidebar{float:none}}@media (min-width:700px){#pagebody,#footer.pagefooter{margin:0 0 0 220px} #searchform{position:fixed;top:90%;bottom:20px;width:180px;left:.5em}}@media (min-width:1300px){#pagebody,#footer.pagefooter{margin:0 0 0 320px} #searchform{left:2.5em}}@media (min-width:1500px){#pagebody,#footer.pagefooter{margin:0 0 0 440px} #searchform{left:5em}}article p,.inlinepage p,article h1,.inlinepage h1,article h2,.inlinepage h2,article h3,.inlinepage h3,article h4,.inlinepage h4,article h5,.inlinepage h5,article h6,.inlinepage h6{max-width:666px}
+@media (max-width:400px){.sidebar{float:none}}@media (min-width:700px){#pagebody,#footer.pagefooter{margin:0 0 0 220px} #searchform{position:fixed;top:90%;bottom:20px;width:180px;left:.5em}}@media (min-width:1300px){#pagebody,#footer.pagefooter{margin:0 0 0 320px} #searchform{left:2.5em}}@media (min-width:1500px){#pagebody,#footer.pagefooter{margin:0 0 0 440px} #searchform{left:5em}}article p,.inlinepage p,article h1,.inlinepage h1,article h2,.inlinepage h2,article h3,.inlinepage h3,article h4,.inlinepage h4,article h5,.inlinepage h5,article h6,.inlinepage h6,article .trails,.inlinepage .trails{max-width:666px}
 article p,.inlinepage p{margin:0 0 1.1em;font-size:1.11em;line-height:140%;-moz-hyphens:auto;-webkit-hyphens:auto;-ms-hyphens:auto;-o-hyphens:auto;hyphens:auto}
 article dt,.inlinepage dt{margin-top:1em}
 article h1,.inlinepage h1,article .h1,.inlinepage .h1,article h2,.inlinepage h2,article .h2,.inlinepage .h2,article h3,.inlinepage h3,article .h3,.inlinepage .h3,article header,.inlinepage header{font-family:"Cantarell",sans-serif;font-weight:bold}
@@ -982,6 +982,8 @@ article.inlinepage{border:0;margin:1em 0 10em 0}
 #pagebody{padding:0 1em}
 .pagedate.published{display:none}
 #pageinfo{border-color:#ccc;padding:0 1em}
+.trails{margin-top:2em;color:#ccc}.trails a{color:#999}
+.trails .trailup{visibility:hidden}
 #comments{margin-top:4em}#comments .subscribers:before{content:"Comments";display:inline-block;margin:0 1em 0 0;font-size:1.2em;font-weight:bold;color:#9a9a9a;font-family:"Cantarell",sans-serif}
 #comments .comment{border:0;margin-bottom:2em}
 #comments .comment-header{font-weight:500}
