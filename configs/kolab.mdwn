@@ -1,3 +1,10 @@
+# ActiveSync
+
+I found that ActiveSync did not work very reliably for me.
+Moreover, for some odd reason, Kolab did not come with <code>mod_ssl</code>
+installed, so you need to install it yourself and to set it up in
+Apache.
+
 # CardDav and CalDav server
 
 After [setting up Kolab 3.1](/posts/kolab_up/), which includes a
