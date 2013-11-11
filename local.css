@@ -982,7 +982,8 @@ article.inlinepage{border:0;margin:1em 0 10em 0}
 #pagebody{padding:0 1em}
 .pagedate.published{display:none}
 #pageinfo{border-color:#ccc;padding:0 1em}
-.trails{color:#ccc}.trails a{color:#999}
+.trails{color:#666}.trails a:link{color:#999}
+.trails a:visited{color:#ccc}
 .trails .trail{margin-left:2em}
 .trails .trailup{visibility:hidden}
 #comments{margin-top:4em}#comments .subscribers:before{content:"Comments";display:inline-block;margin:0 1em 0 0;font-size:1.2em;font-weight:bold;color:#9a9a9a;font-family:"Cantarell",sans-serif}
