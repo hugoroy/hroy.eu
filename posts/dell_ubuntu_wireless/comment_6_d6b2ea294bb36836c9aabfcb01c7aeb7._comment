@@ -7,10 +7,10 @@
 Sputnik is based on the classical linux kernel not on the 100% free one...
 
 When I bought my laptop, I looked at the Trisquel forum to search if someone already tried it it and I discovered this post :
-https://trisquel.info/fr/forum/dell-xps-13
+<https://trisquel.info/fr/forum/dell-xps-13>
 
 So I searched a bit and it looks like that the intel chips uses a free driver but needs some non free firmware :
-https://wiki.debian.org/InstallingDebianOn/Dell/Dell%20XPS%2013
+<https://wiki.debian.org/InstallingDebianOn/Dell/Dell%20XPS%2013>
 
 So you will be able to install Debian but only with the non free installer. 
 I'm sure you are as disappointed as I was when I discovered it. :/
