@@ -1,0 +1,38 @@
+[[!meta title="Using roundcube for mailto: links"]]
+[[!tag Firefox Kolab Roundcube lang:en]]
+
+It’s quite annoying when you click somebody's name or email on a
+web page and that [[!taglink Firefox]] cannot figure out how to rely on your
+system preferences to send an email.
+
+For instance, my system is set up so that when I click on an email
+address or mailto: link anywhere, gnome-terminal opens up with
+mutt ready to send an email. For some reason, Firefox tries to
+figure out all by itself which program I should use.
+
+I have tried to make Firefox use gnome-terminal with [[!taglink mutt]], but it
+didn’t work. However, it's possible to add your own webmail there
+(for some reason, I could choose between Yahoo Mail, Gmail and
+Mykolab.com but I can't remember how I did that). Now that I have
+my own [[!taglink Kolab]] instance with roundcube, I decided to add my own
+webmail there. Unfortunately, it seems there's no way from the
+graphical interface, so I went straight to:
+<code>~/.mozilla/firefox/iceweaselprofile.hugo/mimeTypes.rdf</code>.
+
+It's quite a big file FWIW (885 lines here). I did not have a look
+at the details, but hopefully just adding this helps (for the
+second block, make sure to merge with existing mailto handlers):
+
+    <RDF:Description RDF:about="urn:handler:web:https://kolab.example.org/roundcubemail/?_task=mail&amp;_action=compose&amp;_to=%s"
+           NC:prettyName="Kolab Groupware"
+           NC:uriTemplate="https://kolab.example.org/roundcubemail/?_task=mail&amp;_action=compose&amp;_to=%s" />
+
+    <RDF:Description RDF:about="urn:scheme:handler:mailto"
+           NC:alwaysAsk="true">
+        <NC:possibleApplication
+        RDF:resource="urn:handler:web:https://kolab.example.org/roundcubemail/?_task=mail&amp;_action=compose&amp;_to=%s"/>
+    </RDF:Description>
+
+(Just replace <https://kolab.example.org/roundcubemail/> with
+your own Roundcube location. And of course, if you don't use
+Kolab replace "Kolab Groupware" by whatever.)
