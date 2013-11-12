@@ -1,0 +1,12 @@
+[[!comment format=mdwn
+ username="hugo"
+ ip="82.66.209.187"
+ subject="Thanks!"
+ date="2013-11-12T17:23:26Z"
+ content="""
+Thanks for the info! The debian wiki shows that the touchpad may also need the dell kernel… It’s amazing that an OEM can ship something that requires so much configuration from the user!
+
+If the new wireless chip can be used with free software only, it’s great. But so far my experience was that it’s not working properly… Well, I guess I'll try to fix the issue myself.
+
+I'm left to wonder why the hell I’m buying a laptop with a GNU Linux distro preinstalled if I'm left having to spend as much time as with any machine to make it work the way it should with GNU Linux. What are Dell and Canonical doing?!
+"""]]
