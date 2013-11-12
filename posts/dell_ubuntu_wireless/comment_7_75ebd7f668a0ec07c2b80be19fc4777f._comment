@@ -1,0 +1,15 @@
+[[!comment format=mdwn
+ ip="86.212.56.148"
+ claimedauthor="Cryptie"
+ subject="your wrong chip may be a good one ?"
+ date="2013-11-12T08:28:39Z"
+ content="""
+As the only non free things needed is linked to the intel chip, I just looked whether the atheros has the same problem.
+
+The wrong chip you get seems to work on the libre kernel :
+http://h-node.org/wifi/view/en/763/Atheros-Communications-Inc--AR9462-Wireless-Network-Adapter--rev-01-
+
+I don't know what you'll decide but... you may want to find a solution to make it works instead of changing it ;)
+
+Have a nice day ^^
+"""]]
