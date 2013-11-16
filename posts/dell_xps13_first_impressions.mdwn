@@ -1,0 +1,97 @@
+[[!meta title="First impressions on the Dell XPS13"]]
+[[!tag lang:en Dell-XPS-13]]
+
+So, after I found out that Dell was selling one thing, but
+[delivering another], I decided to leave the new laptop for a bit.
+Anyway, right now is not the time to tweak settings and setups.
+
+[delivering another]: /posts/dell_ubuntu_wireless/
+
+So meanwhile, trying to have a reasonable conversation with Dell’s
+customer service, it seems that some basic rules of commerce need
+to be restated:
+
+  - when you advertise to sell something and somebody buys it,
+    you’re supposed to deliver the thing you advertised -- not
+    something else.
+
+  - in the event that you sell something else, at least make sure
+    the product you’re selling fulfils its functions
+      - in the case of a laptop that is too thin to have an RJ45
+        port, that means to ship a functioning wireless chipset!
+
+Dell France has been extremely unhelpful in fixing anything here.
+And well, their websites all over the web still advertise the
+Intel wireless chipset, without ever mentioning the Qualcomm
+Atheros. 
+
+So, being tired of wasting time with this, I decided to get a hold
+of that laptop, and see if the wireless issue was easily fixed.
+Fortunately meanwhile, cryptie shared [her comments] on her own
+XPS-13 and made me think twice before reclaiming an intel chipset.
+
+[her comments]: http://hroy.eu/posts/dell_ubuntu_wireless/#comment-83647c0fd7fef5436ae6ad74dafd2aa9
+
+Moreover, friends [in Finland] with the same issue pointed out to me
+a quick fix. However, I wholly agree with their update:
+
+[in Finland]: http://seravo.fi/2013/dell-xps-13-ubuntu-edition-first-impressions
+
+ > We found out that the in the new laptop shipped to us this fall
+ the Intel wifi card has been replaced with an Atheros wifi card,
+ which unfortunately does not have a proper Linux driver, thus the
+ connection issues. It seems Dell has been aware of Atheros wifi
+ card problems since July as a thread in the Dell support forum
+ shows, but still they ship the “downgraded” crappy model. With
+ some tweaking, you may or may not get the Atheros wifi model
+ working.
+ > 
+ > As the whole point of buying a pre-installed Linux laptop is to
+ get hardware that is guaranteed to work with Linux, we can no
+ longer recommend this laptop. It is a shame. Our earlier Dell XPS
+ 13 still works perfectly as it has the Intel wifi card.
+
+Dell, this is a shame. This is a real shame because the XPS-13 is
+a very good laptop. I have been using it the whole day, and I
+already prefer it over the thinkpad edge that I have been using
+for the last three years. The keyboard is very pleasant to type
+on, it’s also very lightweight (1.35 kgs) and it has some hardware
+features I’ve been looking forward to a lot (like keyboard
+lightning, now I can type in the shadow like a super-hacker!) Not
+to mention that the whole way your employees for France have dealt
+with the issue is a real disgrace. Wake up!
+
+* * *
+
+Anyway, for those of you who have the XPS-13 and experience issues
+with the “Network controller: Qualcomm Atheros AR9462 Wireless
+Network Adapter (rev 01)” here’s [what to do],
+
+[what to do]: http://en.community.dell.com/techcenter/os-applications/f/4613/t/19515554.aspx "See post by Chicochaz on 27 Aug 2013 4:33 PM"
+
+<pre class="terminal">
+<code>$ wget https://www.kernel.org/pub/linux/kernel/projects/backports/2013/06/18/backports-20130618.tar.xz
+$ tar xvf backports-20130618.tar.xz
+$ cd backports-20130618
+
+# make defconfig-ath9k
+# make -j3
+# make install
+# depmod -a
+# service network-manager stop
+# sleep 5
+# modprobe -r ath9k
+# modprobe ath9k
+# service network-manager start</code>
+</pre>
+
+You need to do the above every time the kernel is updated. BTW
+this does not fix all the issues with the wireless. Another very
+annoying problem is that I cannot disable bluetooth without the
+hardware messing up with wifi as well. (This is supposed to be
+[fixed] with the canonical ppa but it isn’t).
+
+[fixed]: https://bugs.launchpad.net/ubuntu/+source/linux/+bug/901410
+
+I'm looking forward to see how this machine is going to behave
+when I try different distros… (I’m considering Arch.)
