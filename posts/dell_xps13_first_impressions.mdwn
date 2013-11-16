@@ -1,13 +1,13 @@
 [[!meta title="First impressions on the Dell XPS13"]]
 [[!tag lang:en Dell-XPS-13]]
 
-So, after I found out that Dell was selling one thing, but
+After I found out that Dell was selling one thing, but
 [delivering another], I decided to leave the new laptop for a bit.
 Anyway, right now is not the time to tweak settings and setups.
 
 [delivering another]: /posts/dell_ubuntu_wireless/
 
-So meanwhile, trying to have a reasonable conversation with Dell’s
+Meanwhile, trying to have a reasonable conversation with Dell’s
 customer service, it seems that some basic rules of commerce need
 to be restated:
 
