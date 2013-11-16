@@ -18,7 +18,7 @@ to be restated:
   - in the event that you sell something else, at least make sure
     the product you’re selling fulfils its functions
       - in the case of a laptop that is too thin to have an RJ45
-        port, that means to ship a functioning wireless chipset!
+        port, that means delivering a supported wireless chipset!
 
 Dell France has been extremely unhelpful in fixing anything here.
 And well, their websites all over the web still advertise the
@@ -26,9 +26,11 @@ Intel wireless chipset, without ever mentioning the Qualcomm
 Atheros. 
 
 So, being tired of wasting time with this, I decided to get a hold
-of that laptop, and see if the wireless issue was easily fixed.
-Fortunately meanwhile, cryptie shared [her comments] on her own
-XPS-13 and made me think twice before reclaiming an intel chipset.
+of that laptop, and see if the wireless issue was easily fixed. I
+needed be done with it quickly to decide if I was going to persue
+with this, or just go for cancelling the whole sell, as cryptie
+shared [her comments] on her own XPS-13 and made me think twice
+before reclaiming an intel chipset.
 
 [her comments]: http://hroy.eu/posts/dell_ubuntu_wireless/#comment-83647c0fd7fef5436ae6ad74dafd2aa9
 
@@ -51,15 +53,17 @@ a quick fix. However, I wholly agree with their update:
  longer recommend this laptop. It is a shame. Our earlier Dell XPS
  13 still works perfectly as it has the Intel wifi card.
 
-Dell, this is a shame. This is a real shame because the XPS-13 is
-a very good laptop. I have been using it the whole day, and I
-already prefer it over the thinkpad edge that I have been using
-for the last three years. The keyboard is very pleasant to type
-on, it’s also very lightweight (1.35 kgs) and it has some hardware
-features I’ve been looking forward to a lot (like keyboard
-lightning, now I can type in the shadow like a super-hacker!) Not
-to mention that the whole way your employees for France have dealt
-with the issue is a real disgrace. Wake up!
+Dell, this is a shame. 
+
+This is a real shame because the XPS-13 is a very good laptop. I
+have been using it the whole day, and I already prefer it over the
+thinkpad edge that I have been using for the last three years. The
+keyboard is very pleasant to type on, it’s also very lightweight
+(1.35 kgs) and it has some hardware features I’ve been looking
+forward to a lot (like keyboard lightning, now I can type in the
+shadow like a super-hacker!) Not to mention that the whole way
+your employees for France have dealt with the issue is a real
+disgrace. Wake up!
 
 * * *
 
@@ -94,4 +98,4 @@ hardware messing up with wifi as well. (This is supposed to be
 [fixed]: https://bugs.launchpad.net/ubuntu/+source/linux/+bug/901410
 
 I'm looking forward to see how this machine is going to behave
-when I try different distros… (I’m considering Arch.)
+when I try different distros… (I’m considering Arch at the moment.)
