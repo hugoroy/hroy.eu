@@ -5,13 +5,21 @@
  date="2013-11-17T08:00:48Z"
  content="""
 Hi,
+
 I also bought this XPS13 from french DELL website, ran lspci to discover that they didn't ship the ultrabook with the  wireless card advertised on their Website, but the Atheros AR9462 instead.
 
-I have no problem to connect an open wifi network. But as soon as there is encryption, then instability problems arise. I upgraded to Ubuntu 13.10, and tried the solution mentioned on this website: https://dev.uabgrid.uab.edu/wiki/ExperiencesWithSputnik#WirelessIssues
+I have no problem to connect an open wifi network. But as soon as there is encryption, then instability problems arise. I upgraded to Ubuntu 13.10, and tried the solution mentioned on this website: <https://dev.uabgrid.uab.edu/wiki/ExperiencesWithSputnik#WirelessIssues>
 
 I don't know yet if it solved the problem (cause actually my sister is using it, in another country -bonjour les emmerdes-) I'll give your solution a try if she still experiences problems.
 
 Are you using Ubuntu 13.10 ? did you re-enabled DELL Sputnik PPA sources in Ubuntu 13.10 ? 
 
 Thank you to let us know about any update!! 
+
+PS : according to the most recent post on this thread, an update coming
+from DELL would have solve the issue :
+<http://en.community.dell.com/techcenter/os-applications/f/4613/t/19515554.aspx?pi22229=3>
+
+this is also related :
+<http://forums.opensuse.org/english/get-technical-help-here/wireless/490582-dell-xps-13-ultrabook-wireless-works-kernel-3-7-10-not-kernel-3-10-11-a.html>
 """]]
