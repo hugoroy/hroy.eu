@@ -1,0 +1,54 @@
+[[!meta title="Eben Moglen: privacy is ecological, not transactional"]
+[[!tag lang:en Eben_Moglen privacy ToS]]
+
+> Now I spoke last time of the way in which we can decompose
+“privacy,” the concepts that we float around under that word, into
+three more specific parts: First, secrecy: that is, our ability to
+have our messages understood only by those to whom we intend to
+send them. Second, anonymity: that is, our ability to send and
+receive messages, which may be public in their content, without
+revealing who said and who listened or read what was said. Third,
+autonomy: that is, the avoidance of coercion, interference, and
+intervention by parties who have violated either our secrecy or
+our anonymity and who are using what they have gained by those
+violations to control us.
+> 
+> I would ask you also—in thinking analytically about this substance
+“privacy” whose continuation I am asserting is essential to
+democracy’s survival—I would urge you also to consider that
+privacy is an ecological rather than a transactional substance.
+This is a crucial distinction from what you are taught to believe
+by the people whose job it is to earn off you.
+> 
+> Those who wish to earn off you want to define privacy as a thing
+you transact about with them, just the two of you. They offer you
+free email service, in response to which you let them read all the
+mail, and that’s that. It’s just a transaction between two
+parties. They offer you free web hosting for your social
+communications, in return for watching everybody look at
+everything. They assert that’s a transaction in which only the
+parties themselves are engaged.
+> 
+> This is a convenient fraudulence. Another misdirection,
+misleading, and plain lying proposition. Because—as I suggested in
+the analytic definition of the components of privacy—privacy is
+always a relation among people. It is not transactional, an
+agreement between a listener or a spy or a peephole keeper and the
+person being spied on.
+> 
+> If you accept this supposedly bilateral offer, to provide email
+service for you for free as long as it can all be read, then
+everybody who corresponds with you has been subjected to the
+bargain, which was supposedly bilateral in nature.
+>
+> <cite>Eben Moglen, <a
+href="http://snowdenandthefuture.info/PartIII.html" title="Snowden
+and the Future, part Ⅲ">The Union, May It Be Preserved</a></cite>
+
+I have became increasingly convinced that this analysis is right
+on. If you’re looking for evidence that the
+transactional/bilateral nature of privacy is a big lie, [look no]
+[further] than how Privacy Policies and Terms of Service are set up.
+
+[look no]: http://biggestlie.com
+[further]: http://tosdr.org
