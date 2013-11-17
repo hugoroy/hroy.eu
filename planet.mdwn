@@ -24,24 +24,24 @@ feed](http://hugoroy.eu/feed.rss) instead, or go to
 ## Sources
 
 - My posts from here: [[!aggregate name="posts" dir="planet"
-  feedurl="https://hroy.eu/index.rss" url="https://hroy.eu"]]
+  feedurl="http://hroy.eu/index.rss" url="https://hroy.eu"]]
 - My tips from here: [[!aggregate name="tips" dir="planet"
-  feedurl="https://hroy.eu/tips/index.rss"
+  feedurl="http://hroy.eu/tips/index.rss"
   url="https://hroy.eu/tips"]]
 - My blog at the Free Software Foundation Europe: [[!aggregate
   name="fsfe" dir="planet"
-  feedurl="https://blogs.fsfe.org/hugo/feed/"
+  feedurl="http://blogs.fsfe.org/hugo/feed/"
   url="https://blogs.fsfe.org/hugo/"]]
 - My previous blog: [[!aggregate name="blog.hugoroy.eu"
   dir="planet" feedurl="http://blog.hugoroy.eu/feed/"
   url="http://blog.hugoroy.eu/"]]
 - My pictures: [[!aggregate name="flickr" dir="planet"
-  feedurl="https://www.flickr.com/services/feeds/photos_public.gne?id=91392976@N05&format=rss_200"
+  feedurl="http://www.flickr.com/services/feeds/photos_public.gne?id=91392976@N05&format=rss_200"
   url="https://www.flickr.com/photos/hugoroyd"]]
 - My slideshows: [[!aggregate name="speakerdeck" dir="planet"
-  feedurl="https://speakerdeck.com/hugo.atom"
+  feedurl="http://speakerdeck.com/hugo.atom"
   url="https://speakerdeck.com/hugo"]]
 - My videos: [[!aggregate name="youtube" dir="planet"
-  feedurl="https://gdata.youtube.com/feeds/base/users/HugoJRoy/uploads?alt=rss&v=2&orderby=published&client=ytapi-youtube-profile"
+  feedurl="http://gdata.youtube.com/feeds/base/users/HugoJRoy/uploads?alt=rss&v=2&orderby=published&client=ytapi-youtube-profile"
   url="https://www.youtube.com/user/HugoJRoy"]]
 
