@@ -1,6 +1,10 @@
 [[!meta title="Eben Moglen: privacy is ecological, not transactional"]]
 [[!tag lang:en Eben_Moglen privacy ToS]]
 
+<aside class="pull-right">
+[[!img moglen.jpg]]
+</aside>
+
 > Now I spoke last time of the way in which we can decompose
 “privacy,” the concepts that we float around under that word, into
 three more specific parts: First, secrecy: that is, our ability to
@@ -41,14 +45,14 @@ service for you for free as long as it can all be read, then
 everybody who corresponds with you has been subjected to the
 bargain, which was supposedly bilateral in nature.
 >
-> <cite>Eben Moglen, <a
+> <cite>— Eben Moglen, <a
 href="http://snowdenandthefuture.info/PartIII.html" title="Snowden
 and the Future, part Ⅲ">The Union, May It Be Preserved</a></cite>
 
 I have became increasingly convinced that this analysis is right
 on. If you’re looking for evidence that the
-transactional/bilateral nature of privacy is a big lie, [look no]
-[further] than how Privacy Policies and Terms of Service are set up.
+transactional/bilateral nature of privacy is a big lie, [look no] [further] 
+than how Privacy Policies and Terms of Service are set up.
 
 [look no]: http://biggestlie.com
 [further]: http://tosdr.org
