@@ -1,7 +1,3 @@
-<!--[[!if test="enabled(calendar)" then="""
-[[!calendar pages="page(./posts/*) and !*/Discussion"]]
-"""]]-->
-
 <ul class="nav" role="menu">
 <li>[[& Elsewhere|planet]]</li>
 <li>[[Recent Comments|comments]]</li>
