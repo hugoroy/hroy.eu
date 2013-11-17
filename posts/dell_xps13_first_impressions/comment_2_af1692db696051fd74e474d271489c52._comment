@@ -10,11 +10,13 @@
 > tried the solution mentioned on this website:
 > <https://dev.uabgrid.uab.edu/wiki/ExperiencesWithSputnik#WirelessIssues>
 
-Yes another website… It’s incredible how little Dell or Canonical are doing in actually trying to solve the issue on the products they’re selling! Thanks for sharing that link, I did not have a look at that website. I did none of what’s described there for my chipset.
+Yet another website… It’s incredible how little Dell and Canonical are doing in actually trying to solve the issue on the products they’re selling! Thanks for sharing that link, I did not have a look at that website. I did none of what’s described there for my chipset.
 
 > Are you using Ubuntu 13.10 ? did you re-enabled DELL Sputnik PPA sources in
 > Ubuntu 13.10 ?
 
-I did not modify the PPA. I'm going tu upload them for future reference.
+I did not modify the PPA. 
+Here are [my APT lists].
 
+[my APT lists]: /configs/dell-xps-13/original-sources-list/
 """]]
