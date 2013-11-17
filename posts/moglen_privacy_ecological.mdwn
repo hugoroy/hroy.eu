@@ -1,4 +1,4 @@
-[[!meta title="Eben Moglen: privacy is ecological, not transactional"]
+[[!meta title="Eben Moglen: privacy is ecological, not transactional"]]
 [[!tag lang:en Eben_Moglen privacy ToS]]
 
 > Now I spoke last time of the way in which we can decompose
