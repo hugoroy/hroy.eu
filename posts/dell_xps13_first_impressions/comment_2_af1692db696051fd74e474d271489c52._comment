@@ -1,0 +1,20 @@
+[[!comment format=mdwn
+ ip="82.66.209.187"
+ claimedauthor="hugo"
+ url="http://hugoroy.eu/index.en.html"
+ subject="Re: XPS13 Atheros AR9462 "
+ date="2013-11-17T18:11:20Z"
+ content="""
+> I have no problem to connect an open wifi network. But as soon as there is
+> encryption, then instability problems arise. I upgraded to Ubuntu 13.10, and
+> tried the solution mentioned on this website:
+> <https://dev.uabgrid.uab.edu/wiki/ExperiencesWithSputnik#WirelessIssues>
+
+Yes another website… It’s incredible how little Dell or Canonical are doing in actually trying to solve the issue on the products they’re selling! Thanks for sharing that link, I did not have a look at that website. I did none of what’s described there for my chipset.
+
+> Are you using Ubuntu 13.10 ? did you re-enabled DELL Sputnik PPA sources in
+> Ubuntu 13.10 ?
+
+I did not modify the PPA. I'm going tu upload them for future reference.
+
+"""]]
