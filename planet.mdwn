@@ -5,17 +5,6 @@
 [[!inline pages=sidebar raw=yes]]
 """]]
 
-
-I’m trying to gather on this page all the posts I publish here
-and elsewhere.
-
-<small>If you’re not interested in exhaustivity but rather in
-hand-made curating, you might want to subscribe to [this rss
-feed](http://hugoroy.eu/feed.rss) instead, or go to
-<http://hugoroy.eu/#blog>. If all this is TL;DR for you, I’ve got
-[[tweets and dents|tweets]].</small>
-
-
 <div class="subscribers" style="float:left;">
     <a class="email feedbutton btn btn-xs btn-info" title="Hugo’s blog (email subscription)" href="http://feedburner.google.com/fb/a/mailverify?uri=hroyplanet&loc=en_US">Subscribe by email <i class="icon-envelope"></i></a>
 </div>
@@ -24,9 +13,9 @@ feed](http://hugoroy.eu/feed.rss) instead, or go to
 ## Sources
 
 - My posts from here: [[!aggregate name="posts" dir="planet"
-  feedurl="http://hroy.eu/index.rss" url="https://hroy.eu"]]
+  feedurl="http://hroy.eu/index.atom" url="https://hroy.eu"]]
 - My tips from here: [[!aggregate name="tips" dir="planet"
-  feedurl="http://hroy.eu/tips/index.rss"
+  feedurl="http://hroy.eu/tips/index.atom"
   url="https://hroy.eu/tips"]]
 - My blog at the Free Software Foundation Europe: [[!aggregate
   name="fsfe" dir="planet"
