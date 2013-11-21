@@ -12,7 +12,7 @@
 
 ## Sources
 
-- My posts from here: [[!aggregate name="posts" dir="timeline"
+- My posts from here: [[!aggregate name="blog" dir="timeline"
   feedurl="http://hroy.eu/index.atom" url="https://hroy.eu"]]
 - My tips from here: [[!aggregate name="tips" dir="timeline"
   feedurl="http://hroy.eu/tips/index.atom"
@@ -21,7 +21,7 @@
   name="fsfe" dir="timeline"
   feedurl="http://blogs.fsfe.org/hugo/feed/"
   url="https://blogs.fsfe.org/hugo/"]]
-- My previous blog: [[!aggregate name="blog.hugoroy.eu"
+- My previous blog: [[!aggregate name="blog"
   dir="timeline" feedurl="http://blog.hugoroy.eu/feed/"
   url="http://blog.hugoroy.eu/"]]
 - My pictures: [[!aggregate name="flickr" dir="timeline"
