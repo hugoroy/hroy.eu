@@ -6,10 +6,10 @@
 
 Mardi soir, Nicolas organisait le [2e
 MutterWare](https://blogs.fsfe.org/nicoulas/?p=151). Mais qu’est-ce que
-c’est que ça ?
+c’est que ça ?
 
 [Le MutterWare](https://wiki.fsfe.org/groups/Paris/Mutterware) est une
-réunion d’utilisateurs de Mutt qui veulent partager leurs bonnes
+réunion d’utilisateurs de [[!taglink Mutt]] qui veulent partager leurs bonnes
 pratiques et quelques astuces bien utiles. Les non-utilisateurs de mutt
 curieux sont bienvenus, surtout s’ils sont légèrement blasés de leur
 client email ☺
@@ -19,31 +19,31 @@ Le nom est inspiré directement du
 Paris.
 
 Pour cette deuxième édition, nous avons cette fois été invités à admirer
-les bureaux somptueux de Mozilla boulevard Montmartre. Voir la photo
-[prise par Yoann](https://blogs.fsfe.org/nicoulas/?p=151) :
+les bureaux somptueux de [[!taglink Mozilla]] boulevard Montmartre. Voir la photo
+[prise par Yoann](https://blogs.fsfe.org/nicoulas/?p=151) :
 
-[[!img IMAG0884.jpg alt="Mutterware" caption="Démonstration de Paul"]]
+[[!img IMAG0884.jpg alt="Mutterware" caption="Démonstration par Paul" size="666x398"]]
 
 Encore une fois, ce MutterWare était un bon mélange entre utilisateurs
 (très) expérimentés, et non-utilisateurs de Mutt curieux de voir comment
 fonctionne le machin et prêts à ouvrir leur terminal pour commencer à
-configurer la bête !
+configurer la bête !
 
-Quelques informations ont été ajoutées au wiki :
+Quelques informations ont été ajoutées au wiki de la [[!taglink FSFE]] :
 [https://wiki.fsfe.org/groups/Paris/Mutterware](https://wiki.fsfe.org/groups/Paris/Mutterware).
 
 Pour ma part, j’insisterai sur cette [très bonne page qui permet de
 démarrer sur Mutt](http://stevelosh.com/blog/2012/10/the-homely-mutt/).
 C’est en anglais mais c’est bien écrit. Cette page a cependant deux
-défauts à mon avis : elle se concentre sur l’usage à partir d’un serveur
+défauts à mon avis : elle se concentre sur l’usage à partir d’un serveur
 mail chez Google (or Gmail a des tas de particularités pas très
 orthodoxes) et elle se limite à un seul compte. Or je ne sais pas pour
-vous mais moi, j’ai deux comptes : l’un est plus, « personnel ».
+vous mais moi, j’ai deux comptes : l’un est plus, « personnel ».
 
 Enfin, la cerise sur le gâteau, c’est Emmanuel qui l’a apportée en me
 montrant l’outil [t-prot](http://www.escape.de/~tolot/mutt/), qui permet
 de nous débarrasser de toutes ces petites choses qui peuvent être
-désagréables dans le mail : les gens qui font des citations trop
+désagréables dans le mail : les gens qui font des citations trop
 longues, les gens qui font du
 [top-posting](https://en.wikipedia.org/wiki/Top-posting#Top-posting) ou
 encore les gens ont des signatures de 3 kilomètres. T-prot a aussi des
@@ -51,7 +51,7 @@ fonctions particulières pour Mutt, comme par exemple l’argument
 `--pgp-move` qui déplace les informations relatives aux signatures
 openPGP d’un email vers le bas, et non vers le haut comme c’est le cas
 par défaut, ce qui permet d’avoir accès plus directement au contenu du
-mail, sans avoir à scroller ! Plus d’infos sur la config T-prote
+mail, sans avoir à scroller ! Plus d’infos sur la config T-prote
 d’Emmanuel [sur le
 wiki](https://wiki.fsfe.org/groups/Paris/MutterwareConfigDisplayFilter).
 
@@ -61,7 +61,7 @@ que j’ai modifié les barres de statuts, retiré la barre d’aide, et
 remplacé quelques codes couleurs. Lire ses mails sur Mutt est encore
 plus plaisant qu’avant ☺
 
-À bientôt pour la 3e édition ! N’hésitez pas à vous inscrire sur la
+À bientôt pour la 3e édition ! N’hésitez pas à vous inscrire sur la
 liste fsfe Paris
 [https://lists.fsfe.org/mailman/listinfo/paris](https://lists.fsfe.org/mailman/listinfo/paris)
 ou à nous rejoindre sur irc
