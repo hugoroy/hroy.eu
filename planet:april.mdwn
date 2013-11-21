@@ -4,6 +4,6 @@
 
 Voir aussi:
 
-[[!aggregate name="Blog FSFE en français" dir="planet:april"
+[[!aggregate name="Blog FSFE en français" dir="blog-fsfe-fr"
 feedurl="http://blogs.fsfe.org/hugo/category/francais/feed/"
 url="https://blogs.fsfe.org/hugo/category/francais/" tag="lang:fr fsfe"]]
