@@ -44,7 +44,7 @@
 </head>
 <body><!-- id="<TMPL_VAR TITLE>"-->
 
-<TMPL_IF HTML5><article class="page"><TMPL_ELSE><div class="page"></TMPL_IF>
+<TMPL_IF HTML5><article class="page h-entry"><TMPL_ELSE><div class="page"></TMPL_IF>
 
 <TMPL_IF HTML5><section class="pageheader"><TMPL_ELSE><div class="pageheader"></TMPL_IF>
 <TMPL_IF HTML5><header class="header"><TMPL_ELSE><div class="header"></TMPL_IF>
@@ -55,7 +55,7 @@
 <a href="<TMPL_VAR URL>"><TMPL_VAR PAGE></a>/ 
 </TMPL_LOOP>
 </span>
-<span class="title">
+<span class="title p-name">
 <TMPL_VAR TITLE>
 <TMPL_IF ISTRANSLATION>
 &nbsp;(<TMPL_VAR PERCENTTRANSLATED>%)
@@ -136,11 +136,11 @@
 
 <div id="pagebody">
 
-<div class="pagedate published">
+<div class="pagedate published dt-published">
 <TMPL_VAR CTIME>
 </div>
 
-<TMPL_IF HTML5><section id="content"><TMPL_ELSE><div id="content"></TMPL_IF>
+<TMPL_IF HTML5><section id="content e-content"><TMPL_ELSE><div id="content"></TMPL_IF>
 <TMPL_VAR CONTENT>
 <TMPL_IF HTML5></section><TMPL_ELSE></div></TMPL_IF>
 
@@ -173,12 +173,12 @@
 </div>
 
 <div class="pagedate">
-Last edited <TMPL_VAR MTIME> <a href="<TMPL_VAR HISTORYURL>">History</a>
+Last edited <span class="dt-updated"><TMPL_VAR MTIME></span> <a href="<TMPL_VAR HISTORYURL>">History</a>
 <!-- Created <TMPL_VAR CTIME> -->
 </div>
 
 <TMPL_IF TAGS>
-<TMPL_IF HTML5><nav class="tags"><TMPL_ELSE><div class="tags"></TMPL_IF>
+<TMPL_IF HTML5><nav class="tags p-category"><TMPL_ELSE><div class="tags"></TMPL_IF>
 Tags:
 <TMPL_LOOP TAGS>
 <TMPL_VAR LINK>
