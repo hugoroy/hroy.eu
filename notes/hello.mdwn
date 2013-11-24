@@ -2,4 +2,5 @@ Hi, this is just a test note to see if I can use ikiwiki and then
 spread out to twitter and other things, following
 <http://indiewebcamp.com/POSSE>
 
-[Also on Twitter](https://twitter.com/hugoroyd)
+<a href="https://twitter.com/hugoroyd/status/404713756665839616"
+class="u-syndication pull-right" rel="syndication">Also on Twitter</a>
