@@ -1,2 +1,8 @@
 [[!meta title="Hugo’s notes"]]
-[[!inline pages="page(notes/*) and !*/Discussion" show=30 feedshow=20 template=microblog quick=yes postform=yes trail=no]]
+[[!if test="enabled(sidebar)" then="""
+[[!sidebar]]
+""" else="""
+[[!inline pages=sidebar raw=yes]]
+"""]]
+
+[[!inline pages="page(notes/*) and !*/Discussion" show=30 feedshow=20 template=microblog postform=yes trail=no]]
