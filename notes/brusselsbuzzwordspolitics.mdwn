@@ -5,5 +5,5 @@
 it's terribly important. (I'm not kidding you. #Brussels really
 works like this.)”
 
-<a href="#" class="u-syndication pull-right"
+<a href="https://twitter.com/hugoroyd/status/405742655336108032#" class="u-syndication pull-right"
 rel="syndication">Also on Twitter</a>
