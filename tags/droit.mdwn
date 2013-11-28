@@ -1,0 +1,4 @@
+[[!meta title="pages tagged droit"]]
+
+[[!inline pages="tagged(droit)" actions="no" archive="yes"
+feedshow=10]]
