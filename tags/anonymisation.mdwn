@@ -1,0 +1,4 @@
+[[!meta title="pages tagged anonymisation"]]
+
+[[!inline pages="tagged(anonymisation)" actions="no" archive="yes"
+feedshow=10]]
