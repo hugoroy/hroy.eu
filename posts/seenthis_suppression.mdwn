@@ -58,7 +58,7 @@ Faisons un bond en avant de 10 ans. Alice regrette profondément
 d’avoir tenu de tels propos à l’époque, ceux-ci lui causent un
 tort particulier. Non seulement Alice a changé d’avis (on a bien
 le droit après tout !) mais en plus le fait que cette discussion
-ait été rendue publiques par Charlie, administrateur de la liste
+ait été rendue publique par Charlie, administrateur de la liste
 ayant changé les règles d’accès aux archives, fait que le nom
 d’Alice remonte systématiquement en étant associé aux recherches
 sur Google concernant ce sujet.
@@ -94,12 +94,12 @@ sociologique, politique, que sais-je…).
 
 J’espère qu’à partir de ce moment, il est clair qu’il n’y a pas de
 solution forcément plus juste que les autres. En tout cas,
-j’aimerais maintenant abordé un argument qu’on retrouve dans ces
+j’aimerais maintenant aborder un argument qu’on retrouve dans ces
 discussions, et qui, à mon point de vue, est plutôt mauvais.
 
 * * *
 
-Quand on arrive à ces discussions, beaucoup d’utilisateurs
+Beaucoup d’utilisateurs
 prennent la position d’Alice et réclament en quelque sorte un
 droit sur les propos tenus. De quelle sorte de droit il s’agit en
 réalité, il est difficile de le cerner. 
@@ -111,7 +111,7 @@ supprimés réellement.
 
 Malheureusement, cette position ne permet de répondre à aucun des
 problèmes d’ordre plus collectif et en plus, cette position ne
-résout pas vraiment le problème:
+résout pas vraiment la situation individuelle d’Alice :
 
   - si on prend le problème d’un point de vue plus collectif
     qu’individuel, on voit bien que cet argument ne tient pas. En
