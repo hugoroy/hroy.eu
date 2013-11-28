@@ -4,7 +4,7 @@ in 2001, apple macbooks were black and totally badass! (with GNU
 Linux on it of course) [[!taglink #FSFE|FSFE]]
 
 [[!img 18.jpg size="666x500" caption="Bernhard, Free Software
-Foundation Europe,  2001]]
+Foundation Europe,  2001"]]
 
 <a href="https://twitter.com/hugoroyd/status/405998548392480768" rel="syndication" class="u-syndication pull-right">on
 Twitter</a>
