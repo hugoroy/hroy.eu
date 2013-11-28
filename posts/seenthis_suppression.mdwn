@@ -238,7 +238,7 @@ tout le monde soit content et puisse exploiter tout ce que le
 contenu a d’intéressant à offrir.
 
 On peut aussi imaginer de faire une sorte de relégation des propos
-si cela s’avère justifié. Par exemple, on pourrait appliqué une
+si cela s’avère justifié. Par exemple, on pourrait appliquer une
 sorte de « tag » indiquant que le message n’est plus approuvé par
 son auteur, on pourrait entre autres décider d’exclure le
 message des moteurs de recherche publics. Pour certains, cette
@@ -274,7 +274,7 @@ Mais elle nécessite de bien avoir deux choses à l’esprit :
         contexte construit à plusieurs, il faut admettre qu’en
         définitive le message appartient un peu à plusieurs.
 
-   - et que même si on veut admettre qu’il existe un tel droit, il
+  - et que même si on veut admettre qu’il existe un tel droit, il
      y a de toute façon le choc de la réalité : à partir du moment
      où on a publié quelque chose, d’autant plus si on l’a publié
      par des moyens que l’on ne contrôle pas réellement (en
