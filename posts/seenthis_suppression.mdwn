@@ -51,6 +51,7 @@ juridiques hébergées][ftf-legal] par la FSFE sont soumises à la
 [règle de Chatham House], il aurait été idiot de confier les
 archives à Mailman).
 
+[ftf-legal]: https://fsfe.org/activities/ftf/network.html
 [règle de Chatham House]: https://fr.wikipedia.org/wiki/R%C3%A8gle_de_Chatham_House
 
 Faisons un bond en avant de 10 ans. Alice regrette profondément
