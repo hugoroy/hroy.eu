@@ -20,7 +20,7 @@ Il se pose parfois sous d’autres formes :
     d’expression ?
 
   - à partir du moment où une information est publique, est-il
-    normal de pouvoir les réutiliser à toutes les sauces ?
+    normal de pouvoir la réutiliser à toutes les sauces ?
 
     Il n’y a probablement pas de réponse simple, tout n’est pas
     complètement blanc ou noir, par exemple un projet comme
