@@ -1,4 +1,5 @@
 [[!tag lang:fr]]
+[[!meta title="Droit à l’oubli et liberté d’expression"]]
 
 Une discussion intéressante a été lancée [sur seenthis]. Elle est
 difficile à résumer rapidement, mais voici le problème :
@@ -12,7 +13,7 @@ message posté et le genre de media utilisé.
 
 Il se pose parfois sous d’autres formes :
 
-  - faut-il instaurer un [[!taglink droit à l’oubli|right_to_be_forgotten]] ?
+  - faut-il instaurer un [[!taglink droit à l’oubli|right_to_be_forgotten]] ?
 
   - la [[!taglink censure|censorship]] est-elle parfois légitime ou autrement dit, dans
     quelle mesure admet-on qu’il y a abus de la liberté
