@@ -1,0 +1,4 @@
+[[!meta title="pages tagged right to be forgotten"]]
+
+[[!inline pages="tagged(right_to_be_forgotten)" actions="no" archive="yes"
+feedshow=10]]
