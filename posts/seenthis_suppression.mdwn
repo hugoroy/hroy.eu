@@ -198,7 +198,7 @@ Alors que faire ?
 Moi ce qui m’embête, c’est qu’il est devenu très très facile de
 publier et de communiquer grâce au Web. Et donc la liberté
 d’expression prend une toute autre dimension. Disons que si je
-publie un truc par an, je prendrai probablement beaucoup de temps
+publie un truc par an, je prendrais probablement beaucoup de temps
 de réflexion pour peaufiner ce que je publie, peser le pour et le
 contre, etc. Dans cette optique, lorsque je fais usage de ma
 liberté d’expression, il est normal que j’assume le propos que
@@ -290,5 +290,5 @@ que cela ne prend pas en compte les intérêts de tous, peut être
 que *moi*, ça m’intéressait de comprendre ce qu’a dit Alice qui a
 fait réagir Bob ainsi). Dans l’hypothèse où Alice tente de
 supprimer quelque chose alors que cela a énormément d’impact, il
-est probable que les utilisateurs ait pris des screenshots, ou que
+est probable que les utilisateurs aient pris des screenshots, ou que
 des archives effectuées ailleurs resurgissent.
