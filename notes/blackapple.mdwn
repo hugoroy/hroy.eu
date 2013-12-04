@@ -1,6 +1,6 @@
-[[!meta title="in 2001, apple macbooks were black and totally badass! (with GNU Linux on it of course)"]]
+[[!meta title="in 2001, Apple Macbooks were black and totally badass! (with GNU Linux on it of course)"]]
 
-in 2001, apple macbooks were black and totally badass! (with GNU
+in 2001, Apple Macbooks[^powerbook] were black and totally badass! (with GNU
 Linux on it of course) [[!taglink #FSFE|FSFE]]
 
 [[!img 18.jpg size="666x500" caption="Bernhard, Free Software
@@ -10,3 +10,6 @@ Foundation Europe,  2001"]]
 Twitter</a>
 
 [More photos](http://adele.gerwinski.de/~peter/fsfe-20010506/)
+
+[^powerbook]: *Edit*:  Bernhard tells me they were called
+[Powerbooks](https://en.wikipedia.org/wiki/PowerBook_G3) at the time.
