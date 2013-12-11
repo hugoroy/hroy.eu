@@ -1,0 +1,21 @@
+- [[!aggregate name="Blog Posts" dir="timeline"
+  feedurl="http://hroy.eu/index.atom" url="https://hroy.eu"]]
+- [[!aggregate name="Hacks and Tips" dir="timeline"
+  feedurl="http://hroy.eu/tips/index.atom"
+  url="https://hroy.eu/tips"]]
+- [[!aggregate
+  name="Within FSFE" dir="timeline"
+  feedurl="http://blogs.fsfe.org/hugo/feed/"
+  url="https://blogs.fsfe.org/hugo/"]]
+- [[!aggregate name="Previous Blog"
+  dir="timeline" feedurl="http://blog.hugoroy.eu/feed/"
+  url="http://blog.hugoroy.eu/"]]
+- [[!aggregate name="Flickr Pictures" dir="timeline"
+  feedurl="http://www.flickr.com/services/feeds/photos_public.gne?id=91392976@N05&format=rss_200"
+  url="https://www.flickr.com/photos/hugoroyd"]]
+- [[!aggregate name="Speakerdeck Slides" dir="timeline"
+  feedurl="http://speakerdeck.com/hugo.atom"
+  url="https://speakerdeck.com/hugo"]]
+- [[!aggregate name="Youtube Videos" dir="timeline"
+  feedurl="http://gdata.youtube.com/feeds/base/users/HugoJRoy/uploads?alt=rss&v=2&orderby=published&client=ytapi-youtube-profile"
+  url="https://www.youtube.com/user/HugoJRoy"]]
