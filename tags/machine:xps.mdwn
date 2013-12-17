@@ -1,0 +1,4 @@
+[[!meta title="pages tagged machine:xps"]]
+
+[[!inline pages="tagged(machine:xps)" actions="no" archive="yes"
+feedshow=10]]
