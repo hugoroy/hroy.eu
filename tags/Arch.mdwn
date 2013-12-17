@@ -1,0 +1,4 @@
+[[!meta title="pages tagged Arch"]]
+
+[[!inline pages="tagged(Arch)" actions="no" archive="yes"
+feedshow=10]]
