@@ -39,7 +39,7 @@ two programs he wrote: [notmuch-mutt] and [org-mutt].
 [notmuch-mutt]: http://notmuchmail.org/notmuch-mutt/
 [org-mutt]: http://git.upsilon.cc/?p=utils/org-mutt.git;a=summary
 
-1. Notmuch-mutt enables you to index your entire email archive, so
+Notmuch-mutt enables you to index your entire email archive, so
 you can tag emails, search for emails, etc. It also has a
 killer-feature: from any email in any inbox, you can reconstruct
 the entire thread to which it belongs, no matter where the rest of
@@ -49,11 +49,11 @@ other mailboxes).
 [[!img zack-mutterware-notmuch.png caption="Zack reconstructed the thread about Mutterware"]]
 
 
-2. Org-mutt enables you to glue mutt and org-mode together. So you
+Org-mutt enables you to glue mutt and org-mode together. So you
 can easily create a new task from an email, and you can link that
 task back to mutt’s view of that email.
 
-    During this mutterware, Zack helped me find why I couldn’t get
+During this mutterware, Zack helped me find why I couldn’t get
     org-mode to work, and so [we fixed a
     bug](http://git.upsilon.cc/?p=utils/org-mutt.git;a=commit;h=1ae5a5adb5ee8a41bf5716b8c9247e4d0d6a8fe7)!
     I still have to get something fixed, but it’s already very useful
