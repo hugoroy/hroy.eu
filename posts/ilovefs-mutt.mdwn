@@ -3,7 +3,7 @@
 
 Today is Valentine’s day, a day to celebrate love. But at the Free
 Software Foundation Europe, we like to challenge traditions. So we
-thought: why not celebrate Free Software on this day? Because what
+thought: why not also celebrate Free Software on this day? Because what
 makes Free Software so great is the people who make it, it’s the
 community!
 
@@ -32,28 +32,32 @@ and so forth.
 Now, I have been using mutt for nearly a year, and I don’t think
 I’m ever going back to something else.
 
-Last Monday, there was a 3rd Mutterware, in which Zack demoed
-two programs he wrote: notmuch-mutt and org-mutt.
+Last Monday, there was a 3rd [Mutterware] in Paris, in which Zack demoed
+two programs he wrote: [notmuch-mutt] and [org-mutt].
 
-Notmuch-mutt enables you to index your entire email archive, so
+[Mutterware]: https://wiki.fsfe.org/groups/Paris/Mutterware
+[notmuch-mutt]: http://notmuchmail.org/notmuch-mutt/
+[org-mutt]: http://git.upsilon.cc/?p=utils/org-mutt.git;a=summary
+
+1. Notmuch-mutt enables you to index your entire email archive, so
 you can tag emails, search for emails, etc. It also has a
 killer-feature: from any email in any inbox, you can reconstruct
 the entire thread to which it belongs, no matter where the rest of
 the emails are stored (for instance, if you archive your email in
 other mailboxes).
 
-[[!img zack-mutterware-notmuch.png caption="Zack
-reconstructed the thread about Mutterware"]]
+[[!img zack-mutterware-notmuch.png caption="Zack reconstructed the thread about Mutterware"]]
 
-Org-mutt enables you to glue mutt and org-mode together. So you
+
+2. Org-mutt enables you to glue mutt and org-mode together. So you
 can easily create a new task from an email, and you can link that
 task back to mutt’s view of that email.
 
-During this mutterware, Zack helped me find why I couldn’t get
-org-mode to work, and so [we fixed a
-bug](http://git.upsilon.cc/?p=utils/org-mutt.git;a=commit;h=1ae5a5adb5ee8a41bf5716b8c9247e4d0d6a8fe7)!
-I still have to get something fixed, but it’s already very useful
-and great.
+    During this mutterware, Zack helped me find why I couldn’t get
+    org-mode to work, and so [we fixed a
+    bug](http://git.upsilon.cc/?p=utils/org-mutt.git;a=commit;h=1ae5a5adb5ee8a41bf5716b8c9247e4d0d6a8fe7)!
+    I still have to get something fixed, but it’s already very useful
+    and great.
 
 So, thanks a BUNCH to Zack and to Michael R. Elkins, mutt
 developer.
