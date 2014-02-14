@@ -1,0 +1,59 @@
+[[!meta title="I ♥ Free Software: Mutt"]]
+[[!tag ilovefs FSFE Mutt lang:en]]
+
+Today is Valentine’s day, a day to celebrate love. But at the Free
+Software Foundation Europe, we like to challenge traditions. So we
+thought: why not celebrate Free Software on this day? Because what
+makes Free Software so great is the people who make it, it’s the
+community!
+
+And what better personal example than my use of the [mutt email
+agent][wikimutt] to explain why this community is truly important?
+
+[wikimutt]: http://en.wikipedia.org/wiki/Mutt_%28email_client%29
+
+I’ve always been a bit curious about mutt. Mutt is a program that
+lives in your terminal, and basically all it does is show an index
+of emails in mailboxes, then lets you view these emails. In the
+pure UNIX tradition, the rest is left to other tools. So every
+tool has its focus on what it’s good at; and everything is glued
+together with open formats and protocoles.
+
+The reason why I’ve been always curious with mutt is because email
+is a big part of my workflow (and my life); but I felt that the
+way I managed email sucked.
+
+So when I wanted to have a look in mutt, which is quite austere, I
+went to “mutterwares”, i.e. tupperware meetings for mutt users.
+Just like Mozilla launched the [TupperVim](http://wiki.mozfr.org/TupperVim)
+to gather vim users to share tips, experiences, plugins, configs
+and so forth.
+
+Now, I have been using mutt for nearly a year, and I don’t think
+I’m ever going back to something else.
+
+Last Monday, there was a 3rd Mutterware, in which Zack demoed
+two programs he wrote: notmuch-mutt and org-mutt.
+
+Notmuch-mutt enables you to index your entire email archive, so
+you can tag emails, search for emails, etc. It also has a
+killer-feature: from any email in any inbox, you can reconstruct
+the entire thread to which it belongs, no matter where the rest of
+the emails are stored (for instance, if you archive your email in
+other mailboxes).
+
+[[!img zack-mutterware-notmuch.png caption="Zack
+reconstructed the thread about Mutterware"]]
+
+Org-mutt enables you to glue mutt and org-mode together. So you
+can easily create a new task from an email, and you can link that
+task back to mutt’s view of that email.
+
+During this mutterware, Zack helped me find why I couldn’t get
+org-mode to work, and so [we fixed a
+bug](http://git.upsilon.cc/?p=utils/org-mutt.git;a=commit;h=1ae5a5adb5ee8a41bf5716b8c9247e4d0d6a8fe7)!
+I still have to get something fixed, but it’s already very useful
+and great.
+
+So, thanks a BUNCH to Zack and to Michael R. Elkins, mutt
+developer.
