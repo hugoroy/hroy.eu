@@ -42,11 +42,10 @@ article.inlinepage {
 .pageheader .actions {
     top: 0;
     height: 16px;
-    font-size: 80%;
-    position: relative;
-    visibility: hidden;
+    position: absolute;
 
     ul li {
+        visibility: hidden;
         border: 0;
         background: transparent;
     }
@@ -56,7 +55,9 @@ article.inlinepage {
     visibility: visible; 
     height: 16px;
 
-    ul li a, ul li span {
+    ul li { visibility: visible; }
+
+    ul li span {
         color: #999;
     }
 }
