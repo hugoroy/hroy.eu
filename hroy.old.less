@@ -1,0 +1,166 @@
+/* ikiwiki local style sheet */
+@import "bootstrap/less/bootstrap.less";
+/* Add local styling here, instead of modifying style.css. */
+
+body {
+    font-size: 14px;
+}
+
+
+img.img {
+    margin: 0.5ex 0;
+}
+
+.inlinepage {
+    overflow-y: hidden;
+}
+
+article.inlinepage {
+    border: 0;
+    margin: 1em 0 10em 0;
+}
+
+.sidebar {
+    padding: 0 2ex;
+    min-width: 150px;
+}
+
+.pageheader {
+    background: transparent;
+    border: 0;
+}
+
+.pageheader .header {
+    width: 100%;
+}
+
+.header .title {
+    display: inline-block;
+}
+
+.pageheader .actions {
+    top: 0;
+    height: 16px;
+    position: absolute;
+
+    ul li {
+        visibility: hidden;
+        border: 0;
+        background: transparent;
+    }
+}
+
+.pageheader .actions:hover {
+    visibility: visible; 
+    height: 16px;
+
+    ul li { visibility: visible; }
+
+    ul li span {
+        color: #999;
+    }
+}
+
+.pageheader .trails {
+    display: none;
+}
+
+#pagebody {
+    padding: 0 1em;
+}
+
+.pagedate.published {
+    display: none;
+    margin-bottom: 2em;
+}
+
+#pageinfo {
+    border-color: #CCC;
+    padding: 0 1em;
+}
+
+.trails {
+    color: #666;
+
+    a:link {
+        color: #999;
+    }
+    a:visited {
+        color: #CCC;
+    }
+    .trail {
+        margin-left: 2em;
+    }
+
+    .trailup {
+        visibility: hidden;
+    }
+}
+
+#comments {
+    margin-top: 4em;
+
+    .subscribers:before {
+        content: "Comments";
+        display: inline-block;
+        margin: 0 1em 0 0;
+        font-size: 1.2em;
+        font-weight: bold;
+        color: rgb(154, 154, 154);
+        font-family: "Cantarell", sans-serif;
+    }
+
+    .comment {
+        border: 0;
+        margin-bottom: 2em;
+    }
+    .comment-header {
+        font-weight: 500;
+    }
+    a.terms {
+        color: rgb(154, 154, 154);
+        font-size: 0.9em;
+        vertical-align: middle;
+        padding: 0 .5em;
+    }
+}
+
+#footer {
+
+    .contact {
+        margin-top: 1em;
+    }
+}
+
+.inlinepage {
+}
+
+.feedbutton {
+    font-family: "Roboto", Roboto, "Open Sans","OpenSans", "DejaVu Sans", sans-serif;
+    margin-top: 0.5em;
+}
+
+.feedlink.pull-right {
+    float: none !important;
+}
+
+@media (min-width: 700px) {
+    .feedlink.pull-right {
+        float: right !important;
+    }
+}
+
+[id^="fnref:"].footnote,
+[id*=" fnref:"].footnote {
+    vertical-align: super;
+    font-size: 0.8em;
+    line-height: 0.7em;
+}
+
+.footnotes li p {
+    font-size: 1em;
+}
+
+#content .toggleable {
+    margin-left: 1.5em;
+}
