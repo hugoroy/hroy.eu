@@ -11,6 +11,31 @@ img.img {
     margin: 0.5ex 0;
 }
 
+.hroy-align {
+    @media (min-width: @screen-md) {
+        margin-left: 280px;
+    }
+}
+
+#pagebody {
+    padding: 0;
+    margin: 0;
+}
+
+#content {
+    margin: auto;
+    max-width: 80em;
+
+    h1, h2, h3, h4, h6, p  {
+        .hroy-align;
+        max-width: 500px;
+    }
+    p {
+        max-width: 60em;
+    }
+}
+
+
 .inlinepage {
     overflow-y: hidden;
 }
@@ -66,9 +91,6 @@ article.inlinepage {
     display: none;
 }
 
-#pagebody {
-    padding: 0 1em;
-}
 
 .pagedate.published {
     display: none;
