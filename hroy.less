@@ -23,18 +23,23 @@ body {
 
 
 .pageheader  {
-    .header .masthead {
-        display: block;
-        padding-bottom: 5em;
-        margin: auto;
-        width: 100%;
-        max-width: 80em;
+    .header {
+        float: none;
+        clear: both;
 
-        .title {
-            .hroy-align;
-            font-family:@font-family-base;
+        .masthead {
             display: block;
-            font-weight: 900;
+            padding-bottom: 5em;
+            margin: auto;
+            width: 100%;
+            max-width: 80em;
+
+            .title {
+                .hroy-align;
+                font-family:@font-family-base;
+                display: block;
+                font-weight: 900;
+            }
         }
     }
 }
@@ -118,9 +123,6 @@ article.inlinepage {
 }
 
 
-.header .title {
-    display: inline-block;
-}
 
 .pageheader .actions {
     top: 0;
