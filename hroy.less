@@ -7,10 +7,6 @@ body {
 }
 
 
-img.img {
-    margin: 0.5ex 0;
-}
-
 .hroy-align {
     @media (min-width: @screen-md) {
         margin-left: 280px;
@@ -35,6 +31,7 @@ img.img {
         .hroy-align;
         max-width: 600px;
     }
+
     p { 
         .hroy-align; 
         max-width: 36em; 
@@ -43,6 +40,10 @@ img.img {
     .inlinecontent p { .hroy-align; }
     .inlinecontent * p { .no-hroy-align; }
     ul {
+        .hroy-align;
+    }
+
+    img.img {
         .hroy-align;
     }
     
