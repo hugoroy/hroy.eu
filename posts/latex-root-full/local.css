@@ -1,3 +1,7 @@
 .pageheader {
     background: url('Facepalm.png') repeat fixed 50% 66% #162b5a;
 }
+
+figure#facepalm-cover {
+    display: none;
+}

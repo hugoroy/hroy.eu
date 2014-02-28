@@ -1,6 +1,10 @@
 [[!meta title="Suggestion for a GNU/Linux install process"]]
 [[!tag LaTeX GNU Linux lang:en]]
 
+<figure id="facepalm-cover">
+[[!img Facepalm666.png]]
+</figure>
+
 This morning, I wasted a bit less than an hour solving errors
 during an <code>apt-get dist-upgrade</code>.
 
