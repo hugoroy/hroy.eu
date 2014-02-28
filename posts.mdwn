@@ -4,7 +4,7 @@
 [[!inline pages=sidebar raw=yes]]
 """]]
 
-<div style="position:absolute; float: left; margin-top: -0.5em;
+<div style="position:absolute; float: left; margin-top: -1em;
 font-style: italic;">
 Since
 </div>
