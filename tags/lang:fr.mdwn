@@ -1,4 +1,4 @@
-[[!meta title="pages tagged lang:fr"]]
+[[!meta title="pages en français"]]
 
 [[!inline pages="tagged(lang:fr)" actions="no" archive="yes"
 feedshow=10]]
