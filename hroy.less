@@ -47,6 +47,10 @@ body {
             max-width: 800px;
             padding-left: 0.3em;
         }
+        
+        .parentlinks {
+            text-shadow:0px 0.1em 0.2em rgba(0, 0, 0, 0.5), -0.1em 0px 0.2em rgba(0, 0, 0, 0.5), -0.1em 0px 0.2em rgba(0, 0, 0, 0.5), -0.1em 0px 0.2em rgba(0, 0, 0, 0.5);
+        }
     }
 }
 
@@ -83,6 +87,12 @@ body {
     .inlinecontent p { .hroy-align; }
     .inlinecontent * p { .no-hroy-align; }
 
+    blockquote { 
+        font-weight: 300;
+        border: 0;
+        background: rgba(124, 197, 118, 0.5);
+    }
+
     .img {
         caption {
             .hroy-left-align;
@@ -98,7 +108,7 @@ body {
         .img {
             caption { 
                 .no-hroy-align; 
-                text-align: center; 
+                text-align: left; 
                 position: relative; 
             }
             img.img { .no-hroy-align; }
