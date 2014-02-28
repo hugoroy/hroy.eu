@@ -16,6 +16,9 @@ img.img {
         margin-left: 280px;
     }
 }
+.no-hroy-align {
+    margin-left: 0;
+}
 
 #pagebody {
     padding: 0;
@@ -29,19 +32,16 @@ img.img {
     font-size: 1.1em;
 
     h1, h2, h3, h4, h6, header a  {
+        .hroy-align;
         max-width: 600px;
-        .hroy-align;
     }
-    p {
-        max-width: 36em;
-        .hroy-align;
+    p { 
+        .hroy-align; 
+        max-width: 36em; 
     }
-    * p {
-        margin-left: 0;
-    }
-    .inlinecontent p {
-        .hroy-align;
-    }
+    * p { .no-hroy-align; }
+    .inlinecontent p { .hroy-align; }
+    .inlinecontent * p { .no-hroy-align; }
     ul {
         .hroy-align;
     }
