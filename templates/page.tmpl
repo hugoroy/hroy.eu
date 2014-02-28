@@ -200,10 +200,12 @@
             </div>
 
             <TMPL_IF TAGS>
-                <TMPL_IF HTML5><nav class="tags p-category"><TMPL_ELSE><div class="tags"></TMPL_IF>
+                <TMPL_IF HTML5><nav class="tags"><TMPL_ELSE><div class="tags"></TMPL_IF>
                     Tags:
                     <TMPL_LOOP TAGS>
-                    <TMPL_VAR LINK>
+                    <span class="p-category">
+                        <TMPL_VAR LINK>
+                    </span>
                     </TMPL_LOOP>
                 <TMPL_IF HTML5></nav><TMPL_ELSE></div></TMPL_IF>
             </TMPL_IF>
