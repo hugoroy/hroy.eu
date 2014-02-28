@@ -12,6 +12,11 @@ body {
         margin-left: 280px;
     }
 }
+.hroy-left-align {
+    @media (min-width: @screen-md) {
+        max-width: 260px;
+    }
+}
 .no-hroy-align {
     margin-left: 0;
 }
@@ -44,8 +49,15 @@ body {
     .inlinecontent p { .hroy-align; }
     .inlinecontent * p { .no-hroy-align; }
 
-    .img img.img {
-        .hroy-align;
+    .img {
+        caption {
+            .hroy-left-align;
+            position: absolute;
+            text-align: right;
+        }
+        img.img {
+            .hroy-align;
+        }
     }
 
     .inlineheader .header a {
