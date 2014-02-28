@@ -37,14 +37,13 @@ body {
             margin: auto;
             width: 100%;
             max-width: 80em;
-
-            .title {
-                .hroy-align;
-                font-family:@font-family-base;
-                display: block;
-                font-weight: 900;
-                font-size: 2em;
             }
+
+        .title {
+            .hroy-align;
+            display: block;
+            font-weight: 900;
+            font-size: 2em;
         }
     }
 }
@@ -103,7 +102,9 @@ body {
         display: block;
         font-weight: 700;
     }
-    
+   .title { 
+        font-family:@font-family-base;
+    }
 }
 
 
@@ -253,7 +254,8 @@ article.inlinepage {
 
 
 #blog-motto {
-    color: @gray-lighter;
+    color: @gray-light;
+    font-size: 2em;
     font-weight: 300;
     @media (min-width: @screen-md) {
         margin-bottom: -1.4em;

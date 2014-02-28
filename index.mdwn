@@ -4,7 +4,7 @@
 [[!inline pages=sidebar raw=yes]]
 """]]
 
-<h1 class="title" id="blog-motto">You can’t do that online anymore!</h1>
+<h1 id="blog-motto">You can’t do that online anymore!</h1>
 
 <div class="subscribers">
     <a class="email feedbutton btn btn-xs btn-info" title="Hugo’s blog (email subscription)" href="http://feedburner.google.com/fb/a/mailverify?uri=hroyblog&loc=en_US">Subscribe by email <i class="icon-envelope"></i></a>
