@@ -18,7 +18,7 @@ Title picture of Vanevar Bush’s “As we make think” from Life magazine, 194
 But I can't believe it's going to stay that way indefinitely.
 Eventually maybe people are going to stop putting up with how bad
 their computers respond to them and start doing something about
-it. Maybe [Jan-Christoph][jcborch] should start a series: “I hate
+it. Maybe [Jan-Christoph][jcborch][^lifecam] should start a series: “I hate
 technology.”
 
 [turinguser]: http://contemporary-home-computing.org/turing-complete-user/
@@ -44,3 +44,10 @@ welcome)
 Picture source: <a
 href="http://totalrecallbook.com/storage/As%20We%20May%20Think%20Vannevar%20Bush%20450910.pdf">Illustrated
 version</a> 
+
+[^lifecam]: I just noticed how it's funny that [Jan's
+homepage](jcborh) currently features a
+[collage](http://jancborchardt.net/img/2010-06-14-web.jpg) of
+pictures taken for 24 hours while he was wearing a camera on his
+chest. Do you see the resemblance with the picture chosen by Olia
+to represent the user?
