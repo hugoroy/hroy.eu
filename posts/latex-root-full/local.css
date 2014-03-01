@@ -1,6 +1,6 @@
 .pageheader {
     background: url('Facepalm.png') repeat fixed 50% 80% / auto #162b5a;
-    height: 300px;
+    min-height: 300px;
 }
 
 figure#facepalm-cover {
