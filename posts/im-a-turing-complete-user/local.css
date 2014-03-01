@@ -1,0 +1,9 @@
+.pageheader {
+    background: url('scientist.jpg') no-repeat fixed 50% 0 / cover #fff;
+    color: #000;
+    min-height: 300px;
+}
+
+#scientistfromfuture {
+    display: none;
+}
