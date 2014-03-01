@@ -1,5 +1,5 @@
 [[!meta title="A Turing complete user"]]
-[[!tag user free_software CCC lang:en]]
+[[!tag user free_software CCC video technology lang:en]]
 
 I like to consider myself a [Turing complete user][turinguser]. This is a
 concept I discovered in a [fascinating essay][turinguser] written
@@ -38,3 +38,8 @@ Hamburg:
 </video>
 
 <small><a href="http://cdn.media.ccc.de/congress/2013/webm/30c3-5547-en-Turing_Complete_User_webm.webm">Direct link to the video</a></small>
+
+------
+
+Related: [the user data manifesto](https://github.com/hugoroy/user-data-manifesto/blob/master/Manifesto.md) (my draft for version 2, feedback
+welcome)
