@@ -3,8 +3,33 @@
 @import "style.css";
 /* Add local styling here, instead of modifying style.css. */
 
-body {
+
+body, .title { 
+    font-family:@font-family-base;
 }
+
+footer, blockquote {
+    font-weight: 300;
+}
+
+#blog-motto {
+    font-weight: 300 !important;
+}
+
+#comments .comment-header  {
+    font-weight: 500;
+}
+
+#content, #comments .subscribers:before {
+    h1, h2, h3, h4, h5, h6, .inlineheader .header a {
+        font-weight: 700;
+    }
+}
+
+.title {
+    font-weight: 900;
+}
+
 
 
 .hroy-align {
@@ -47,7 +72,6 @@ body {
         .title {
             .hroy-align;
             display: block;
-            font-weight: 900;
             font-size: 2.2em;
             max-width: 800px;
             padding-left: 0.3em;
@@ -75,6 +99,19 @@ body {
     margin: 0;
     font-size: 1.1em;
 
+    p {
+        margin: 0 0 1.3em;
+    }
+
+    hr {
+        margin: 40px 0;
+    }
+
+    h1, h2, h3, h4, h6 {
+        line-height: 1em;
+    }
+
+
     h1, h2, h3, h4, h6, ul, ol, .header a, blockquote, pre, figure, .inlinefooter, .archivepage, .toggleable  {
         .hroy-align;
         max-width: 666px;
@@ -82,11 +119,6 @@ body {
         h1, h2, h3, h4, h6, ul, ol, .header a, blockquote, pre, figure, .inlinefooter, .archivepage, .toggleable {
             .no-hroy-align;
         }
-    }
-
-    h1, h2, h3, h4, h6 {
-        line-height: 1em;
-        font-weight: 700;
     }
 
     p { 
@@ -99,7 +131,6 @@ body {
     .inlinecontent * p { .no-hroy-align; }
 
     blockquote { 
-        font-weight: 300;
         font-size: 0.95em;
         border: 0;
         padding: 1.6em 2.4em;
@@ -134,14 +165,10 @@ body {
 
     .inlineheader .header a {
         display: block;
-        font-weight: 700;
     }
 }
 
 
-.title { 
-    font-family:@font-family-base;
-}
 
 .inlinepage {
     overflow-y: hidden;
@@ -243,7 +270,6 @@ article.inlinepage {
         display: inline-block;
         margin: 0 1em 0 0;
         font-size: 1.2em;
-        font-weight: bold;
         color: rgb(154, 154, 154);
         font-family: "Cantarell", sans-serif;
     }
@@ -251,9 +277,6 @@ article.inlinepage {
     .comment {
         border: 0;
         margin-bottom: 2em;
-    }
-    .comment-header {
-        font-weight: 500;
     }
     a.terms {
         color: rgb(154, 154, 154);
@@ -308,7 +331,6 @@ article.inlinepage {
 #blog-motto {
     color: @gray-light;
     font-size: 2em;
-    font-weight: 300 !important;
     @media (min-width: @screen-md) {
         margin-bottom: -1.4em;
     }
