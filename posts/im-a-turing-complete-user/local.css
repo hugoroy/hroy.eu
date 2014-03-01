@@ -3,7 +3,7 @@
     color: #000;
     min-height: 300px;
 
-    .header .title, .header .parentlinks {
-        text-shadow: none;
-    }
 }
+    .pageheader .title, .pageheader .parentlinks {
+        text-shadow: 0px 0.1em 0.2em rgba(255, 255, 255, 0.5), -0.1em 0px 0.2em rgba(255, 255, 255, 0.5), -0.1em 0px 0.2em rgba(255, 255, 255, 0.5), -0.1em 0px 0.2em rgba(255, 255, 255, 0.5);
+    }
