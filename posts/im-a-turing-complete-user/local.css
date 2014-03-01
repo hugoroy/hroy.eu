@@ -1,7 +1,11 @@
 .pageheader {
-    background: url('scientist.jpg') no-repeat fixed 50% 0 / cover #fff;
+    background: url('scientist.jpg') no-repeat fixed 50% -190px / cover #fff;
     color: #000;
     min-height: 300px;
+
+    .parentlinks {
+        text-shadow: 0px 0.1em 0.2em rgba(255, 255, 255, 0.5), -0.1em 0px 0.2em rgba(255, 255, 255, 0.5), -0.1em 0px 0.2em rgba(255, 255, 255, 0.5), -0.1em 0px 0.2em rgba(255, 255, 255, 0.5);
+    }
 }
 
 #scientistfromfuture {

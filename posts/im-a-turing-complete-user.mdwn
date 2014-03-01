@@ -11,12 +11,9 @@ I guess on of the reasons I liked the article is that I totally
 recognise myself in this concept of Turing complete user. But I
 also find a little bit sad that this is not a widespread species.
 
-[[!img scientist.jpg caption="<span class="title">“A scientist of
-the Future”</span>
-Title picture of Vanevar Bush’s “As we make think”
-<a
-href="http://totalrecallbook.com/storage/As%20We%20May%20Think%20Vannevar%20Bush%20450910.pdf">Illustrated
-version</a> from Life magazine, 1945"]]
+[[!img scientist.jpg caption="*“A scientist of
+the Future”*
+Title picture of Vanevar Bush’s “As we make think” from Life magazine, 1945"]]
 
 But I can't believe it's going to stay that way indefinitely.
 Eventually maybe people are going to stop putting up with how bad
@@ -43,3 +40,7 @@ Hamburg:
 
 Related: [the user data manifesto](https://github.com/hugoroy/user-data-manifesto/blob/master/Manifesto.md) (my draft for version 2, feedback
 welcome)
+
+Picture source: <a
+href="http://totalrecallbook.com/storage/As%20We%20May%20Think%20Vannevar%20Bush%20450910.pdf">Illustrated
+version</a> 
