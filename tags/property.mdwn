@@ -1,0 +1,4 @@
+[[!meta title="pages tagged property"]]
+
+[[!inline pages="tagged(property)" actions="no" archive="yes"
+feedshow=10]]
