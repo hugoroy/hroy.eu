@@ -19,16 +19,6 @@ footer, blockquote {
     font-weight: 300;
 }
 
-.trail {
-    width: 50px;
-
-    .trailsep, .trailup, .trailarrow {
-        display: none;
-    }
-    .trailnext {
-        position: relative;
-    }
-}
 
 #blog-motto {
     font-weight: 300 !important;
@@ -318,6 +308,13 @@ article.inlinepage {
 }
 
 .trails {
+    .trail {
+        width: 50px;
+
+        .trailsep, .trailup, .trailarrow {
+            display: none;
+        }
+    }
     color: #666;
 
     a:link {
@@ -328,10 +325,6 @@ article.inlinepage {
     }
     .trail {
         margin-left: 2em;
-    }
-
-    .trailup {
-        visibility: hidden;
     }
 }
 
