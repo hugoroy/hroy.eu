@@ -67,5 +67,6 @@ C’était sans compter sur le [retour en force idéologique de la
 [ngram-ip]: http://books.google.com/ngrams/graph?content=Intellectual+Property,intellectual+property&year_start=1800&year_end=2000&corpus=15&smoothing=3
 
 
-<a href="https://twitter.com/hugoroyd/status/440134783184961536" class="u-syndication pull-right"
+<a href="https://twitter.com/hugoroyd/status/440134783184961536"
+class="u-syndication center"
 rel="syndication"><i class="fa fa-twitter icon-twitter"></i></a>
