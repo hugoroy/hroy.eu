@@ -20,12 +20,12 @@ footer, blockquote {
 }
 
 .trail {
-    width: 80px;
+    width: 50px;
 
     .trailsep, .trailup, .trailarrow {
         display: none;
     }
-    .trailnext, .trailprev {
+    .trailnext {
         position: relative;
     }
 }
@@ -102,6 +102,17 @@ footer, blockquote {
         }
         .title, .parentlinks {
             text-shadow:0px 0.1em 0.2em rgba(0, 0, 0, 0.5), -0.1em 0px 0.2em rgba(0, 0, 0, 0.5), -0.1em 0px 0.2em rgba(0, 0, 0, 0.5), -0.1em 0px 0.2em rgba(0, 0, 0, 0.5);
+        }
+    }
+
+    .trails {
+        position: absolute;
+        right: 2em;
+        a:link {
+            color: #fff;
+        }
+        a:visited {
+            color: @gray-lighter;
         }
     }
 }
@@ -299,10 +310,6 @@ article.inlinepage {
     }
 }
 
-.pageheader .trails {
-    display: none;
-}
-
 
 
 #pageinfo {
@@ -314,10 +321,10 @@ article.inlinepage {
     color: #666;
 
     a:link {
-        color: #999;
+        color: @gray-darker;
     }
     a:visited {
-        color: #CCC;
+        color: @gray-dark;
     }
     .trail {
         margin-left: 2em;
