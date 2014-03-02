@@ -68,4 +68,4 @@ C’était sans compter sur le [retour en force idéologique de la
 
 
 <a href="https://twitter.com/hugoroyd/status/440134783184961536" class="u-syndication pull-right"
-rel="syndication">Aussi sur Twitter</a>
+rel="syndication"><i class="fa fa-twitter icon-twitter"></i></a>
