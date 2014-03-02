@@ -1,0 +1,66 @@
+[[!meta title="La propriété comprend le droit des auteurs de jouir
+de leurs droits de propriété"]]
+[[!tag nonsense tautology “intellectual_property” property rights Conseil_constitutionnel lang:fr]]
+
+Rebelotte.[^dadvsi] Le [[!taglink Conseil constitutionnel]] remet ça :
+
+> [13.][201402qpc] Considérant que les finalités et les conditions d'exercice
+du droit de propriété ont connu depuis 1789 une évolution
+caractérisée par une extension de son champ d'application à des
+domaines nouveaux et, notamment, à la propriété intellectuelle ;
+que celle-ci comprend le droit, pour les titulaires du droit
+d'auteur et de droits voisins, de jouir de leurs droits de
+propriété intellectuelle et de les protéger dans le cadre défini
+par la loi et les engagements internationaux de la France ; 
+
+[^dadvsi]: Il me semble que c'est la deuxième fois depuis [la décision sur
+DADVSI](http://www.conseil-constitutionnel.fr/decision/2006/2006540/index.htm).
+D'ailleurs, la formulation du considérant est quasiment la même.
+
+Pas de quoi être surpris. C'est désormais acquis dans le droit
+positif que le droit d'auteur est compris dans le droit de
+propriété, l'élevant par la même occasion au niveau le plus élevé
+de la pyramide des normes.
+
+Pas de quoi être surpris non plus concernant le caractère
+lacunaire de l’argumentation. On a là un bel exemple de
+tautologie : *le droit de propriété comprend la propriété
+intellectuelle, donc la propriété intellectuelle comprend le droit
+de jouir des droits de propriété (intellectuelle).*
+
+Que le droit des auteurs soit élevé au rang de droit fondamental
+ne me dérange pas vraiment, même si je préfèrerai que la
+hiérarchie entre le droit des auteurs et la liberté d’expression
+soit plus claire. 
+
+Ce qui est gênant, c’est qu’en enfermant le droit d’auteur dans la
+boîte *propriété* on s’est peut-être interdit de pouvoir réfléchir
+intelligemment en droit sur ce qui constitue réellement le droit
+des auteurs, quelles sont ses finalités. 
+
+De ce point de vue, les auteurs qui espéraient voir le Conseil
+constitutionnel déclarer inconstitutionnelle la loi « relative à
+l'exploitation numérique des livres indisponibles du XXe
+siècle » ont perdu gros en jouant la carte *propriété*. Il
+suffit de lire la [décision][201402qpc] pour s’en assurer.
+
+[201402qpc]: http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2014/2013-370-qpc/decision-n-2013-370-qpc-du-28-fevrier-2014.140194.html#
+
+C’est on ne peut plus ironique de voir que c’est *l’intérêt
+général* qui a permis de justifier la constitutionnalité de la loi
+alors que dans le même temps, cette loi va complètement à
+l’encontre de *l’intérêt du public*.
+
+Mais, on n’a que faire de l’intérêt du public si on enferme le
+droit des auteurs dans le carcan du droit de propriété. C’est
+dommage… car **le droit des auteurs s’est constitué idéologiquement
+et juridiquement en France [en s’émancipant de la « propriété
+littéraire et artistique »][acrenouard]** qui la précédait.
+
+[acrenouard]: http://gallica.bnf.fr/ark:/12148/bpt6k5739469p/f464.image
+
+C’était sans compter sur le [retour en force idéologique de la
+« propriété intellectuelle »][ngram-ip] au tournant des années
+70-80…
+
+[ngram-ip]: http://books.google.com/ngrams/graph?content=Intellectual+Property,intellectual+property&year_start=1800&year_end=2000&corpus=15&smoothing=3
