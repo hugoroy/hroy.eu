@@ -38,4 +38,4 @@
 Here's a nearly exhaustive overview of this blog/wiki.
 
 [[!map pages="page(*) and !*/discussion and !recentchanges and
-!plugins/* and !sandbox/* and !ikiwiki/*"]]
+!plugins/* and !sandbox/* and !ikiwiki/* and !bootstrap/*"]]
