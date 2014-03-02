@@ -49,7 +49,7 @@ the entire thread to which it belongs, no matter where the rest of
 the emails are stored (for instance, if you archive your email in
 other mailboxes).
 
-[[!img zack-mutterware-notmuch.png caption="Zack reconstructed the thread about Mutterware" size="666x666"]]
+[[!img zack-mutterware-notmuch.png caption="Zack reconstructed the thread about Mutterware" size="666x"]]
 
 
 Org-mutt enables you to glue mutt and org-mode together. So you
