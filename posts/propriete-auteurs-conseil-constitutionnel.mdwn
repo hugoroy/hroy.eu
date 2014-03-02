@@ -41,8 +41,9 @@ des auteurs, quelles sont ses finalités.
 De ce point de vue, les auteurs qui espéraient voir le Conseil
 constitutionnel déclarer inconstitutionnelle la loi « relative à
 l'exploitation numérique des livres indisponibles du XXe
-siècle » ont perdu gros en jouant la carte *propriété*. Il
-suffit de lire la [décision][201402qpc] pour s’en assurer.
+siècle » ont perdu gros en jouant la carte *propriété* (avait-il
+d’autres choix ?). Il suffit de lire la [décision][201402qpc] pour
+s’en assurer.
 
 [201402qpc]: http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2014/2013-370-qpc/decision-n-2013-370-qpc-du-28-fevrier-2014.140194.html#
 
