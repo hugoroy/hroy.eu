@@ -7,3 +7,30 @@
 <li>[[Tips]]</li>
 <li>[[Tags]]</li>
 </ul>
+<div class="hide vcard"id="hcard-Hugo-Roy">
+<p class="fn">Hugo Roy</p>
+<ul>
+    <li><i class="fa fa-fw fa-circle" title="Planet"></i> 
+    <a href="https://hroy.eu/timeline/" title="Hugo’s Blog &amp; elsewhere">my timeline</a></li>
+    <li><i class="fa fa-fw fa-twitter" title="Twitter"></i> 
+        <a href="https://twitter.com/hugoroyd" rel="me">@hugoroyd</a></li>
+    <li class="hide"><i class="fa fa-fw fa-chevron-right" title="pump.io"></i> 
+        <a href="https://identi.ca/hugoroy" rel="me" title="@hugoroy">identi.ca</a></li>
+    <li class="hide"><i class="fa fa-fw fa-adn" title="App.net"></i> 
+        <a href="https://alpha.app.net/hugoroy" rel="me" title="@hugoroy">App.net</a></li>
+    <li class="hide"><i class="fa fa-fw fa-google-plus-square" title="Google+"></i> 
+        <a href="https://plus.google.com/+HugoRoy" rel="me">+Hugo&nbsp;Roy</a></li>
+    <li><i class="fa fa-fw fa-linkedin" title="LinkedIn"></i>
+        <a href="http://www.linkedin.com/in/hugoroy" rel="me">my resume</a></li>
+    <li><i class="fa fa-fw fa-music" title="Discogs"></i> 
+        <a href="http://www.discogs.com/collection?page=1&amp;limit=250&amp;sort=year%2Casc&amp;layout=big&amp;user=hugoroy">my discs</a></li>
+    <li><i class="fa fa-fw fa-book" title="OpenLibrary.org"></i>
+        <a href="http://openlibrary.org/people/hugoroy/lists/OL29190L/Own_Library">my library</a></li>
+    <li><i class="fa fa-fw fa-camera-retro" title="Flickr"></i> 
+        <a href="http://www.flickr.com/photos/hugoroyd/">pictures</a></li>
+    <li><i class="fa fa-fw fa-film" title="WatchThis"></i>
+        <a href="http://www.watchth.is/users/Hugo/">movies</a></li>
+    <li><i class="fa fa-fw fa-github" title="GitHub"></i>
+        <a href="https://github.com/hugoroy" rel="me">code</a></li>
+</ul>
+</div>
