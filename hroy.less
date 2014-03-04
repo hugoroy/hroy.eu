@@ -107,7 +107,50 @@ footer, blockquote {
             color: @gray-light;
         }
     }
+
+    background: url(/background.jpg) fixed no-repeat 50% -20px  #000;
+    background-size: cover;
+    color: #fff;
+    border: 0;
+    min-height: 280px;
+
+
+    .actions {
+        top: 0;
+        height: 16px;
+        position: absolute;
+
+        ul li {
+            visibility: hidden;
+            border: 0;
+            background: transparent;
+        }
+    }
+
+    .actions:hover {
+        visibility: visible; 
+        height: 16px;
+
+        ul li { visibility: visible; }
+
+        ul li span {
+            color: #999;
+        }
+    }
+
 }
+
+#searchbox {margin-top: 2em;}
+
+#ma-tete {
+    width: 48px;
+    height: 48px;
+    box-shadow: 0px 0px 0.5em rgba(0, 0, 0, 0.3);
+    border-width: 0px;
+    border-style: solid;
+    border-radius: 50%;
+}
+
 
 #pagebody {
     .pageheader .header .masthead;
@@ -243,6 +286,33 @@ footer, blockquote {
         }
     }
 
+    [id^="fnref:"].footnote,
+    [id*=" fnref:"].footnote {
+        vertical-align: super;
+        font-size: 0.8em;
+        line-height: 0.7em;
+    }
+
+    .footnotes li p {
+        font-size: 1em;
+    }
+
+    .toggleable {
+        padding-left: 1.5em;
+    }
+
+    .blogform {
+        margin: -3em 0 3em;
+        text-align: center;
+
+        .feedbutton {
+            margin-right: 1em;
+        }
+    }
+
+    .microblog {
+        margin-bottom: 4em;
+    }
 }
 
 
@@ -276,66 +346,6 @@ article.inlinepage {
     }
 }
 
-.pageheader {
-    background: url(/background.jpg) fixed no-repeat 50% -20px  #000;
-    background-size: cover;
-    color: #fff;
-    border: 0;
-    min-height: 280px;
-}
-
-
-
-.pageheader .actions {
-    top: 0;
-    height: 16px;
-    position: absolute;
-
-    ul li {
-        visibility: hidden;
-        border: 0;
-        background: transparent;
-    }
-}
-
-.pageheader .actions:hover {
-    visibility: visible; 
-    height: 16px;
-
-    ul li { visibility: visible; }
-
-    ul li span {
-        color: #999;
-    }
-}
-
-
-
-#pageinfo {
-    border-color: #CCC;
-    padding: 0 1em;
-}
-
-.trails {
-    .trail {
-        width: 50px;
-        margin: 0 auto 1.5em;
-
-        .trailsep, .trailup, .trailarrow {
-            display: none;
-        }
-    }
-    color: #666;
-
-    a:link {
-        color: @gray-darker;
-    }
-    a:visited {
-        color: @gray-light;
-    }
-}
-
-#searchbox {margin-top: 2em;}
 
 #comments {
     margin-top: 4em;
@@ -364,6 +374,31 @@ article.inlinepage {
 
 .editcomment { clear: both; }
 
+#pageinfo {
+    border-color: #CCC;
+    padding: 0 1em;
+}
+
+.trails {
+    .trail {
+        width: 50px;
+        margin: 0 auto 1.5em;
+
+        .trailsep, .trailup, .trailarrow {
+            display: none;
+        }
+    }
+    color: #666;
+
+    a:link {
+        color: @gray-darker;
+    }
+    a:visited {
+        color: @gray-light;
+    }
+}
+
+
 #footer {
     margin: 0;
 
@@ -391,21 +426,6 @@ article.inlinepage {
     }
 }
 
-[id^="fnref:"].footnote,
-[id*=" fnref:"].footnote {
-    vertical-align: super;
-    font-size: 0.8em;
-    line-height: 0.7em;
-}
-
-.footnotes li p {
-    font-size: 1em;
-}
-
-#content .toggleable {
-    padding-left: 1.5em;
-}
-
 
 #blog-motto {
     color: @gray-light;
@@ -413,15 +433,6 @@ article.inlinepage {
     @media (min-width: @screen-md) {
         margin-bottom: -1.4em;
     }
-}
-
-#ma-tete {
-    width: 48px;
-    height: 48px;
-    box-shadow: 0px 0px 0.5em rgba(0, 0, 0, 0.3);
-    border-width: 0px;
-    border-style: solid;
-    border-radius: 50%;
 }
 
 
