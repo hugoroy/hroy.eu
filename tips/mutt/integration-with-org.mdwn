@@ -33,4 +33,13 @@ You need to update ``B`` with whatever you use to toggle the
 sidebar. I use CTRL-B so I changed it to
 ``HIDE_SIDEBAR_CMD="\CB"``. That’s it! 
 
+This is the due to the fact that mutt-open has
+something called ``mutt_keys`` that’s used to display the right
+email in mutt. However in its current state mutt_keys decides to
+toggle the sidebar before it actually shows the email. Hence if
+the toggle sidebar key is not well defined in mutt-open, mutt will
+hang up there. So I changed this to:
+
+    mutt_keys="/=i$msgid\n\n$HIDE_SIDEBAR_CMD"
+
 [mutt-sidebar]: https://aur.archlinux.org/packages/mutt-sidebar/

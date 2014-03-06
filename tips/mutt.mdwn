@@ -1,13 +1,19 @@
 I began using [mutt](http://mutt.org) in March 2013. (I was
-using Gnome's Evolution before, but it searches were really slow
-and one day I really freaked out when Evolution had a bug which
-led me to believe that I couldn't see my emails since 2010. It
-turns out everything was fine, but Evolution hang up on me).
+using Gnome's Evolution before, but its searches were really slow
+and one day I really freaked out when Evolution did something
+weird which led me to believe that I couldn't see my emails since
+2010. It turns out everything was fine, but Evolution hang up on
+me).
+
+Beginning on mutt is “not easy.” I went to [mutterwares] to have
+experienced user show me how they use it. You might be interested
+in some of the [information collected there][mutterwares].
 
 Here is a list of mutt tips. My [~/.mutt][dot-mutt]
 is public.
 
 [dot-mutt]: https://github.com/hugoroy/.mutt
+[mutterwares]: https://wiki.fsfe.org/MutterWare
 
 [[!inline pages="page(./mutt/*) and !*/Discussion" archive=yes
 feedshow=10 quick=yes trail=yes action=yes feeds=yes]]
