@@ -1,0 +1,29 @@
+Once you have mutt up and running with the basic tools that will
+allow you to fetch, view, edit and send email, there are a couple
+of things that you probably need, no matter what:
+
+  - In mutt, even if you are on the pager that lets you read a
+  selected email, the ``<up>`` and ``<down>`` keys will not help
+  you navigate *inside* the email; instead they will bring you to
+  the previous or to the next email in the index.
+
+    That’s rather weird and unexpected. One of the first thing I
+    did was trying to scroll inside an email, and mutt suddenfly
+    browsed dozens of emails from the index (even marking them as
+    read…). That’s quite unhelpful. To solve this, add:
+
+        bind pager <up> previous-line #scroll inside the message rather than the index
+        bind pager <down> next-line
+
+    That way, you can scroll, or use the arrow keys to read an
+    email inside the pager.
+
+    When the pager is not opened, the up and down keys will behave
+    as usual in the index.
+
+  - Changing between mailboxes can be a pain by default in mutt.
+  You need to tell mutt where to find your several mailboxes, so
+  you’ll be able to switch between them more easily (for instance
+  by pressing ``y`` or with the sidebar). Add:
+
+        mailboxes $Mail
