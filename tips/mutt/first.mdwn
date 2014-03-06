@@ -1,3 +1,6 @@
+[[!meta title="First tips for mutt beginners"]]
+[[!tag lang:en mutt]]
+
 Once you have mutt up and running with the basic tools that will
 allow you to fetch, view, edit and send email, there are a couple
 of things that you probably need, no matter what:
