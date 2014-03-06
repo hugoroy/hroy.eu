@@ -3,7 +3,8 @@
 
 Once you have mutt up and running with the basic tools that will
 allow you to fetch, view, edit and send email, there are a couple
-of things that you probably need, no matter what:
+of things that you probably need in your ``.muttrc``, no matter
+what:
 
   - In mutt, even if you are on the pager that lets you read a
   selected email, the ``<up>`` and ``<down>`` keys will not help
