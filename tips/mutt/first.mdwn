@@ -2,9 +2,14 @@
 [[!tag lang:en mutt]]
 
 Once you have mutt up and running with the basic tools that will
-allow you to fetch, view, edit and send email, there are a couple
-of things that you probably need in your ``.muttrc``, no matter
-what:
+allow you to [fetch][offlineimap], [index][notmuch], view,
+[edit][vim] and [send][msmtp] email, there are a couple of things
+that you probably need in your ``.muttrc``, no matter what:
+
+[offlineimap]: http://offlineimap.org/
+[vim]: http://vim.org/
+[notmuch]: http://notmuchmail.org/
+[msmtp]: http://msmtp.sourceforge.net/
 
   - In mutt, even if you are on the pager that lets you read a
   selected email, the ``<up>`` and ``<down>`` keys will not help
