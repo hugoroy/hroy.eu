@@ -1,1 +1,1 @@
-Moved to </tips/mutt/carddav-lookup>
+Moved to [[mutt/carddav-lookup]]

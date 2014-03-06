@@ -1,1 +1,1 @@
-Moved to </tips/mutt/import-key>
+Moved to [[mutt/import-key]]
