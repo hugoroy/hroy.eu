@@ -1,0 +1,4 @@
+[[!meta title="pages tagged org-mode"]]
+
+[[!inline pages="tagged(org-mode)" actions="no" archive="yes"
+feedshow=10]]

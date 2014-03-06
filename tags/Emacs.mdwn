@@ -1,0 +1,4 @@
+[[!meta title="pages tagged Emacs"]]
+
+[[!inline pages="tagged(Emacs)" actions="no" archive="yes"
+feedshow=10]]
