@@ -9,7 +9,8 @@ Beginning on mutt is “not easy.” I went to [mutterwares] to have
 experienced user show me how they use it. You might be interested
 in some of the [information collected there][mutterwares].
 
-[[!inline feeds=no trail=yes show=0 pages="mutt/first"]]
+
+[[!inline pages="page(./mutt/first) and !*/Discussion" show="0" feeds=no actions=no]]
 
 Here is a list of mutt tips. My [~/.mutt][dot-mutt]
 is public.
