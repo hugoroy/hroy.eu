@@ -121,7 +121,18 @@ footer, blockquote {
 
 }
 
-#searchbox {margin-top: 2em;}
+#searchbox {
+    .form-control;
+    margin-top: 2em;
+    transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s, width 0.15s ease-in-out 0s;
+    background-color: rgba(255,255,255,0.7);
+    width: 50%;
+}
+#searchbox:focus {
+    width: 100%;
+    background-color: rgba(255,255,255,1);
+}
+
 
 #ma-tete {
     width: 48px;
