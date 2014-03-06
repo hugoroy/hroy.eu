@@ -1,0 +1,13 @@
+I began using [mutt](http://mutt.org) in March 2013. (I was
+using Gnome's Evolution before, but it searches were really slow
+and one day I really freaked out when Evolution had a bug which
+led me to believe that I couldn't see my emails since 2010. It
+turns out everything was fine, but Evolution hang up on me).
+
+Here is a list of mutt tips. My [~/.mutt][dot-mutt]
+is public.
+
+[dot-mutt]: https://github.com/hugoroy/.mutt
+
+[[!inline pages="page(./mutt/*) and !*/Discussion" archive=yes
+feedshow=10 quick=yes trail=yes action=yes feeds=yes]]
