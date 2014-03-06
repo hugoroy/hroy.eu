@@ -30,3 +30,24 @@ of things that you probably need, no matter what:
   by pressing ``y`` or with the sidebar). Add:
 
         mailboxes $Mail
+
+  - Other nice to have that makes mutt faster
+
+        set sleep_time = 0 # be fast
+
+    Don’t worry, this does not affact anything, it will just be
+    faster. Here’s the doc about ``sleep_time``:
+
+    > Specifies  time,  in  seconds, to pause while displaying
+    certain informational messages, while moving from folder to
+    folder  and after  expunging messages from the current folder.
+    The default is to pause one second, so a value of zero for
+    this option suppresses the pause.
+
+  - When you display email in the pager, it can look ugly when the
+  lines are too long and that mutt, by default, is not very nice
+  about line-wrapping because it can cut words in the middle. You
+  probably want to add:
+
+        set smart_wrap
+        unset markers #no ugly plus signs
