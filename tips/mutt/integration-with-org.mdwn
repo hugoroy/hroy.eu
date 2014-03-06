@@ -1,0 +1,36 @@
+[[!meta title="Getting things done with mutt and org-mode"]]
+[[!tag Emacs org-mode lang:en mutt gtd]]
+
+The way it works is:
+
+  - You’re reading an email on mutt and you think: Oh, I should
+  really remember that because I need to do X.
+  - You pass this email to emacs’ org-mode containing:
+     - the subject, the date and the from
+     - a link to that email which is ``mutt:Message-ID``
+  - You add some information if you wish to, and you save this in
+  your org-mode todo file.
+
+Now, you’re in your org-mode todo list, you can work with it as
+usual. Now you have this bit, and you need to remember what it’s
+about exactly. You can click the link in org-mode, and it will
+open mutt and show you the right email in mutt! 
+
+  - More info on [Zack’s blog]
+  - Get org-mutt directly from his [git repo]
+
+[Zack’s blog]: http://upsilon.cc/~zack/blog/posts/2010/02/integrating_Mutt_with_Org-mode/
+[git repo]: http://git.upsilon.cc/?p=utils/org-mutt.git;a=summary
+
+-----
+
+I use [mutt-sidebar] and I couldn’t get ``./mutt-open`` to work
+correctly. I fixed this by changing:
+
+    HIDE_SIDEBAR_CMD="B"     # set to empty string if sidebar is not used
+
+You need to update ``B`` with whatever you use to toggle the
+sidebar. I use CTRL-B so I changed it to
+``HIDE_SIDEBAR_CMD="\CB"``. That’s it! 
+
+[mutt-sidebar]: https://aur.archlinux.org/packages/mutt-sidebar/
