@@ -10,7 +10,7 @@ experienced user show me how they use it. You might be interested
 in some of the [information collected there][mutterwares].
 
 
-[[!inline pages="page(./mutt/first) and !*/Discussion" show="0" feeds=no actions=no template=mutt]]
+[[!inline pages="page(./mutt/first) and !*/Discussion" show="0" feeds=no actions=no template=inlinetext]]
 
 Here is a list of mutt tips. My [~/.mutt][dot-mutt]
 is public.
