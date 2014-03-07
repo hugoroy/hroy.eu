@@ -33,14 +33,15 @@ that you probably need in your ``.muttrc``, no matter what:
   - Changing between mailboxes can be a pain by default in mutt.
   You need to tell mutt where to find your several mailboxes, so
   you’ll be able to switch between them more easily (for instance
-  by pressing ``y``[^togglembox] or with the sidebar). Add:
+  by pressing ``y`` or with the sidebar). Add:
 
         mailboxes $Mail
 
-[^togglembox]: I have seen on some mutt configs that ``y``
-sometimes does not toggle the list of mailboxes. In that case, you
-can add something like: 
-``macro index y "<change-folder>?<toggle-mailboxes>" "show incoming mailboxes list"``
+    I have seen on some mutt configs that ``y``
+    sometimes does not toggle the list of mailboxes. In that case, you
+    can add something like: 
+
+        macro index y "<change-folder>?<toggle-mailboxes>" "show incoming mailboxes list"
 
   - Other nice to have that makes mutt faster
 
