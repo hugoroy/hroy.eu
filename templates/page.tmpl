@@ -156,9 +156,9 @@
 
             <div class="pagedate published dt-published">
                 <TMPL_IF PERMALINK>
-                    <a href="<TMPL_VAR PERMALINK>" class="u-url"><TMPL_VAR CTIME></a>
+                    <a href="<TMPL_VAR PERMALINK>" class="u-url" title="Permalink to: <TMPL_VAR TITLE>"><TMPL_VAR CTIME></a>
                     <TMPL_ELSE>
-                    <a href="<TMPL_VAR PAGEURL>" class="u-url"><TMPL_VAR CTIME></a>
+                    <a href="<TMPL_VAR PAGEURL>" class="u-url" title="Bookmark: <TMPL_VAR TITLE>"><TMPL_VAR CTIME></a>
                 </TMPL_IF>
             </div>
 
@@ -194,12 +194,6 @@
         <TMPL_UNLESS DYNAMIC>
 
             <TMPL_IF HTML5><nav id="pageinfo"><TMPL_ELSE><div id="pageinfo"></TMPL_IF>
-
-            <TMPL_IF PERMALINK>
-                <a href="<TMPL_VAR PERMALINK>" class="u-url"><TMPL_VAR TITLE></a>
-                <TMPL_ELSE>
-                <a href="<TMPL_VAR PAGEURL>" class="u-url"><TMPL_VAR TITLE></a>
-            </TMPL_IF>
 
             <div class="contact">
                 By <a href="http://hugoroy.eu/index.en.html" rel="author" class="p-author h-card">Hugo Roy</a>
