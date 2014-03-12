@@ -13,4 +13,4 @@ feedshow=10 quick=yes trail=yes feeds=yes]]
 <span id="configs">Configs</span>
 
 [[!inline pages="page(./configs/*) and !*/Discussion" archive=yes
-feedshow=10 quick=yes trail=yes feeds=yes]]
+feedshow=10 quick=yes trail=no feeds=yes]]

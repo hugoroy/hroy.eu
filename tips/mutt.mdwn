@@ -19,4 +19,4 @@ is public.
 [mutterwares]: https://wiki.fsfe.org/MutterWare
 
 [[!inline pages="page(./mutt/*) and !*/Discussion" archive=yes
-feedshow=10 quick=yes trail=yes action=yes feeds=yes]]
+feedshow=10 quick=yes trail=no action=yes feeds=yes]]
