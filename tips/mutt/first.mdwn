@@ -17,7 +17,7 @@ that you probably need in your ``.muttrc``, no matter what:
   the previous or to the next email in the index.
 
     That’s rather weird and unexpected. One of the first thing I
-    did was trying to scroll inside an email, and mutt suddenfly
+    did was trying to scroll inside an email, and mutt suddenly
     browsed dozens of emails from the index (even marking them as
     read…). That’s quite unhelpful. To solve this, add:
 
@@ -47,7 +47,7 @@ that you probably need in your ``.muttrc``, no matter what:
 
         set sleep_time = 0 # be fast
 
-    Don’t worry, this does not affact anything, it will just be
+    Don’t worry, this does not affect anything, it will just be
     faster. Here’s the doc about ``sleep_time``:
 
     > Specifies  time,  in  seconds, to pause while displaying
