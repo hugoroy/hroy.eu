@@ -3,6 +3,7 @@
 <li>[[Recent Comments|comments]]</li>
 <li>[[About]]</li>
 <!--li>[[Archives]]</li-->
+<li>[[Notes]]</li>
 <li>[[Posts]]</li>
 <li>[[Tips]]</li>
 <li>[[Tags]]</li>
