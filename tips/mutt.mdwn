@@ -1,4 +1,5 @@
 <aside class="pull-right">[[!img mutt-screenshot.png alt="mutt screenshot" link=no size="300x"]]</aside>
+
 I began using [mutt](http://mutt.org) in March 2013. (I was
 using Gnome's Evolution before, but its searches were really slow
 and one day I really freaked out when Evolution did something
