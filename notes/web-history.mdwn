@@ -31,6 +31,6 @@ March 2. To me it isn't theoretical that it will work, I already
 know it will. <span class="divPgfPermaLink"><a
 href="http://scripting.com/2014/03/13/lookingBackTo2001.html#aTTKOF">#</a>
 
-<a href="https://twitter.com/hugoroyd/status/"
+<a href="https://twitter.com/hugoroyd/"
 class="u-syndication center"
 rel="syndication"><i class="fa fa-twitter icon-twitter"></i></a>
