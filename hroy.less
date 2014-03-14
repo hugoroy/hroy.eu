@@ -380,7 +380,18 @@ article.inlinepage {
 #pageinfo {
     border-color: #CCC;
     padding: 1em;
+
+    .contact {
+        display: inline-block;
+    }
+    .contact:after {
+        content: "⋅";
+    }
+    .pagedate {
+        display: inline-block;
+    }
 }
+
 
 .p-category a:before, a.p-category:before, .tags a[rel="tag"]:before {
     content: "#";
