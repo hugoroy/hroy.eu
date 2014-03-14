@@ -61,7 +61,7 @@ During this mutterware, Zack helped me find why I couldn’t get
     org-mode to work, and so [we fixed a
     bug](http://git.upsilon.cc/?p=utils/org-mutt.git;a=commit;h=1ae5a5adb5ee8a41bf5716b8c9247e4d0d6a8fe7)!
     I still have to get something fixed, but it’s already very useful
-    and great.
+    and great. *Update:* [It’s fixed](/tips/mutt/integration-with-org/).
 
 So, thanks a BUNCH to Zack and to Michael R. Elkins, mutt
 developer.
