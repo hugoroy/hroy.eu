@@ -1,0 +1,36 @@
+[[!meta title=""]]
+
+Frank Zappa used to say that he viewed some of his work as
+journalism: reporting what he saw around him in society. Thus, if
+historians from the future want to learn more about our society,
+looking at rock songs might be a good start.
+
+Well, now we have the web, and with blogging, we’ve got way better
+materials for historians in the future. Although, as usual, the
+biggest challenge here is that most of the links from 2001
+blogging don’t work any more. Most of the time, professional
+editors and big companies are usually better in [keeping their
+URI cool][coolURI].
+
+[coolURI]: http://www.w3.org/Provider/Style/URI.html "Cool URIs don’t change"
+
+> All I ask you to do today is go back to 2001 -- a big moment in
+the history of blogging. The archive page is in
+reverse-chronologic order, so you might want to start at the <a
+href="http://scripting.com/2001/09.html#sayAPrayerForTheBabyBoomers">bottom</a>
+and scroll up. <span class="divPgfPermaLink"><a
+href="http://scripting.com/2014/03/13/lookingBackTo2001.html#aAIAYT">#</a></span></p>
+> 
+> <a
+href="http://scripting.com/2001/09.html">http://scripting.com/2001/09.html</a><span
+class="divPgfPermaLink"><a href="http://scripting.com/2014/03/13/lookingBackTo2001.html#aAH">#</a></span></p>
+> 
+> That's the kind of flow I am going to have
+again. I've been blogging in this form, off on the side, since
+March 2. To me it isn't theoretical that it will work, I already
+know it will. <span class="divPgfPermaLink"><a
+href="http://scripting.com/2014/03/13/lookingBackTo2001.html#aTTKOF">#</a>
+
+<a href="https://twitter.com/hugoroyd/status/"
+class="u-syndication center"
+rel="syndication"><i class="fa fa-twitter icon-twitter"></i></a>
