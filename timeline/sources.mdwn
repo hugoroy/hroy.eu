@@ -6,6 +6,9 @@
 - [[!aggregate name="Hacks and Tips" dir="timeline"
   feedurl="http://hroy.eu/tips/index.atom"
   url="https://hroy.eu/tips"]]
+- [[!aggregate name="Instant Notes" dir="timeline"
+  feedurl="https://dl.dropboxusercontent.com/s/ys3ft78k2c5w7l3/rss.xml"
+  url="http://instant.smallpict.com/"]]
 - [[!aggregate
   name="Within FSFE" dir="timeline"
   feedurl="http://blogs.fsfe.org/hugo/feed/"

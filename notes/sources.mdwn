@@ -1,0 +1,3 @@
+- [[!aggregate name="Instant Notes" dir="notes"
+  feedurl="https://dl.dropboxusercontent.com/s/ys3ft78k2c5w7l3/rss.xml"
+  url="http://instant.smallpict.com/"]]
