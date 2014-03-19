@@ -5,4 +5,5 @@
 [[!inline pages=sidebar raw=yes]]
 """]]
 
-[[!inline pages="(page(notes/*) or internal(notes/instant/*)) and !*/Discussion and !notes/sources" show=30 feedshow=20 template=microblog postform=yes trail=yes]]
+[[!inline pages="(page(notes/*) or internal(notes/instant/*)) and
+!*/Discussion and !notes/sources and !notes/instant" show=30 feedshow=20 template=microblog postform=yes trail=yes]]
