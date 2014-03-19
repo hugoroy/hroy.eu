@@ -6,4 +6,5 @@
 """]]
 
 [[!inline pages="(page(notes/*) or internal(notes/instant/*)) and
-!*/Discussion and !notes/sources and !notes/instant" show=30 feedshow=20 template=microblog postform=yes trail=yes]]
+!*/Discussion and !notes/sources and !notes/instant" show=30
+feedshow=20 template=microblog postform=no trail=yes]]
