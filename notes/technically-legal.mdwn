@@ -1,4 +1,5 @@
 [[!meta title="“technically legal”"]]
+[[!tag lang:en Microsoft privacy]]
 
 [BBC: Microsoft admits reading Hotmail inbox of blogger](http://www.bbc.com/news/business-26677607):
 
