@@ -13,5 +13,5 @@ the future.
 So if it’s not just legal, but “technically legal”: what does that
 mean? 
 
-Yes, it means the way [companies like Microsoft handles privacy](http://tosdr.org/#microsoft) 
+Yes, it means the way [companies like Microsoft handle privacy](http://tosdr.org/#microsoft) 
 is wrong. Yet another example.
