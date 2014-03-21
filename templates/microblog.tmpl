@@ -1,4 +1,4 @@
-<div class="microblog">
+<article class="microblog h-entry">
 <div class="microblog-header">
 
 <TMPL_IF AUTHOR>
@@ -12,14 +12,14 @@
 </TMPL_IF>
 
 <TMPL_IF PERMALINK>
-    <a href="<TMPL_VAR PERMALINK>" class="u-url" title="Permalink to: <TMPL_VAR TITLE>"><TMPL_VAR CTIME></a>
+    <a href="<TMPL_VAR PERMALINK>" class="u-url" title="Permalink to: <TMPL_VAR TITLE>"><span class="dt-published"><TMPL_VAR CTIME></span></a>
     <TMPL_ELSE>
-    <a href="<TMPL_VAR PAGEURL>" class="u-url" title="Bookmark: <TMPL_VAR TITLE>"><TMPL_VAR CTIME></a>
+    <a href="<TMPL_VAR PAGEURL>" class="u-url" title="Bookmark: <TMPL_VAR TITLE>"><span class="dt-published"><TMPL_VAR CTIME></span></a>
 </TMPL_IF>
 </div> <!--.microblog-header-->
 
-<div class="inlinecontent">
+<div class="inlinecontent e-content">
 <TMPL_VAR CONTENT>
 </div>
 
-</div> <!--.microblog-->
+</article> <!--.microblog-->
