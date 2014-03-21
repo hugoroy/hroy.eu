@@ -1,0 +1,17 @@
+[[!meta title="“technically legal”"]]
+
+[BBC: Microsoft admits reading Hotmail inbox of blogger](http://www.bbc.com/news/business-26677607):
+
+> Microsoft is caught up in a privacy storm after it admitted it
+read the Hotmail inbox of a blogger while pursuing a software leak
+investigation.
+
+> While the search was technically legal, [Microsoft's deputy
+general counsel] added Microsoft would consult outside counsel in
+the future.
+
+So if it’s not just legal, but “technically legal”: what does that
+mean? 
+
+Yes, it means the way [companies like Microsoft handles privacy](http://tosdr.org/#microsoft) 
+is wrong. Yet another example.
