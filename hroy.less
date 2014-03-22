@@ -365,7 +365,7 @@ article.inlinepage {
     margin: 1.5em 0;
 
     .dt-published {
-        .pull-right;
+        display: block;
         color: @gray;
         font-style: italic;
     }
@@ -374,11 +374,11 @@ article.inlinepage {
         width: auto;
         border-radius: 50%;
     }
-    .h-card {
+    .p-content, .h-card {
         margin-left: 1.5em;
-        .p-name {
+    }
+    .h-card .p-name {
             color: @gray;
-        }
     }
 }
 
