@@ -1,0 +1,29 @@
+<div class="inreplyto h-cite">
+  <a class="u-url" rel="in-reply-to" href="<TMPL_VAR REPLYTO>">
+    <TMPL_IF NAME>
+    <span class="p-name"><TMPL_VAR NAME></span>
+    </TMPL_IF>
+    <TMPL_IF TIME>
+    <span class="dt-published">
+      <TMPL_IF DATETIME>
+      <time datetime="<TMPL_VAR DATETIME>">
+      </TMPL_IF>
+        <TMPL_VAR TIME>
+      <TMPL_IF DATETIME></time></TMPL_IF>
+    </span>
+    </TMPL_IF>
+  </a>
+
+  <TMPL_IF AUTHOR>
+  <div class="p-author h-card">
+     <TMPL_IF PHOTO>
+     <img class="u-photo" src="<TMPL_VAR PHOTO>" alt="" />
+     </TMPL_IF>
+     <TMPL_IF PROFILE>
+     <a class="u-url" href="<TMPL_VAR PROFILE>">
+     </TMPL_IF>
+       <span class="p-name"><TMPL_VAR AUTHOR></span>
+     <TMPL_IF PROFILE></a></TMPL_IF>
+  </div>
+  </TMPL_IF>
+</div>
