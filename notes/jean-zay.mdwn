@@ -16,7 +16,7 @@ des auteurs* qu’[Augustin-Charles Renouard][acrenouard] avait
 fondé dans son grand traité de 1838, ce traité là qui est la base
 de la doctrine des droits moraux en droit français.
 
-[acrenoaurd]: https://fr.wikipedia.org/wiki/Augustin-Charles_Renouard
+[acrenouard]: https://fr.wikipedia.org/wiki/Augustin-Charles_Renouard
 
 Il est peut être temps de compiler une sélection d’articles pour
 donner une autre histoire du droit d’auteur en France que celle
