@@ -1,6 +1,6 @@
 [[!meta title="Re: Jean Zay et la possibilité d’un retour aux origines du domaine public"]]
 [[!tag lang:fr droit_d’auteur Jean_Zay Augustin-Charles_Renouard]]
-[[!template  id="inreplyto"
+[[!template  id="inreplyto.tmpl"
     name="Jean Zay et la possibilité d’un retour aux origines du domaine public"
     time="21 mars 2014" 
     author="Calimaq"
