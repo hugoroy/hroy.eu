@@ -1,8 +1,10 @@
-<div class="inreplyto h-cite">
+<div class="inreplyto p-in-reply-to h-cite">
   <span class="replyto arrow">&#8618;</span>
-  <a class="u-url" rel="in-reply-to" href="<TMPL_VAR REPLYTO>">
-    <TMPL_IF NAME>
-    <span class="p-name"><TMPL_VAR NAME></span>
+  <TMPL_IF LINK>
+  <a class="u-url" rel="in-reply-to" href="<TMPL_VAR LINK>">
+  </TMPL_IF>
+    <TMPL_IF REPLYTO>
+    <span class="p-content"><TMPL_VAR REPLYTO></span>
     </TMPL_IF>
     <TMPL_IF TIME>
     <span class="dt-published">
@@ -13,7 +15,7 @@
       <TMPL_IF DATETIME></time></TMPL_IF>
     </span>
     </TMPL_IF>
-  </a>
+  <TMPL_IF LINK></a></TMPL_IF>
 
   <TMPL_IF AUTHOR>
   <div class="p-author h-card">
