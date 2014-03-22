@@ -1,6 +1,6 @@
 [[!meta title="Re: Jean Zay et la possibilité d’un retour aux origines du domaine public"]]
 [[!tag lang:fr droit_d’auteur Jean_Zay Augustin-Charles_Renouard]]
-[[!template  id=inreplyto 
+[[!template  id="inreplyto"
     name="Jean Zay et la possibilité d’un retour aux origines du domaine public"
     time="21 mars 2014" 
     author="Calimaq"
@@ -8,7 +8,7 @@
     profile="https://twitter.com/calimaq"]]
 
 Le projet de réforme de droit d’auteur de Jean Zay dans les années
-30 est un autre de ces textes un peu oubliés, passé dans l’ombre
+1930 est un autre de ces textes un peu oubliés, passé dans l’ombre
 de la loi de 1957 « sur la propriété littéraire et artistique ».
 
 Cet intitulé malheureux est un peu comme une trahison du *droit
