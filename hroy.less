@@ -245,11 +245,11 @@ footer, blockquote {
         font-size: 1em;
     }
 
-    h1, h2, h3, h4, h5, h6, ul, ol, .header a, blockquote, pre, figure, .inlinefooter, .comment-subject, .comment-header, .microblog-header, .archivepage, .toggleable  {
+    h1, h2, h3, h4, h5, h6, ul, ol, .header a, blockquote, pre, figure, .inlinefooter, .comment-subject, .comment-header, .microblog-header, .archivepage, .toggleable, .inreplyto  {
         .hroy-align;
         .hroy-max-px;
 
-        h1, h2, h3, h4, h5, h6, ul, ol, .header a, blockquote, pre, figure, .inlinefooter, .archivepage, .toggleable {
+        h1, h2, h3, h4, h5, h6, ul, ol, .header a, blockquote, pre, figure, .inlinefooter, .archivepage, .toggleable, .inreplyto {
             .no-hroy-align;
         }
     }
@@ -357,6 +357,21 @@ article.inlinepage {
     .selflink {
         padding: 10px 15px;
         display: block;
+    }
+}
+
+.inreplyto {
+    .dt-published {
+        .pull-right;
+        color: @gray;
+        font-style: italic;
+    }
+    img.u-photo {
+        height: 25px;
+        width: auto;
+    }
+    .h-card .p-name {
+        color: @gray;
     }
 }
 
