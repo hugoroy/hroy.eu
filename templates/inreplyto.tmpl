@@ -1,7 +1,19 @@
 <div class="inreplyto p-in-reply-to h-cite">
   <span class="replyto arrow">&#8618;</span>
+  <TMPL_IF AUTHOR>
+  <span class="p-author h-card">
+     <TMPL_IF PHOTO>
+     <img class="u-photo" src="<TMPL_VAR PHOTO>" alt="" />
+     </TMPL_IF>
+     <TMPL_IF PROFILE>
+     <a class="u-url" href="<TMPL_VAR PROFILE>">
+     </TMPL_IF>
+       <span class="p-name"><TMPL_VAR AUTHOR></span>
+     <TMPL_IF PROFILE></a></TMPL_IF>
+  </span>
+  </TMPL_IF>
   <TMPL_IF LINK>
-  <a class="u-url" rel="in-reply-to" title="In reply to <TMPL_VAR REPLYTO>" href="<TMPL_VAR LINK>">
+  <a class="u-url" rel="in-reply-to" title="In reply to: <TMPL_VAR REPLYTO>" href="<TMPL_VAR LINK>">
   </TMPL_IF>
     <TMPL_IF TIME>
     <span class="dt-published">
@@ -16,17 +28,4 @@
     <span class="p-content"><TMPL_VAR REPLYTO></span>
     </TMPL_IF>
   <TMPL_IF LINK></a></TMPL_IF>
-
-  <TMPL_IF AUTHOR>
-  <div class="p-author h-card">
-     <TMPL_IF PHOTO>
-     <img class="u-photo" src="<TMPL_VAR PHOTO>" alt="" />
-     </TMPL_IF>
-     <TMPL_IF PROFILE>
-     <a class="u-url" href="<TMPL_VAR PROFILE>">
-     </TMPL_IF>
-       <span class="p-name"><TMPL_VAR AUTHOR></span>
-     <TMPL_IF PROFILE></a></TMPL_IF>
-  </div>
-  </TMPL_IF>
 </div>

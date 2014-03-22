@@ -369,16 +369,20 @@ article.inlinepage {
         font-style: italic;
     }
     img.u-photo {
-        height: 25px;
+        .pull-left;
+        height: 50px;
         width: auto;
         border-radius: 50%;
     }
-    .p-content, .h-card {
+    .p-content {
         margin-left: 1.5em;
         display: block;
     }
     .h-card .p-name {
             color: @gray;
+    }
+    .h-card:after {
+        content: " ⋅ ";
     }
 }
 
