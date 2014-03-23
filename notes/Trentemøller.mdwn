@@ -1,8 +1,10 @@
-[[!meta title="2014-03-23T12:51:14Z"
-    license="CC0-1.0"
-    author="Hugo Roy"
-    pageid="20140323125114"
-    language="en"]]
+[[!meta title="2014-03-23T12:51:14Z"]]
+[[!meta    license="CC0-1.0"]]
+[[!meta    author="Hugo Roy"]]
+[[!meta    pageid="20140323125114"]]
+[[!meta    description="Listening to Trentemoller's 2006 Last Resort"]]
+[[!meta    language="en"]]
+
 [[!tag lang:en Music Ambient Minimal]]<aside class="pull-right"
 id="last-resort-cover-thumb">[[!img lastresort.jpg alt="Last
 Resort cover" link=no size="150x"]]</aside>
