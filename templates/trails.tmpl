@@ -3,19 +3,23 @@
 <div class="trail">
 <TMPL_IF PREVPAGE>
 <span class="trailprev">
-<span class="trailarrow">←</span>
-<a href="<TMPL_VAR PREVURL>" title="<TMPL_VAR PREVTITLE>"><i class="fa fa-arrow-left icon-arrow-left"></i><span class="hide">Previous</span></a>
+<span class="trailarrow">↑</span>
+<a href="<TMPL_VAR PREVURL>" title=""><i class="fa fa-arrow-up icon-arrow-up"></i>
+    <div class="trailtitle"><span>Previous</span><span class="title"><TMPL_VAR PREVTITLE></span></div>
+</a>
 <span class="trailsep">|</span>
 </span>
 </TMPL_IF>
 <span class="trailup">
-<a href="<TMPL_VAR TRAILURL>" title="<TMPL_VAR TRAILTITLE>"><i class="fa fa-arrow-up icon-arrow-up"></i><span class="hide">Up </span></a>
+<a href="<TMPL_VAR TRAILURL>" title="<TMPL_VAR TRAILTITLE>"><i class="fa fa-arrow-left icon-arrow-left"></i><span class="hide">Up </span></a>
 </span>
 <TMPL_IF NEXTPAGE>
 <span class="trailnext">
 <span class="trailsep">|</span>
-<a href="<TMPL_VAR NEXTURL>" title="<TMPL_VAR NEXTTITLE>"><span class="hide">Next</span><i class="fa fa-arrow-right icon-arrow-right"></i></a>
-<span class="trailarrow">→</span>
+<a href="<TMPL_VAR NEXTURL>"><i class="fa fa-arrow-down icon-arrow-down"></i>
+    <div class="trailtitle"><span>Next</span><span class="title"><TMPL_VAR PREVTITLE></span></div>
+</a>
+<span class="trailarrow">↓</span>
 </span>
 </TMPL_IF>
 </div>
