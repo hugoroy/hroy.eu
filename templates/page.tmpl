@@ -1,5 +1,5 @@
 <TMPL_IF HTML5><!DOCTYPE html>
-<html>
+<html <TMPL_IF LANGUAGE>lang="<TMPL_VAR LANGUAGE>"</TMPL_IF>>
 <TMPL_ELSE><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -55,7 +55,10 @@
     <meta name="twitter:description" content="<TMPL_VAR WIKINAME>: <TMPL_LOOP TAGS>&#35;<TMPL_VAR LINK ESCAPE=HTML> </TMPL_LOOP>">
     <meta name="twitter:domain" content="hroy.eu">
 </head>
-<body><!-- id="<TMPL_VAR PAGEID>"-->
+<body class="hroy-eu <TMPL_IF LANGUAGE><TMPL_VAR
+GUID></TMPL_IF> <TMPL_IF GUID><TMPL_VAR
+GUID></TMPL_IF>" id="<TMPL_IF GUID><TMPL_VAR
+GUID></TMPL_IF>">
 
     <TMPL_IF HTML5><article class="page h-entry"><TMPL_ELSE><div class="page"></TMPL_IF>
 
