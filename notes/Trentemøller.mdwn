@@ -1,7 +1,7 @@
 [[!meta title="2014-03-23T12:51:14Z"
     license="CC0-1.0"
     author="Hugo Roy"
-    guid="20140323125114"
+    pageid="20140323125114"
     language="en"]]
 [[!tag lang:en Music Ambient Minimal]]<aside class="pull-right"
 id="last-resort-cover-thumb">[[!img lastresort.jpg alt="Last
