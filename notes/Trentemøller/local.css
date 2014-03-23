@@ -1,7 +1,11 @@
 body {
-    background: url('lastresort.jpg') 50% 50% / cover;
+    background: url('lastresort.jpg') 50% 50% fixed / cover;
 }
 
 #last-resort-cover-thumb {
     display: none;
+}
+
+#content {
+    text-shadow: 0px 0.1em 0.2em rgba(200, 200, 200, 0.5), -0.1em 0px 0.2em rgba(200, 200, 200, 0.5), -0.1em 0px 0.2em rgba(200, 200, 200, 0.5), -0.1em 0px 0.2em rgba(200, 200, 200, 0.5);
 }
