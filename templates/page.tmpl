@@ -51,7 +51,7 @@
 
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@hugoroyd">
-    <meta name="twitter:title" content="<TMPL_IF TITLE> <title><TMPL_VAR TITLE></title> <TMPL_ELSE> <title><TMPL_VAR WIKINAME></title> </TMPL_IF>">
+    <meta name="twitter:title" content="<TMPL_IF TITLE><TMPL_VAR TITLE><TMPL_ELSE><TMPL_VAR WIKINAME></TMPL_IF>">
     <meta name="twitter:description" content="<TMPL_IF DESCRIPTION><TMPL_VAR DESCRIPTION></TMPL_IF> <TMPL_LOOP TAGS>&#35;<TMPL_VAR LINK ESCAPE=HTML> </TMPL_LOOP>">
     <meta name="twitter:domain" content="hroy.eu">
 </head>
