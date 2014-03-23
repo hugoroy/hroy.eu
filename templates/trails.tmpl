@@ -4,9 +4,9 @@
 <TMPL_IF PREVPAGE>
 <span class="trailprev">
 <span class="trailarrow">↑</span>
-<a href="<TMPL_VAR PREVURL>">
+<a href="<TMPL_VAR PREVURL>" title="<TMPL_VAR PREVTITLE>">
 <i class="fa fa-arrow-up icon-arrow-up"></i>
-    <div class="trailtitle"><span>Previous</span><span class="title"><TMPL_VAR PREVTITLE></span></div>
+    <span class="hide">Previous</span>
 </a>
 <span class="trailsep">|</span>
 </span>
@@ -17,8 +17,8 @@
 <TMPL_IF NEXTPAGE>
 <span class="trailnext">
 <span class="trailsep">|</span>
-<a href="<TMPL_VAR NEXTURL>"><i class="fa fa-arrow-down icon-arrow-down"></i>
-    <div class="trailtitle"><span>Next</span><span class="title"><TMPL_VAR NEXTTITLE></span></div>
+<a href="<TMPL_VAR NEXTURL>" title="<TMPL_VAR NEXTTITLE>"><i class="fa fa-arrow-down icon-arrow-down"></i>
+    <span class="hide">Next</span>
 </a>
 <span class="trailarrow">↓</span>
 </span>

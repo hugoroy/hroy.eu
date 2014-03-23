@@ -93,11 +93,6 @@ footer, blockquote {
         a:visited {
             color: @gray-light;
         }
-        a:hover .trailtitle {
-            left: auto;
-            right: -2em;
-            .hide;
-        }
     }
 
     background: url(/background.jpg) fixed no-repeat 50% -20px  #000;
@@ -466,30 +461,6 @@ article.inlinepage {
     a:visited {
         color: @gray-light;
     }
-    a:link .trailtitle {
-        .hide;
-        transition-property: display;
-        transition-duration: 0.33s;
-        transition-timing-function: ease-out;
-    }
-    a:hover .trailtitle {
-        display: block !important;
-        position: absolute;
-        border: 1px solid @gray-light;
-        background: rgba(255,255,255,0.85);
-        box-shadow: 0 0 0.2em @gray-lighter;
-        width: 15em;
-        margin-top: 0em;
-        left: -7.5em;
-        padding: 0.3em 0.5em;
-        text-align: left;
-
-        .title {
-            display: block;
-            font-size: 1.2em;
-        }
-    }
-
 }
 
 
