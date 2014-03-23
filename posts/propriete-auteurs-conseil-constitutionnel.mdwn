@@ -1,8 +1,15 @@
-[[!meta title="La propriété comprend le droit des auteurs de jouir
-de leurs droits de propriété"]]
+[[!meta title="La propriété comprend le droit des auteurs de jouir de leurs droits de propriété"]]
+[[!meta language="fr"]]
 [[!tag nonsense tautology “intellectual_property” property rights Conseil_constitutionnel lang:fr]]
 
-Rebelotte.[^dadvsi] Le Conseil constitutionnel remet ça :
+[[!toggle id="redadvsi" text="Rebelotte"]]. Le Conseil constitutionnel remet ça :
+
+[[!toggleable id="redadvsi" text="""
+<span class="pull-right">[[!toggle id="redadvsi" text="×"]]</span>
+Il me semble que c'est la deuxième fois depuis [la décision sur
+DADVSI](http://www.conseil-constitutionnel.fr/decision/2006/2006540/index.htm).
+D'ailleurs, la formulation du considérant est quasiment la même.
+"""]]
 
 > [13.][201402qpc] Considérant que les finalités et les conditions d'exercice
 du droit de propriété ont connu depuis 1789 une évolution
@@ -13,9 +20,6 @@ d'auteur et de droits voisins, de jouir de leurs droits de
 propriété intellectuelle et de les protéger dans le cadre défini
 par la loi et les engagements internationaux de la France ; 
 
-[^dadvsi]: Il me semble que c'est la deuxième fois depuis [la décision sur
-DADVSI](http://www.conseil-constitutionnel.fr/decision/2006/2006540/index.htm).
-D'ailleurs, la formulation du considérant est quasiment la même.
 
 Pas de quoi être surpris. C'est désormais acquis dans le droit
 positif que le droit d'auteur est compris dans le droit de
