@@ -1,0 +1,4 @@
+[[!meta title="pages tagged Minimal"]]
+
+[[!inline pages="tagged(Minimal)" actions="no" archive="yes"
+feedshow=10]]
