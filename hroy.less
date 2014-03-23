@@ -93,6 +93,10 @@ footer, blockquote {
         a:visited {
             color: @gray-light;
         }
+        a:hover .trailtitle {
+            left: auto;
+            right: -1.8em;
+        }
     }
 
     background: url(/background.jpg) fixed no-repeat 50% -20px  #000;
@@ -470,9 +474,14 @@ article.inlinepage {
     a:hover .trailtitle {
         display: block !important;
         position: absolute;
-        border: 1px solid @gray-darker;
-        box-shadow: 0 0 1em rgba(0,0,0,0.7);
+        border: 1px solid @gray;
+        background: rgba(255,255,255,0.75);
+        box-shadow: 0 0 1em @gray-darker;
         max-width: 15em;
+        margin-top: 0.5em;
+        left: -7.5em;
+        padding: 0.3 0.5em;
+        text-align: left;
 
         .title {
             display: block;
