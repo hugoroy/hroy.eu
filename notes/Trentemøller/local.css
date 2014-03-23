@@ -1,0 +1,7 @@
+body {
+    background: url('lastresort.jpg') 50% 50% cover;
+}
+
+#last-resort-cover-thumb {
+    display: none;
+}
