@@ -1,1 +1,2 @@
 Moved to [[mutt/import-key]]
+[[!meta redir=mutt/import-key]]
