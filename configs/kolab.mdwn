@@ -10,8 +10,7 @@ on debian. See bug [#2811].
 Tip: [enable external email addresses](https://blogs.fsfe.org/torsten.grote/2013/12/20/using-external-email-addresses-with-kolab/)
 
 If you have trouble using the Files app within the web app, it’s
-probably because of non-secure `http` connections. See bug
-[#2436].
+probably because of non-secure `http` connections. See bug [#2436].
 
 
 # Syncing: ActiveSync and DAV
