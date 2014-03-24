@@ -32,4 +32,4 @@ they mention does not exist (e.g. the
 I’ll have to give it another try… I hope that for next time, the
 documentation will have improved.
 
-[[img firefox-accounts/screen-cors-error.png caption="I get a CORS issue, but then… what?" size="666x"]]
+[[!img firefox-accounts/screen-cors-error.png caption="I get a CORS issue, but then… what?" size="666x"]]
