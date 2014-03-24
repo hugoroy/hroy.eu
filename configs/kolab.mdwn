@@ -5,12 +5,12 @@ I went back to debian, which I know better.
 However, there are still issues with Kolab on debian. The most
 important issue at the moment, is that something in the database
 will fail when you run the initial `kolab-setup` for version 3.1
-on debian. See bug [#2811].
+on debian. See bug [2811].
 
 Tip: [enable external email addresses](https://blogs.fsfe.org/torsten.grote/2013/12/20/using-external-email-addresses-with-kolab/)
 
 If you have trouble using the Files app within the web app, it’s
-probably because of non-secure `http` connections. See bug [#2436].
+probably because of non-secure `http` connections. See bug [2436].
 
 
 # Syncing: ActiveSync and DAV
@@ -45,11 +45,11 @@ To fix this, change "null" in <code>/etc/iRony/dav.inc.php</code>
 
     $rcmail_config['base_uri'] = '/iRony/';
 
-*Update*: this was fixed in [#2475].
+*Update*: this was fixed in [2475].
 
-[#2436]: https://issues.kolab.org/show_bug.cgi?id=2436
-[#2811]: https://issues.kolab.org/show_bug.cgi?id=2811
-[#2475]: https://issues.kolab.org/show_bug.cgi?id=2475
+[2436]: https://issues.kolab.org/show_bug.cgi?id=2436
+[2811]: https://issues.kolab.org/show_bug.cgi?id=2811
+[2475]: https://issues.kolab.org/show_bug.cgi?id=2475
 
 [[!meta title="Kolab server"]]
 [[!meta license="[CC0-1.0](http://creativecommons.org/publicdomain/zero/1.0/)"]]
