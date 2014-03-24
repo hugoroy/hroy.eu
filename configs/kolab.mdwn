@@ -54,6 +54,6 @@ To fix this, change "null" in <code>/etc/iRony/dav.inc.php</code>
 
 [[!meta title="Kolab server"]]
 [[!meta license="[CC0-1.0](http://creativecommons.org/publicdomain/zero/1.0/)"]]
-[[!meta description="A set of configs and changes I made to my Kolab server]]
+[[!meta description="A set of configs and changes I made to my Kolab server"]]
 [[!meta language="en"]]
 [[!tag lang:en machine:totosh Kolab self-hosting debian]]
