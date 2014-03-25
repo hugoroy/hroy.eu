@@ -17,10 +17,13 @@ a:hover, a:active, a:focus {
 
 #pagebody, #footer {
     a:visited {
-        color: #551A8B;
+        color: @link-visited-color;
         .p-name {
             color: @text-color;
         }
+    }
+    a:visited:hover {
+        color: @link-hover-color;
     }
 }
 
