@@ -1,12 +1,14 @@
 <ul class="nav" role="menu">
-<li>[[& Elsewhere|timeline]]</li>
-<li>[[Recent Comments|comments]]</li>
-<li>[[About]]</li>
+<li><span class="small"
+style="display:block;padding:5px 15px 0;font-size:0.8em;color:#999;text-transform:uppercase;">my
+timeline</span>[[Here & Elsewhere|timeline]]</li>
 <!--li>[[Archives]]</li-->
-<li>[[Notes]]</li>
-<li>[[Posts]]</li>
-<li>[[Tips]]</li>
-<li>[[Tags]]</li>
+<li>[[Short Notes|notes]]</li>
+<li>[[Blog Posts|posts]]</li>
+<li>[[Tips|tips]]</li>
+<li>[[All Tags|tags]]</li>
+<li>[[Recent Comments|comments]]</li>
+<li>[[Meta/About|about]]</li>
 </ul>
 <div class="hide vcard" id="hcard-Hugo-Roy">
 <p class="fn">Hugo Roy</p>
