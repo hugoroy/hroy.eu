@@ -1,9 +1,9 @@
 - [[!aggregate name="Blog Posts" dir="timeline"
-  feedurl="http://hroy.eu/index.atom" url="https://hroy.eu"]]
-- [[!aggregate name="Hugo’s Notes" dir="timeline"
+  feedurl="http://hroy.eu/index.atom" url="https://hroy.eu/posts/"]]
+- [[!aggregate name="Short Notes" dir="timeline"
   feedurl="http://hroy.eu/notes/index.atom"
   url="https://hroy.eu/notes"]]
-- [[!aggregate name="Hacks and Tips" dir="timeline"
+- [[!aggregate name="User Hacks and Tips" dir="timeline"
   feedurl="http://hroy.eu/tips/index.atom"
   url="https://hroy.eu/tips"]]
 - [[!aggregate
