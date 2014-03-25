@@ -5,7 +5,7 @@ timeline</span>[[Here & Elsewhere|timeline]]</li>
 <!--li>[[Archives]]</li-->
 <li>[[Short Notes|notes]]</li>
 <li>[[Blog Posts|posts]]</li>
-<li>[[Tips|tips]]</li>
+<li>[[User Hacks & Tips|tips]]</li>
 <li>[[All Tags|tags]]</li>
 <li>[[Recent Comments|comments]]</li>
 <li>[[Meta/About|about]]</li>
