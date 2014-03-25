@@ -3,6 +3,7 @@
 """ else="""
 [[!inline pages=sidebar raw=yes]]
 """]]
+[[!meta language="en"]]
 
 
 <a href="http://hugoroy.eu/index.en.html" rel="me">Who am I?</a>
