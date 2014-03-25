@@ -68,15 +68,8 @@ footer, blockquote {
         font-size: 1em;
 
         .masthead {
-            display: block;
+            .hroy-layout;
             padding-bottom: 5em;
-            margin: 3em auto 0;
-            width: 100%;
-            max-width: 80em;
-
-            @media (min-width: @screen-md) {
-                margin-top: 1em;
-            }
         }
 
         .title {
@@ -175,7 +168,7 @@ footer, blockquote {
 
 
 #pagebody {
-    .pageheader .header .masthead;
+    .hroy-layout;
     padding: 5em 1em;
 
     .pagedate.published {
@@ -425,7 +418,11 @@ article.inlinepage {
 
 
 #comments {
-    margin-top: 4em;
+    .hroy-layout;
+
+    .subscribers {
+        .hroy-left-align;
+    }
 
     .subscribers:before {
         content: "Comments";
@@ -434,6 +431,11 @@ article.inlinepage {
         font-size: 1.2em;
         color: rgb(154, 154, 154);
         font-family: "Cantarell", sans-serif;
+    }
+
+    article[id="comment-*"] {
+        .hroy-align;
+        .hroy-max-px;
     }
 
     a.terms {
