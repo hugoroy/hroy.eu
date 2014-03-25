@@ -6,7 +6,7 @@ more easy to set up…"]]
 [[!meta language="en"]]
 [[!tag Mozilla Firefox self-hosting lang:en]]
 
-Since I first [set up Firefox Synx](posts/setup_mozilla-sync/),
+Since I first [set up Firefox Sync](/posts/setup_mozilla-sync/),
 things have changed. Mozilla thought that they needed to
 completely change the user experience of setting it up in firefox,
 thus discarding the previous firefox sync server for a totally new
