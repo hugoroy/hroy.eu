@@ -1,5 +1,5 @@
 [[!meta title="Getting things done with mutt and org-mode"]]
-[[!tag Emacs org-mode lang:en mutt gtd]]
+[[!tag Emacs org-mode lang:en mutt gtd]][[!meta language="en"]]
 
 The way it works is:
 

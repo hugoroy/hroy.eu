@@ -1,5 +1,5 @@
 [[!meta title="DomainKeys Identified Mail (DKIM) for totosh"]]
-[[!tag machine:totosh lang:en]]
+[[!tag machine:totosh lang:en]][[!meta language="en"]]
 
 I followed
 <http://christian.skala.me/blog/gmail-why-are-you-doing-this-to-me/>

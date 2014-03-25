@@ -41,3 +41,4 @@ noremap ,dd :.;/^-- $/dO--
 
 [[!meta title="Email: delete until signature"]]
 [[!tag vimrc lang:en ]]
+[[!meta language="en"]]

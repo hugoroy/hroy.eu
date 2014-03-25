@@ -1,5 +1,5 @@
 [[!meta title="MutterWare #2: aller (encore) plus loin dans son utilisation du mail"]]
-[[!tag FSFE Mozilla Paris Mutt lang:fr]]
+[[!tag FSFE Mozilla Paris Mutt lang:fr]][[!meta language="fr"]]
 
 (initalement publié sur
 [blogs.fsfe.org](https://blogs.fsfe.org/hugo/2013/11/mutterware-2-aller-encore-plus-loin-dans-son-utilisation-du-mail/))

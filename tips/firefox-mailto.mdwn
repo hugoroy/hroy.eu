@@ -1,5 +1,5 @@
 [[!meta title="Using roundcube for mailto: links"]]
-[[!tag Firefox Kolab Roundcube lang:en]]
+[[!tag Firefox Kolab Roundcube lang:en]][[!meta language="en"]]
 
 It’s quite annoying when you click somebody's name or email on a
 web page and that [[!taglink Firefox]] cannot figure out how to rely on your

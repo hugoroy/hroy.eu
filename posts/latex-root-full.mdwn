@@ -1,5 +1,5 @@
 [[!meta title="Suggestion for a GNU/Linux install process"]]
-[[!tag LaTeX GNU Linux lang:en]]
+[[!tag LaTeX GNU Linux lang:en]][[!meta language="en"]]]]
 
 <figure id="facepalm-cover">
 [[!img Facepalm666.png]]

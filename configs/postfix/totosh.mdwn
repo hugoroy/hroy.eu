@@ -1,5 +1,5 @@
 [[!meta title="Postfix config for totosh"]]
-[[!tag machine:totosh postfix IPv6 IPv4 lang:en]]
+[[!tag machine:totosh postfix IPv6 IPv4 lang:en]][[!meta language="en"]]
 
 I could not get my email delivered to @gmail.com addresses
 because of Google's

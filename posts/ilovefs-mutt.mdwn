@@ -1,5 +1,5 @@
 [[!meta title="I ♥ Free Software: Mutt"]]
-[[!tag ilovefs FSFE Mutt lang:en]]
+[[!tag ilovefs FSFE Mutt lang:en]][[!meta language="en"]]
 
 Today is Valentine’s day, a day to celebrate love. But at the Free
 Software Foundation Europe, we like to challenge traditions. So we

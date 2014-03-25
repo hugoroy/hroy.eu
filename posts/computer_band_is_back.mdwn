@@ -1,5 +1,5 @@
 [[!meta title="Le Computerband de retour"]]
-[[!tag music lang:fr]]
+[[!tag music lang:fr]][[!meta language="fr"]]
 
 Il y a quelques années, je me suis pris une vraie claque en
 découvrant «[Smash]» de [Jackson & His Computer

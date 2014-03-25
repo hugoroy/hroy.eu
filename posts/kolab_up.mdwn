@@ -5,7 +5,7 @@ Other posts in the *Installing Kolab series*:
  - **[part 3](/posts/kolab_fail-3/ "SMTP Error 454")**
  - **[part 4](/posts/kolab_fail-4/ "Setup script failure on 3.1")**
 """]]
-[[!tag kolab free_software self-hosting lang:en]]
+[[!tag kolab free_software self-hosting lang:en]][[!meta language="en"]]]]
 [[!meta title="Kolab, Up and Running on CentOS 6"]]
 
 So, after about 4 tries on Debian, I decided to give Kolab a

@@ -1,5 +1,5 @@
 [[!meta title="Firefox Sync Server"]]
-[[!tag lang:en machine:totosh firefox]]
+[[!tag lang:en machine:totosh firefox]][[!meta language="en"]]
 
 [Sync][Firefox Sync] enables to have Firefox on several devices and to sync
 bookmarks, passwords, history, and other browser data between

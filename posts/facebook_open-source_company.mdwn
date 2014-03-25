@@ -1,5 +1,5 @@
 [[!meta title="Facebook, an open source company?"]]
-[[!tag lang:en nonsense free_software openness Facebook]]
+[[!tag lang:en nonsense free_software openness Facebook]][[!meta language="en"]]
 
 In today’s world, communication and branding matter almost as much
 in business as they do in conveying ideas and ethics. Which is why

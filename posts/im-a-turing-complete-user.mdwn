@@ -1,5 +1,5 @@
 [[!meta title="A Turing complete user"]]
-[[!tag user free_software CCC video technology lang:en]]
+[[!tag user free_software CCC video technology lang:en]][[!meta language="en"]]]]
 
 I like to consider myself a [Turing complete user][turinguser]. This is a
 concept I discovered in a [fascinating essay][turinguser] written

@@ -1,6 +1,6 @@
 [[!meta title="La propriété comprend le droit des auteurs de jouir de leurs droits de propriété"]]
 [[!meta language="fr"]]
-[[!tag nonsense tautology “intellectual_property” property rights Conseil_constitutionnel lang:fr]]
+[[!tag nonsense tautology “intellectual_property” property rights Conseil_constitutionnel lang:fr]][[!meta language="fr"]]
 
 [[!toggle id="redadvsi" text="Rebelotte"]]. Le Conseil constitutionnel remet ça :
 

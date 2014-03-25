@@ -126,3 +126,4 @@ Thinking of patent law in terms of property brings confusion.
 
 [[!meta title="Patent fees are not like property tax"]]
 [[!tag lang:en property patent law nonsense]]
+[[!meta language="en"]]

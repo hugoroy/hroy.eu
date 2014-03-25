@@ -28,5 +28,5 @@ At this point, I don’t really know what do do any more!
 I guess I’ll have to find out how to report a bug in the kolab
 community. Let’s this how this goes…
 
-[[!tag kolab free_software bug lang:en]]
+[[!tag kolab free_software bug lang:en]][[!meta language="en"]]]]
 [[!meta title="Installing kolab, part 2"]]

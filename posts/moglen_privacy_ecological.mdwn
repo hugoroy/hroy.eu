@@ -1,5 +1,5 @@
 [[!meta title="Eben Moglen: privacy is ecological, not transactional"]]
-[[!tag lang:en Eben_Moglen privacy ToS]]
+[[!tag lang:en]][[!meta language="en"]] Eben_Moglen privacy ToS]]
 
 <aside class="pull-right">[[!img moglen.jpg size="108x150"
 alt="moglen portrait" caption="Eben Moglen"]]</aside>

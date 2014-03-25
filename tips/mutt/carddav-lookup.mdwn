@@ -1,5 +1,5 @@
 [[!meta title="Kolab’s CardDav address lookup in mutt"]]
-[[!tag Kolab lang:en mutt]]
+[[!tag Kolab lang:en mutt]][[!meta language="en"]]
 
 This should work with any carddav server, but if you use Kolab's
 carddav server here's some extra tip!

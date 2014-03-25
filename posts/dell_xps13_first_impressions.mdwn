@@ -1,5 +1,5 @@
 [[!meta title="First impressions on the Dell XPS13"]]
-[[!tag lang:en Dell-XPS-13]]
+[[!tag lang:en Dell-XPS-13]][[!meta language="en"]]
 
 After I found out that Dell was selling one thing, but
 [delivering another], I decided to leave the new laptop for a bit.

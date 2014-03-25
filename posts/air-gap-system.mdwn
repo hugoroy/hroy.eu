@@ -139,4 +139,4 @@ has designed an air gap system for you… good luck!
 > How long should keys stay valid for?
 
 [[!meta title="Air Gap design"]]
-[[!tag lang:en paranoia NSA]]
+[[!tag lang:en paranoia NSA]][[!meta language="en"]]

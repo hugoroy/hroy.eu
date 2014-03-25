@@ -1,4 +1,4 @@
-[[!tag lang:fr privacy]]
+[[!tag lang:fr privacy]][[!meta language="fr"]]
 [[!meta title="Droit à l’oubli et liberté d’expression"]]
 
 Une discussion intéressante a été lancée [sur seenthis]. Elle est

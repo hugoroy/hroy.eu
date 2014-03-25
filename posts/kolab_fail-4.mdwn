@@ -1,4 +1,4 @@
-[[!tag kolab free_software bug lang:en]]
+[[!tag kolab free_software bug lang:en]][[!meta language="en"]]]]
 [[!meta title="Installing kolab, part 4"]]
 [[!template id=note text="""
 Other posts in the *Installing Kolab series*:

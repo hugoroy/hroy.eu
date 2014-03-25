@@ -1,5 +1,5 @@
 [[!meta title="New Gnome Empathy design… argh!"]]
-[[!tag GNOME design lang:en]]
+[[!tag GNOME design lang:en]][[!meta language="en"]]
 
 So now that I completed the upgrade, I see some new GNOME stuff
 coming in. Great, I like new stuff because I generally like the

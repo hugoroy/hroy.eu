@@ -5,3 +5,4 @@ I’ve been thinking about using ikiwiki for some time now. I don’t exactly kn
 And git history.
 
 [[!tag lang:en ikiwiki ]]
+[[!meta language="en"]]

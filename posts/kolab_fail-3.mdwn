@@ -19,5 +19,5 @@ professional.
 
 Let’s see how it goes…
 
-[[!tag kolab free_software bug lang:en]]
+[[!tag kolab free_software bug lang:en]][[!meta language="en"]]]]
 [[!meta title="Installing kolab, part 3"]]

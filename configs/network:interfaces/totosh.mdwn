@@ -1,5 +1,5 @@
 [[!meta title="Network interfaces for totosh"]]
-[[!tag machine:totosh lang:en]]
+[[!tag machine:totosh lang:en]][[!meta language="en"]]
 
 <code>/etc/sysconfig/network</code>
 

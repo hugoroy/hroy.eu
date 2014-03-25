@@ -68,5 +68,5 @@ so bad these days is a sign that the overall quality has really
 degraded IMHO).
 
 [[!meta title="We need another Hacker News"]]
-[[!tag lang:en news technology nonsense]]
+[[!tag lang:en news technology nonsense]][[!meta language="en"]]
 

@@ -1,3 +1,4 @@
 [[!meta title="Hugo Roy - Auto hébergement"]]
+[[!meta language="fr"]]
 
 [[!inline pages="tagged(self-hosting) and tagged(lang:fr) and !*/Discussion" actions="no" archive="yes" feedshow=10]]

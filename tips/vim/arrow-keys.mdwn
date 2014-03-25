@@ -24,3 +24,4 @@ updated version on github</a>
 
 
 [[!tag vimrc lang:en ]]
+[[!meta language="en"]]

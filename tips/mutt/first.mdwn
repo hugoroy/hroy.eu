@@ -1,5 +1,5 @@
 [[!meta title="First tips for mutt beginners"]]
-[[!tag lang:en mutt]]
+[[!tag lang:en mutt]][[!meta language="en"]]
 
 Once you have mutt up and running with the basic tools that will
 allow you to [fetch][offlineimap], [index][notmuch], view,
