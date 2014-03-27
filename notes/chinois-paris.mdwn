@@ -1,4 +1,4 @@
-[[!meta title="Les chinois à Paris"]]
+[[!meta title="Les chinois à Paris avec @skddc"]]
 [[!meta license="[CC0-1.0](http://creativecommons.org/publicdomain/zero/1.0/)"]]
 [[!meta description="Les chinois sont à Paris mais c'est moins
 drôle que dans le film."]]
@@ -9,7 +9,7 @@ drôle que dans le film."]]
 caption="Hôtel de Ville de Paris, le 26 mars 2014, avec le drapeau
 chinois"]]
 
-Je me baladais hier avec [Basti] qui était à Paris pour la
+Je me baladais hier avec [Basti] ([@skddc]) qui était à Paris pour la
 première fois. Lorsque soudain, j'aperçus des drapeaux chinois
 mêlés à ceux de la république et aux armoiries de Paris !
 Malheureusement, ce n'est pas aussi drôle que dans [le film de Jean
@@ -18,3 +18,4 @@ et son adaptation à l'opéra,
 [Carmeng](https://www.youtube.com/watch?v=wQJMTeCkiyc).
 
 [Basti]: http://sebastian.kip.pe/
+[@skddc]: https://twitter.com/skddc
