@@ -4,9 +4,9 @@
 Once you have mutt up and running with the basic tools that will
 allow you to [fetch][offlineimap], [index][notmuch], view,
 [edit][vim] and [send][msmtp] email, there are a couple of
-[[!toggle id="necessaryonly" 
-    text="things that you probably need in your ``.muttrc``, no matter what"]]:
-
+[[!toggle id="necessaryonly" text="""
+things that you probably need in your ``.muttrc``, no matter what
+"""]]
 [[!toggleable  id="necessaryonly" text="""
 I left out all things which are about visual taste, use with
 external programs, etc. These are really about correcting some
