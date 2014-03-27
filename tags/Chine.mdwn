@@ -1,0 +1,4 @@
+[[!meta title="pages tagged Chine"]]
+
+[[!inline pages="tagged(Chine)" actions="no" archive="yes"
+feedshow=10]]
