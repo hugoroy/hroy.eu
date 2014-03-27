@@ -7,7 +7,7 @@ allow you to [fetch][offlineimap], [index][notmuch], view,
 [[!toggle id="necessaryonly" 
     text="things that you probably need in your ``.muttrc``, no matter what"]]:
 
-[[!toggleable  id="ipsum" text="""
+[[!toggleable  id="necessaryonly" text="""
 I left out all things which are about visual taste, use with
 external programs, etc. These are really about correcting some
 defaults which I think are not sane. 
