@@ -3,7 +3,10 @@
 [[!meta description="“It’s challenging if you have to think about capital gains before you buy a cup of coffee,” he said."]]
 [[!meta language="en"]]
  
-The IRS says that [[!taglink Bitcoin]] is property, not a currency. [Bloomberg][blmbrgbtc]: “It’s challenging if you have to think about capital gains before you buy a cup of coffee,” 
+The IRS says that [[!taglink Bitcoin]] is property, not a
+currency. [Bloomberg][blmbrgbtc]: “It’s challenging if you have to
+think about capital gains before you buy a cup of coffee.” No
+kidding!
 
 [blmbrgbtc]: http://www.bloomberg.com/news/2014-03-25/bitcoin-is-property-not-currency-in-tax-system-irs-says.html
 
