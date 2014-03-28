@@ -1,0 +1,20 @@
+[[!meta title="Towards usage restrictions in HTML?"]]
+[[!meta language="en"]]
+[[!meta description="A 20 minute introduction to W3C discussions
+on “Encrypted Media Extensions” in HTML."]]
+[[!meta date="2013-07-08"]]
+
+<i class="fa fa-fw fa-lg fa-caret-down">
+[[!toggle id="html-usage-restrictions-intro" text=""]]
+</i> [video] (video.rmll.info)
+
+[video]: //video.rmll.info/videos/towards-usage-restrictions-into-html
+
+[[!toggleable id="html-usage-restrictions-intro" text="""
+Une introduction de 20min à
+propos des «&nbsp;Encrypted Media Extensions&nbsp;» dans
+HTML&nbsp;: des restrictions d'usage. Lire à ce sujet&nbsp;: <a
+href="//lwn.net/Articles/550424/">DRM in HTML5 published in draft
+form</a> <br><a
+href="//speakerdeck.com/hugo/towards-usage-restrictions-in-html-rmll-2013">[slides]</a>
+"""]]

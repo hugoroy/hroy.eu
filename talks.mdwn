@@ -1,14 +1,9 @@
 
 
-[[!inline pages="page(./talks/*) and !*/Discussion" show=55
+[[!inline pages="page(./talks/*) and !*/Discussion and !*/slides" show=55
 trail=yes feeds=yes]]
 
 <ul class="index">
-<li class="hentry" id="html-usage-restrictions"><time class="dt-published" datetime="2013-07-08">Juil 2013</time><span data-toggle="collapse" data-target="#html-usage-restrictions-intro" class="collapser fa fa-fw fa-lg fa-caret-down"></span>&nbsp; <a class="p-name" href="//video.rmll.info/videos/towards-usage-restrictions-into-html/">Towards usage restrictions in HTML? [video]</a> <span class="link-out">(video.rmll.info)</span>
-
-<p style="height: auto;" class="p-summary in" id="html-usage-restrictions-intro">Une introduction de 20min à propos des «&nbsp;Encrypted Media Extensions&nbsp;» dans HTML&nbsp;: des restrictions d'usage. Lire à ce sujet&nbsp;: <a href="//lwn.net/Articles/550424/">DRM in HTML5 published in draft form</a>
-<br><a href="//speakerdeck.com/hugo/towards-usage-restrictions-in-html-rmll-2013">[slides]</a></p>
-</li>
 <li class="hentry" id="introduction-aux-licences-libres-ubuntu-party-2013"><time class="dt-published" datetime="2013-06-02">Juin 2013</time><span data-toggle="collapse" data-target="#introduction-aux-licences-libres-ubuntu-party-2013-intro" class="collapser fa fa-fw fa-lg fa-caret-down"></span>&nbsp; <a class="p-name" href="//speakerdeck.com/hugo/introduction-aux-licences-libres-ubuntu-party-2013">Introduction aux licences libres [diapos]</a> <span class="link-out">(speakerdeck.com)</span> 
 
 <p class="collapse p-summary" id="introduction-aux-licences-libres-ubuntu-party-2013-intro">Une introduction générale aux licences libres donnée lors de l'Ubuntu Party de Paris en 2013.</p>
