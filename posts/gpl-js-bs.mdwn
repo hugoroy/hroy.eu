@@ -5,9 +5,9 @@
 [[!tag lang:en Javascript GNU_GPL free_software licenses]]<aside
 class="pull-right">[[!img js.png alt="JS"]]</aside>
 
-This is a long due post, in response to a thread about a [new JS
+<small>This is a long due post, in response to a thread about a [new JS
 outliner released under the GPL][concordgpl]. I just did not take
-the time to write something about it until now… sorry!
+the time to write something about it until now… sorry!</small>
 
 [concordgpl]: http://scripting.com/2013/09/16/concordOurGplOutliner
 
