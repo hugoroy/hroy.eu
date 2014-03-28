@@ -6,5 +6,6 @@ lessc local.less -x local.css \
     && lessc notes/local.less -x notes/local.css \
     && lessc configs/local.less -x configs/local.css \
     && lessc images/local.less -x images/local.css \
-    && lessc timeline/local.less -x timeline/local.css
+    && lessc timeline/local.less -x timeline/local.css \
+    && lessc talks/local.less -x talks/local.css
 
