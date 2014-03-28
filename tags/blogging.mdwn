@@ -1,0 +1,4 @@
+[[!meta title="pages tagged blogging"]]
+
+[[!inline pages="tagged(blogging)" actions="no" archive="yes"
+feedshow=10]]
