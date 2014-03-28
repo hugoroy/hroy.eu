@@ -1,4 +1,9 @@
-
+[[!meta title="Talks and confs"]]
+[[!if test="enabled(sidebar)" then="""
+[[!sidebar]]
+""" else="""
+[[!inline pages=sidebar raw=yes]]
+"""]]
 
 [[!inline pages="page(./talks/*) and !*/Discussion and !*/slides" show=55
 trail=yes feeds=yes template="microblog"]]
