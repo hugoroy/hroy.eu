@@ -1,0 +1,4 @@
+[[!meta title="pages tagged Dave Winer"]]
+
+[[!inline pages="tagged(Dave_Winer)" actions="no" archive="yes"
+feedshow=10]]
