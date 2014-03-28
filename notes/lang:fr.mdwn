@@ -7,7 +7,7 @@
 
 [[!inline pages="(page(notes/*) or internal(notes/instant/*)) and
 !*/Discussion and tagged(lang:fr) and !notes/sources and !notes/instant" show=30
-feedshow=20 template=microblog postform=no trail=yes]]
+feedshow=20 template=microblog postform=no trail=no]]
 
 [[!tag lang:fr]]
 [[!meta language="fr"]]
