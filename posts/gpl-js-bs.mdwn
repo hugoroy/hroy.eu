@@ -21,10 +21,11 @@ libraries out there are licensed under the GPL, like Jquery IIRC.)
 
 First, let’s get things straight: the GNU GPL does not infect
 anything nor has any “viral” effect. You don’t catch the GPL like
-the flu. In order for GPL obligations to kick in and apply to your
-javascript web app, you must either:
+the flu. In order for GPL obligations to kick in and apply to you, 
+you must either:
 
   1. distribute GPL-licensed Javascript files; or
+
   2. write something that is *based on* GPL-licensed Javascript
   files.
 
@@ -34,9 +35,10 @@ of the GPL.
 
 In the second case, it’s a little bit more difficult to grasp,
 because you need to understand what constitutes a work *based on
-the GPL program.*
+the GPL program.* And for this, you need an basic understanding of
+copyright law.
 
-Thus, if you build other Javascript parts which will work with the
+If you build other Javascript parts which will work with the
 GPL Javascript, there’s a fair chance that the whole is based on
 the GPL Javascript and thus is subject to the conditions of the
 GPL. (That’s the intended effect: it’s
@@ -49,6 +51,8 @@ basically, just **adding a line of `script` to interact with the DOM
 is not going to make the entire website subject to the GPL**. That
 would be like saying using LibreOffice forces you to distribute
 all documents produced with it under the GPL. It’s just nonsense.
+Keep in mind that this is a legal thing, this is copyright law;
+this is not software development.
 
 So in the case of the [Concord outliner](http://scripting.com/2013/09/16/concordOurGplOutliner)
 it’s pretty obvious: if you put an outliner in your web app,
