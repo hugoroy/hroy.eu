@@ -1,0 +1,4 @@
+[[!meta title="pages tagged GNU GPL"]]
+
+[[!inline pages="tagged(GNU_GPL)" actions="no" archive="yes"
+feedshow=10]]
