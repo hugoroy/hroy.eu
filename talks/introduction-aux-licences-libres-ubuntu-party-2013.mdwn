@@ -1,7 +1,7 @@
 [[!meta title="Introduction aux licences libres"]]
 [[!meta language="fr"]]
 [[!meta description="Une introuction générale aux licences libres donnée lors de l’Ubuntu Party de Paris en 2013."]]
-[[!tag lang:fr free_software licences]]
+[[!tag lang:fr free_software licenses]]
 [[!meta date="2013-06-02"]]
 
 <span class="fa fa-fw fa-lg">
