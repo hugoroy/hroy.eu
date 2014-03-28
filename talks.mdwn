@@ -1,0 +1,33 @@
+
+
+[[!inline pages="page(./talks/*) and !*/Discussion" show=55
+trail=yes feeds=yes]]
+
+<ul class="index">
+<li class="hentry" id="html-usage-restrictions"><time class="dt-published" datetime="2013-07-08">Juil 2013</time><span data-toggle="collapse" data-target="#html-usage-restrictions-intro" class="collapser fa fa-fw fa-lg fa-caret-down"></span>&nbsp; <a class="p-name" href="//video.rmll.info/videos/towards-usage-restrictions-into-html/">Towards usage restrictions in HTML? [video]</a> <span class="link-out">(video.rmll.info)</span>
+
+<p style="height: auto;" class="p-summary in" id="html-usage-restrictions-intro">Une introduction de 20min à propos des «&nbsp;Encrypted Media Extensions&nbsp;» dans HTML&nbsp;: des restrictions d'usage. Lire à ce sujet&nbsp;: <a href="//lwn.net/Articles/550424/">DRM in HTML5 published in draft form</a>
+<br><a href="//speakerdeck.com/hugo/towards-usage-restrictions-in-html-rmll-2013">[slides]</a></p>
+</li>
+<li class="hentry" id="introduction-aux-licences-libres-ubuntu-party-2013"><time class="dt-published" datetime="2013-06-02">Juin 2013</time><span data-toggle="collapse" data-target="#introduction-aux-licences-libres-ubuntu-party-2013-intro" class="collapser fa fa-fw fa-lg fa-caret-down"></span>&nbsp; <a class="p-name" href="//speakerdeck.com/hugo/introduction-aux-licences-libres-ubuntu-party-2013">Introduction aux licences libres [diapos]</a> <span class="link-out">(speakerdeck.com)</span> 
+
+<p class="collapse p-summary" id="introduction-aux-licences-libres-ubuntu-party-2013-intro">Une introduction générale aux licences libres donnée lors de l'Ubuntu Party de Paris en 2013.</p>
+</li>
+<li class="hentry" id="les-cgus-quon-ne-lit-jamais-ubuntu-party-2013"><time class="dt-published" datetime="2013-06-02">Juin 2013</time><span data-toggle="collapse" data-target="#les-cgus-quon-ne-lit-jamais-ubuntu-party-2013-intro" class="collapser fa fa-fw fa-lg fa-caret-down"></span>&nbsp; <a class="p-name" href="//speakerdeck.com/hugo/les-cgus-quon-ne-lit-jamais-ubuntu-party-2013">Les CGUs qu'on ne lit jamais [diapos]</a> <span class="link-out">(speakerdeck.com)</span>
+
+<p class="collapse p-summary" id="les-cgus-quon-ne-lit-jamais-ubuntu-party-2013-intro">Une petite plongée dans les fins fonds des conditions générales d'utilisation à l'Ubuntu Party.</p>
+</li>
+<li class="hentry" id="ep-hearing-201301"><time class="dt-published" datetime="2013-01">Jan 2013</time><span data-toggle="collapse" data-target="#ep-hearing-201301-intro" class="collapser fa fa-fw fa-lg fa-caret-down"></span>&nbsp; <a class="p-name" href="//tosdr.org/ep-hearing-201301.html">What's wrong with data protection - does consent really work? [diapos + brouillon]</a> <span class="link-out">(tosdr.org)</span> 
+
+<p class="collapse p-summary" id="ep-hearing-201301-intro">Table-ronde #2 au Parlement européen à Bruxelles organisé par le co-rapporteur de la règlementation relative aux données personnelles.
+<br><a href="//www.greens-efa.eu/what-s-wrong-with-data-protection-9043.html">[event]</a> <span class="link-out">(greens-efa.eu)</span> <a href="http://greenmediabox.eu/archive/2013/01/31/what-s-wrong-with-data-protection/">[video]</a> <span class="link-out">(greenmediabox.eu)</span></p>
+</li><li class="hentry" id="29c3"><time class="dt-published" datetime="2012-12">Déc 2012</time><span data-toggle="collapse" data-target="#29c3-intro" class="collapser fa fa-fw fa-lg fa-caret-down"></span>&nbsp; <a class="p-name" href="//tosdr.org/29c3.html">Fixing the biggest lie on the web! [video + slides]</a> <span class="link-out">(tosdr.org)</span>
+
+<p class="collapse p-summary" id="29c3-intro"><a href="https://events.ccc.de/congress/2012/wiki/Lightning_Talks">Lightning talk</a> donné au 29C3, à Hambourg. Style <a href="//fr.wikipedia.org/wiki/Pecha_Kucha">Pecha Kucha</a> (6 min), pour introduire Terms of Service; Didn't Read. </p>
+</li>
+<li class="hentry" id="fosdem-2012"><time class="dt-published" datetime="2012-02">Fév 2012</time><span data-toggle="collapse" data-target="#fosdem-2012-intro" class="collapser fa fa-fw fa-lg fa-caret-down"></span>&nbsp; <a class="p-name" href="//archive.fosdem.org/2012/schedule/event/app_store_panel">Legal Panel on Application Stores and Free Software [event]</a> <span class="link-out">(archive.fosdem.org)</span>  
+
+<p class="collapse p-summary" id="fosdem-2012-intro">Table-ronde de conclusion du premier thème juridique du FOSDEM modéré par Richard Fontana, avec Giovanni Battista Gallus, Bradley M. Kuhn et moi à propos des enjeux juridiques des <em>app stores</em> pour le logiciel libre.
+<br><a href="http://faif.us/cast/2012/mar/13/0x24/">[audio]</a> <span class="link-out">(faif.us)</span></p>
+</li>
+</ul>
