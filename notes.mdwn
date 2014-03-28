@@ -1,7 +1,7 @@
 [[!meta title="Hugo’s notes"]]
 [[!if test="enabled(sidebar)" then="""
 [[!sidebar]]
-<aside class="sidebar">
+<aside class="hroy-left-align small" style="margin-top: -3em;">
 Here are short notes in both
 [[English|lang:en]] and [[French|lang:fr]].
 </aside>
