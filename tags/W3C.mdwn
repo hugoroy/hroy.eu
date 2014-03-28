@@ -1,0 +1,4 @@
+[[!meta title="pages tagged W3C"]]
+
+[[!inline pages="tagged(W3C)" actions="no" archive="yes"
+feedshow=10]]
