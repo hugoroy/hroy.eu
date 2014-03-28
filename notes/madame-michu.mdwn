@@ -1,0 +1,56 @@
+[[!meta title="Mais qui est donc Madame Michu ?"]]
+[[!meta license="[CC0-1.0](http://creativecommons.org/publicdomain/zero/1.0/)"]]
+[[!meta description="Pas forcément celle qu'on croit…"]]
+[[!meta language="fr"]]
+[[!tag lang:fr technology user language]]
+
+Mais qui est donc Madame Michu ? La grand’mère, l’utilisateur
+inexpérimenté, le critère absolu du concepteur d’une interface
+pour juger de l’expérience-utilisateur, l’ignare qui n’y connaît
+rien à rien et qui s’en fout, l’inconnu qui ignore mais ne demande
+qu’à apprendre… Tout ça à la fois ?
+
+Le fait est que « Madame Michu » est une expression employée par
+désigner une personne abstraite, qui n’existe pas réellement.
+C’est une fiction, prise pour une réalité, c’est-à-dire une
+hypostase comme on en trouve de nombreuses en droit par exemple :
+le bon père de famille en droit civil français, l’homme du métier
+en droit des brevets (et ses cousins anglo-américains, les
+« *persons having ordinary skills in the art* »), etc.
+
+Certes, c’est simplificateur. Mais les mots sont des
+simplificateurs nécessaires à l’articulation et la communication
+de la pensée. Comme beaucoup d’autres termes, l’objectif de *Madame
+Michu* n’est pas de rendre compte exactement d’une réalité. On
+sait bien que, en vrai, Madame Michu n’existe pas. Ce n’est pas à
+ce critère qu’on peut juger l’efficacité de l’expression, ni qu’on
+peut en déduire son contenu.
+
+En tout cas, je n’utilise pas l’expression car la plupart du temps
+je la trouve inadaptée à communiquer ce que j’essaye de dire. Mais
+je suppose que si j’avais à la placer quelque part, Madame Michu
+pour moi est à l’autre bout de l’[utilisateur-Turing], autrement
+dit comme disait Ted Nelson, c’est « *just a user* » !
+
+[utilisateur-Turing]: http://contemporary-home-computing.org/turing-complete-user/
+
+Ça n’est pas dénigrant ou élitiste pour autant ! On est *tous*
+passé par là. L’utilisateur, c’est un itinéraire de progression
+qui va dans une direction, dans un rythme propre à chacun. C’est
+comme lorsque Benjamin Bayart nous parle de l’internaute qui
+débarque. L’internaute qui débarque, c’est Madame Michu ! Même si
+ça peut être un monsieur (le seul fait qu’on lui donne un genre
+est en soi une raison pour rejeter le terme à mon humble avis, il
+faut utiliser quelque chose de plus englobant).
+
+En attendant, l’expression a certainement ses défauts. Mais ne
+faisons pas de procès forcément à ceux qui l’utilisent. La plupart
+du temps où j’ai entendu le terme, c’est lorsqu’on essaye de se
+donner du mal pour rendre quelque chose meilleur, pour communiquer
+autour d’un sujet important. Et le simple fait qu’on s’inquiète
+suffisamment de la personne de Madame Michu pour avoir eu besoin
+de la nommer est en soi un bon signe.
+
+PS : c’est fou ce qu’on peut dire de plus intelligent lorsqu’on se
+détache *cinq petites minutes* du [carcan à 140 signes qu’est
+Twitter](https://twitter.com/hugoroyd/status/449515395595395072).
