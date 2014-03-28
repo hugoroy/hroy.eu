@@ -1,0 +1,4 @@
+[[!meta title="pages tagged licences"]]
+
+[[!inline pages="tagged(licences)" actions="no" archive="yes"
+feedshow=10]]
