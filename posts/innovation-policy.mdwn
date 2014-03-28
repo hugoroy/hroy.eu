@@ -1,0 +1,100 @@
+[[!meta title="Innovation policy and Internet liability in courts"]]
+[[!meta description="This is what happens when innovation becomes
+the only criteria to judge policy, like we see sometimes in law."]]
+[[!meta language="en"]]
+[[!tag lang:en innovation policy law France liability]]
+
+[Morozov][morozovinnopolicy] on innovation policy:
+
+> But why assume that innovation—and, by extension, economic
+growth—should be the default yardstick by which we measure the
+success of technology policy? One can easily imagine us living
+with a very different “Internet” had the regulators of the 1990s
+banned websites from leaving small pieces of code—the so-called
+“cookies”—on our computers. Would this slow down the growth of the
+online advertising industry, making everyday luxuries such as free
+e-mail unavailable? Most likely. But advertising is hardly the
+only way to support an e-mail service: It can also be supported
+through fees or even taxes. Such solutions might be bad for
+innovation, but the privacy they afford to citizens might be good
+for democratic life.
+
+[morozovinnopolicy]: http://www.newrepublic.com/article/116939/innovation-fetish-naive-buzzword-unites-parties-avoids-policy-choice
+
+We should note that this ultimate goal of innovation is also what
+drives most of the debate around internet business liability.
+There’s so much fear at the European Union that the next law would
+stifle innovation and [[!toggle id="killgooglenext" text="nip in
+the bud the “next Google” that any"]]
+sane debate is almost impossible.
+
+[[!toggleable id="killgooglenext" text="""
+Of course, nobody’s asking if we even *want* the next Google to
+happen. I certainly don’t want another Google, nor did I want
+another Facebook to come into existence. I’d much prefer having
+something like [unhosted] web apps. This is what true beneficial
+innovation is about.
+"""]]
+
+[unhosted]: http://unhosted.org
+
+This way of thinking about innovation and “the Internet” has also
+spread out to Courts.
+
+Consider [this piece about how the Paris Court interpret the
+LCEN](http://www.legalis.net/spip.php?page=jurisprudence-decision&id_article=2634) 
+(the French translation of the [EU E-commerce 2001
+directive](http://ec.europa.eu/internal_market/e-commerce/directive/index_en.htm)):
+
+> Considérant qu’en vertu du même critère, l’exploitation du site
+par la commercialisation d’espaces publicitaires, dès lors qu’elle
+n’induit pas une capacité d’action du service sur les contenus mis
+en ligne, n’est pas davantage de nature à justifier de la
+qualification d’éditeur du service en cause ;
+
+> Qu’il importe d’observer à cet égard, que la LCEN dispose que le
+service hébergeur peut être assuré même à titre gratuit, auquel
+cas il est nécessairement financé par des recettes publicitaires
+et qu’elle n’édicte, en tout état de cause, aucune interdiction de
+principe à l’exploitation commerciale d’un service hébergeur au
+moyen de la publicité ;
+
+The crux of the argument is whether a service on the web like
+YouTube is merely a hosting provider (in which case it has a
+derogatory liability regime) or if it is *something else* than
+merely a hosting provider, in which case they could be found
+liable for copyright infringement.
+
+The argument was that since Dailymotion (a YouTube competitor)
+displays advertisement next to the allegedly infringing videos, it
+must be considered an advertiser instead of a hosting provider.
+
+And here’s the absolute nonsense: in order to respond to this
+absolutely important question, the Court says that:
+
+  - the law says a hosting provider can provide its service
+  without charge;
+  - which necessarily means the service is financed through
+  advertising,
+  - thus the law does not forbid to qualify an advertiser as a
+  hosting provider.
+
+See what happened? The problem in this reasoning is that the
+second part is totally flawed. Since when a service on the web
+provided free of charge is necessarily financed through
+advertising? Have the judges ever heard about something called
+Wikipedia, one of the largest website worldwide, hosting millions
+of encyclopedia articles and media---all this without advertising
+and without tracking their users. 
+
+<small>The fact that Wikipedia is run by the non-for-profit Wikimedia is
+completely irrelevant, the point is not about the commercial
+nature of the provider, but really about the nature of the
+activity of the service provider.</small>
+
+Thanks to this kind of ill-advised ruling, almost nothing is done
+to shape what qualifies as a hosting provider that deserves a
+derogatory liability regime.
+
+We need to take back control of innovation and technology policy
+to foster privacy; more than ever.
