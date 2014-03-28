@@ -1,17 +1,20 @@
 [[!meta title="Hugo’s notes"]]
 [[!if test="enabled(sidebar)" then="""
 [[!sidebar]]
-
+<aside class="sidebar">
 Here are short notes in both
 [[English|lang:en]] and [[French|lang:fr]].
+</aside>
 """ else="""
 [[!inline pages=sidebar raw=yes]]
-
+<aside class="sidebar">
 Here are short notes in both
 [[English|lang:en]] and [[French|lang:fr]].
+</aside>
 """]]
 
 
 [[!inline pages="(page(notes/*) or internal(notes/instant/*)) and
-!*/Discussion and !notes/sources and !notes/instant" show=30
+!*/Discussion and !notes/sources and !notes/instant and
+!notes/lang:fr and !notes/lang:en" show=30
 feedshow=20 template=microblog postform=no trail=yes]]
