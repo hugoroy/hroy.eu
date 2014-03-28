@@ -1,0 +1,15 @@
+[[!meta title="Introduction aux licences libres"]]
+[[!meta language="fr"]]
+[[!meta description="Une introuction générale aux licences libres donnée lors de l’Ubuntu Party de Paris en 2013."]]
+[[!tag lang:fr free_software licences]]
+[[!meta date="2013-06-02"]]
+
+<span class="fa fa-fw fa-lg">
+[[!toggle id="introduction-aux-licences-libres-ubuntu-party-2013" text=""]]
+</span> Introduction aux licences libres [diapos] (speakerdeck.com)
+
+[diapos]: //speakerdeck.com/hugo/introduction-aux-licences-libres-ubuntu-party-2013
+
+[[!toggleable id="introduction-aux-licences-libres-ubuntu-party-2013" text="""
+Une introuction générale aux licences libres donnée lors de l’Ubuntu Party de Paris en 2013.
+"""]]
