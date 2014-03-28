@@ -2,6 +2,7 @@
 [[!meta language="en"]]
 [[!meta description="A 20 minute introduction to W3C discussions
 on “Encrypted Media Extensions” in HTML."]]
+[[!tag lang:en HTML DRM EME W3C RMLL]]
 [[!meta date="2013-07-08"]]
 
 <i class="fa fa-fw fa-lg fa-caret-down">
