@@ -1,0 +1,61 @@
+[[!meta title="GNU GPL, JS and BS"]]
+[[!meta license="[CC0-1.0](http://creativecommons.org/publicdomain/zero/1.0/)"]]
+[[!meta description="Be careful what you read about how the GPL applies to Javascript. There’s a lot of nonsense out there"]]
+[[!meta language="en"]]
+[[!tag lang:en Javascript GNU_GPL free_software licenses]]<aside
+class="pull-right">[[!img js.png alt="JS"]]</aside>
+
+This is a long due post, in response to a thread about a [new JS
+outliner released under the GPL][concordgpl]. I just did not take
+the time to write something about it until now… sorry!
+
+[concordgpl]: http://scripting.com/2013/09/16/concordOurGplOutliner
+
+It’s quite outstanding, but trying to find some good resource
+online about this issue is nearly impossible. If you try to read
+about how the [[!taglink GNU_GPL|GNU GPL]] impacts javascript web
+apps, you will find so much nonsense---that will make you
+believe the GPL is going to “infect” everything.
+(In spite of the fact that some of the most important Javascript
+libraries out there are licensed under the GPL, like Jquery IIRC.)
+
+First, let’s get things straight: the GNU GPL does not infect
+anything nor has any “viral” effect. You don’t catch the GPL like
+the flu. In order for GPL obligations to kick in and apply to your
+javascript web app, you must either:
+
+  1. distribute GPL-licensed Javascript files; or
+  2. write something that is *based on* GPL-licensed Javascript
+  files.
+
+In the first case, it’s no surprises that if you download and
+distribute GPL-licensed software, you must respect the conditions
+of the GPL.
+
+In the second case, it’s a little bit more difficult to grasp,
+because you need to understand what constitutes a work *based on
+the GPL program.*
+
+Thus, if you build other Javascript parts which will work with the
+GPL Javascript, there’s a fair chance that the whole is based on
+the GPL Javascript and thus is subject to the conditions of the
+GPL. (That’s the intended effect: it’s
+[copyleft](https://www.gnu.org/copyleft/)!) So for instance, if
+you write Javascript files that you re-use the functions of the
+GPL library, it will be covered by the GPL as well.
+
+But for pretty much everything else, it’s not covered. So
+basically, just **adding a line of `script` to interact with the DOM
+is not going to make the entire website subject to the GPL**. That
+would be like saying using LibreOffice forces you to distribute
+all documents produced with it under the GPL. It’s just nonsense.
+
+So in the case of the [Concord outliner](http://scripting.com/2013/09/16/concordOurGplOutliner)
+it’s pretty obvious: if you put an outliner in your web app,
+it’s not going to make the whole web app covered by the GPL.
+However, if you integrate the outliner and that you build your
+web app on top of that outliner; you expand it, so yes, that’s
+covered. But hey, that’s what the GPL is for.
+
+Otherwise, write your own from scratch or try an alternative
+license, like the MPL-2.0.
