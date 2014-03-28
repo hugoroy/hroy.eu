@@ -1,7 +1,7 @@
 
 
 [[!inline pages="page(./talks/*) and !*/Discussion and !*/slides" show=55
-trail=yes feeds=yes]]
+trail=yes feeds=yes template="microblog"]]
 
 <ul class="index">
 <li class="hentry" id="introduction-aux-licences-libres-ubuntu-party-2013"><time class="dt-published" datetime="2013-06-02">Juin 2013</time><span data-toggle="collapse" data-target="#introduction-aux-licences-libres-ubuntu-party-2013-intro" class="collapser fa fa-fw fa-lg fa-caret-down"></span>&nbsp; <a class="p-name" href="//speakerdeck.com/hugo/introduction-aux-licences-libres-ubuntu-party-2013">Introduction aux licences libres [diapos]</a> <span class="link-out">(speakerdeck.com)</span> 
