@@ -1,0 +1,4 @@
+[[!meta title="pages tagged liability"]]
+
+[[!inline pages="tagged(liability)" actions="no" archive="yes"
+feedshow=10]]
