@@ -1,0 +1,4 @@
+[[!meta title="pages tagged France"]]
+
+[[!inline pages="tagged(France)" actions="no" archive="yes"
+feedshow=10]]
