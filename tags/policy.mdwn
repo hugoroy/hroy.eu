@@ -1,0 +1,4 @@
+[[!meta title="pages tagged policy"]]
+
+[[!inline pages="tagged(policy)" actions="no" archive="yes"
+feedshow=10]]
