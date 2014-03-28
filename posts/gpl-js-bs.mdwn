@@ -43,8 +43,8 @@ GPL Javascript, there’s a fair chance that the whole is based on
 the GPL Javascript and thus is subject to the conditions of the
 GPL. (That’s the intended effect: it’s
 [copyleft](https://www.gnu.org/copyleft/)!) So for instance, if
-you write Javascript files that you re-use the functions of the
-GPL library, it will be covered by the GPL as well.
+you write Javascript in which you re-use the functions of the
+GPL JS library, that will be covered by the GPL as well.
 
 But for pretty much everything else, it’s not covered. So
 basically, just **adding a line of `script` to interact with the DOM
