@@ -26,13 +26,13 @@ We should note that this ultimate goal of innovation is also what
 drives most of the debate around internet business liability.
 There’s so much fear at the European Union that the next law would
 stifle innovation and [[!toggle id="killgooglenext" text="nip in
-the bud the “next Google” that any"]]
-sane debate is almost impossible.
+the bud the “next Google”"]] that any sane debate is almost
+impossible.
 
 [[!toggleable id="killgooglenext" text="""
 Of course, nobody’s asking if we even *want* the next Google to
 happen. I certainly don’t want another Google, nor did I want
-another Facebook to come into existence. I’d much prefer having
+Facebook to come into existence. I’d much prefer having
 something like [unhosted] web apps. This is what true beneficial
 innovation is about.
 """]]
@@ -42,7 +42,7 @@ innovation is about.
 This way of thinking about innovation and “the Internet” has also
 spread out to Courts.
 
-Consider [this piece about how the Paris Court interpret the
+Consider [this piece about how the Paris Court interprets the
 LCEN](http://www.legalis.net/spip.php?page=jurisprudence-decision&id_article=2634) 
 (the French translation of the [EU E-commerce 2001
 directive](http://ec.europa.eu/internal_market/e-commerce/directive/index_en.htm)):
@@ -69,9 +69,9 @@ liable for copyright infringement.
 The argument was that since Dailymotion (a YouTube competitor)
 displays advertisement next to the allegedly infringing videos, it
 must be considered an advertiser instead of a hosting provider.
+But the Court was not convinced by this argument.
 
-And here’s the absolute nonsense: in order to respond to this
-absolutely important question, the Court says that:
+Instead, and here’s the absolute nonsense, the Court says that:
 
   - the law says a hosting provider can provide its service
   without charge;
