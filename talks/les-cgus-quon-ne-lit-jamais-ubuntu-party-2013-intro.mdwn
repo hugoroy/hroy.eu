@@ -1,0 +1,16 @@
+[[!meta title="Les CGUs qu’on ne lit jamais"]]
+[[!meta language="fr"]]
+[[!meta description=""]]
+[[!tag lang:fr ToSDR Terms_of_service privacy]]
+[[!meta date="2013-06-02"]]
+
+<span class="fa fa-fw fa-lg">
+[[!toggle id="les-cgus-quon-ne-lit-jamais-ubuntu-party-2013-intro" text=""]]
+</span>  Les CGUs qu'on ne lit jamais [diapos] (speakerdeck.com)
+
+[diapos]: //speakerdeck.com/hugo/les-cgus-quon-ne-lit-jamais-ubuntu-party-2013
+
+[[!toggleable id="les-cgus-quon-ne-lit-jamais-ubuntu-party-2013-intro" text="""
+Une petite plongée dans les fins fonds des conditions générales
+d'utilisation à l'Ubuntu Party.
+"""]]

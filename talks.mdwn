@@ -10,10 +10,6 @@ and !*/local" show=55
 trail=yes feeds=yes template="microblog"]]
 
 <ul>
-<li class="hentry" id="les-cgus-quon-ne-lit-jamais-ubuntu-party-2013"><time class="dt-published" datetime="2013-06-02">Juin 2013</time><span data-toggle="collapse" data-target="#les-cgus-quon-ne-lit-jamais-ubuntu-party-2013-intro" class="collapser fa fa-fw fa-lg fa-caret-down"></span>&nbsp; <a class="p-name" href="//speakerdeck.com/hugo/les-cgus-quon-ne-lit-jamais-ubuntu-party-2013">Les CGUs qu'on ne lit jamais [diapos]</a> <span class="link-out">(speakerdeck.com)</span>
-
-<p class="collapse p-summary" id="les-cgus-quon-ne-lit-jamais-ubuntu-party-2013-intro">Une petite plongée dans les fins fonds des conditions générales d'utilisation à l'Ubuntu Party.</p>
-</li>
 <li class="hentry" id="ep-hearing-201301"><time class="dt-published" datetime="2013-01">Jan 2013</time><span data-toggle="collapse" data-target="#ep-hearing-201301-intro" class="collapser fa fa-fw fa-lg fa-caret-down"></span>&nbsp; <a class="p-name" href="//tosdr.org/ep-hearing-201301.html">What's wrong with data protection - does consent really work? [diapos + brouillon]</a> <span class="link-out">(tosdr.org)</span> 
 
 <p class="collapse p-summary" id="ep-hearing-201301-intro">Table-ronde #2 au Parlement européen à Bruxelles organisé par le co-rapporteur de la règlementation relative aux données personnelles.
