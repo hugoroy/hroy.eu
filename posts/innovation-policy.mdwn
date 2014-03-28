@@ -98,4 +98,4 @@ to shape what qualifies as a hosting provider that deserves a
 derogatory liability regime.
 
 We need to take back control of innovation and technology policy
-to foster privacy; more than ever.
+to foster privacy and [[!taglink freedom|free_software]]; more than ever.
