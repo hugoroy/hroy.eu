@@ -1,9 +1,16 @@
 [[!meta title="Hugo’s notes"]]
 [[!if test="enabled(sidebar)" then="""
 [[!sidebar]]
+
+Here are short notes in both
+[[English|lang:en]] and [[French|lang:fr]].
 """ else="""
 [[!inline pages=sidebar raw=yes]]
+
+Here are short notes in both
+[[English|lang:en]] and [[French|lang:fr]].
 """]]
+
 
 [[!inline pages="(page(notes/*) or internal(notes/instant/*)) and
 !*/Discussion and !notes/sources and !notes/instant" show=30
