@@ -2,9 +2,12 @@
     font-size: 1em;
     content: "";
 }
-#content .fa a.toggle:active {
+#content .fa a.toggle:active:after {
     font-size: 1em;
     content: "";
+    transition-property: content;
+    transition-duration: 0.33s;
+    transition-timing-function: ease-out;
 }
 
 #content .microblog {margin-bottom: 0;}
