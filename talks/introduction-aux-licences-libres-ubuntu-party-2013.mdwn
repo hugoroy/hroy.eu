@@ -6,10 +6,19 @@
 
 <span class="fa fa-fw fa-lg">
 [[!toggle id="introduction-aux-licences-libres-ubuntu-party-2013" text=""]]
-</span> Introduction aux licences libres [diapos] (speakerdeck.com)
-
-[diapos]: //speakerdeck.com/hugo/introduction-aux-licences-libres-ubuntu-party-2013
+</span> Introduction aux licences libres 
 
 [[!toggleable id="introduction-aux-licences-libres-ubuntu-party-2013" text="""
 Une introuction générale aux licences libres donnée lors de l’Ubuntu Party de Paris en 2013.
+
+<iframe
+src="//speakerdeck.com/player/8fe36d90df470130c6cd66a20ab46c20"
+allowfullscreen="true" mozallowfullscreen="true"
+webkitallowfullscreen="true" frameborder="0" title="Introduction
+aux licelinces libres"
+width="666"></iframe>
+[diapos] (speakerdeck.com)
+
+[diapos]: //speakerdeck.com/hugo/introduction-aux-licences-libres-ubuntu-party-2013
+
 """]]
