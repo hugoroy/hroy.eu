@@ -1,0 +1,4 @@
+[[!meta title="pages tagged personal data"]]
+
+[[!inline pages="tagged(personal_data)" actions="no" archive="yes"
+feedshow=10]]
