@@ -16,7 +16,7 @@ src="//speakerdeck.com/player/8fe36d90df470130c6cd66a20ab46c20"
 allowfullscreen="true" mozallowfullscreen="true"
 webkitallowfullscreen="true" frameborder="0" title="Introduction
 aux licelinces libres"
-width="666"></iframe>
+width="666" height="580"></iframe>
 [diapos] (speakerdeck.com)
 
 [diapos]: //speakerdeck.com/hugo/introduction-aux-licences-libres-ubuntu-party-2013
