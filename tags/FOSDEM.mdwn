@@ -1,0 +1,4 @@
+[[!meta title="pages tagged FOSDEM"]]
+
+[[!inline pages="tagged(FOSDEM)" actions="no" archive="yes"
+feedshow=10]]
