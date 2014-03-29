@@ -1,0 +1,25 @@
+[[!meta title="Legal Panel on Application Stores and Free Software"]]
+[[!meta language="en"]]
+[[!meta description=""]]
+[[!tag lang:en FOSDEM free_software app_stores licenses compliance]]
+[[!meta date="2012-02-04"]]
+
+<span class="fa fa-fw fa-lg">
+[[!toggle id="fosdem-2012" text=""]]
+</span> [Legal Panel on Application Stores and Free Software](//archive.fosdem.org/2012/schedule/event/app_store_panel)
+
+
+[[!toggleable id="fosdem-2012" text="""
+Concluding panel for the first FOSDEM Legal DevRoom moderated
+by Richard Fontana, with Giovanni Battista Gallus, Bradley M.
+Kuhn, and myself on app store legal issues regarding free
+software.
+
+Table-ronde de conclusion du premier thème juridique du FOSDEM
+modéré par Richard Fontana, avec Giovanni Battista Gallus, Bradley
+M. Kuhn et moi à propos des enjeux juridiques des <em>app
+stores</em> pour le logiciel libre.
+
+<a href="http://faif.us/cast/2012/mar/13/0x24/">[audio]</a> <span class="link-out">(faif.us)</span>
+
+"""]]

@@ -1,0 +1,30 @@
+[[!meta title="What’s wrong with data protection – does consent really work?"]]
+[[!meta language="en"]]
+[[!meta description=""]]
+[[!tag lang:en European_Parliament personal_data privacy law]]
+[[!meta date="2013-01-31"]]
+
+<span class="fa fa-fw fa-lg">
+[[!toggle id="ep-hearing-201301" text=""]]
+</span> [What’s wrong with data protection – does consent really
+work?](//tosdr.org/ep-hearing-201301.html)
+
+
+[[!toggleable id="ep-hearing-201301" text="""
+Panel #2 at the European Parliament in Brussels organised by
+the EP co-rapporteur for the Data protection regulation.
+
+Table-ronde #2 au Parlement européen à Bruxelles organisé par le
+co-rapporteur de la règlementation relative aux données
+personnelles.
+
+<iframe
+src="//speakerdeck.com/player/b6a50e904dea0130e7f01231381d4fe0"
+allowfullscreen="true" mozallowfullscreen="true"
+webkitallowfullscreen="true" frameborder="0" title="What’s wrong with data protection – does consent really work?"
+width="666" height="580"></iframe>
+
+
+<a href="//www.greens-efa.eu/what-s-wrong-with-data-protection-9043.html">[event]</a> <span class="link-out">(greens-efa.eu)</span> <a href="http://greenmediabox.eu/archive/2013/01/31/what-s-wrong-with-data-protection/">[video]</a> <span class="link-out">(greenmediabox.eu)</span>
+
+"""]]
