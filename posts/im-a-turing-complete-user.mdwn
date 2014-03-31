@@ -1,7 +1,5 @@
 [[!meta title="A Turing complete user"]]
-[[!meta copyright="Picture source: <a
-href="http://totalrecallbook.com/storage/As%20We%20May%20Think%20Vannevar%20Bush%20450910.pdf">Illustrated
-version</a>"]]
+[[!meta copyright="Picture source: <a href='http://totalrecallbook.com/storage/As%20We%20May%20Think%20Vannevar%20Bush%20450910.pdf'>Illustrated version</a>"]]
 [[!tag user free_software CCC video technology lang:en]][[!meta language="en"]]
 
 I like to consider myself a [Turing complete user][turinguser]. This is a
@@ -25,8 +23,7 @@ it. Maybe [[!toggle id="lifecam" text="Jan-Christoph"]] should start a series: ‚
 technology.‚Äù
 
 [[!toggleable id="lifecam" text="""
-I just noticed how it's funny that [Jan's
-homepage](jcborh) currently features a
+I just noticed how it's funny that [Jan's homepage][jcborh] currently features a
 [collage](http://jancborchardt.net/img/2010-06-14-web.jpg) of
 pictures taken for 24 hours while he was wearing a camera on his
 chest. Do you see the resemblance with the picture chosen by Olia
