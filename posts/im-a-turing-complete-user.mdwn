@@ -31,11 +31,6 @@ that's more your style there's a video from the last CCC in
 Hamburg:
 
 <figure class="video">
-    <video controls="" style="width:100%;">
-      <source
-      src="//cdn.media.ccc.de/congress/2013/webm/30c3-5547-en-Turing_Complete_User_webm.webm"
-      type="video/webm; codecs=&quot;vp8, vorbis&quot;">
-    </video>
     <figcaption>
     <a
     href="http://media.ccc.de/browse/congress/2013/30C3_-_5547_-_en_-_saal_6_-_201312281730_-_turing_complete_user_-_olia_lialina.html">Turing Complete User</a>
@@ -45,6 +40,11 @@ Hamburg:
     <a
     href="//cdn.media.ccc.de/congress/2013/webm/30c3-5547-en-Turing_Complete_User_webm.webm">Direct
     link to the video</a></figcaption>
+    <video controls="" style="width:100%;">
+      <source
+      src="//cdn.media.ccc.de/congress/2013/webm/30c3-5547-en-Turing_Complete_User_webm.webm"
+      type="video/webm; codecs=&quot;vp8, vorbis&quot;">
+    </video>
 </figure>
 
 ------
