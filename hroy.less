@@ -203,10 +203,6 @@ footer, blockquote {
         line-height: 1em;
     }
 
-    table.img {
-        margin-bottom: 1.6em;
-    }
-
     .inlineheader .header {
         font-size: 1.6em;
         line-height: 1em;
@@ -284,9 +280,9 @@ footer, blockquote {
         }
     }
 
-    .img {
+    .img, figure.video {
         clear: left;
-        caption {
+        caption, figcaption {
             .hroy-left-align;
             position: absolute;
             text-align: right;
@@ -294,10 +290,15 @@ footer, blockquote {
             text-shadow: 0 0 0.3em rgb(255,255,255);
             padding: 1em;
         }
-        img.img {
+        img.img, video {
             .hroy-align;
         }
     }
+
+    table.img, figure.video {
+        margin-bottom: 1.6em;
+    }
+
 
     aside.pull-right, aside.pull-left {
         .img {

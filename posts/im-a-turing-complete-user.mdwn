@@ -30,11 +30,17 @@ Anyway, I encourage you to read the [essay][turinguser] or if
 that's more your style there's a video from the last CCC in
 Hamburg:
 
-<video controls="" style="width:100%;">
-  <source src="//cdn.media.ccc.de/congress/2013/webm/30c3-5547-en-Turing_Complete_User_webm.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;"><br>
-</video>
+<figure class="video">
+    <video controls="" style="width:100%;">
+      <source
+      src="//cdn.media.ccc.de/congress/2013/webm/30c3-5547-en-Turing_Complete_User_webm.webm"
+      type="video/webm; codecs=&quot;vp8, vorbis&quot;">
+    </video>
 
-<small><a href="//cdn.media.ccc.de/congress/2013/webm/30c3-5547-en-Turing_Complete_User_webm.webm">Direct link to the video</a></small>
+    <figcaption><a
+    href="//cdn.media.ccc.de/congress/2013/webm/30c3-5547-en-Turing_Complete_User_webm.webm">Direct
+    link to the video</a></figcaption>
+</figure>
 
 ------
 
