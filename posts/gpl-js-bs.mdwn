@@ -4,7 +4,7 @@
 [[!meta language="en"]]
 [[!tag lang:en Javascript GNU_GPL free_software licenses]]
 
-[[!img js.png alt="JS" class="pull-right aside"]]
+<aside>[[!img js.png alt="JS" class="pull-right aside"]]</aside>
 
 <small>This is a long due post, in response to a thread about a [new JS
 outliner released under the GPL][concordgpl]. I just did not take

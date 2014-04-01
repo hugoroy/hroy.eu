@@ -1,6 +1,6 @@
 [[!meta title="The web is history"]][[!img
 /images/zappa-cat-bw.png alt="zappa and his cat" link=no
-size="150x" class="pull-right aside"]
+size="150x" class="pull-right aside"]]
 [[!meta language="en"]]
 [[!tag lang:en Frank_Zappa Dave_Winer blogging history]]
 
