@@ -2,8 +2,9 @@
 [[!meta license="[CC0-1.0](http://creativecommons.org/publicdomain/zero/1.0/)"]]
 [[!meta description="Be careful what you read about how the GPL applies to Javascript. There’s a lot of nonsense out there"]]
 [[!meta language="en"]]
-[[!tag lang:en Javascript GNU_GPL free_software licenses]]<aside
-class="pull-right">[[!img js.png alt="JS"]]</aside>
+[[!tag lang:en Javascript GNU_GPL free_software licenses]]
+
+[[!img js.png alt="JS" class="pull-right aside"]]
 
 <small>This is a long due post, in response to a thread about a [new JS
 outliner released under the GPL][concordgpl]. I just did not take
