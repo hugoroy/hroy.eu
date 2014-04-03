@@ -1,0 +1,4 @@
+[[!meta title="pages tagged LGBT"]]
+
+[[!inline pages="tagged(LGBT)" actions="no" archive="yes"
+feedshow=10]]
