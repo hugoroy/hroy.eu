@@ -1,5 +1,5 @@
 
-[[!meta title="Multitouch gestures with the Dell XPS 13"]]
+[[!meta title="Multitouch gestures with the Dell XPS 13 on Arch Linux"]]
 [[!meta license="[CC0-1.0](http://creativecommons.org/publicdomain/zero/1.0/)"]]
 [[!meta description="How to enable three-finger and four-finger gestures with the Dell XPS 13 using Arch Linux and Touchègg"]]
 [[!meta language="en"]]
@@ -8,7 +8,7 @@
   1. Install the [linux-xps13-archlinux kernel](https://github.com/gunzy83/linux-xps13-archlinux) 
   (soon [in the AUR](https://aur.archlinux.org/packages.php?O=0&K=linux-xps13&do_Search=Go))
 
-  2. Install `xf86-input-synaptics` and, in AUR, `touchegg` and
+  2. Install `xf86-input-synaptics` and, from AUR, `touchegg` and
   `touchegg-gce-git` (this last one is to be able to configure
   gestures with the graphic interface).
 
