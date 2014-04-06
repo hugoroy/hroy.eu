@@ -59,10 +59,9 @@ This is why [pieces like this trouble me](http://www.theguardian.com/commentisfr
  based on open and equal expression, should be the new textbook
  example of the system working exactly as it should. 
 
-I hope [this episode] is now closed and that everybody learns a
+I hope [[this episode|posts/mozilla-eich-down]] is now closed and that everybody learns a
 lesson from this.
 
-[this episode]: /posts/mozilla-eich-down/
 
 (Especially, the guys at Rarebit who, after publishing an article
 “5 reasons why Brendan Eich should step down” now write “I want to
