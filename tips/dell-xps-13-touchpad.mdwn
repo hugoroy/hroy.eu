@@ -28,6 +28,59 @@
     Here's my `~/.config/touchegg/touchegg.conf`:
 
     <script src="https://gist.github.com/hugoroy/10009770.js"></script>
+    <noscript><pre>
+&lt;touchégg&gt;
+&lt;settings&gt;
+&lt;property name="composed_gestures_time"&gt;0&lt;/property&gt;
+&lt;/settings&gt;
+&lt;application name="All"&gt;
+&lt;gesture type="DRAG" fingers="3" direction="RIGHT"&gt;
+&lt;action type="SEND_KEYS"&gt;Super+Right&lt;/action&gt;
+&lt;/gesture&gt;
+&lt;gesture type="PINCH" fingers="5" direction="OUT"&gt;
+&lt;action type="SEND_KEYS"&gt;Control+Shift+equal&lt;/action&gt;
+&lt;/gesture&gt;
+&lt;gesture type="DRAG" fingers="3" direction="LEFT"&gt;
+&lt;action type="SEND_KEYS"&gt;Super+Left&lt;/action&gt;
+&lt;/gesture&gt;
+&lt;gesture type="PINCH" fingers="5" direction="IN"&gt;
+&lt;action type="SEND_KEYS"&gt;Control+minus&lt;/action&gt;
+&lt;/gesture&gt;
+&lt;gesture type="DRAG" fingers="3" direction="UP"&gt;
+&lt;action type="MAXIMIZE_RESTORE_WINDOW"&gt;&lt;/action&gt;
+&lt;/gesture&gt;
+&lt;gesture type="DRAG" fingers="4" direction="UP"&gt;
+&lt;action type="SEND_KEYS"&gt;Super&lt;/action&gt;
+&lt;/gesture&gt;
+&lt;gesture type="DRAG" fingers="4" direction="DOWN"&gt;
+&lt;action type="SEND_KEYS"&gt;Escape&lt;/action&gt;
+&lt;/gesture&gt;
+&lt;gesture type="TAP" fingers="3" direction=""&gt;
+&lt;action type="MOUSE_CLICK"&gt;BUTTON=2&lt;/action&gt;
+&lt;/gesture&gt;
+&lt;gesture type="DRAG" fingers="3" direction="DOWN"&gt;
+&lt;action type="SEND_KEYS"&gt;Super+Down&lt;/action&gt;
+&lt;/gesture&gt;
+&lt;/application&gt;
+&lt;application name="Evince"&gt;
+&lt;gesture type="DRAG" fingers="4" direction="LEFT"&gt;
+&lt;action type="SEND_KEYS"&gt;Control+Left&lt;/action&gt;
+&lt;/gesture&gt;
+&lt;gesture type="DRAG" fingers="4" direction="RIGHT"&gt;
+&lt;action type="SEND_KEYS"&gt;Control+Right&lt;/action&gt;
+&lt;/gesture&gt;
+&lt;/application&gt;
+&lt;application name="Firefox"&gt;
+&lt;gesture type="DRAG" fingers="4" direction="LEFT"&gt;
+&lt;action type="SEND_KEYS"&gt;Alt+Left&lt;/action&gt;
+&lt;/gesture&gt;
+&lt;gesture type="DRAG" fingers="4" direction="RIGHT"&gt;
+&lt;action type="SEND_KEYS"&gt;Alt+Right&lt;/action&gt;
+&lt;/gesture&gt;
+&lt;/application&gt;
+&lt;/touchégg&gt;
+    </pre><a href="https://gist.github.com/hugoroy/10009770">up to
+    date version on github</a></noscript>
 
   5. Add to your session (using `gnome-session-properties` for
   instance):
@@ -37,7 +90,7 @@
 
 The real improvement is that I can use three-finger tapping to
 simulate the middle-click mouse button which is used for quick
-pasting.
+pasting or for opening links in a new tab.
 
 As far as "pinching" is concerned, it does not work reliably at
 all for me.
