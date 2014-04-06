@@ -33,3 +33,11 @@
   instance):
      - `touchegg`
      - `synclient TapButton3=0`
+
+
+The real improvement is that I can use three-finger tapping to
+simulate the middle-click mouse button which is used for quick
+pasting.
+
+As far as "pinching" is concerned, it does not work reliably at
+all for me.
