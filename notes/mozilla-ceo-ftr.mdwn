@@ -21,3 +21,48 @@ web. This week, in a senseless, vicious convulsion, the web turned
 on him.
 
 [cpgmoz]: http://www.mozilla.org/en-US/about/governance/policies/participation/
+
+Meanwhile, Mozilla published an [FAQ](https://blog.mozilla.org/blog/2014/04/05/faq-on-ceo-resignation/).
+
+ > **Q: Was Brendan Eich forced out by employee pressure?**
+ > 
+ > A: No. While these tweets calling for Brendan’s resignation were
+ widely reported in the media, they came from only a tiny number
+ of people: less than 10 of Mozilla’s employee pool of 1,000. None
+ of the employees in question were in Brendan’s reporting chain or
+ knew Brendan personally.
+ > 
+ > In contrast, support for Brendan’s leadership was expressed from
+ a much larger group of employees, including those who felt
+ disappointed by Brendan’s support of Proposition 8 but
+ nonetheless felt he would be a good leader for Mozilla.
+ Communication from these employees has not been covered in the
+ media.
+
+Which echoes something written in the timeline mentioned above:
+
+ > 11) On March 27th, a small number of Mozillians tweeted
+ variants of “I am an employee of @mozilla and I’m asking
+ @brendaneich to step down as CEO”. These tweets were reported by
+ the tech press, and my perception is that this was the start of
+ the media firestorm. Most (or perhaps all) of the Mozillians who
+ tweeted this were employed by the Mozilla Foundation, not the
+ Mozilla Corporation which means that they report to the executive
+ director of the foundation and not to the CEO. As foundation
+ employees, they did not share the same org chart as Brendan.
+
+Which is why [pieces like this trouble me](http://www.theguardian.com/commentisfree/2014/apr/04/brendan-eich-coming-out-party-mozilla-ceo):
+
+ > Both writers seem concerned that Eich's resignation is a defeat
+ for freedom of expression. If anything, it is a victory – the
+ ouster of a founder and CEO by his own people, at a foundation
+ based on open and equal expression, should be the new textbook
+ example of the system working exactly as it should. 
+
+I hope this episode is now closed and that everybody learns a
+lesson from this.
+
+(Especially, the guys at Rarebit who, after publishing an article
+“5 reasons why Brendan Eich should step down” now write “I want to
+say how absolutely sad to hear that Brendan Eich stepped down.” No
+comments.)
