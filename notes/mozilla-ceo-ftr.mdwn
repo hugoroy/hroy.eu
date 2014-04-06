@@ -1,0 +1,23 @@
+
+[[!meta title="12:14"]]
+[[!meta license="[CC0-1.0](http://creativecommons.org/publicdomain/zero/1.0/)"]]
+[[!meta description="Finally, the facts around Brendan Eich’s resignation"]]
+[[!meta language="en"]]
+[[!tag lang:en Mozilla]]
+
+Somebody working at Mozilla put together [a timeline of facts
+surrounding Brendan Eich’s resignation](https://medium.com/p/7645a4bf8a2).
+
+> And the real tragedy here is that Mozilla would have sorted this
+out satisfactorily if it hadn’t been sensationalized by the media
+and turned into an internet witch hunt. Anyone who wrote a news
+story, posted to their blog, or tweeted about Brendan without
+understanding paragraph (i)(c) of the [Community Participation
+Guidelines][cpgmoz] was part of the mob that brought Brendan down.
+>
+> For more than 15 years, Brendan fought for openness and freedom on
+the web, and led many of the people who built that open and free
+web. This week, in a senseless, vicious convulsion, the web turned
+on him.
+
+[cpgmoz]: http://www.mozilla.org/en-US/about/governance/policies/participation/
