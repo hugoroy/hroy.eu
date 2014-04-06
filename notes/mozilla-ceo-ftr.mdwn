@@ -51,7 +51,7 @@ Which echoes something written in the timeline mentioned above:
  director of the foundation and not to the CEO. As foundation
  employees, they did not share the same org chart as Brendan.
 
-Which is why [pieces like this trouble me](http://www.theguardian.com/commentisfree/2014/apr/04/brendan-eich-coming-out-party-mozilla-ceo):
+This is why [pieces like this trouble me](http://www.theguardian.com/commentisfree/2014/apr/04/brendan-eich-coming-out-party-mozilla-ceo):
 
  > Both writers seem concerned that Eich's resignation is a defeat
  for freedom of expression. If anything, it is a victory – the
@@ -59,8 +59,10 @@ Which is why [pieces like this trouble me](http://www.theguardian.com/commentisf
  based on open and equal expression, should be the new textbook
  example of the system working exactly as it should. 
 
-I hope this episode is now closed and that everybody learns a
+I hope [this episode] is now closed and that everybody learns a
 lesson from this.
+
+[this episode]: /posts/mozilla-eich-down/
 
 (Especially, the guys at Rarebit who, after publishing an article
 “5 reasons why Brendan Eich should step down” now write “I want to
