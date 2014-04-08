@@ -22,11 +22,10 @@ training at the Paris Bar school. And a Zappaist.</span></p>
 
 <div id="timeline-last">
 
-Last bits:
+Last [[bits|timeline]]:
 
 [[!inline pages="internal(timeline/*) and !*/Discussion and !*/sources and !*/local.less and !*/local.css" show=4 archive=yes feeds=no]]
 
-[[See all|timeline]]
 </div>
 
 
