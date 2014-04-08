@@ -554,6 +554,7 @@ article.inlinepage {
 #blog-motto {
     color: @gray-light;
     font-size: 2.2em;
+    margin-bottom: 0.5em;
 }
 
 #relmes {
@@ -568,6 +569,17 @@ article.inlinepage {
 #timeline-last {
     @media (min-width: @screen-md) {
         margin-bottom: -1.4em;
+    }
+    #last-bits {
+        margin-bottom: 0;
+        border-bottom: 1px solid @gray-lighter;
+        line-height:0.1em;
+
+        span, span a {
+            font-size:0.8em;
+            color:@gray-light;
+            text-transform:uppercase;
+        }
     }
     .archivepage {
             .no-hroy-align;
