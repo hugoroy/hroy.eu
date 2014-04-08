@@ -554,20 +554,23 @@ article.inlinepage {
 #blog-motto {
     color: @gray-light;
     font-size: 2.2em;
-    @media (min-width: @screen-md) {
-        margin-bottom: -1.4em;
-    }
 }
 
 #relmes {
     .hide;
 }
 
-#hcard-Hugo-Roy {
+#hcard-Hugo-Roy, #timeline-last {
     .hroy-align;
     color: @gray;
 }
 
+#timeline-last {
+    @media (min-width: @screen-md) {
+        margin-bottom: -1.4em;
+    }
+    .archivepagedate {display: none;}
+}
 
 .gist {
     max-width: 800px;
