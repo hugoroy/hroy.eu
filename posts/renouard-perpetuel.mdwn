@@ -8,7 +8,7 @@
 
 Augustin-Charles Renouard, *Traité des droits d’auteurs dans les
 sciences, la littérature, et les beaux-arts*, troisième partie. 1838. 
-[Source Gallica]. Extraits [([pdf])]
+[Source Gallica]. Extraits ([pdf])
 
 [source gallica]: http://gallica.bnf.fr/ark:/12148/bpt6k5739469p/
 [pdf]: renouard-perpetuel.mdwn.pdf
