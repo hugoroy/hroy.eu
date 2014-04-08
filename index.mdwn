@@ -20,6 +20,16 @@ training at the Paris Bar school. And a Zappaist.</span></p>
 
 <h1 id="blog-motto">You can’t do that online anymore!</h1>
 
+<div id="timeline-last">
+
+Last bits:
+
+[[!inline pages="internal(timeline/*) and !*/Discussion and !*/sources and !*/local.less and !*/local.css" show=4 archive=yes feeds=no]]
+
+[[See all|timeline]]
+</div>
+
+
 <div class="subscribers">
     <a class="email feedbutton btn btn-xs btn-info" title="Hugo’s
     blog (email subscription)"
