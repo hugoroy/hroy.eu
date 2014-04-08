@@ -1,0 +1,4 @@
+[[!meta title="pages tagged copyright"]]
+
+[[!inline pages="tagged(copyright)" actions="no" archive="yes"
+feedshow=10]]
