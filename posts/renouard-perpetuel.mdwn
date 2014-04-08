@@ -1,7 +1,6 @@
 
 [[!meta title="Renouard ou le droit d’auteur contre la perpétuité"]]
-[[!meta copyright="Augustin-Charles Renouard, *Traité des droits d’auteurs dans les sciences, la littérature, et les beaux-arts*, troisième partie. 1838."]]
-[Source Gallica]]]
+[[!meta copyright="Augustin-Charles Renouard, *Traité des droits d’auteurs dans les sciences, la littérature, et les beaux-arts*, troisième partie. 1838. [Source Gallica]"]]
 [[!meta license="Domaine public / [CC0-1.0](http://creativecommons.org/publicdomain/zero/1.0/)"]]
 [[!meta description="Extraits du Traité des droits d’auteurs sur la perpétuité"]]
 [[!meta language="fr"]]
