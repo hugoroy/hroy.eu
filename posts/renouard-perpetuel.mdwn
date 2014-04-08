@@ -4,7 +4,7 @@
 [[!meta license="[CC0-1.0](http://creativecommons.org/publicdomain/zero/1.0/)"]]
 [[!meta description="Extraits du Traité des droits d’auteurs sur la perpétuité"]]
 [[!meta language="fr"]]
-[[!tag lang:fr droit_d’auteur property rights copyright]]
+[[!tag lang:fr droit_d’auteur property rights copyright verbatim]]
 
 Augustin-Charles Renouard, *Traité des droits d’auteurs dans les
 sciences, la littérature, et les beaux-arts*, troisième partie. 1838. 
