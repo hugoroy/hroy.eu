@@ -70,7 +70,7 @@ elle ne cesse pas d'appartenir à l'esprit dont elle émane; elle
 est comme le feu, qui se communique et s'étend sans s'affaiblir à
 son foyer.
 
-<aside>[*Plus loin:* La représentation matérielle de la pensée de
+<aside class="sidenote right">[*Plus loin:* La représentation matérielle de la pensée de
 l'auteur a donné naissance à une valeur vénale et exploitable:
 cela est vrai; et ce n'est pas un des moindres titres des bons
 écrivains à la reconnaissance publique que celle création de
