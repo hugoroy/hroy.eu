@@ -398,6 +398,13 @@ article.inlinepage {
         padding: 10px 15px;
         display: block;
     }
+    .timeline-label {
+        display:block;
+        padding:5px 15px 0;
+        font-size: 0.8em;
+        color:@gray-light;
+        text-transform:uppercase;
+    }
 }
 
 .inreplyto {
@@ -577,8 +584,8 @@ article.inlinepage {
         font-size:0.8em;
 
         span a {
-            color:@gray-light;
-            text-transform:uppercase;
+            .sidebar .timeline-label;
+            display: inline;
             background: #FFF;
             padding: 0 0.5em;
         }

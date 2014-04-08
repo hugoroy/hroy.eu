@@ -1,6 +1,5 @@
 <ul class="nav" role="menu">
-<li><span class="small"
-style="display:block;padding:5px 15px 0;font-size:0.8em;color:#999;text-transform:uppercase;">my
+<li><span class="timeline-label">my
 timeline</span>[[Here & Elsewhere|timeline]]</li>
 <!--li>[[Archives]]</li-->
 <li>[[Short Notes|notes]]</li>
