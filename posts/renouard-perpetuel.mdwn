@@ -1,18 +1,18 @@
 
 [[!meta title="Renouard ou le droit d’auteur contre la perpétuité"]]
-[[!meta copyright="Source: Augustin-Charles Renouard, *Traité des droits d’auteurs dans les sciences, la littérature, et les beaux-arts*, troisième partie. 1838. [Source Gallica](http://gallica.bnf.fr/ark:/12148/bpt6k5739469p/) Domaine public."]]
+[[!meta copyright="Source: Augustin-Charles Renouard, *Traité des droits d’auteurs dans la littérature, les sciences et les beaux-arts*, troisième partie. 1838. [Source Gallica](http://gallica.bnf.fr/ark:/12148/bpt6k5739469p/) Domaine public."]]
 [[!meta license="[CC0-1.0](http://creativecommons.org/publicdomain/zero/1.0/)"]]
 [[!meta description="Extraits du Traité des droits d’auteurs sur la perpétuité"]]
 [[!meta language="fr"]]
 [[!tag lang:fr droit_d’auteur property rights copyright verbatim]]
 
-Augustin-Charles Renouard, *Traité des droits d’auteurs dans les
-sciences, la littérature, et les beaux-arts*, troisième partie. 1838. Extraits ([pdf]): [§]
+Augustin-Charles Renouard, *Traité des droits d’auteurs dans la
+littérature, les sciences et les beaux-arts*, troisième partie. 1838. Extraits ([pdf]): [§]
 
 
 [source gallica]: http://gallica.bnf.fr/ark:/12148/bpt6k5739469p/
 [pdf]: renouard-perpetuel.mdwn.pdf
-[§]: http ://gallica.bnf.fr/ark :/12148/bpt6k5739469p/f451.image
+[§]: http://gallica.bnf.fr/ark:/12148/bpt6k5739469p/f451.image
 
 ### § Ⅴ. La reproduction des ouvrages d'esprit n'est point un objet de propriété.
 
