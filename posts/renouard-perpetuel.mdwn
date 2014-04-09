@@ -11,7 +11,8 @@ littérature, les sciences et les beaux-arts*, troisième partie. 1838. Extraits
 
 
 [source gallica]: http://gallica.bnf.fr/ark:/12148/bpt6k5739469p/
-[pdf]: renouard-perpetuel.mdwn.pdf
+[pdf]: /posts/renouard-perpetuel/renouard-perpetuel.mdwn.pdf
+[html]: https://hugoroy.eu/posts/renouard-perpetuel/
 [§]: http://gallica.bnf.fr/ark:/12148/bpt6k5739469p/f451.image
 
 ### § Ⅴ. La reproduction des ouvrages d'esprit n'est point un objet de propriété.
@@ -152,6 +153,8 @@ imposer à une portion de matière le sceau et la forme.
 
 L'expression *droit de copie*, employée par les Anglais et les
 Allemands est beaucoup plus juste. […]
+
+\newpage
 
 ### § Ⅹ. Des privilèges perpétuels détruiraient les droits qui appartiennent à la société.
 
