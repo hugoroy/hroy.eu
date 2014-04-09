@@ -7,10 +7,12 @@
 [[!tag lang:fr droit_d’auteur property rights copyright verbatim]]
 
 Augustin-Charles Renouard, *Traité des droits d’auteurs dans les
-sciences, la littérature, et les beaux-arts*, troisième partie. 1838. Extraits ([pdf]):
+sciences, la littérature, et les beaux-arts*, troisième partie. 1838. Extraits ([pdf]): [§]
+
 
 [source gallica]: http://gallica.bnf.fr/ark:/12148/bpt6k5739469p/
 [pdf]: renouard-perpetuel.mdwn.pdf
+[§]: http ://gallica.bnf.fr/ark :/12148/bpt6k5739469p/f451.image
 
 ### § Ⅴ. La reproduction des ouvrages d'esprit n'est point un objet de propriété.
 
@@ -24,9 +26,7 @@ lesquels se fonde le respect qu'on lui porte.
 
 Le droit de propriété a rencontré des adversaires ; car l'une des
 preuves de liberté que l'esprit humain a toujours faites a été de
-se révolter contre les vérités les mieux acceptées. [§]
-
-[§] : http ://gallica.bnf.fr/ark :/12148/bpt6k5739469p/f451.image
+se révolter contre les vérités les mieux acceptées. 
 
 […]
 
