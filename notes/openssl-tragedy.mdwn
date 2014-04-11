@@ -1,0 +1,48 @@
+
+The [heartbleed] vulnerability is not only a catastrophic security
+issue, [[!toggle id="hearbleedtopics" text="it also spans other
+interesting topics."]]
+
+[[!toggleable id="heartbleedtopics" text="""
+The first obvious lesson, is that the communication around the
+vulnerability was [brilliant marketing]. 
+
+The other lesson, less satisfying, is why is the majority of the
+internet relying on a very poorly funded project?!
+
+[hertbleed]: http://heartbleed.com/
+[brilliant marketing]: http://www.kalzumeus.com/2014/04/09/what-heartbleed-can-teach-the-oss-community-about-marketing/
+[washpostart]: http://www.washingtonpost.com/business/technology/heartbleed-bug-puts-the-chaotic-nature-of-the-internet-under-the-magnifying-glass/2014/04/09/00f7064c-c00b-11e3-bcec-b71ee10e9bc3_story.html
+
+The Washington Post published an [article that misses the real
+issue][washpostart]. The heartbleed debacle is not an issue with
+the fact that [OpenSSL is Free Software][samssl] (the Apple goto
+fail bug shows it’s even worse when it’s proprietary--all Apple
+users had to wait several days before a patch was sent), nor with
+the fact that the Internet have no single authority (if anything,
+the openssl library is a single point of failure).
+
+[samssl]: https://blogs.fsfe.org/samtuke/?p=718
+
+I find it astonishing that OpenSSL is so poorly funded and
+apparently lacks a governance strategy that includes large
+stakeholders such as the major websites making use of the library
+and which, instead, are essentially all irresponsible free-riders.
+
+The real issue here is one of responsibility.
+"""]]
+
+XKCD has an [[!toggle id="xkcd1354" text="amazingly simple
+explanation of how the vulnerability works."]]
+
+[[!toggleable id="xkcd1354" text="""
+[[!img http://imgs.xkcd.com/comics/heartbleed_explanation.png link="http://xkcd.com/1354/"]]
+"""]]
+
+[[!meta title="2014-04-11"]]
+[[!meta copyright="© XKCD [CC-BY-NC-2.5](http://creativecommons.org/licenses/by-nc/2.5/)"]]
+[[!meta license="[CC0-1.0](http://creativecommons.org/publicdomain/zero/1.0/) except for the XKCD graphic"]]
+[[!meta description="Finally, the facts around Brendan Eich’s resignation"]]
+[[!meta language="en"]]
+[[!tag lang:en heartbleed security governance marketing free_software]]
+
