@@ -1,0 +1,4 @@
+[[!meta title="pages tagged marketing"]]
+
+[[!inline pages="tagged(marketing)" actions="no" archive="yes"
+feedshow=10]]
