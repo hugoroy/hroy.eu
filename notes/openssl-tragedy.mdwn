@@ -10,7 +10,7 @@ vulnerability was [brilliant marketing].
 The other lesson, less satisfying, is why is the majority of the
 internet relying on a very poorly funded project?!
 
-[hertbleed]: http://heartbleed.com/
+[heartbleed]: http://heartbleed.com/
 [brilliant marketing]: http://www.kalzumeus.com/2014/04/09/what-heartbleed-can-teach-the-oss-community-about-marketing/
 [washpostart]: http://www.washingtonpost.com/business/technology/heartbleed-bug-puts-the-chaotic-nature-of-the-internet-under-the-magnifying-glass/2014/04/09/00f7064c-c00b-11e3-bcec-b71ee10e9bc3_story.html
 
