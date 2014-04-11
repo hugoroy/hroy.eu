@@ -36,7 +36,7 @@ XKCD has an [[!toggle id="xkcd1354" text="amazingly simple
 explanation of how the vulnerability works."]]
 
 [[!toggleable id="xkcd1354" text="""
-[[!img http://imgs.xkcd.com/comics/heartbleed_explanation.png link="http://xkcd.com/1354/"]]
+[[!img heartbleed_explanation.png link="http://xkcd.com/1354/"]]
 """]]
 
 [[!meta title="2014-04-11"]]
