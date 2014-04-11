@@ -42,7 +42,7 @@ explanation of how the vulnerability works."]]
 [[!meta title="2014-04-11"]]
 [[!meta copyright="© XKCD [CC-BY-NC-2.5](http://creativecommons.org/licenses/by-nc/2.5/)"]]
 [[!meta license="[CC0-1.0](http://creativecommons.org/publicdomain/zero/1.0/) except for the XKCD graphic"]]
-[[!meta description="Finally, the facts around Brendan Eich’s resignation"]]
+[[!meta description="Heartbleed: marketing and project governance issues."]]
 [[!meta language="en"]]
 [[!tag lang:en heartbleed security governance marketing free_software]]
 
