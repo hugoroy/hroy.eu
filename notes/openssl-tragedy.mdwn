@@ -1,6 +1,6 @@
 
 The [heartbleed] vulnerability is not only a catastrophic security
-issue, [[!toggle id="hearbleedtopics" text="it also spans other
+issue, [[!toggle id="heartbleedtopics" text="it also spans other
 interesting topics."]]
 
 [[!toggleable id="heartbleedtopics" text="""
