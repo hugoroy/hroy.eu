@@ -8,7 +8,7 @@ consultant in Maryland."]]
 [wsjssl]: http://online.wsj.com/news/articles/SB10001424052702303873604579495362672447986
 
 [[!toggleable id="openssl11" text="""
-To answer some of the astonishing comments I made yesterday, the
+To answer some of the astonished comments I made yesterday, the
 lack of contributors to the project is baffling. So: the whole
 Internet relied on 10 volunteers and 1 employee and nobody helped
 them?
