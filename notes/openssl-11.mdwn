@@ -1,0 +1,39 @@
+
+[Wall Street Journal][wsjssl]: The encryption flaw that punctured
+the heart of the Internet this week underscores a weakness in
+Internet security: [[!toggle id="openssl11" text="A good chunk of
+it is managed by four European coders and a former military
+consultant in Maryland."]]
+
+[wsjssl]: http://online.wsj.com/news/articles/SB10001424052702303873604579495362672447986
+
+[[!toggleable id="openssl11" text="""
+To answer some of the astonishing comments I made yesterday, the
+lack of contributors to the project is baffling. So: the whole
+Internet relied on 10 volunteers and 1 employee and nobody helped
+them?
+
+I guess this sort of comes back to one of the essential question
+in Free Software: how do you get the users to fund it? For some
+kind of software, this can be difficult; but in the case of
+OpenSSL I would have thought this to be an easy thing, since so
+many banks and web companies intensively rely on it. 
+
+But apparently, they didn’t care at all if this major piece of
+security they were using was able to keep up with security
+standards or not. Considering the number of people involved with
+the project, I don't see how it can put enough scrutiny and
+efforts to make sure it follows the best security review.
+"""]]
+
+According to Brett Simmons, [That pretty much wraps it up for
+C][inessentialssl].
+
+[inessentialssl]: http://inessential.com/2014/04/11/does_that_pretty_much_wrap_it_up_for_c_
+
+[[!meta title="2014-04-12"]]
+[[!meta license="[CC0-1.0](http://creativecommons.org/publicdomain/zero/1.0/) except for the XKCD graphic"]]
+[[!meta description="Hartbleed contributors: 10 volunteers and 1 employee."]]
+[[!meta language="en"]]
+[[!tag lang:en heartbleed security Internet free_software]]
+
