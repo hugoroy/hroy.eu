@@ -24,6 +24,13 @@ security they were using was able to keep up with security
 standards or not. Considering the number of people involved with
 the project, I don't see how it can put enough scrutiny and
 efforts to make sure it follows the best security review.
+
+(Now, I have to wonder if the WSJ piece is actually correct in the
+way it counts the contributors to the project, because it's fairly
+possible that lots of companies making use of OpenSSL actually had
+security experts and developers in-house test the code and send
+patches and bug reports upstream; a bit like Google and that other
+security firm did when they found out about Heartbleed…)
 """]]
 
 According to Brett Simmons, [That pretty much wraps it up for
