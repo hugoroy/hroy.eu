@@ -44,3 +44,7 @@ C][inessentialssl].
 [[!meta language="en"]]
 [[!tag lang:en heartbleed security Internet free_software]]
 
+The whole heartbleed bugs also reminds me that OpenSSL is also an
+example of bad idea when it comes to
+[licensing](https://people.gnome.org/~markmc/openssl-and-the-gpl.html)
+[issues](https://lwn.net/Articles/428111/).
