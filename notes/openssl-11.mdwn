@@ -39,7 +39,7 @@ C][inessentialssl].
 [inessentialssl]: http://inessential.com/2014/04/11/does_that_pretty_much_wrap_it_up_for_c_
 
 [[!meta title="2014-04-12"]]
-[[!meta license="[CC0-1.0](http://creativecommons.org/publicdomain/zero/1.0/) except for the XKCD graphic"]]
+[[!meta license="[CC0-1.0](http://creativecommons.org/publicdomain/zero/1.0/)"]]
 [[!meta description="Hartbleed contributors: 10 volunteers and 1 employee."]]
 [[!meta language="en"]]
 [[!tag lang:en heartbleed security Internet free_software]]
