@@ -1,0 +1,9 @@
+[[!comment format=mdwn
+ ip="88.153.236.109"
+ claimedauthor="Guido Arnold"
+ url="https://blogs.fsfe.org/guido"
+ subject="Thanks!"
+ date="2014-04-18T05:25:37Z"
+ content="""
+The last line helped me a lot, even though I don't even use the sidebar yet. open-mutt found the folder with the email needed, but always highlighted the first mail in that folder. Now it works fine! :)
+"""]]
