@@ -6,7 +6,7 @@ for her to protect her privacy online](http://www.technologyreview.com/view/5264
 [[!toggleable id="lcranor" text="""
 I appreciate Lorrie Cranor’s work on privacy at Carnegie Mellon
 University. I have extensively cited her study of the length of privacy
-policies when I’m introducint ToS;DR.
+policies when I introduced [ToS;DR](http://tosdr.org).
 """]]
 
 However in this article, I was disappointed to see Ghostery
