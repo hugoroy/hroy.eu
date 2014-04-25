@@ -22,7 +22,7 @@ quickly posted my frustration about this. People who promote web
 privacy should stop promoting Ghostery, as it’s proprietary.
 What’s their business model exactly? ;-)
 
-[[[!toggleable id="ghosterycode" text="""
+[[!toggleable id="ghosterycode" text="""
 In [my earlier
 tweet](https://twitter.com/hugoroyd/status/459618738091085824) I
 wrongly stated that the source code was not disclosed; but that’s
