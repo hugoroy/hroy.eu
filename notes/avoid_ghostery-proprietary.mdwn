@@ -27,7 +27,7 @@ In [my earlier
 tweet](https://twitter.com/hugoroyd/status/459618738091085824) I
 wrongly stated that the source code was not disclosed; but that’s
 not accurate. There is some code disclosed (I suppose it’s
-entirely readable and not obfuscated and minified). But as you’ll
+entirely readable and not obfuscated nor minified). But as you’ll
 notice, the license is “All rights reserved” so, basically, users
 have no rights.
 """]]
