@@ -4,12 +4,12 @@
 [[!inline pages=sidebar raw=yes]]
 """]]
 
+Recent comments on posts in the [[blog|index]]:
+[[!inline pages="./*/Discussion or comment(./*)"
+template="comment"]]
+
 [[!inline pages="comment_pending(./*)" feedfile=pendingmoderation
 description="comments pending moderation" show=-1]]
 Comments in the [[!commentmoderation desc="moderation queue"]]:
 [[!pagecount pages="comment_pending(./posts/*)"]]
-
-Recent comments on posts in the [[blog|index]]:
-[[!inline pages="./*/Discussion or comment(./*)"
-template="comment"]]
 
