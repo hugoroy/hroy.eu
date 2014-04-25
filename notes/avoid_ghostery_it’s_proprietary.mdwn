@@ -1,0 +1,51 @@
+
+I was reading an article by [[!toggle id="lcranor" text="Lorrie
+Cranor"]] on the MIT technology Review on [how it’s difficult even
+for her to protect her privacy online](http://www.technologyreview.com/view/526421/self-defense/).
+
+[[!toggleable id="lcranor" text="""
+I appreciate Lorrie Cranor’s work on privacy at Carnegie Mellon
+University. I have extensively cited her study of the length of privacy
+policies when I’m introducint ToS;DR.
+"""]]
+
+However in this article, I was disappointed to see Ghostery
+mentioned. Ghostery is an browser extension supposed to help users
+against tracking and surveillance on the web. The main problem is
+that Ghostery is not released as Free Software[^akaos]
+
+[^akaos]: a.k.a Open Source. Both these terms designate the same
+set of programs.
+
+[[!toggle id="ghosterycode" text="Earlier on Twitter"]] I
+quickly posted my frustration about this. People who promote web
+privacy should stop promoting Ghostery, as it’s proprietary.
+What’s their business model exactly? ;-)
+
+[[[!toggleable id="ghosterycode" text="""
+In [my earlier
+tweet](https://twitter.com/hugoroyd/status/459618738091085824) I
+wrongly stated that the source code was not disclosed; but that’s
+not accurate. There is some code disclosed (I suppose it’s
+entirely readable and not obfuscated and minified). But as you’ll
+notice, the license is “All rights reserved” so, basically, users
+have no rights.
+"""]]
+
+Ghostery has been playing on the ambiguity for too long. This
+hypocrisy must stop. [[!toggle id="ghosttweet" text="See these
+tweets from years ago…"]]
+
+[[!toggleable id="ghosttweet" text="""
+<blockquote class="twitter-tweet" lang="fr"><p><a href="https://twitter.com/accessjames">@accessjames</a> <a href="https://twitter.com/phisab">@phisab</a> We are currently working on making it open source, it&#39;s an ongoing project. Ghostery blocks, no need for opting out.</p>&mdash; Ghostery (@Ghostery) <a href="https://twitter.com/Ghostery/statuses/290834903745040384">14 Janvier 2013</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" lang="en"><p>this is good news :) RT <a href="https://twitter.com/Ghostery">@Ghostery</a>: Currently, you can access Ghostery&#39;s code if you unpack the ext. We are still looking to open source, too</p>&mdash; Jeekajoo (@jeekajoo) <a href="https://twitter.com/jeekajoo/statuses/339332265215655936">May 28, 2013</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+"""]]
+
+[[!meta title="2014-04-25"]]
+[[!meta license="[CC0-1.0](http://creativecommons.org/publicdomain/zero/1.0/) except for the XKCD graphic"]]
+[[!meta description="Ranting against Ghostery’s proprietary license"]]
+[[!meta language="en"]]
+[[!tag lang:en privacy Mozilla free_software]]
