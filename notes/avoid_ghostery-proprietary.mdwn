@@ -1,6 +1,6 @@
 
 I was reading an article by [[!toggle id="lcranor" text="Lorrie
-Cranor"]] on the MIT technology Review on [how it’s difficult even
+Cranor"]] in the MIT Technology Review on [how it’s difficult even
 for her to protect her privacy online](http://www.technologyreview.com/view/526421/self-defense/).
 
 [[!toggleable id="lcranor" text="""
