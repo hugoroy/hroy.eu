@@ -4,7 +4,8 @@
 [[!inline pages=sidebar raw=yes]]
 """]]
 
-Recent comments on posts in the [[blog|index]]:
+[[!meta title="Recent comments"]]
+
 [[!inline pages="./*/Discussion or comment(./*)"
 template="comment"]]
 
