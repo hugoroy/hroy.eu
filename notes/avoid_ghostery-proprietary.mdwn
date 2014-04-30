@@ -38,10 +38,10 @@ tweets from years ago…"]]
 
 [[!toggleable id="ghosttweet" text="""
 <blockquote class="twitter-tweet" lang="fr"><p><a href="https://twitter.com/accessjames">@accessjames</a> <a href="https://twitter.com/phisab">@phisab</a> We are currently working on making it open source, it&#39;s an ongoing project. Ghostery blocks, no need for opting out.</p>&mdash; Ghostery (@Ghostery) <a href="https://twitter.com/Ghostery/statuses/290834903745040384">14 Janvier 2013</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="http://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" lang="en"><p>this is good news :) RT <a href="https://twitter.com/Ghostery">@Ghostery</a>: Currently, you can access Ghostery&#39;s code if you unpack the ext. We are still looking to open source, too</p>&mdash; Jeekajoo (@jeekajoo) <a href="https://twitter.com/jeekajoo/statuses/339332265215655936">May 28, 2013</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="http://platform.twitter.com/widgets.js" charset="utf-8"></script>
 """]]
 
 [[!meta title="2014-04-25"]]
