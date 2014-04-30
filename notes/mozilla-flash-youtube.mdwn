@@ -1,0 +1,23 @@
+
+[[!meta title="2014-04-30"]]
+[[!meta license="[CC0-1.0](http://creativecommons.org/publicdomain/zero/1.0/)"]]
+[[!meta description="I answer Mozilla: what do I want for the web? No Flash and Youtube from them."]]
+[[!meta language="en"]]
+[[!tag lang:en Flash Mozilla web YouTube]]
+
+Mozilla is currently promoting the new Firefox 29 ([Go get it!][ffx29]). So they're asking us on Twitter: [What do you want for the Web?][moztwwant] So I clicked on their link [[!toggle id="mozyoutube" text="and here's what I got"]].
+
+[firefox29]: https://www.mozilla.org/en-US/firefox/new/
+[moztwwant]: https://twitter.com/firefox/status/461550580729536512
+
+[[!toggleable id="mozyoutube" text="""
+
+[[!img mozilla-screenshot-youtube.png alt="Screenshot of Mozilla website with broken youtube" size="666x" caption="A broken Flash-YouTube video"]]
+
+I haven't been able to play YouTube videos for weeks now. Sometimes, it works though. I have no idea what's going on…
+
+"""]]
+
+Dear Mozilla, next time you publish a video on your website, I don't want Flash and I don't want YouTube. I want HTML5 video (in an open standard format, i.e. free of patent restrictions) and I don't want you to promote [a platform with crappy terms of service][tosdr-youtube].
+
+[tosdr-youtube]: http://tosdr.org/#youtube
