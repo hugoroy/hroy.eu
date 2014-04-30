@@ -7,7 +7,7 @@
 
 Mozilla is currently promoting the new Firefox 29 ([Go get it!][ffx29]). So they're asking us on Twitter: [What do you want for the Web?][moztwwant] So I clicked on their link [[!toggle id="mozyoutube" text="and here's what I got"]].
 
-[firefox29]: https://www.mozilla.org/en-US/firefox/new/
+[ffx29]: https://www.mozilla.org/en-US/firefox/new/
 [moztwwant]: https://twitter.com/firefox/status/461550580729536512
 
 [[!toggleable id="mozyoutube" text="""
