@@ -1,0 +1,21 @@
+
+Here’s a list of options I modified in my firefox’s [about:config](about:config). 
+
+  - [middlemouse.contentLoadURL]: false
+
+    I use the mouse middle click to copy and paste stuff. So when I accidentally  press that mouse middle click while reading a web page, I don’t want Firefox to load whatever’s in my buffer as a URL.
+
+  - [browser.urlbar.trimURLs]: false
+
+    Mozilla decided to look more like Google Chrome and started to hide relevant parts of the URL like `http://`. This feature has helped me exactly 0 time, while on the other hand it was annoying many times when sometimes copy/pasting from the URL bar would not give me the entire URL (the behaviour was not consistent, sometimes it would work).
+
+  - Disabling [unsecure ciphers]
+
+[middlemouse.contentLoadURL]: http://kb.mozillazine.org/Middlemouse.contentLoadURL
+[browser.urlbar.trimURLs]: https://developer.mozilla.org/en-US/docs/Mozilla/Preferences/Preference_reference/browser.urlbar.trimURLs
+[unsecure ciphers]: http://blog.yjl.im/2013/12/disabling-tlsssl-rc4-in-firefox-and.html
+
+Other tips for Firefox:
+
+[[!inline pages="page(./*) and tagged(Firefox) and !*/Discussion" archive=yes
+feedshow=10 quick=yes trail=no action=yes feeds=yes]]
