@@ -4,6 +4,11 @@
 [[!inline pages=sidebar raw=yes]]
 """]]
 
+[[!meta foaf="http://hugoroy.eu/foaf.rdf"]]
+[[!meta description="You can’t do that online anymore! a blog, notes, tips and everything else elsewhere…"]]
+[[!meta license="CC-BY-SA-4.0"]]
+[[!meta copyright="[Copyright info](/copyright)"]]
+
 <div class="vcard" id="hcard-Hugo-Roy">
 <p>Hi! I’m <a href="http://hugoroy.eu" class="fn" title="Hugo Roy">Hugo</a>.
 <span class="p-note">I am the project leader for <a
@@ -21,13 +26,9 @@ training at the Paris Bar school. And a Zappaist.</span></p>
 <h1 id="blog-motto">You can’t do that online anymore!</h1>
 
 <div id="timeline-last">
-
 <p id="last-bits"><span>[[Last bits of my Timeline|timeline]]</span></p>
-
 [[!inline pages="internal(timeline/*) and !*/Discussion and !*/sources and !*/local.less and !*/local.css" show=4 archive=yes feeds=no]]
-
 </div>
-
 
 <div class="subscribers">
     <a class="email feedbutton btn btn-xs btn-info" title="Hugo’s
@@ -38,11 +39,6 @@ training at the Paris Bar school. And a Zappaist.</span></p>
 [[!inline pages="page(./posts/*) and !*/Discussion" show="10" actions=no]]
 
 If you’ve read until here, you should head to the full list of [[posts]].
-
-[[!meta foaf="http://hugoroy.eu/foaf.rdf"]]
-[[!meta description="You can’t do that online anymore! a blog, notes, tips and everything else elsewhere…"]]
-[[!meta license="CC-BY-SA-4.0"]]
-[[!meta copyright="[Copyright info](/copyright)"]]
 
 <ul class="hide" id="relmes">
     <li><i class="fa fa-fw fa-twitter" title="Twitter"></i> 
