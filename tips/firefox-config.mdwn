@@ -23,5 +23,5 @@ Here’s a list of options I modified in my firefox’s [about:config](about:con
 
 Other tips for Firefox:
 
-[[!inline pages="page(./*) and tagged(Firefox) and !*/Discussion" archive=yes
+[[!inline pages="(page(./*) or page(/configs/*)) and tagged(Firefox) and !*/Discussion" archive=yes
 feedshow=10 quick=yes trail=no action=yes feeds=yes]]
