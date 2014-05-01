@@ -19,6 +19,8 @@ Here’s a list of options I modified in my firefox’s [about:config](about:con
 [browser.urlbar.trimURLs]: https://developer.mozilla.org/en-US/docs/Mozilla/Preferences/Preference_reference/browser.urlbar.trimURLs
 [unsecure ciphers]: http://blog.yjl.im/2013/12/disabling-tlsssl-rc4-in-firefox-and.html
 
+-----
+
 Other tips for Firefox:
 
 [[!inline pages="page(./*) and tagged(Firefox) and !*/Discussion" archive=yes
