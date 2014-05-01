@@ -11,7 +11,7 @@ Here’s a list of options I modified in my firefox’s [about:config](about:con
 
   - [browser.urlbar.trimURLs]: false
 
-    Mozilla decided to look more like Google Chrome and started to hide relevant parts of the URL like `http://`. This feature has helped me exactly 0 time, while on the other hand it was annoying many times when sometimes copy/pasting from the URL bar would not give me the entire URL (the behaviour was not consistent, sometimes it would work).
+    Mozilla decided to look more like Google Chrome and started to hide relevant parts of the URL like `http://`. This feature has helped me exactly 0 time, while on the other hand it was annoying many times when copy/pasting from the URL bar would not give me the entire URL (and the results were not consistent).
 
   - Disabling [unsecure ciphers]
       - security.ssl3.ecdh_ecdsa_rc4_128_sha
