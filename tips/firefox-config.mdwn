@@ -1,3 +1,7 @@
+[[!meta title="Firefox about:config"]]
+[[!meta license="[CC0-1.0](http://creativecommons.org/publicdomain/zero/1.0/)"]]
+[[!meta language="en"]]
+[[!tag lang:en Firefox]]
 
 Here’s a list of options I modified in my firefox’s [about:config](about:config). 
 
