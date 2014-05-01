@@ -21,6 +21,8 @@ Here’s a list of options I modified in my firefox’s [about:config](about:con
       - security.ssl3.rsa_rc4_128_md5
       - security.ssl3.rsa_rc4_128_sha
 
+    You can now [check if your browser uses secure SSL/TLS cipher](https://www.howsmyssl.com/).
+
   - Replace Google with [DuckDuckGo on Firefox](https://duck.co/help/desktop/firefox)
       - browser.search.defaultenginename: DuckDuckGo
       - browser.search.selectedEngine: DuckDuckGo
