@@ -1,0 +1,9 @@
+[[!comment format=mdwn
+ ip="88.148.254.239"
+ subject="License proliferation"
+ date="2014-05-06T08:02:53Z"
+ content="""
+>Otherwise, write your own [license]
+
+This is usually horrible advice. It will hurt you and your potential users. There's a ton of well known licenses already, I'm sure you'll find one that suits you. <a href=\"https://en.wikipedia.org/wiki/License_proliferation\">https://en.wikipedia.org/wiki/License_proliferation</a>
+"""]]
