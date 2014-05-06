@@ -62,5 +62,5 @@ However, if you integrate the outliner and that you build your
 web app on top of that outliner; you expand it, so yes, that’s
 covered. But hey, that’s what the GPL is for.
 
-Otherwise, write your own from scratch or try an alternative
-license, like the MPL-2.0.
+Otherwise, write your own software from scratch or try a program with an
+alternative license, like the MPL-2.0.
