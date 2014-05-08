@@ -36,6 +36,8 @@
     send me replies from other corners of the Web, I will happily
     link to them.
 
+    Also, note that IP addresses of comment posters will be registered and published through [commit logs](http://source.hroy-eu.branchable.com/?p=source.git;a=summary). If you do not wish to disclose your IP address through this, then [contact me](http://hugoroy.eu/index.en.html#email) and I’ll post the comment for you.
+
 Here's a nearly exhaustive overview of this blog/wiki.
 
 [[!map pages="page(*) and !*/discussion and !recentchanges and
