@@ -1,0 +1,30 @@
+
+[[!meta title="How much of my email Google has"]]
+[[!meta license="[CC0-1.0](http://creativecommons.org/publicdomain/zero/1.0/)"]]
+[[!meta description="Going through my email archive with mako’s python and R scripts to find out."]]
+[[!meta language="en"]]
+[[!tag lang:en email Google privacy]]
+
+[[!template  id="inreplyto.tmpl"
+    replyto="Google Has Most of My Email Because It Has All of Yours"
+    link="http://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours"
+    datetime="2014-05-11T19:11:02+00:00" 
+    time="May 11, 2014" 
+    author="Benjamin Mako Hill"
+    photo="http://0.gravatar.com/avatar/c765934363224852356e0d9a992b3a23?s=80&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&r=G"
+    profile="http://mako.cc/"]]
+
+I wanted to find out too, how much of my email is in the hands of Google.
+
+# Whole email archive
+
+[[!img all/emails_gmail_over_time.png id="allemail" alt="R graph" title="Emails over time" caption="" link="all/emails_gmail_over_time.pdf"]]
+
+[[!img all/emails_gmail_prop_over_time.png id="allgmailproportion" alt="R graph" title="Emails over time" caption="" link="all/emails_gmail_prop_over_time.pdf"]]
+
+# Personal email since 2011
+
+[[!img personal-since2011/emails_gmail_over_time.png id="personalemail" alt="R graph" title="Emails over time" caption="" link="personal-since2011/emails_gmail_over_time.pdf"]]
+
+[[!img personal-since2011/emails_gmail_prop_over_time.png id="personalgmailproportion" alt="R graph" title="Emails over time" caption="" link="personal-since2011/emails_gmail_prop_over_time.pdf"]]
+
