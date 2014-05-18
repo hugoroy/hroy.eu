@@ -17,9 +17,15 @@ I wanted to find out too, how much of my email is in the hands of Google.
 
 # Whole email archive
 
+I haven’t carefully archived all my email since 2007. But I was using Gmail almost entirely until 2009 so there’s a good chance ironically that I will one day completely retrieve my whole email archive. For what preceded 2007, I was using email through OVH’s POP server and I didn’t really care about archiving email, so that’s lost.
+
 [[!img all/emails_gmail_over_time.png id="allemail" alt="R graph" title="Emails over time" caption="Emails I get each week (in red) including those going through Google (in blue)" link="all/emails_gmail_over_time.pdf"]]
 
 [[!img all/emails_gmail_prop_over_time.png id="allgmailproportion" alt="R graph" title="Gmail over time" caption="Proportion of email going through Google for all emails (top) or for emails I replied to (bottom)" link="all/emails_gmail_prop_over_time.pdf"]]
+
+What’s interesting is that the proportion of Gmail is higher when I had the highest quantity of email.
+
+However, the Gmail proportion might seem particularily low because most of it involves people active with the Free Software Foundation Europe. However, it’s still much [higher than Karsten’s].(http://blogs.fsfe.org/gerloff/2014/05/13/were-all-gmail-users-now/).
 
 # Personal email since 2011
 
