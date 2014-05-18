@@ -25,7 +25,7 @@ I haven’t carefully archived all my email since 2007. But I was using Gmail al
 
 What’s interesting is that the proportion of Gmail is higher when I had the highest quantity of email.
 
-However, the Gmail proportion might seem particularily low because most of it involves people active with the Free Software Foundation Europe. However, it’s still much [higher than Karsten’s].(http://blogs.fsfe.org/gerloff/2014/05/13/were-all-gmail-users-now/).
+However, the Gmail proportion might seem particularily low because most of it involves people active with the Free Software Foundation Europe. However, it’s still much [higher than Karsten’s](http://blogs.fsfe.org/gerloff/2014/05/13/were-all-gmail-users-now/).
 
 # Personal email since 2011
 
