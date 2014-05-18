@@ -4,7 +4,6 @@
 [[!meta description="Going through my email archive with mako’s python and R scripts to find out."]]
 [[!meta language="en"]]
 [[!tag lang:en email Google privacy]]
-
 [[!template  id="inreplyto.tmpl"
     replyto="Google Has Most of My Email Because It Has All of Yours"
     link="http://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours"
@@ -18,13 +17,13 @@ I wanted to find out too, how much of my email is in the hands of Google.
 
 # Whole email archive
 
-[[!img all/emails_gmail_over_time.png id="allemail" alt="R graph" title="Emails over time" caption="" link="all/emails_gmail_over_time.pdf"]]
+[[!img all/emails_gmail_over_time.png id="allemail" alt="R graph" title="Emails over time" caption="Emails I get each week (in red) including those going through Google (in blue)" link="all/emails_gmail_over_time.pdf"]]
 
-[[!img all/emails_gmail_prop_over_time.png id="allgmailproportion" alt="R graph" title="Emails over time" caption="" link="all/emails_gmail_prop_over_time.pdf"]]
+[[!img all/emails_gmail_prop_over_time.png id="allgmailproportion" alt="R graph" title="Gmail over time" caption="Proportion of email going through Google for all emails (top) or for emails I replied to (bottom)" link="all/emails_gmail_prop_over_time.pdf"]]
 
 # Personal email since 2011
 
-[[!img personal-since2011/emails_gmail_over_time.png id="personalemail" alt="R graph" title="Emails over time" caption="" link="personal-since2011/emails_gmail_over_time.pdf"]]
+[[!img personal-since2011/emails_gmail_over_time.png id="personalemail" alt="R graph" title="Personal emails over time" caption="Personal emails I get each week (in red) including those going through Google (in blue)" link="personal-since2011/emails_gmail_over_time.pdf"]]
 
-[[!img personal-since2011/emails_gmail_prop_over_time.png id="personalgmailproportion" alt="R graph" title="Emails over time" caption="" link="personal-since2011/emails_gmail_prop_over_time.pdf"]]
+[[!img personal-since2011/emails_gmail_prop_over_time.png id="personalgmailproportion" alt="R graph" title="Personal gmail over time" caption="Proportion of personal email going through Google for all emails (top) or for emails I replied to (bottom)" link="personal-since2011/emails_gmail_prop_over_time.pdf"]]
 
