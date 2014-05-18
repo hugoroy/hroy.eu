@@ -19,6 +19,7 @@
 - [[!aggregate name="Speakerdeck Slides" dir="timeline"
   feedurl="http://speakerdeck.com/hugo.atom"
   url="https://speakerdeck.com/hugo"]]
-- [[!aggregate name="Youtube Videos" dir="timeline"
-  feedurl="http://gdata.youtube.com/feeds/base/users/HugoJRoy/uploads?alt=rss&v=2&orderby=published&client=ytapi-youtube-profile"
-  url="https://www.youtube.com/user/HugoJRoy"]]
+- [[!aggregate name="Videos" dir="timeline"
+  feedurl="http://vimeo.com/user5876987/videos/rss"
+  url="https://vimeo.com/user5876987/videos"]]
+
