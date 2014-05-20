@@ -22,9 +22,9 @@ open mutt and show you the right email in mutt!
 [Zack’s blog]: http://upsilon.cc/~zack/blog/posts/2010/02/integrating_Mutt_with_Org-mode/
 [git repo]: http://git.upsilon.cc/?p=utils/org-mutt.git;a=summary
 
------
+# Make `mutt-open` work with `mutt-sidebar`
 
-I use [mutt-sidebar] and I couldn’t get ``./mutt-open`` to work
+I used [mutt-sidebar] and I couldn’t get ``./mutt-open`` to work
 correctly. I fixed this by changing:
 
     HIDE_SIDEBAR_CMD="B"     # set to empty string if sidebar is not used
@@ -43,3 +43,12 @@ hang up there. So I changed this to:
     mutt_keys="/=i$msgid\n\n$HIDE_SIDEBAR_CMD"
 
 [mutt-sidebar]: https://aur.archlinux.org/packages/mutt-sidebar/
+
+# Make `mutt-open` work with `mutt-kz`
+
+Since [mutt-kz] comes with a sidebar as well, the previous paragraph applies. But you might need further changes to the original mutt-open script. Here’s how mine works:
+
+    mutt_keys="<vfolder-from-query>id:$msgid\n\n<entire-thread>"
+
+
+[mutt-kz]: https://github.com/karelzak/mutt-kz
