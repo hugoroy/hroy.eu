@@ -1,6 +1,6 @@
 # JUDGMENT OF THE COURT (Grand Chamber)
 
-13 May 2014 ([\*])
+13 May 2014 ([^\*])
 
 (Personal data — Protection of individuals with regard to the processing
 of such data — Directive [95/46/EC][directive95_46] — Articles 2, 4, 12 and 14 — Material
@@ -1447,7 +1447,7 @@ question.**
 
 * * * * *
 
-[\*]: Language of the case: Spanish.
+[^\*]: Language of the case: Spanish.
 
 
 [directive95_46]: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995L0046:EN:HTMLp
