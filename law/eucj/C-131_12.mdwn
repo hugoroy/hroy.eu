@@ -591,7 +591,7 @@ consultation, use, disclosure by transmission, dissemination or
 otherwise making available, alignment or combination, blocking, erasure
 or destruction’.
 
-26.      As regards in particular the internet, the Court has already had
+<span id="para26">26.</span>      As regards in particular the internet, the Court has already had
 occasion to state that the operation of loading personal data on an
 internet page must be considered to be such ‘processing’ within the
 meaning of Article 2(b) of Directive [95/46][directive95_46] (see Case C‑101/01
@@ -659,13 +659,13 @@ search engine from that definition on the ground that it does not
 exercise control over the personal data published on the web pages of
 third parties.
 
-35.      In this connection, it should be pointed out that the processing
+<span id="para35">35.</span>      In this connection, it should be pointed out that the processing
 of personal data carried out in the context of the activity of a search
 engine can be distinguished from and is additional to that carried out
 by publishers of websites, consisting in loading those data on an
 internet page.
 
-36.      Moreover, it is undisputed that that activity of search engines
+<span id="para36">36.</span>      Moreover, it is undisputed that that activity of search engines
 plays a decisive role in the overall dissemination of those data in that
 it renders the latter accessible to any internet user making a search on
 the basis of the data subject’s name, including to internet users who
@@ -887,7 +887,7 @@ the advertising space constitute the means of rendering the search
 engine at issue economically profitable and that engine is, at the same
 time, the means enabling those activities to be performed.
 
-57.      As has been stated in paragraphs 26 to 28 of the present
+57.      As has been stated in [paragraphs 26](#para26) to 28 of the present
 judgment, the very display of personal data on a search results page
 constitutes processing of such data. Since that display of results is
 accompanied, on the same page, by the display of advertising linked to
@@ -1043,7 +1043,7 @@ EU:C:2003:294, paragraph 65; Joined Cases C‑468/10 and C‑469/10 *ASNEF
 and FECEMD* EU:C:2011:777, paragraph 26; and Case C‑342/12
 *Worten*EU:C:2013:355, paragraph 33).
 
-72.      Under Article 6 of Directive [95/46][directive95_46] and without prejudice to
+<span id="para72">72.</span>      Under Article 6 of Directive [95/46][directive95_46] and without prejudice to
 specific provisions that the Member States may lay down in respect of
 processing for historical, statistical or scientific purposes, the
 controller has the task of ensuring that personal data are processed
@@ -1121,7 +1121,7 @@ judicial authority a request such as that at issue in the main
 proceedings.
 
 80.      It must be pointed out at the outset that, as has been found in
-paragraphs 36 to 38 of the present judgment, processing of personal
+[paragraphs 36](#para36) to 38 of the present judgment, processing of personal
 data, such as that at issue in the main proceedings, carried out by the
 operator of a search engine is liable to affect significantly the
 fundamental rights to privacy and to the protection of personal data
@@ -1140,7 +1140,7 @@ information contained in such a list of results ubiquitous (see, to this
 effect, Joined Cases C‑509/09 and C‑161/10 *eDate Advertising and
 Others* EU:C:2011:685, paragraph 45).
 
-81.      In the light of the potential seriousness of that interference,
+<span id="para81">81.</span>      In the light of the potential seriousness of that interference,
 it is clear that it cannot be justified by merely the economic interest
 which the operator of such an engine has in that processing. However,
 inasmuch as the removal of links from the list of results could,
@@ -1170,7 +1170,7 @@ of that name and information — of the publisher’s own accord or
 following an order of one of those authorities — from the web page on
 which they were published.
 
-83.      As has been established in paragraphs 35 to 38 of the present
+83.      As has been established in [paragraphs 35](#para35) to 38 of the present
 judgment, inasmuch as the data processing carried out in the context of
 the activity of a search engine can be distinguished from and is
 additional to that carried out by publishers of websites and affects the
@@ -1273,7 +1273,7 @@ search engine and the general interest in freedom of information.
 92.      As regards Article 12(b) of Directive [95/46][directive95_46], the application of
 which is subject to the condition that the processing of personal data
 be incompatible with the directive, it should be recalled that, as has
-been noted in paragraph 72 of the present judgment, such incompatibility
+been noted in [paragraph 72](#para72) of the present judgment, such incompatibility
 may result not only from the fact that such data are inaccurate but, in
 particular, also from the fact that they are inadequate, irrelevant or
 excessive in relation to the purposes of the processing, that they are
@@ -1324,7 +1324,7 @@ question in the list of results causes prejudice to the data subject.
 under Articles 7 and 8 of the Charter, request that the information in
 question no longer be made available to the general public by its
 inclusion in such a list of results, it should be held, as follows in
-particular from paragraph 81 of the present judgment, that those rights
+particular from [paragraph 81](#para81) of the present judgment, that those rights
 override, as a rule, not only the economic interest of the operator of
 the search engine but also the interest of the general public in finding
 that information upon a search relating to the data subject’s name.
