@@ -1,4 +1,4 @@
-JUDGMENT OF THE COURT (Grand Chamber)
+# JUDGMENT OF THE COURT (Grand Chamber)
 
 13 May 2014 ([\*](#Footnote*))
 
@@ -27,7 +27,7 @@ v
 
 **Mario Costeja González,**
 
-THE COURT (Grand Chamber),
+<center>THE COURT (Grand Chamber),</center>
 
 composed of V. Skouris, President, K. Lenaerts, Vice-President,
 M. Ilešič (Rapporteur), L. Bay Larsen, T. von Danwitz, M. Safjan,
@@ -70,7 +70,7 @@ after hearing the Opinion of the Advocate General at the sitting on
 
 gives the following
 
-**Judgment**
+## Judgment
 
 1.        This request for a preliminary ruling concerns the
 interpretation of Article 2(b) and (d), Article 4(1)(a) and (c),
