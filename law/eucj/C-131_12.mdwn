@@ -554,10 +554,19 @@ it available to internet users according to a particular order of
 preference must be classified as ‘processing of personal data’ within
 the meaning of that provision when that information contains personal
 data. If the answer is in the affirmative, the referring court seeks to
-ascertain furthermore whether Article 2(d) of Directive [95/46][directive95_46] is to be
+ascertain furthermore whether [[!toggle id="art2d-1" text="Article 2(d) of Directive"]] [95/46][directive95_46] is to be
 interpreted as meaning that the operator of a search engine must be
 regarded as the ‘controller’ in respect of that processing of the
 personal data, within the meaning of that provision.
+
+[[!toggleable id="art2d-1" text="""
+> (d)      “controller” shall mean the natural or legal person, public
+> authority, agency or any other body which alone or jointly with others
+> determines the purposes and means of the processing of personal data;
+> where the purposes and means of processing are determined by national or
+> Community laws or regulations, the controller or the specific criteria
+> for his nomination may be designated by national or Community law;
+"""]]
 
 22.      According to Google Spain and Google Inc., the activity of
 search engines cannot be regarded as processing of the data which appear
@@ -603,7 +612,16 @@ meaning of Article 2(b) of Directive [95/46][directive95_46] (see Case [C-101/0
 proceedings, it is not contested that the data found, indexed and stored
 by search engines and made available to their users include information
 relating to identified or identifiable natural persons and thus
-‘personal data’ within the meaning of Article 2(a) of that directive.
+‘personal data’ within the meaning of [[!toggle id="art2a-1" text="Article 2(a) of that directive"]].
+
+[[!toggleable id="art2a-1" text="""
+> (a)      “personal data” shall mean any information relating to an
+> identified or identifiable natural person (“data subject”); an
+> identifiable person is one who can be identified, directly or
+> indirectly, in particular by reference to an identification number or to
+> one or more factors specific to his physical, physiological, mental,
+> economic, cultural or social identity;
+"""]]
 
 28.      Therefore, it must be found that, in exploring the internet
 automatically, constantly and systematically in search of the
