@@ -1009,12 +1009,25 @@ those pages is lawful.
 [[!toggleable id="art14a" text="""
 > ‘Member States shall grant the data subject the right:
 > 
-> (a)      at least in the cases referred to in Article 7(e) and (f), to
+> (a)      at least in the cases referred to in [[!toggle id="art7-62" text="Article 7(e) and (f)"]], to
 > object at any time on compelling legitimate grounds relating to his
 > particular situation to the processing of data relating to him, save
 > where otherwise provided by national legislation. Where there is a
 > justified objection, the processing instigated by the controller may no
 > longer involve those data;
+"""]]
+
+[[!toggleable id="art7-62" text="""
+> ‘Member States shall provide that personal data may be processed only
+> if:
+> 
+> ...
+> 
+> (f)      processing is necessary for the purposes of the legitimate
+> interests pursued by the controller or by the third party or parties to
+> whom the data are disclosed, except where such interests are overridden
+> by the interests [or] fundamental rights and freedoms of the data
+> subject which require protection under Article 1(1).’
 """]]
 
 <span id="para63">63.</span>      Google Spain and Google Inc. submit that, by virtue of the
@@ -1360,7 +1373,8 @@ itself on those pages is lawful.
 ### Question 3, concerning the scope of the data subject’s rights guaranteed by Directive [95/46][directive95_46]
 
 <span id="para89">89.</span>      By Question 3, the referring court asks, in essence, whether
-Article 12(b) and subparagraph (a) of the first paragraph of Article 14
+[[!toggle id="art12b-88" text="Article 12(b)"]] 
+and [[!toggle id="art14a-88" text="subparagraph (a) of the first paragraph of Article 14"]]
 of Directive [95/46][directive95_46] are to be interpreted as enabling the data subject to
 require the operator of a search engine to remove from the list of
 results displayed following a search made on the basis of his name links
