@@ -1457,10 +1457,9 @@ is carried out.
 > whom the data are disclosed, except where such interests are overridden
 > by the interests [or] fundamental rights and freedoms of the data
 > subject which require protection under [[!toggle id="art1-7f" text="Article 1(1)"]].’
-
+"""]]
 [[!toggleable id="art1-7f" text="""
 > 1. In accordance with this Directive, Member States shall protect the fundamental rights and freedoms of natural persons, and in particular their right to privacy with respect to the processing of personal data.
-"""]]
 """]]
 
 96.      In the light of the foregoing, when appraising such requests
