@@ -11,7 +11,7 @@ Establishment on the territory of a Member State — Extent of that
 operator’s obligations and of the data subject’s rights — Charter of
 Fundamental Rights of the European Union — Articles 7 and 8)
 
-In Case C‑131/12,
+In Case [C-131/12],
 
 REQUEST for a preliminary ruling under Article 267 TFEU from the
 Audiencia Nacional (Spain), made by decision of 27 February 2012,
@@ -594,8 +594,8 @@ or destruction’.
 <span id="para26">26.</span>      As regards in particular the internet, the Court has already had
 occasion to state that the operation of loading personal data on an
 internet page must be considered to be such ‘processing’ within the
-meaning of Article 2(b) of Directive [95/46][directive95_46] (see Case C‑101/01
-*Lindqvist*EU:C:2003:596, paragraph 25).
+meaning of Article 2(b) of Directive [95/46][directive95_46] (see Case [C-101/01]
+*Lindqvist* EU:C:2003:596, paragraph 25).
 
 27.      So far as concerns the activity at issue in the main
 proceedings, it is not contested that the data found, indexed and stored
@@ -627,7 +627,7 @@ processing where they exclusively concern material that has already been
 published in unaltered form in the media. It has indeed observed in that
 regard that a general derogation from the application of Directive [95/46][directive95_46]
 in such a case would largely deprive the directive of its effect (see,
-to this effect, Case C‑73/07 *Satakunnan Markkinapörssi and Satamedia*
+to this effect, Case [C-73/07] *Satakunnan Markkinapörssi and Satamedia*
 EU:C:2008:727, paragraphs 48 and 49).
 
 31.      Furthermore, it follows from the definition contained in
@@ -860,7 +860,7 @@ require the processing of personal data in question to be carried out
 ensuring effective and complete protection of the fundamental rights and
 freedoms of natural persons, and in particular their right to privacy,
 with respect to the processing of personal data, those words cannot be
-interpreted restrictively (see, by analogy, Case C‑324/09 *L'Oréal and
+interpreted restrictively (see, by analogy, Case [C-324/09] *L'Oréal and
 Others* EU:C:2011:474, paragraphs 62 and 63).
 
 54.      It is to be noted in this context that it is clear in particular
@@ -906,10 +906,10 @@ analogy, *L'Oréal and Others* EU:C:2011:474, paragraphs 62 and 63), in
 particular their right to privacy, with respect to the processing of
 personal data, a right to which the directive accords special importance
 as is confirmed in particular by Article 1(1) thereof and recitals 2 and
-10 in its preamble (see, to this effect, Joined Cases C‑465/00, C‑138/01
-and C‑139/01 *Österreichischer Rundfunk and Others* EU:C:2003:294,
-paragraph 70; Case C‑553/07 *Rijkeboer*EU:C:2009:293, paragraph 47; and
-Case C‑473/12 *IPI*EU:C:2013:715, paragraph 28 and the case-law cited).
+10 in its preamble (see, to this effect, Joined Cases [C-465/00], [C-138/01]
+and [C-139/01] *Österreichischer Rundfunk and Others* EU:C:2003:294,
+paragraph 70; Case [C-553/07] *Rijkeboer* EU:C:2009:293, paragraph 47; and
+Case [C-473/12] *IPI* EU:C:2013:715, paragraph 28 and the case-law cited).
 
 59.      Since the first of the three conditions listed by the referring
 court suffices by itself for it to be concluded that an establishment
@@ -1003,8 +1003,8 @@ to infringe fundamental freedoms, in particular the right to privacy,
 must necessarily be interpreted in the light of fundamental rights,
 which, according to settled case-law, form an integral part of the
 general principles of law whose observance the Court ensures and which
-are now set out in the Charter (see, in particular, Case C‑274/99 P
-*Connolly* v *Commission*EU:C:2001:127, paragraph 37,
+are now set out in the Charter (see, in particular, Case [C-274/99] P
+*Connolly* v *Commission* EU:C:2001:127, paragraph 37,
 and*Österreichischer Rundfunk and Others* EU:C:2003:294, paragraph 68).
 
 69.      Article 7 of the Charter guarantees the right to respect for
@@ -1039,9 +1039,9 @@ of personal data must comply, first, with the principles relating to
 data quality set out in Article 6 of the directive and, secondly, with
 one of the criteria for making data processing legitimate listed in
 Article 7 of the directive (see *Österreichischer Rundfunk and Others*
-EU:C:2003:294, paragraph 65; Joined Cases C‑468/10 and C‑469/10 *ASNEF
-and FECEMD* EU:C:2011:777, paragraph 26; and Case C‑342/12
-*Worten*EU:C:2013:355, paragraph 33).
+EU:C:2003:294, paragraph 65; Joined Cases [C-468/10] and [C-469/10] *ASNEF
+and FECEMD* EU:C:2011:777, paragraph 26; and Case [C-342/12]
+*Worten* EU:C:2013:355, paragraph 33).
 
 <span id="para72">72.</span>      Under Article 6 of Directive [95/46][directive95_46] and without prejudice to
 specific provisions that the Member States may lay down in respect of
@@ -1137,7 +1137,7 @@ him. Furthermore, the effect of the interference with those rights of
 the data subject is heightened on account of the important role played
 by the internet and search engines in modern society, which render the
 information contained in such a list of results ubiquitous (see, to this
-effect, Joined Cases C‑509/09 and C‑161/10 *eDate Advertising and
+effect, Joined Cases [C-509/09] and [C-161/10] *eDate Advertising and
 Others* EU:C:2011:685, paragraph 45).
 
 <span id="para81">81.</span>      In the light of the potential seriousness of that interference,
@@ -1451,3 +1451,15 @@ question.**
 
 
 [directive95_46]: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995L0046:EN:HTMLp
+
+[C-131/12]: http://curia.europa.eu/juris/documents.jsf?num=C-131/12
+[C-101/01]: http://curia.europa.eu/juris/documents.jsf?num=C-101/01
+[C-73/07]: http://curia.europa.eu/juris/documents.jsf?num=C-73/07
+[C-139/01]: http://curia.europa.eu/juris/documents.jsf?num=C-139/01
+[C-553/07]: http://curia.europa.eu/juris/documents.jsf?num=C-553/07
+[C-473/12]: http://curia.europa.eu/juris/documents.jsf?num=C-473/12
+[C-274/99]: http://curia.europa.eu/juris/documents.jsf?num=C-274/99
+[C-469/10]: http://curia.europa.eu/juris/documents.jsf?num=C-469/10
+[C-342/11]: http://curia.europa.eu/juris/documents.jsf?num=C-342/11
+[C-509/09]: http://curia.europa.eu/juris/documents.jsf?num=C-509/09
+[C-161/10]: http://curia.europa.eu/juris/documents.jsf?num=C-161/10
