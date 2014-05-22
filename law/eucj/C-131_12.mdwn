@@ -1463,3 +1463,11 @@ question.**
 [C-342/11]: http://curia.europa.eu/juris/documents.jsf?num=C-342/11
 [C-509/09]: http://curia.europa.eu/juris/documents.jsf?num=C-509/09
 [C-161/10]: http://curia.europa.eu/juris/documents.jsf?num=C-161/10
+[C-468/10]: http://curia.europa.eu/juris/documents.jsf?num=C-468/10
+[C-342/12]: http://curia.europa.eu/juris/documents.jsf?num=C-342/12
+[C-324/09]: http://curia.europa.eu/juris/documents.jsf?num=C-324/09
+[C-465/00]: http://curia.europa.eu/juris/documents.jsf?num=C-465/00
+[C-138/01]: http://curia.europa.eu/juris/documents.jsf?num=C-138/01
+[C-468/10]: http://curia.europa.eu/juris/documents.jsf?num=C-468/10
+[C-342/12]: http://curia.europa.eu/juris/documents.jsf?num=C-342/12
+
