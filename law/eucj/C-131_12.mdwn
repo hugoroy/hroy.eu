@@ -1430,26 +1430,59 @@ the time that has elapsed.
 """]]
 
 <span id="para94">94.</span>      Therefore, if it is found, following a request by the data
-subject pursuant to Article 12(b) of Directive [95/46][directive95_46], that the inclusion
+subject pursuant to [[!toggle id="art12b-94" text="Article 12(b) of Directive"]] [95/46][directive95_46], that the inclusion
 in the list of results displayed following a search made on the basis of
 his name of the links to web pages published lawfully by third parties
 and containing true information relating to him personally is, at this
-point in time, incompatible with Article 6(1)(c) to (e) of the directive
+point in time, incompatible with [[!toggle id="art12b-94" text="Article 6(1)(c) to (e) of the directive"]]
 because that information appears, having regard to all the circumstances
 of the case, to be inadequate, irrelevant or no longer relevant, or
 excessive in relation to the purposes of the processing at issue carried
 out by the operator of the search engine, the information and links
 concerned in the list of results must be erased.
 
+[[!toggleable id="art12b-94" text="""
+Article 12:
+
+> ‘Member States shall guarantee every data subject the right to obtain
+> from the controller:
+> 
+> ...
+> 
+> (b)      as appropriate the rectification, erasure or blocking of data
+> the processing of which does not comply with the provisions of this
+> Directive, in particular because of the incomplete or inaccurate nature
+> of the data;
+
+Article 6:
+
+> ‘1.      Member States shall provide that personal data must be:
+> 
+> (a)      processed fairly and lawfully;
+> 
+> (b)      collected for specified, explicit and legitimate purposes and
+> not further processed in a way incompatible with those purposes. Further
+> processing of data for historical, statistical or scientific purposes
+> shall not be considered as incompatible provided that Member States
+> provide appropriate safeguards;
+> 
+> (c)      adequate, relevant and not excessive in relation to the
+> purposes for which they are collected and/or further processed;
+> 
+"""]]
+
+
 <span id="para95">95.</span>      So far as concerns requests as provided for by Article 12(b) of
 Directive [95/46][directive95_46] founded on alleged non-compliance with the conditions
 laid down in [[!toggle id="art7f" text="Article 7(f)"]] of the directive and requests under
-subparagraph (a) of the first paragraph of Article 14 of the directive,
+[[!toggle id="art7f" text="subparagraph (a) of the first paragraph of Article 14 of the directive"]],
 it must be pointed out that in each case the processing of personal data
 must be authorised under Article 7 for the entire period during which it
 is carried out.
 
 [[!toggleable id="art7f" text="""
+Article 7:
+
 > ‘Member States shall provide that personal data may be processed only
 > if:
 > 
@@ -1460,6 +1493,19 @@ is carried out.
 > whom the data are disclosed, except where such interests are overridden
 > by the interests [or] fundamental rights and freedoms of the data
 > subject which require protection under [[!toggle id="art1-7f" text="Article 1(1)"]].’
+
+Article 14:
+
+> ‘Member States shall grant the data subject the right:
+> 
+> (a)      at least in the cases referred to in Article 7(e) and (f), to
+> object at any time on compelling legitimate grounds relating to his
+> particular situation to the processing of data relating to him, save
+> where otherwise provided by national legislation. Where there is a
+> justified objection, the processing instigated by the controller may no
+> longer involve those data;
+> 
+> ...’
 """]]
 [[!toggleable id="art1-7f" text="""
 > 1. In accordance with this Directive, Member States shall protect the fundamental rights and freedoms of natural persons, and in particular their right to privacy with respect to the processing of personal data.
