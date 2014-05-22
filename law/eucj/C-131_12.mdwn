@@ -3,7 +3,7 @@
 13 May 2014 ([\*](#Footnote*))
 
 (Personal data — Protection of individuals with regard to the processing
-of such data — Directive 95/46/EC — Articles 2, 4, 12 and 14 — Material
+of such data — Directive [95/46/EC][directive95_46] — Articles 2, 4, 12 and 14 — Material
 and territorial scope — Internet search engines — Processing of data
 contained on websites — Searching for, indexing and storage of such
 data — Responsibility of the operator of the search engine —
@@ -75,7 +75,7 @@ gives the following
 1.        This request for a preliminary ruling concerns the
 interpretation of Article 2(b) and (d), Article 4(1)(a) and (c),
 Article 12(b) and subparagraph (a) of the first paragraph of Article 14
-of Directive 95/46/EC of the European Parliament and of the Council of
+of Directive [95/46/EC][directive95_46] of the European Parliament and of the Council of
 24 October 1995 on the protection of individuals with regard to the
 processing of personal data and on the free movement of such data (OJ
 1995 L 281, p. 31) and of Article 8 of the Charter of Fundamental Rights
@@ -94,7 +94,7 @@ González from its index and to prevent access to the data in the future.
 
  *European Union law*
 
-3.        Directive 95/46 which, according to Article 1, has the object
+3.        Directive [95/46][directive95_46] which, according to Article 1, has the object
 of protecting the fundamental rights and freedoms of natural persons,
 and in particular their right to privacy with respect to the processing
 of personal data, and of removing obstacles to the free flow of such
@@ -158,7 +158,7 @@ data, states in recitals 2, 10, 18 to 20 and 25 in its preamble:
 > certain circumstances’.
 > 
 
-4.        Article 2 of Directive 95/46 states that ‘[f]or the purposes of
+4.        Article 2 of Directive [95/46][directive95_46] states that ‘[f]or the purposes of
 this Directive:
 
 > (a)      “personal data” shall mean any information relating to an
@@ -187,7 +187,7 @@ this Directive:
 > 
 > ...’
 
-5.        Article 3 of Directive 95/46, entitled ‘Scope’, states in
+5.        Article 3 of Directive [95/46][directive95_46], entitled ‘Scope’, states in
 paragraph 1:
 
 > ‘This Directive shall apply to the processing of personal data wholly or
@@ -195,7 +195,7 @@ paragraph 1:
 > automatic means of personal data which form part of a filing system or
 > are intended to form part of a filing system.’
 
-6.       Article 4 of Directive 95/46, entitled ‘National law
+6.       Article 4 of Directive [95/46][directive95_46], entitled ‘National law
 applicable’, provides:
 
 > ‘1.      Each Member State shall apply the national provisions it adopts
@@ -224,7 +224,7 @@ applicable’, provides:
 > initiated against the controller himself.’
 
 7.        In Section I (entitled ‘Principles relating to data quality’)
-of Chapter II of Directive 95/46, Article 6 is worded as follows:
+of Chapter II of Directive [95/46][directive95_46], Article 6 is worded as follows:
 
 > ‘1.      Member States shall provide that personal data must be:
 > 
@@ -255,7 +255,7 @@ of Chapter II of Directive 95/46, Article 6 is worded as follows:
 > complied with.’
 
 8.        In Section II (entitled ‘Criteria for making data processing
-legitimate’) of Chapter II of Directive 95/46, Article 7 provides:
+legitimate’) of Chapter II of Directive [95/46][directive95_46], Article 7 provides:
 
 > ‘Member States shall provide that personal data may be processed only
 > if:
@@ -268,7 +268,7 @@ legitimate’) of Chapter II of Directive 95/46, Article 7 provides:
 > by the interests [or] fundamental rights and freedoms of the data
 > subject which require protection under Article 1(1).’
 
-9.        Article 9 of Directive 95/46, entitled ‘Processing of personal
+9.        Article 9 of Directive [95/46][directive95_46], entitled ‘Processing of personal
 data and freedom of expression’, provides:
 
 > ‘Member States shall provide for exemptions or derogations from the
@@ -278,7 +278,7 @@ data and freedom of expression’, provides:
 > reconcile the right to privacy with the rules governing freedom of
 > expression.’
 
-10.     Article 12 of Directive 95/46, entitled ‘Rights of access’,
+10.     Article 12 of Directive [95/46][directive95_46], entitled ‘Rights of access’,
 provides:
 
 > ‘Member States shall guarantee every data subject the right to obtain
@@ -293,7 +293,7 @@ provides:
 > 
 > ...’
 
-11.      Article 14 of Directive 95/46, entitled ‘The data subject’s
+11.      Article 14 of Directive [95/46][directive95_46], entitled ‘The data subject’s
 right to object’, provides:
 
 > ‘Member States shall grant the data subject the right:
@@ -307,7 +307,7 @@ right to object’, provides:
 > 
 > ...’
 
-12.      Article 28 of Directive 95/46, entitled ‘Supervisory authority’,
+12.      Article 28 of Directive [95/46][directive95_46], entitled ‘Supervisory authority’,
 is worded as follows:
 
 > ‘1.      Each Member State shall provide that one or more public
@@ -354,7 +354,7 @@ is worded as follows:
 
  *Spanish law*
 
-13.      Directive 95/46 was transposed into Spanish Law by Organic Law
+13.      Directive [95/46][directive95_46] was transposed into Spanish Law by Organic Law
 No 15/1999 of 13 December 1999 on the protection of personal data (BOE
 No 298 of 14 December 1999, p. 43088).
 
@@ -419,18 +419,18 @@ that certain information, which is published on third parties’ websites
 and contains personal data relating to them that enable that information
 to be linked to them, be located, indexed and made available to internet
 users indefinitely. The answer to that question depends on the way in
-which Directive 95/46 must be interpreted in the context of these
+which Directive [95/46][directive95_46] must be interpreted in the context of these
 technologies, which appeared after the directive’s publication.
 
 20.      In those circumstances, the Audiencia Nacional decided to stay
 the proceedings and to refer the following questions to the Court for a
 preliminary ruling:
 
-> 1.      With regard to the territorial application of Directive [95/46]
+> 1.      With regard to the territorial application of Directive [[95/46][directive95_46]]
 > and, consequently, of the Spanish data protection legislation:
 > 
 > (a)      must it be considered that an “establishment”, within the
-> meaning of Article 4(1)(a) of Directive 95/46, exists when any one or
+> meaning of Article 4(1)(a) of Directive [95/46][directive95_46], exists when any one or
 > more of the following circumstances arise:
 > 
 > –        when the undertaking providing the search engine sets up in a
@@ -454,7 +454,7 @@ preliminary ruling:
 > right to data protection, even where such collaboration is engaged in
 > voluntarily?
 > 
-> (b)      Must Article 4(1)(c) of Directive 95/46 be interpreted as
+> (b)      Must Article 4(1)(c) of Directive [95/46][directive95_46] be interpreted as
 > meaning that there is “use of equipment … situated on the territory of
 > the said Member State”:
 > 
@@ -469,7 +469,7 @@ preliminary ruling:
 > language of that Member State?
 > 
 > (c)      Is it possible to regard as a use of equipment, in the terms of
-> Article 4(1)(c) of Directive 95/46, the temporary storage of the
+> Article 4(1)(c) of Directive [95/46][directive95_46], the temporary storage of the
 > information indexed by internet search engines? If the answer to that
 > question is affirmative, can it be considered that that connecting
 > factor is present when the undertaking refuses to disclose the place
@@ -477,15 +477,15 @@ preliminary ruling:
 > 
 > (d)      Regardless of the answers to the foregoing questions and
 > particularly in the event that the Court … considers that the connecting
-> factors referred to in Article 4 of [Directive 95/46] are not present:
+> factors referred to in Article 4 of [Directive [95/46][directive95_46]] are not present:
 > 
-> must Directive 95/46 … be applied, in the light of Article 8 of the
+> must Directive [95/46][directive95_46] … be applied, in the light of Article 8 of the
 > [Charter], in the Member State where the centre of gravity of the
 > conflict is located and more effective protection of the rights of …
 > Union citizens is possible?
 > 
 > 2.      As regards the activity of search engines as providers of
-> content in relation to Directive 95/46 …:
+> content in relation to Directive [95/46][directive95_46] …:
 > 
 > (a)      in relation to the activity of [Google Search], as a provider
 > of content, consisting in locating information published or included on
@@ -494,12 +494,12 @@ preliminary ruling:
 > to a particular order of preference, when that information contains
 > personal data of third parties: must an activity like the one described
 > be interpreted as falling within the concept of “processing of … data”
-> used in Article 2(b) of Directive 95/46?
+> used in Article 2(b) of Directive [95/46][directive95_46]?
 > 
 > (b)      If the answer to the foregoing question is affirmative, and
 > once again in relation to an activity like the one described:
 > 
-> must Article 2(d) of Directive 95/46 be interpreted as meaning that the
+> must Article 2(d) of Directive [95/46][directive95_46] be interpreted as meaning that the
 > undertaking managing [Google Search] is to be regarded as the
 > “controller” of the personal data contained in the web pages that it
 > indexes?
@@ -509,7 +509,7 @@ preliminary ruling:
 > 
 > may the [AEPD], protecting the rights embodied in [Article] 12(b) and
 > [subparagraph (a) of the first paragraph of Article 14] of Directive
-> 95/46, directly impose on [Google Search] a requirement that it withdraw
+> [95/46][directive95_46], directly impose on [Google Search] a requirement that it withdraw
 > from its indexes an item of information published by third parties,
 > without addressing itself in advance or simultaneously to the owner of
 > the web page on which that information is located?
@@ -529,7 +529,7 @@ preliminary ruling:
 > must it be considered that the rights to erasure and blocking of data,
 > provided for in Article 12(b), and the right to object, provided for by
 > [subparagraph (a) of the first paragraph of Article 14] of Directive
-> 95/46, extend to enabling the data subject to address himself to search
+> [95/46][directive95_46], extend to enabling the data subject to address himself to search
 > engines in order to prevent indexing of the information relating to him
 > personally, published on third parties’ web pages, invoking his wish
 > that such information should not be known to internet users when he
@@ -540,11 +540,11 @@ preliminary ruling:
  **Consideration of the questions referred**
 
  *Question 2(a) and (b), concerning the material scope of Directive
-95/46*
+[95/46][directive95_46]*
 
 21.      By Question 2(a) and (b), which it is appropriate to examine
 first, the referring court asks, in essence, whether Article 2(b) of
-Directive 95/46 is to be interpreted as meaning that the activity of a
+Directive [95/46][directive95_46] is to be interpreted as meaning that the activity of a
 search engine as a provider of content which consists in finding
 information published or placed on the internet by third parties,
 indexing it automatically, storing it temporarily and, finally, making
@@ -552,7 +552,7 @@ it available to internet users according to a particular order of
 preference must be classified as ‘processing of personal data’ within
 the meaning of that provision when that information contains personal
 data. If the answer is in the affirmative, the referring court seeks to
-ascertain furthermore whether Article 2(d) of Directive 95/46 is to be
+ascertain furthermore whether Article 2(d) of Directive [95/46][directive95_46] is to be
 interpreted as meaning that the operator of a search engine must be
 regarded as the ‘controller’ in respect of that processing of the
 personal data, within the meaning of that provision.
@@ -570,7 +570,7 @@ of those data and does not exercise control over the data.
 23.      On the other hand, Mr Costeja González, the Spanish, Italian,
 Austrian and Polish Governments and the European Commission consider
 that that activity quite clearly involves ‘data processing’ within the
-meaning of Directive 95/46, which is distinct from the data processing
+meaning of Directive [95/46][directive95_46], which is distinct from the data processing
 by the publishers of websites and pursues different objectives from such
 processing. The operator of a search engine is the ‘controller’ in
 respect of the data processing carried out by it since it is the
@@ -583,7 +583,7 @@ regarded as ‘controllers’, except where they store data in an
 ‘intermediate memory’ or ‘cache memory’ for a period which exceeds that
 which is technically necessary.
 
-25.      Article 2(b) of Directive 95/46 defines ‘processing of personal
+25.      Article 2(b) of Directive [95/46][directive95_46] defines ‘processing of personal
 data’ as ‘any operation or set of operations which is performed upon
 personal data, whether or not by automatic means, such as collection,
 recording, organisation, storage, adaptation or alteration, retrieval,
@@ -594,7 +594,7 @@ or destruction’.
 26.      As regards in particular the internet, the Court has already had
 occasion to state that the operation of loading personal data on an
 internet page must be considered to be such ‘processing’ within the
-meaning of Article 2(b) of Directive 95/46 (see Case C‑101/01
+meaning of Article 2(b) of Directive [95/46][directive95_46] (see Case C‑101/01
 *Lindqvist*EU:C:2003:596, paragraph 25).
 
 27.      So far as concerns the activity at issue in the main
@@ -611,7 +611,7 @@ information which is published there, the operator of a search engine
 its servers and, as the case may be, ‘discloses’ and ‘makes available’
 to its users in the form of lists of search results. As those operations
 are referred to expressly and unconditionally in Article 2(b) of
-Directive 95/46, they must be classified as ‘processing’ within the
+Directive [95/46][directive95_46], they must be classified as ‘processing’ within the
 meaning of that provision, regardless of the fact that the operator of
 the search engine also carries out the same operations in respect of
 other types of information and does not distinguish between the latter
@@ -622,16 +622,16 @@ data have already been published on the internet and are not altered by
 the search engine.
 
 30.      The Court has already held that the operations referred to in
-Article 2(b) of Directive 95/46 must also be classified as such
+Article 2(b) of Directive [95/46][directive95_46] must also be classified as such
 processing where they exclusively concern material that has already been
 published in unaltered form in the media. It has indeed observed in that
-regard that a general derogation from the application of Directive 95/46
+regard that a general derogation from the application of Directive [95/46][directive95_46]
 in such a case would largely deprive the directive of its effect (see,
 to this effect, Case C‑73/07 *Satakunnan Markkinapörssi and Satamedia*
 EU:C:2008:727, paragraphs 48 and 49).
 
 31.      Furthermore, it follows from the definition contained in
-Article 2(b) of Directive 95/46 that, whilst the alteration of personal
+Article 2(b) of Directive [95/46][directive95_46] that, whilst the alteration of personal
 data indeed constitutes processing within the meaning of the directive,
 the other operations which are mentioned there do not, on the other
 hand, in any way require that the personal data be altered.
@@ -640,7 +640,7 @@ hand, in any way require that the personal data be altered.
 be regarded as the ‘controller’ in respect of the processing of personal
 data that is carried out by that engine in the context of an activity
 such as that at issue in the main proceedings, it should be recalled
-that Article 2(d) of Directive 95/46 defines ‘controller’ as ‘the
+that Article 2(d) of Directive [95/46][directive95_46] defines ‘controller’ as ‘the
 natural or legal person, public authority, agency or any other body
 which alone or jointly with others determines the purposes and means of
 the processing of personal data’.
@@ -687,7 +687,7 @@ publishers of websites, the fundamental rights to privacy and to the
 protection of personal data, the operator of the search engine as the
 person determining the purposes and means of that activity must ensure,
 within the framework of its responsibilities, powers and capabilities,
-that the activity meets the requirements of Directive 95/46 in order
+that the activity meets the requirements of Directive [95/46][directive95_46] in order
 that the guarantees laid down by the directive may have full effect and
 that effective and complete protection of data subjects, in particular
 of their right to privacy, may actually be achieved.
@@ -707,11 +707,11 @@ means of that processing are determined by the operator of the search
 engine. Furthermore, even if that option for publishers of websites were
 to mean that they determine the means of that processing jointly with
 that operator, this finding would not remove any of the latter’s
-responsibility as Article 2(d) of Directive 95/46 expressly provides
+responsibility as Article 2(d) of Directive [95/46][directive95_46] expressly provides
 that that determination may be made ‘alone or jointly with others’.
 
 41.      It follows from all the foregoing considerations that the answer
-to Question 2(a) and (b) is that Article 2(b) and (d) of Directive 95/46
+to Question 2(a) and (b) is that Article 2(b) and (d) of Directive [95/46][directive95_46]
 are to be interpreted as meaning that, first, the activity of a search
 engine consisting in finding information published or placed on the
 internet by third parties, indexing it automatically, storing it
@@ -723,11 +723,11 @@ search engine must be regarded as the ‘controller’ in respect of that
 processing, within the meaning of Article 2(d).
 
  *Question 1(a) to (d), concerning the territorial scope of Directive
-95/46*
+[95/46][directive95_46]*
 
 42.      By Question 1(a) to (d), the referring court seeks to establish
 whether it is possible to apply the national legislation transposing
-Directive 95/46 in circumstances such as those at issue in the main
+Directive [95/46][directive95_46] in circumstances such as those at issue in the main
 proceedings.
 
 43.      In this respect, the referring court has established the
@@ -774,14 +774,14 @@ services with Google Inc.
 
 44.      Specifically, the main issues raised by the referring court
 concern the notion of ‘establishment’, within the meaning of
-Article 4(1)(a) of Directive 95/46, and of ‘use of equipment situated on
+Article 4(1)(a) of Directive [95/46][directive95_46], and of ‘use of equipment situated on
 the territory of the said Member State’, within the meaning of
 Article 4(1)(c).
 
  Question 1(a)
 
 45.      By Question 1(a), the referring court asks, in essence, whether
-Article 4(1)(a) of Directive 95/46 is to be interpreted as meaning that
+Article 4(1)(a) of Directive [95/46][directive95_46] is to be interpreted as meaning that
 processing of personal data is carried out in the context of the
 activities of an establishment of the controller on the territory of a
 Member State, within the meaning of that provision, when one or more of
@@ -821,12 +821,12 @@ Google Inc. and the activity of Google Spain, the latter must be
 regarded as an establishment of the former and the processing of
 personal data is carried out in context of the activities of that
 establishment. On the other hand, according to Google Spain, Google Inc.
-and the Greek Government, Article 4(1)(a) of Directive 95/46 is not
+and the Greek Government, Article 4(1)(a) of Directive [95/46][directive95_46] is not
 applicable in the case of the first of the three conditions listed by
 the referring court.
 
 48.      In this regard, it is to be noted first of all that recital 19
-in the preamble to Directive 95/46 states that ‘establishment on the
+in the preamble to Directive [95/46][directive95_46] states that ‘establishment on the
 territory of a Member State implies the effective and real exercise of
 activity through stable arrangements’ and that ‘the legal form of such
 an establishment, whether simply [a] branch or a subsidiary with a legal
@@ -836,7 +836,7 @@ personality, is not the determining factor’.
 and real exercise of activity through stable arrangements in Spain. As
 it moreover has separate legal personality, it constitutes a subsidiary
 of Google Inc. on Spanish territory and, therefore, an ‘establishment’
-within the meaning of Article 4(1)(a) of Directive 95/46.
+within the meaning of Article 4(1)(a) of Directive [95/46][directive95_46].
 
 50.      In order to satisfy the criterion laid down in that provision,
 it is also necessary that the processing of personal data by the
@@ -851,12 +851,12 @@ activity is limited to providing support to the Google group’s
 advertising activity which is separate from its search engine service.
 
 52.      Nevertheless, as the Spanish Government and the Commission in
-particular have pointed out, Article 4(1)(a) of Directive 95/46 does not
+particular have pointed out, Article 4(1)(a) of Directive [95/46][directive95_46] does not
 require the processing of personal data in question to be carried out
 ‘by’ the establishment concerned itself, but only that it be carried out
 ‘in the context of the activities’ of the establishment.
 
-53.      Furthermore, in the light of the objective of Directive 95/46 of
+53.      Furthermore, in the light of the objective of Directive [95/46][directive95_46] of
 ensuring effective and complete protection of the fundamental rights and
 freedoms of natural persons, and in particular their right to privacy,
 with respect to the processing of personal data, those words cannot be
@@ -864,13 +864,13 @@ interpreted restrictively (see, by analogy, Case C‑324/09 *L'Oréal and
 Others* EU:C:2011:474, paragraphs 62 and 63).
 
 54.      It is to be noted in this context that it is clear in particular
-from recitals 18 to 20 in the preamble to Directive 95/46 and Article 4
+from recitals 18 to 20 in the preamble to Directive [95/46][directive95_46] and Article 4
 thereof that the European Union legislature sought to prevent
 individuals from being deprived of the protection guaranteed by the
 directive and that protection from being circumvented, by prescribing a
 particularly broad territorial scope.
 
-55.      In the light of that objective of Directive 95/46 and of the
+55.      In the light of that objective of Directive [95/46][directive95_46] and of the
 wording of Article 4(1)(a), it must be held that the processing of
 personal data for the purposes of the service of a search engine such as
 Google Search, which is operated by an undertaking that has its seat in
@@ -899,7 +899,7 @@ State, in this instance Spanish territory.
 58.      That being so, it cannot be accepted that the processing of
 personal data carried out for the purposes of the operation of the
 search engine should escape the obligations and guarantees laid down by
-Directive 95/46, which would compromise the directive’s effectiveness
+Directive [95/46][directive95_46], which would compromise the directive’s effectiveness
 and the effective and complete protection of the fundamental rights and
 freedoms of natural persons which the directive seeks to ensure (see, by
 analogy, *L'Oréal and Others* EU:C:2011:474, paragraphs 62 and 63), in
@@ -914,11 +914,11 @@ Case C‑473/12 *IPI*EU:C:2013:715, paragraph 28 and the case-law cited).
 59.      Since the first of the three conditions listed by the referring
 court suffices by itself for it to be concluded that an establishment
 such as Google Spain satisfies the criterion laid down in
-Article 4(1)(a) of Directive 95/46, it is unnecessary to examine the
+Article 4(1)(a) of Directive [95/46][directive95_46], it is unnecessary to examine the
 other two conditions.
 
 60.      It follows from the foregoing that the answer to Question 1(a)
-is that Article 4(1)(a) of Directive 95/46 is to be interpreted as
+is that Article 4(1)(a) of Directive [95/46][directive95_46] is to be interpreted as
 meaning that processing of personal data is carried out in the context
 of the activities of an establishment of the controller on the territory
 of a Member State, within the meaning of that provision, when the
@@ -933,11 +933,11 @@ inhabitants of that Member State.
 to answer Question 1(b) to (d).
 
  *Question 2(c) and (d), concerning the extent of the responsibility of
-the operator of a search engine under Directive 95/46*
+the operator of a search engine under Directive [95/46][directive95_46]*
 
 62.      By Question 2(c) and (d), the referring court asks, in essence,
 whether Article 12(b) and subparagraph (a) of the first paragraph of
-Article 14 of Directive 95/46 are to be interpreted as meaning that, in
+Article 14 of Directive [95/46][directive95_46] are to be interpreted as meaning that, in
 order to comply with the rights laid down in those provisions, the
 operator of a search engine is obliged to remove from the list of
 results displayed following a search made on the basis of a person’s
@@ -976,17 +976,17 @@ appears. Furthermore, according to Mr Costeja González, the Spanish and
 Italian Governments and the Commission, the fact that the information
 has been published lawfully and that it still appears on the original
 web page has no effect on the obligations of that operator under
-Directive 95/46. On the other hand, according to the Polish Government
+Directive [95/46][directive95_46]. On the other hand, according to the Polish Government
 that fact is such as to release the operator from its obligations.
 
 66.      First of all, it should be remembered that, as is apparent from
-Article 1 and recital 10 in the preamble, Directive 95/46 seeks to
+Article 1 and recital 10 in the preamble, Directive [95/46][directive95_46] seeks to
 ensure a high level of protection of the fundamental rights and freedoms
 of natural persons, in particular their right to privacy, with respect
 to the processing of personal data (see, to this effect,
 *IPI*EU:C:2013:715, paragraph 28).
 
-67.      According to recital 25 in the preamble to Directive 95/46, the
+67.      According to recital 25 in the preamble to Directive [95/46][directive95_46], the
 principles of protection laid down by the directive are reflected, on
 the one hand, in the obligations imposed on persons responsible for
 processing, in particular regarding data quality, technical security,
@@ -998,7 +998,7 @@ request corrections and even to object to processing in certain
 circumstances.
 
 68.      The Court has already held that the provisions of Directive
-95/46, in so far as they govern the processing of personal data liable
+[95/46][directive95_46], in so far as they govern the processing of personal data liable
 to infringe fundamental freedoms, in particular the right to privacy,
 must necessarily be interpreted in the light of fundamental rights,
 which, according to settled case-law, form an integral part of the
@@ -1017,15 +1017,15 @@ to data which have been collected concerning him or her and the right to
 have the data rectified, and that compliance with these rules is to be
 subject to control by an independent authority. Those requirements are
 implemented inter alia by Articles 6, 7, 12, 14 and 28 of Directive
-95/46.
+[95/46][directive95_46].
 
-70.      Article 12(b) of Directive 95/46 provides that Member States are
+70.      Article 12(b) of Directive [95/46][directive95_46] provides that Member States are
 to guarantee every data subject the right to obtain from the controller,
 as appropriate, the rectification, erasure or blocking of data the
 processing of which does not comply with the provisions of Directive
-95/46, in particular because of the incomplete or inaccurate nature of
+[95/46][directive95_46], in particular because of the incomplete or inaccurate nature of
 the data. As this final point relating to the case where certain
-requirements referred to in Article 6(1)(d) of Directive 95/46 are not
+requirements referred to in Article 6(1)(d) of Directive [95/46][directive95_46] are not
 observed is stated by way of example and is not exhaustive, it follows
 that non-compliant nature of the processing, which is capable of
 conferring upon the data subject the right guaranteed in Article 12(b)
@@ -1034,7 +1034,7 @@ conditions of lawfulness that are imposed by the directive upon the
 processing of personal data.
 
 71.      In this connection, it should be noted that, subject to the
-exceptions permitted under Article 13 of Directive 95/46, all processing
+exceptions permitted under Article 13 of Directive [95/46][directive95_46], all processing
 of personal data must comply, first, with the principles relating to
 data quality set out in Article 6 of the directive and, secondly, with
 one of the criteria for making data processing legitimate listed in
@@ -1043,7 +1043,7 @@ EU:C:2003:294, paragraph 65; Joined Cases C‑468/10 and C‑469/10 *ASNEF
 and FECEMD* EU:C:2011:777, paragraph 26; and Case C‑342/12
 *Worten*EU:C:2013:355, paragraph 33).
 
-72.      Under Article 6 of Directive 95/46 and without prejudice to
+72.      Under Article 6 of Directive [95/46][directive95_46] and without prejudice to
 specific provisions that the Member States may lay down in respect of
 processing for historical, statistical or scientific purposes, the
 controller has the task of ensuring that personal data are processed
@@ -1059,7 +1059,7 @@ further processed’. In this context, the controller must take every
 reasonable step to ensure that data which do not meet the requirements
 of that provision are erased or rectified.
 
-73.      As regards legitimation, under Article 7 of Directive 95/46, of
+73.      As regards legitimation, under Article 7 of Directive [95/46][directive95_46], of
 processing such as that at issue in the main proceedings carried out by
 the operator of a search engine, that processing is capable of being
 covered by the ground in Article 7(f).
@@ -1078,14 +1078,14 @@ from Articles 7 and 8 of the Charter (see *ASNEF and FECEMD*,
 EU:C:2011:777, paragraphs 38 and 40).
 
 75.      Whilst the question whether the processing complies with
-Articles 6 and 7(f) of Directive 95/46 may be determined in the context
+Articles 6 and 7(f) of Directive [95/46][directive95_46] may be determined in the context
 of a request as provided for in Article 12(b) of the directive, the data
 subject may, in addition, rely in certain conditions on the right to
 object laid down in subparagraph (a) of the first paragraph of
 Article 14 of the directive.
 
 76.      Under subparagraph (a) of the first paragraph of Article 14 of
-Directive 95/46, Member States are to grant the data subject the right,
+Directive [95/46][directive95_46], Member States are to grant the data subject the right,
 at least in the cases referred to in Article 7(e) and (f) of the
 directive, to object at any time on compelling legitimate grounds
 relating to his particular situation to the processing of data relating
@@ -1098,7 +1098,7 @@ processing instigated by the controller may no longer involve those
 data.
 
 77.      Requests under Article 12(b) and subparagraph (a) of the first
-paragraph of Article 14 of Directive 95/46 may be addressed by the data
+paragraph of Article 14 of Directive [95/46][directive95_46] may be addressed by the data
 subject directly to the controller who must then duly examine their
 merits and, as the case may be, end processing of the data in question.
 Where the controller does not grant the request, the data subject may
@@ -1107,7 +1107,7 @@ authority so that it carries out the necessary checks and orders the
 controller to take specific measures accordingly.
 
 78.      In this connection, it is to be noted that it is clear from
-Article 28(3) and (4) of Directive 95/46 that each supervisory authority
+Article 28(3) and (4) of Directive [95/46][directive95_46] that each supervisory authority
 is to hear claims lodged by any person concerning the protection of his
 rights and freedoms in regard to the processing of personal data and
 that it has investigative powers and effective powers of intervention
@@ -1115,7 +1115,7 @@ enabling it to order in particular the blocking, erasure or destruction
 of data or to impose a temporary or definitive ban on such processing.
 
 79.      It is in the light of those considerations that it is necessary
-to interpret and apply the provisions of Directive 95/46 governing the
+to interpret and apply the provisions of Directive [95/46][directive95_46] governing the
 data subject’s rights when he lodges with the supervisory authority or
 judicial authority a request such as that at issue in the main
 proceedings.
@@ -1159,7 +1159,7 @@ according to the role played by the data subject in public life.
 
 82.      Following the appraisal of the conditions for the application of
 Article 12(b) and subparagraph (a) of the first paragraph of Article 14
-of Directive 95/46 which is to be carried out when a request such as
+of Directive [95/46][directive95_46] which is to be carried out when a request such as
 that at issue in the main proceedings is lodged with it, the supervisory
 authority or judicial authority may order the operator of the search
 engine to remove from the list of results displayed following a search
@@ -1178,7 +1178,7 @@ data subject’s fundamental rights additionally, the operator of the
 search engine as the controller in respect of that processing must
 ensure, within the framework of its responsibilities, powers and
 capabilities, that that processing meets the requirements of Directive
-95/46, in order that the guarantees laid down by the directive may have
+[95/46][directive95_46], in order that the guarantees laid down by the directive may have
 full effect.
 
 84.      Given the ease with which information published on a website can
@@ -1191,17 +1191,17 @@ of the information relating to them from the publishers of websites.
 85.      Furthermore, the processing by the publisher of a web page
 consisting in the publication of information relating to an individual
 may, in some circumstances, be carried out ‘solely for journalistic
-purposes’ and thus benefit, by virtue of Article 9 of Directive 95/46,
+purposes’ and thus benefit, by virtue of Article 9 of Directive [95/46][directive95_46],
 from derogations from the requirements laid down by the directive,
 whereas that does not appear to be so in the case of the processing
 carried out by the operator of a search engine. It cannot therefore be
 ruled out that in certain circumstances the data subject is capable of
 exercising the rights referred to in Article 12(b) and subparagraph (a)
-of the first paragraph of Article 14 of Directive 95/46 against that
+of the first paragraph of Article 14 of Directive [95/46][directive95_46] against that
 operator but not against the publisher of the web page.
 
 86.      Finally, it must be stated that not only does the ground, under
-Article 7 of Directive 95/46, justifying the publication of a piece of
+Article 7 of Directive [95/46][directive95_46], justifying the publication of a piece of
 personal data on a website not necessarily coincide with that which is
 applicable to the activity of search engines, but also, even where that
 is the case, the outcome of the weighing of the interests at issue to be
@@ -1225,7 +1225,7 @@ fundamental right to privacy than the publication on the web page.
 
 88.      In the light of all the foregoing considerations, the answer to
 Question 2(c) and (d) is that Article 12(b) and subparagraph (a) of the
-first paragraph of Article 14 of Directive 95/46 are to be interpreted
+first paragraph of Article 14 of Directive [95/46][directive95_46] are to be interpreted
 as meaning that, in order to comply with the rights laid down in those
 provisions and in so far as the conditions laid down by those provisions
 are in fact satisfied, the operator of a search engine is obliged to
@@ -1237,11 +1237,11 @@ those web pages, and even, as the case may be, when its publication in
 itself on those pages is lawful.
 
  *Question 3, concerning the scope of the data subject’s rights
-guaranteed by Directive 95/46*
+guaranteed by Directive [95/46][directive95_46]*
 
 89.      By Question 3, the referring court asks, in essence, whether
 Article 12(b) and subparagraph (a) of the first paragraph of Article 14
-of Directive 95/46 are to be interpreted as enabling the data subject to
+of Directive [95/46][directive95_46] are to be interpreted as enabling the data subject to
 require the operator of a search engine to remove from the list of
 results displayed following a search made on the basis of his name links
 to web pages published lawfully by third parties and containing true
@@ -1254,7 +1254,7 @@ Governments and the Commission consider that this question should be
 answered in the negative. Google Spain, Google Inc., the Polish
 Government and the Commission submit in this regard that Article 12(b)
 and subparagraph (a) of the first paragraph of Article 14 of Directive
-95/46 confer rights upon data subjects only if the processing in
+[95/46][directive95_46] confer rights upon data subjects only if the processing in
 question is incompatible with the directive or on compelling legitimate
 grounds relating to their particular situation, and not merely because
 they consider that that processing may be prejudicial to them or they
@@ -1270,7 +1270,7 @@ protection of those data and to privacy — which encompass the ‘right to
 be forgotten’ — override the legitimate interests of the operator of the
 search engine and the general interest in freedom of information.
 
-92.      As regards Article 12(b) of Directive 95/46, the application of
+92.      As regards Article 12(b) of Directive [95/46][directive95_46], the application of
 which is subject to the condition that the processing of personal data
 be incompatible with the directive, it should be recalled that, as has
 been noted in paragraph 72 of the present judgment, such incompatibility
@@ -1282,7 +1282,7 @@ unless they are required to be kept for historical, statistical or
 scientific purposes.
 
 93.      It follows from those requirements, laid down in Article 6(1)(c)
-to (e) of Directive 95/46, that even initially lawful processing of
+to (e) of Directive [95/46][directive95_46], that even initially lawful processing of
 accurate data may, in the course of time, become incompatible with the
 directive where those data are no longer necessary in the light of the
 purposes for which they were collected or processed. That is so in
@@ -1291,7 +1291,7 @@ relevant, or excessive in relation to those purposes and in the light of
 the time that has elapsed.
 
 94.      Therefore, if it is found, following a request by the data
-subject pursuant to Article 12(b) of Directive 95/46, that the inclusion
+subject pursuant to Article 12(b) of Directive [95/46][directive95_46], that the inclusion
 in the list of results displayed following a search made on the basis of
 his name of the links to web pages published lawfully by third parties
 and containing true information relating to him personally is, at this
@@ -1303,7 +1303,7 @@ out by the operator of the search engine, the information and links
 concerned in the list of results must be erased.
 
 95.      So far as concerns requests as provided for by Article 12(b) of
-Directive 95/46 founded on alleged non-compliance with the conditions
+Directive [95/46][directive95_46] founded on alleged non-compliance with the conditions
 laid down in Article 7(f) of the directive and requests under
 subparagraph (a) of the first paragraph of Article 14 of the directive,
 it must be pointed out that in each case the processing of personal data
@@ -1351,12 +1351,12 @@ particular reasons substantiating a preponderant interest of the public
 in having, in the context of such a search, access to that information,
 a matter which is, however, for the referring court to establish, the
 data subject may, by virtue of Article 12(b) and subparagraph (a) of the
-first paragraph of Article 14 of Directive 95/46, require those links to
+first paragraph of Article 14 of Directive [95/46][directive95_46], require those links to
 be removed from the list of results.
 
 99.      It follows from the foregoing considerations that the answer to
 Question 3 is that Article 12(b) and subparagraph (a) of the first
-paragraph of Article 14 of Directive 95/46 are to be interpreted as
+paragraph of Article 14 of Directive [95/46][directive95_46] are to be interpreted as
 meaning that, when appraising the conditions for the application of
 those provisions, it should inter alia be examined whether the data
 subject has a right that the information in question relating to him
@@ -1388,7 +1388,7 @@ parties, are not recoverable.
 
 On those grounds, the Court (Grand Chamber) hereby rules:
 
-1.      **Article 2(b) and (d) of Directive 95/46/EC of the European
+1.      **Article 2(b) and (d) of Directive [95/46/EC][directive95_46] of the European
 Parliament and of the Council of 24 October 1995 on the protection of
 individuals with regard to the processing of personal data and on the
 free movement of such data are to be interpreted as meaning that, first,
@@ -1401,7 +1401,7 @@ Article 2(b) when that information contains personal data and, second,
 the operator of the search engine must be regarded as the ‘controller’
 in respect of that processing, within the meaning of Article 2(d).**
 
-2.      **Article 4(1)(a) of Directive 95/46 is to be interpreted as
+2.      **Article 4(1)(a) of Directive [95/46][directive95_46] is to be interpreted as
 meaning that processing of personal data is carried out in the context
 of the activities of an establishment of the controller on the territory
 of a Member State, within the meaning of that provision, when the
@@ -1411,7 +1411,7 @@ offered by that engine and which orientates its activity towards the
 inhabitants of that Member State.**
 
 3.      **Article 12(b) and subparagraph (a) of the first paragraph of
-Article 14 of Directive 95/46 are to be interpreted as meaning that, in
+Article 14 of Directive [95/46][directive95_46] are to be interpreted as meaning that, in
 order to comply with the rights laid down in those provisions and in so
 far as the conditions laid down by those provisions are in fact
 satisfied, the operator of a search engine is obliged to remove from the
@@ -1423,7 +1423,7 @@ those web pages, and even, as the case may be, when its publication in
 itself on those pages is lawful.**
 
 4.      **Article 12(b) and subparagraph (a) of the first paragraph of
-Article 14 of Directive 95/46 are to be interpreted as meaning that,
+Article 14 of Directive [95/46][directive95_46] are to be interpreted as meaning that,
 when appraising the conditions for the application of those provisions,
 it should inter alia be examined whether the data subject has a right
 that the information in question relating to him personally should, at
@@ -1448,3 +1448,6 @@ question.**
 * * * * *
 
 [\*](#Footref*)^^ Language of the case: Spanish.
+
+
+[directive95_46]: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995L0046:EN:HTMLp
