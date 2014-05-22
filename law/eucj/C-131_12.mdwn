@@ -545,8 +545,8 @@ preliminary ruling:
 ### Question 2(a) and (b), concerning the material scope of Directive [95/46][directive95_46]
 
 21.      By Question 2(a) and (b), which it is appropriate to examine
-first, the referring court asks, in essence, whether Article 2(b) of
-Directive [95/46][directive95_46] is to be interpreted as meaning that the activity of a
+first, the referring court asks, in essence, whether [[!toggle id="art2a-1" text="Article 2(b) of
+Directive"]] [95/46][directive95_46] is to be interpreted as meaning that the activity of a
 search engine as a provider of content which consists in finding
 information published or placed on the internet by third parties,
 indexing it automatically, storing it temporarily and, finally, making
@@ -559,6 +559,14 @@ interpreted as meaning that the operator of a search engine must be
 regarded as the ‘controller’ in respect of that processing of the
 personal data, within the meaning of that provision.
 
+[[!toggleable id="art2a-1" text="""
+> (a)      “personal data” shall mean any information relating to an
+> identified or identifiable natural person (“data subject”); an
+> identifiable person is one who can be identified, directly or
+> indirectly, in particular by reference to an identification number or to
+> one or more factors specific to his physical, physiological, mental,
+> economic, cultural or social identity;
+"""]]
 [[!toggleable id="art2d-1" text="""
 > (d)      “controller” shall mean the natural or legal person, public
 > authority, agency or any other body which alone or jointly with others
@@ -595,7 +603,9 @@ regarded as ‘controllers’, except where they store data in an
 which is technically necessary.
 
 25.      Article 2(b) of Directive [95/46][directive95_46] defines ‘processing of personal
-data’ as ‘any operation or set of operations which is performed upon
+data’ as 
+
+> ‘any operation or set of operations which is performed upon
 personal data, whether or not by automatic means, such as collection,
 recording, organisation, storage, adaptation or alteration, retrieval,
 consultation, use, disclosure by transmission, dissemination or
@@ -800,11 +810,23 @@ Article 4(1)(c).
 #### Question 1(a)
 
 45.      By Question 1(a), the referring court asks, in essence, whether
-Article 4(1)(a) of Directive [95/46][directive95_46] is to be interpreted as meaning that
+[[!toggle id="art41a" text="Article 4(1)(a) of Directive"]] [95/46][directive95_46] is to be interpreted as meaning that
 processing of personal data is carried out in the context of the
 activities of an establishment of the controller on the territory of a
 Member State, within the meaning of that provision, when one or more of
 the following three conditions are met:
+
+[[!toggleable id="art41a" text="""
+> ‘1.      Each Member State shall apply the national provisions it adopts
+> pursuant to this Directive to the processing of personal data where:
+> 
+> (a)      the processing is carried out in the context of the activities
+> of an establishment of the controller on the territory of the Member
+> State; when the same controller is established on the territory of
+> several Member States, he must take the necessary measures to ensure
+> that each of these establishments complies with the obligations laid
+> down by the national law applicable;
+"""]]
 
 –        the operator of a search engine sets up in a Member State a
 branch or subsidiary which is intended to promote and sell advertising
@@ -954,8 +976,8 @@ to answer Question 1(b) to (d).
 ### Question 2(c) and (d), concerning the extent of the responsibility of the operator of a search engine under Directive [95/46][directive95_46]
 
 62.      By Question 2(c) and (d), the referring court asks, in essence,
-whether Article 12(b) and subparagraph (a) of the first paragraph of
-Article 14 of Directive [95/46][directive95_46] are to be interpreted as meaning that, in
+whether [[!toggle id="art12b" text="Article 12(b)"]] and [[!toggle id="art14a" text="subparagraph (a) of the first paragraph of Article 14"]] 
+of Directive [95/46][directive95_46] are to be interpreted as meaning that, in
 order to comply with the rights laid down in those provisions, the
 operator of a search engine is obliged to remove from the list of
 results displayed following a search made on the basis of a person’s
@@ -964,6 +986,28 @@ information relating to that person, also in a case where that name or
 information is not erased beforehand or simultaneously from those web
 pages, and even, as the case may be, when its publication in itself on
 those pages is lawful.
+
+[[!toggleable id="art12b" text="""
+> ‘Member States shall guarantee every data subject the right to obtain
+> from the controller:
+> 
+> ...
+> 
+> (b)      as appropriate the rectification, erasure or blocking of data
+> the processing of which does not comply with the provisions of this
+> Directive, in particular because of the incomplete or inaccurate nature
+> of the data;
+"""]]
+[[!toggleable id="art14a" text="""
+> ‘Member States shall grant the data subject the right:
+> 
+> (a)      at least in the cases referred to in Article 7(e) and (f), to
+> object at any time on compelling legitimate grounds relating to his
+> particular situation to the processing of data relating to him, save
+> where otherwise provided by national legislation. Where there is a
+> justified objection, the processing instigated by the controller may no
+> longer involve those data;
+"""]]
 
 63.      Google Spain and Google Inc. submit that, by virtue of the
 principle of proportionality, any request seeking the removal of
@@ -1125,12 +1169,35 @@ authority so that it carries out the necessary checks and orders the
 controller to take specific measures accordingly.
 
 78.      In this connection, it is to be noted that it is clear from
-Article 28(3) and (4) of Directive [95/46][directive95_46] that each supervisory authority
+[[!toggle id="art28" text="Article 28(3) and (4)"]] of Directive [95/46][directive95_46] that each supervisory authority
 is to hear claims lodged by any person concerning the protection of his
 rights and freedoms in regard to the processing of personal data and
 that it has investigative powers and effective powers of intervention
 enabling it to order in particular the blocking, erasure or destruction
 of data or to impose a temporary or definitive ban on such processing.
+
+[[!toggleable id="art28" text"""
+> 3.      Each authority shall in particular be endowed with:
+> 
+> –        investigative powers, such as powers of access to data forming
+> the subject-matter of processing operations and powers to collect all
+> the information necessary for the performance of its supervisory duties,
+> 
+> –        effective powers of intervention, such as, for example, that …
+> of ordering the blocking, erasure or destruction of data, of imposing a
+> temporary or definitive ban on processing …
+> 
+> –        ...
+> 
+> Decisions by the supervisory authority which give rise to complaints may
+> be appealed against through the courts.
+> 
+> 4.      Each supervisory authority shall hear claims lodged by any
+> person, or by an association representing that person, concerning the
+> protection of his rights and freedoms in regard to the processing of
+> personal data. The person concerned shall be informed of the outcome of
+> the claim.
+"""]]
 
 79.      It is in the light of those considerations that it is necessary
 to interpret and apply the provisions of Directive [95/46][directive95_46] governing the
@@ -1242,8 +1309,9 @@ constitute a more significant interference with the data subject’s
 fundamental right to privacy than the publication on the web page.
 
 88.      In the light of all the foregoing considerations, the answer to
-Question 2(c) and (d) is that Article 12(b) and subparagraph (a) of the
-first paragraph of Article 14 of Directive [95/46][directive95_46] are to be interpreted
+Question 2(c) and (d) is that [[!toggle id="art12b-88" text="Article 12(b)"]] 
+and [[!toggle id="art14a-88" text="subparagraph (a) of the first paragraph of Article 14"]]
+of Directive [95/46][directive95_46] are to be interpreted
 as meaning that, in order to comply with the rights laid down in those
 provisions and in so far as the conditions laid down by those provisions
 are in fact satisfied, the operator of a search engine is obliged to
@@ -1253,6 +1321,28 @@ and containing information relating to that person, also in a case where
 that name or information is not erased beforehand or simultaneously from
 those web pages, and even, as the case may be, when its publication in
 itself on those pages is lawful.
+
+[[!toggleable id="art12b-88" text="""
+> ‘Member States shall guarantee every data subject the right to obtain
+> from the controller:
+> 
+> ...
+> 
+> (b)      as appropriate the rectification, erasure or blocking of data
+> the processing of which does not comply with the provisions of this
+> Directive, in particular because of the incomplete or inaccurate nature
+> of the data;
+"""]]
+[[!toggleable id="art14a-88" text="""
+> ‘Member States shall grant the data subject the right:
+> 
+> (a)      at least in the cases referred to in Article 7(e) and (f), to
+> object at any time on compelling legitimate grounds relating to his
+> particular situation to the processing of data relating to him, save
+> where otherwise provided by national legislation. Where there is a
+> justified objection, the processing instigated by the controller may no
+> longer involve those data;
+"""]]
 
 ### Question 3, concerning the scope of the data subject’s rights guaranteed by Directive [95/46][directive95_46]
 
@@ -1298,14 +1388,33 @@ not kept up to date, or that they are kept for longer than is necessary
 unless they are required to be kept for historical, statistical or
 scientific purposes.
 
-93.      It follows from those requirements, laid down in Article 6(1)(c)
-to (e) of Directive [95/46][directive95_46], that even initially lawful processing of
+93.      It follows from those requirements, laid down in [[!toggle id="art6-93" text="Article 6(1)(c) to (e)"]]
+of Directive [95/46][directive95_46], that even initially lawful processing of
 accurate data may, in the course of time, become incompatible with the
 directive where those data are no longer necessary in the light of the
 purposes for which they were collected or processed. That is so in
 particular where they appear to be inadequate, irrelevant or no longer
 relevant, or excessive in relation to those purposes and in the light of
 the time that has elapsed.
+
+[[!toggleable id="art6-93" text="""
+> ‘1.      Member States shall provide that personal data must be:
+> 
+> (c)      adequate, relevant and not excessive in relation to the
+> purposes for which they are collected and/or further processed;
+> 
+> (d)      accurate and, where necessary, kept up to date; every
+> reasonable step must be taken to ensure that data which are inaccurate
+> or incomplete, having regard to the purposes for which they were
+> collected or for which they are further processed, are erased or
+> rectified;
+> 
+> (e)      kept in a form which permits identification of data subjects
+> for no longer than is necessary for the purposes for which the data were
+> collected or for which they are further processed. Member States shall
+> lay down appropriate safeguards for personal data stored for longer
+> periods for historical, statistical or scientific use.
+"""]]
 
 94.      Therefore, if it is found, following a request by the data
 subject pursuant to Article 12(b) of Directive [95/46][directive95_46], that the inclusion
@@ -1321,11 +1430,24 @@ concerned in the list of results must be erased.
 
 95.      So far as concerns requests as provided for by Article 12(b) of
 Directive [95/46][directive95_46] founded on alleged non-compliance with the conditions
-laid down in Article 7(f) of the directive and requests under
+laid down in [[!toggle id="art7f" text="Article 7(f)"]] of the directive and requests under
 subparagraph (a) of the first paragraph of Article 14 of the directive,
 it must be pointed out that in each case the processing of personal data
 must be authorised under Article 7 for the entire period during which it
 is carried out.
+
+[[!toggleable id="art7f" text="""
+> ‘Member States shall provide that personal data may be processed only
+> if:
+> 
+> ...
+> 
+> (f)      processing is necessary for the purposes of the legitimate
+> interests pursued by the controller or by the third party or parties to
+> whom the data are disclosed, except where such interests are overridden
+> by the interests [or] fundamental rights and freedoms of the data
+> subject which require protection under Article 1(1).’
+"""]]
 
 96.      In the light of the foregoing, when appraising such requests
 made in order to oppose processing such as that at issue in the main
