@@ -1,6 +1,6 @@
 <center>JUDGMENT OF THE COURT (Grand Chamber)</center>
 
-[[!toc startlevel=2 ]]
+[[!toc startlevel=2 levels=3 ]]
 
 13 May 2014 ([^*])
 
