@@ -1,4 +1,4 @@
-# JUDGMENT OF THE COURT (Grand Chamber)
+<center>JUDGMENT OF THE COURT (Grand Chamber)</center>
 
 13 May 2014 ([^*])
 
@@ -70,7 +70,7 @@ after hearing the Opinion of the Advocate General at the sitting on
 
 gives the following
 
-## Judgment
+# Judgment
 
 1.        This request for a preliminary ruling concerns the
 interpretation of Article 2(b) and (d), Article 4(1)(a) and (c),
@@ -90,9 +90,9 @@ González against those two companies and ordering Google Inc. to adopt
 the measures necessary to withdraw personal data relating to Mr Costeja
 González from its index and to prevent access to the data in the future.
 
- **Legal context**
+## Legal context
 
- *European Union law*
+### European Union law
 
 3.        Directive [95/46][directive95_46] which, according to Article 1, has the object
 of protecting the fundamental rights and freedoms of natural persons,
@@ -352,14 +352,13 @@ is worded as follows:
 > 
 > ...’
 
- *Spanish law*
+### Spanish law
 
 13.      Directive [95/46][directive95_46] was transposed into Spanish Law by Organic Law
 No 15/1999 of 13 December 1999 on the protection of personal data (BOE
 No 298 of 14 December 1999, p. 43088).
 
- **The dispute in the main proceedings and the questions referred for a
-preliminary ruling**
+## The dispute in the main proceedings and the questions referred for a preliminary ruling
 
 14.      On 5 March 2010, Mr Costeja González, a Spanish national
 resident in Spain, lodged with the AEPD a complaint against La
@@ -537,10 +536,9 @@ preliminary ruling:
 > consigned to oblivion, even though the information in question has been
 > lawfully published by third parties?’
 
- **Consideration of the questions referred**
+## Consideration of the questions referred
 
- *Question 2(a) and (b), concerning the material scope of Directive
-[95/46][directive95_46]*
+### Question 2(a) and (b), concerning the material scope of Directive [95/46][directive95_46]
 
 21.      By Question 2(a) and (b), which it is appropriate to examine
 first, the referring court asks, in essence, whether Article 2(b) of
@@ -722,8 +720,7 @@ that information contains personal data and, second, the operator of the
 search engine must be regarded as the ‘controller’ in respect of that
 processing, within the meaning of Article 2(d).
 
- *Question 1(a) to (d), concerning the territorial scope of Directive
-[95/46][directive95_46]*
+### Question 1(a) to (d), concerning the territorial scope of Directive [95/46][directive95_46]
 
 42.      By Question 1(a) to (d), the referring court seeks to establish
 whether it is possible to apply the national legislation transposing
@@ -778,7 +775,7 @@ Article 4(1)(a) of Directive [95/46][directive95_46], and of ‘use of equipmen
 the territory of the said Member State’, within the meaning of
 Article 4(1)(c).
 
- Question 1(a)
+#### Question 1(a)
 
 45.      By Question 1(a), the referring court asks, in essence, whether
 Article 4(1)(a) of Directive [95/46][directive95_46] is to be interpreted as meaning that
@@ -927,13 +924,12 @@ subsidiary which is intended to promote and sell advertising space
 offered by that engine and which orientates its activity towards the
 inhabitants of that Member State.
 
- Question 1(b) to (d)
+#### Question 1(b) to (d)
 
 61.      In view of the answer given to Question 1(a), there is no need
 to answer Question 1(b) to (d).
 
- *Question 2(c) and (d), concerning the extent of the responsibility of
-the operator of a search engine under Directive [95/46][directive95_46]*
+### Question 2(c) and (d), concerning the extent of the responsibility of the operator of a search engine under Directive [95/46][directive95_46]
 
 62.      By Question 2(c) and (d), the referring court asks, in essence,
 whether Article 12(b) and subparagraph (a) of the first paragraph of
@@ -1236,8 +1232,7 @@ that name or information is not erased beforehand or simultaneously from
 those web pages, and even, as the case may be, when its publication in
 itself on those pages is lawful.
 
- *Question 3, concerning the scope of the data subject’s rights
-guaranteed by Directive [95/46][directive95_46]*
+### Question 3, concerning the scope of the data subject’s rights guaranteed by Directive [95/46][directive95_46]
 
 89.      By Question 3, the referring court asks, in essence, whether
 Article 12(b) and subparagraph (a) of the first paragraph of Article 14
@@ -1378,7 +1373,7 @@ rights is justified by the preponderant interest of the general public
 in having, on account of its inclusion in the list of results, access to
 the information in question.
 
- **Costs**
+## Costs
 
 100.    Since these proceedings are, for the parties to the main
 proceedings, a step in the action pending before the referring court,
@@ -1445,7 +1440,6 @@ preponderant interest of the general public in having, on account of its
 inclusion in the list of results, access to the information in
 question.**
 
-* * * * *
 
 [^*]: Language of the case: Spanish.
 
