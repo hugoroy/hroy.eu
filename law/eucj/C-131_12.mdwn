@@ -1,6 +1,6 @@
 # JUDGMENT OF THE COURT (Grand Chamber)
 
-13 May 2014 ([\*](#Footnote*))
+13 May 2014 ([\*])
 
 (Personal data — Protection of individuals with regard to the processing
 of such data — Directive [95/46/EC][directive95_46] — Articles 2, 4, 12 and 14 — Material
@@ -1005,7 +1005,7 @@ which, according to settled case-law, form an integral part of the
 general principles of law whose observance the Court ensures and which
 are now set out in the Charter (see, in particular, Case [C-274/99] P
 *Connolly* v *Commission* EU:C:2001:127, paragraph 37,
-and*Österreichischer Rundfunk and Others* EU:C:2003:294, paragraph 68).
+and *Österreichischer Rundfunk and Others* EU:C:2003:294, paragraph 68).
 
 69.      Article 7 of the Charter guarantees the right to respect for
 private life, whilst Article 8 of the Charter expressly proclaims the
@@ -1447,7 +1447,7 @@ question.**
 
 * * * * *
 
-[\*](#Footref*)^^ Language of the case: Spanish.
+[\*]: Language of the case: Spanish.
 
 
 [directive95_46]: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995L0046:EN:HTMLp
