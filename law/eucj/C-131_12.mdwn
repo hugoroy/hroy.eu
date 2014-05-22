@@ -1169,14 +1169,15 @@ authority so that it carries out the necessary checks and orders the
 controller to take specific measures accordingly.
 
 78.      In this connection, it is to be noted that it is clear from
-[[!toggle id="art28" text="Article 28(3) and (4)"]] of Directive [95/46][directive95_46] that each supervisory authority
+[[!toggle id="art28-78" text="Article 28(3) and (4)"]] 
+of Directive [95/46][directive95_46] that each supervisory authority
 is to hear claims lodged by any person concerning the protection of his
 rights and freedoms in regard to the processing of personal data and
 that it has investigative powers and effective powers of intervention
 enabling it to order in particular the blocking, erasure or destruction
 of data or to impose a temporary or definitive ban on such processing.
 
-[[!toggleable id="art28" text"""
+[[!toggleable id="art28-78" text"""
 > 3.      Each authority shall in particular be endowed with:
 > 
 > –        investigative powers, such as powers of access to data forming
