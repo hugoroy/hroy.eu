@@ -946,11 +946,16 @@ freedoms of natural persons which the directive seeks to ensure (see, by
 analogy, *L'Oréal and Others* EU:C:2011:474, paragraphs 62 and 63), in
 particular their right to privacy, with respect to the processing of
 personal data, a right to which the directive accords special importance
-as is confirmed in particular by Article 1(1) thereof and recitals 2 and
+as is confirmed in particular by [[!toggle id="art1-58" text="Article 1(1) thereof"]] 
+and recitals 2 and
 10 in its preamble (see, to this effect, Joined Cases [C-465/00], [C-138/01]
 and [C-139/01] *Österreichischer Rundfunk and Others* EU:C:2003:294,
 paragraph 70; Case [C-553/07] *Rijkeboer* EU:C:2009:293, paragraph 47; and
 Case [C-473/12] *IPI* EU:C:2013:715, paragraph 28 and the case-law cited).
+
+[[!toggleable id="art1-58" text="""
+> 1. In accordance with this Directive, Member States shall protect the fundamental rights and freedoms of natural persons, and in particular their right to privacy with respect to the processing of personal data.
+"""]]
 
 59.      Since the first of the three conditions listed by the referring
 court suffices by itself for it to be concluded that an establishment
@@ -1132,12 +1137,16 @@ controller or by the third party or parties to whom the data are
 disclosed, except where such interests are overridden by the interests
 or fundamental rights and freedoms of the data subject — in particular
 his right to privacy with respect to the processing of personal data —
-which require protection under Article 1(1) of the directive.
+which require protection under [[!toggle id="art1-74" text="Article 1(1) of the directive"]].
 Application of Article 7(f) thus necessitates a balancing of the
 opposing rights and interests concerned, in the context of which account
 must be taken of the significance of the data subject’s rights arising
 from Articles 7 and 8 of the Charter (see *ASNEF and FECEMD*,
 EU:C:2011:777, paragraphs 38 and 40).
+
+[[!toggleable id="art1-74" text="""
+> 1. In accordance with this Directive, Member States shall protect the fundamental rights and freedoms of natural persons, and in particular their right to privacy with respect to the processing of personal data.
+"""]]
 
 75.      Whilst the question whether the processing complies with
 Articles 6 and 7(f) of Directive [95/46][directive95_46] may be determined in the context
@@ -1447,7 +1456,11 @@ is carried out.
 > interests pursued by the controller or by the third party or parties to
 > whom the data are disclosed, except where such interests are overridden
 > by the interests [or] fundamental rights and freedoms of the data
-> subject which require protection under Article 1(1).’
+> subject which require protection under [[!toggle id="art1-7f" text="Article 1(1)"]].’
+
+[[!toggleable id="art1-7f" text="""
+> 1. In accordance with this Directive, Member States shall protect the fundamental rights and freedoms of natural persons, and in particular their right to privacy with respect to the processing of personal data.
+"""]]
 """]]
 
 96.      In the light of the foregoing, when appraising such requests
@@ -1589,8 +1602,7 @@ question.**
 [^*]: Language of the case: Spanish.
 
 
-[directive95_46]: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995L0046:EN:HTMLp
-
+[directive95_46]: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995L0046:EN:HTML
 [C-131/12]: http://curia.europa.eu/juris/documents.jsf?num=C-131/12
 [C-101/01]: http://curia.europa.eu/juris/documents.jsf?num=C-101/01
 [C-73/07]: http://curia.europa.eu/juris/documents.jsf?num=C-73/07
