@@ -1029,6 +1029,7 @@ Case [C-473/12] *IPI* EU:C:2013:715, paragraph 28 and the case-law cited).
 [[!toggleable id="art1-58" text="""
 > 1. In accordance with this Directive, Member States shall protect the fundamental rights and freedoms of natural persons, and in particular their right to privacy with respect to the processing of personal data.
 """]]
+
 [[!toggleable id="rec210" text="""
 > (2)      … data-processing systems are designed to serve man; … they
 > must, whatever the nationality or residence of natural persons, respect
@@ -1046,7 +1047,7 @@ Case [C-473/12] *IPI* EU:C:2013:715, paragraph 28 and the case-law cited).
 > not result in any lessening of the protection they afford but must, on
 > the contrary, seek to ensure a high level of protection in the
 > Community;
-""]]
+"""]]
 
 <span id="para59">59.</span>      Since the first of the three conditions listed by the referring
 court suffices by itself for it to be concluded that an establishment
