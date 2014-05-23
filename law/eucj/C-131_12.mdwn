@@ -973,7 +973,7 @@ particularly broad territorial scope.
 """]]
 
 <span id="para55">55.</span>      In the light of that objective of Directive [95/46][directive95_46] and of the
-wording of [[!toggle art="41a-55" text="Article 4(1)(a)"]], it must be held that the processing of
+wording of [[!toggle id="41a-55" text="Article 4(1)(a)"]], it must be held that the processing of
 personal data for the purposes of the service of a search engine such as
 Google Search, which is operated by an undertaking that has its seat in
 a third State but has an establishment in a Member State, is carried out
