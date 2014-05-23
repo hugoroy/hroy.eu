@@ -1684,3 +1684,4 @@ question.**
 [C-468/10]: http://curia.europa.eu/juris/documents.jsf?num=C-468/10
 [C-342/12]: http://curia.europa.eu/juris/documents.jsf?num=C-342/12
 
+<script src="/js/fragmention.js" type="text/javascript"></script>
