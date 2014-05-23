@@ -1303,7 +1303,7 @@ of the information relating to them from the publishers of websites.
 <span id="para85">85.</span>      Furthermore, the processing by the publisher of a web page
 consisting in the publication of information relating to an individual
 may, in some circumstances, be carried out ‘solely for journalistic
-purposes’ and thus benefit, by virtue of Article 9 of Directive [95/46][directive95_46],
+purposes’ and thus benefit, by virtue of [[!toggle id="art9" text="Article 9 of Directive"]] [95/46][directive95_46],
 from derogations from the requirements laid down by the directive,
 whereas that does not appear to be so in the case of the processing
 carried out by the operator of a search engine. It cannot therefore be
@@ -1311,6 +1311,15 @@ ruled out that in certain circumstances the data subject is capable of
 exercising the rights referred to in Article 12(b) and subparagraph (a)
 of the first paragraph of Article 14 of Directive [95/46][directive95_46] against that
 operator but not against the publisher of the web page.
+
+[[!toggleable id="art9" text="""
+> ‘Member States shall provide for exemptions or derogations from the
+> provisions of this Chapter, Chapter IV and Chapter VI for the processing
+> of personal data carried out solely for journalistic purposes or the
+> purpose of artistic or literary expression only if they are necessary to
+> reconcile the right to privacy with the rules governing freedom of
+> expression.’
+"""]]
 
 <span id="para86">86.</span>      Finally, it must be stated that not only does the ground, under
 Article 7 of Directive [95/46][directive95_46], justifying the publication of a piece of
