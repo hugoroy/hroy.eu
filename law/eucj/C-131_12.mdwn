@@ -1,5 +1,6 @@
 [[!meta title="EUCJ’s “Right to be forgotten” in Google Spain v. Mario Costeja González (C-131/12)"]]
 [[!meta author="Curia Europa"]]
+[[!template id="fragmentjs.tmpl"]]
 
 <center>JUDGMENT OF THE COURT (Grand Chamber)</center>
 
@@ -1684,4 +1685,3 @@ question.**
 [C-468/10]: http://curia.europa.eu/juris/documents.jsf?num=C-468/10
 [C-342/12]: http://curia.europa.eu/juris/documents.jsf?num=C-342/12
 
-<script src="/js/fragmention.js" type="text/javascript"></script>
