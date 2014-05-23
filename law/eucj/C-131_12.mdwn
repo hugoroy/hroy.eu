@@ -1388,7 +1388,7 @@ that it has investigative powers and effective powers of intervention
 enabling it to order in particular the blocking, erasure or destruction
 of data or to impose a temporary or definitive ban on such processing.
 
-[[!toggleable id="art28-78" text"""
+[[!toggleable id="art28-78" text="""
 > 3.      Each authority shall in particular be endowed with:
 > 
 > –        investigative powers, such as powers of access to data forming
