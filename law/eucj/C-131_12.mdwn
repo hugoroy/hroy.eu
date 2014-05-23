@@ -1593,8 +1593,8 @@ itself on those pages is lawful.
 ### Question 3, concerning the scope of the data subject’s rights guaranteed by Directive [95/46][directive95_46]
 
 <span id="para89">89.</span>      By Question 3, the referring court asks, in essence, whether
-[[!toggle id="art12b-88" text="Article 12(b)"]] 
-and [[!toggle id="art14a-88" text="subparagraph (a) of the first paragraph of Article 14"]]
+[[!toggle id="art12b88" text="Article 12(b)"]] 
+and [[!toggle id="art14a88" text="subparagraph (a) of the first paragraph of Article 14"]]
 of Directive [95/46][directive95_46] are to be interpreted as enabling the data subject to
 require the operator of a search engine to remove from the list of
 results displayed following a search made on the basis of his name links
