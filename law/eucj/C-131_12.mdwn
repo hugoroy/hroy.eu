@@ -4,7 +4,7 @@
 
 <center>JUDGMENT OF THE COURT (Grand Chamber)</center>
 
-<aside class="toc">Contents:
+<aside class="toc">Contents
 [[!toc startlevel=2 levels=2 ]]
 </aside>
 
@@ -1684,4 +1684,3 @@ question.**
 [C-138/01]: http://curia.europa.eu/juris/documents.jsf?num=C-138/01
 [C-468/10]: http://curia.europa.eu/juris/documents.jsf?num=C-468/10
 [C-342/12]: http://curia.europa.eu/juris/documents.jsf?num=C-342/12
-
