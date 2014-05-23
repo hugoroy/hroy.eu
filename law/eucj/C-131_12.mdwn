@@ -1554,8 +1554,8 @@ constitute a more significant interference with the data subject’s
 fundamental right to privacy than the publication on the web page.
 
 <span id="para88">88.</span>      In the light of all the foregoing considerations, the answer to
-Question 2(c) and (d) is that [[!toggle id="art12b-88" text="Article 12(b)"]] 
-and [[!toggle id="art14a-88" text="subparagraph (a) of the first paragraph of Article 14"]]
+Question 2(c) and (d) is that [[!toggle id="art12b88" text="Article 12(b)"]] 
+and [[!toggle id="art14a88" text="subparagraph (a) of the first paragraph of Article 14"]]
 of Directive [95/46][directive95_46] are to be interpreted
 as meaning that, in order to comply with the rights laid down in those
 provisions and in so far as the conditions laid down by those provisions
@@ -1567,7 +1567,7 @@ that name or information is not erased beforehand or simultaneously from
 those web pages, and even, as the case may be, when its publication in
 itself on those pages is lawful.
 
-[[!toggleable id="art12b-88" text="""
+[[!toggleable id="art12b88" text="""
 > ‘Member States shall guarantee every data subject the right to obtain
 > from the controller:
 > 
@@ -1578,7 +1578,7 @@ itself on those pages is lawful.
 > Directive, in particular because of the incomplete or inaccurate nature
 > of the data;
 """]]
-[[!toggleable id="art14a-88" text="""
+[[!toggleable id="art14a88" text="""
 > ‘Member States shall grant the data subject the right:
 > 
 > (a)      at least in the cases referred to in Article 7(e) and (f), to
