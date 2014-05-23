@@ -1742,6 +1742,8 @@ Article 14:
 > ...’
 """]]
 [[!toggleable id="art1-7f" text="""
+Article 1
+
 > 1. In accordance with this Directive, Member States shall protect the fundamental rights and freedoms of natural persons, and in particular their right to privacy with respect to the processing of personal data.
 """]]
 
