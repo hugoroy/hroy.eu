@@ -1,6 +1,6 @@
 [[!meta title="La FSFE (Free Software Foundation Europe)"]]
 [[!meta language="fr"]]
-[[!meta description=""]]
+[[!meta description="La FSFE (fondation européenne du logiciel libre) œuvre depuis 2001 pour la promotion du Logiciel Libre en Europe. Présentation de l’organisation, ses campagnes, ses groupes d’expertise juridique et retour sur plus de 10 ans d’activisme : des procès gagnés contre Microsoft au niveau de l’Union européenne aux batailles contre les brevets logiciels et les DRM. Quels seront les défis pour le logiciel libre que nous aurons à relever ensemble ?"]]
 [[!tag lang:fr FSFE]]
 [[!meta date="2014-05-24T11:00:00+02:00"]]
 
@@ -11,10 +11,10 @@
 
 
 [[!toggleable id="fsfe-ubuntu-2014" text="""
-La FSFE (fondation européenne du logiciel libre) œuvre depuis 2001 pour la promotion du Logiciel Libre en Europe. Présentation de l’organisation, ses campagnes, ses groupes d’expertise juridique et retour sur plus de 10 ans d’activisme : des procès gagnés contre Microsoft au niveau de l’Union européenne aux batailles contre les brevets logiciels et les DRM. Quels seront les défis pour le logiciel libre que nous aurons à relever ensemble?
+La FSFE (fondation européenne du logiciel libre) œuvre depuis 2001 pour la promotion du Logiciel Libre en Europe. Présentation de l’organisation, ses campagnes, ses groupes d’expertise juridique et retour sur plus de 10 ans d’activisme : des procès gagnés contre Microsoft au niveau de l’Union européenne aux batailles contre les brevets logiciels et les DRM. Quels seront les défis pour le logiciel libre que nous aurons à relever ensemble ?
 
 <figure class="slides">
-<figcaption><a href="//speakerdeck.com/hugo/fsfe-free-software-foundation-europe-fondation-europeenne-du-logiciel-libre-ubuntuparty201405">slides (speakerdeck.com)</a></figcaption>
+<figcaption><a href="//speakerdeck.com/hugo/fsfe-free-software-foundation-europe-fondation-europeenne-du-logiciel-libre-ubuntuparty201405">diapos (speakerdeck.com)</a></figcaption>
 <iframe
 src="//speakerdeck.com/player/9bace740c96e01316e3b2eda2b59ba96"
 allowfullscreen="true" mozallowfullscreen="true"
