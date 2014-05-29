@@ -1,0 +1,25 @@
+[[!meta title="Hangar Round Table on “Interface Dictatorship”, Barcelona"]]
+[[!meta language="en"]]
+[[!meta description="Our access to reality is increasingly being filtered by interfaces. They become input and output surfaces, spaces of creation and confluence where multiple agents coexist. These exchange spaces are designed, and therefore they are never neutral, they belong to a point of view, a culture and an ideology."]]
+[[!tag lang:en privacy interface ToSDR]]
+[[!meta date="2014-05-27T18:30:00+02:00"]]
+
+
+<span class="fa fa-fw fa-lg">
+[[!toggle id="hangar-tosdr" text=""]]
+</span> [Hangar Round Table on “Interface Dictatorship”, Barcelona](http://hangar.org/news/round-table-interface-dictatorship)
+
+
+[[!toggleable id="hangar-tosdr" text="""
+The design challenge for the “Terms of Service; Didn’t Read” project (ToS;DR <http://tosdr.org>) is to provide a meaningful interface for web users to access the legal information parsed in terms of service and privacy policies.
+
+<figure class="slides">
+<figcaption><a href="//speakerdeck.com/hugo/tos-dr">slides (speakerdeck.com)</a></figcaption>
+<iframe
+src="//speakerdeck.com/player/1b65fdc0c96d013130852e590c444dc4"
+allowfullscreen="true" mozallowfullscreen="true"
+webkitallowfullscreen="true" frameborder="0" title="Towards usage
+restrictions in HTML?"
+width="666" height="580"></iframe>
+</figure>
+"""]]
