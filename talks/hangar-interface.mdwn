@@ -11,7 +11,7 @@
 
 
 [[!toggleable id="hangar-tosdr" text="""
-The design challenge for the “Terms of Service; Didn’t Read” project (ToS;DR <http://tosdr.org>) is to provide a meaningful interface for web users to access the legal information parsed in terms of service and privacy policies.
+The design challenge for the “Terms of Service; Didn’t Read” project (ToS;DR <http://tosdr.org>) is to provide a meaningful interface for web users to access the legal information parsed in terms of service and privacy policies. [#interfacedictatorship](https://twitter.com/hashtag/interfacedictatorship)
 
 <figure class="slides">
 <figcaption><a href="//speakerdeck.com/hugo/tos-dr">slides (speakerdeck.com)</a></figcaption>
