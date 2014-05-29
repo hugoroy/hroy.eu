@@ -18,8 +18,7 @@ The design challenge for the “Terms of Service; Didn’t Read” project (ToS;
 <iframe
 src="//speakerdeck.com/player/1b65fdc0c96d013130852e590c444dc4"
 allowfullscreen="true" mozallowfullscreen="true"
-webkitallowfullscreen="true" frameborder="0" title="Towards usage
-restrictions in HTML?"
+webkitallowfullscreen="true" frameborder="0" title="Hangar - ToSDR"
 width="666" height="580"></iframe>
 </figure>
 """]]
