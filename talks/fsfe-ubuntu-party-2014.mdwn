@@ -6,8 +6,8 @@
 
 
 <span class="fa fa-fw fa-lg">
-[[!toggle id="fsfe-ubuntu-2014" text=""]] La FSFE : Free Software Foundation Europe
-</span> 
+[[!toggle id="fsfe-ubuntu-2014" text=""]] 
+</span> La FSFE : Free Software Foundation Europe
 
 
 [[!toggleable id="fsfe-ubuntu-2014" text="""
