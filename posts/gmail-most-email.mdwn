@@ -17,7 +17,7 @@ I wanted to find out too, how much of my email is in the hands of Google.
 
 # Whole email archive
 
-I haven’t carefully archived all my email since 2007. But I was using Gmail almost entirely until 2009 so there’s a good chance ironically that I will one day completely retrieve my whole email archive. For what preceded 2007, I was using email through OVH’s POP server and I didn’t really care about archiving email, so that’s lost.
+I haven’t very carefully archived all my email since 2007. For what preceded 2007, I was using email through OVH’s POP server and I didn’t really care about archiving email, so that’s lost.
 
 [[!img all/emails_gmail_over_time.png id="allemail" alt="R graph" title="Emails over time" caption="Emails I get each week (in red) including those going through Google (in blue)" link="all/emails_gmail_over_time.pdf"]]
 
