@@ -1,3 +1,6 @@
+- [[!aggregate name="The deck" dir="timeline"
+  feedurl="https://ampoliros.net/profile/hugoroyd?_t=rss"
+  url="https://ampoliros.net/profile/hugoroyd"]]
 - [[!aggregate name="Blog Posts" dir="timeline"
   feedurl="http://hroy.eu/index.atom" url="https://hroy.eu/posts/"]]
 - [[!aggregate name="Short Notes" dir="timeline"
