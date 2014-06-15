@@ -125,7 +125,7 @@ This is why the Court concludes that:
 
 ----------
 
-In the end, the Court of Justices gives a lot more strength to the data subjects’ rights to oppose the processing of personal data when it appers “no longer relevant” in light of the purposes (of the search engine) and in light of the time. And except for narrow exceptions (scientific, historical or statistical data processing; journalistic or artistic purposes and freedom of expression) the Court makes it a general rule unless it can be demonstrated that there are particular reasons (justified by the preponderant interest of the general public).
+In the end, the Court of Justices gives a lot more strength to the data subjects’ rights to oppose the processing of personal data when it appers “no longer relevant” in light of the purposes (of the search engine) and in light of the time --- except for narrow exceptions (scientific, historical or statistical data processing; journalistic or artistic purposes and freedom of expression). In addition, the Court makes it a general rule that data subjects’ rights to oppose data processing should override data controllers purposes on the grounds of the right to private life, unless it can be demonstrated that there are particular reasons otherwise (justified by the preponderant interest of the general public).
 
 This will undeniably have practical implications for search engines and other data controllers, not just Gooogle. It might be opportunistic to see if there should be [a new role to play here for data protection authorities](http://www.husovec.eu/2014/05/should-we-centralize-right-to-be.html) in order to avoid that private actors decide for the public what constitutes something of preponderant general public interest or not.
 
