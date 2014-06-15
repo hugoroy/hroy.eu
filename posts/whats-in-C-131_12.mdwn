@@ -6,6 +6,7 @@
 
 One month ago, the [European Union’s highest court][ECJ] published its [“right to be forgotten” judgment][C-131/12] against Google. While it seems that European data protection authorities welcomed the decision, there’s also a lot of criticism about the last part on the [[!toggle id="rtbfintro" text="right to be forgotten"]].
 
+[[!template id="fragmentjs.tmpl" frageg="TL;DR"]]
 [ECJ]: https://en.wikipedia.org/wiki/European_Court_of_Justice
 [C-131/12]: https://hroy.eu/law/eucj/C-131_12/
 [95/46/EC]: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995L0046:EN:HTML
