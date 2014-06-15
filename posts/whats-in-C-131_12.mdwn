@@ -66,6 +66,8 @@ So I’ve tried to make an alternate version that’s easier to read: you can re
     (a) 'personal data' shall mean any information relating to an identified or identifiable natural person ('data subject'); an identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his physical, physiological, mental, economic, cultural or social identity;
     """]]
 
+    <abbr title="Too Long; Didn’t Read">TL;DR</abbr>: Yes, in most cases.
+
   - The Court [starts][92] by repeating that the data subject has the right to obtain rectification, erasure or blocking of data when the *processing* does not comply with the directive (see the directive, [article 12(b) on “Right to access”][10]). 
 
     The processing’s non-compliance with the directive can result from different situations (see [article 6(c) to 6(e) on “data quality”][7]):
@@ -84,7 +86,7 @@ So I’ve tried to make an alternate version that’s easier to read: you can re
 
 
 
-  - It seems that most analyses of the decision have focused on the parts I have just highlighted. However, it’s important to note that the Court gives a strong preference to data subjects’ rights *even when there’s no prejudice*:
+  - It seems that most analyses of the decision have focused on the parts I have just highlighted. However, I think requests made under article 14 are even broader. Also, it’s important to note that the Court gives a very, very strong preference to data subjects’ rights *even when there’s no prejudice*:
 
       - data subjects can object at any time to their personal data being processed because of their particular situation (see [article 14 on “Right to object”][11]). The Court of Justice finds here that it is not necessary for the data subject to demonstrate that the [data processing causes prejudice](https://hroy.eu/law/eucj/C-131_12/##list+of+results+causes+prejudice).
 
