@@ -1,5 +1,6 @@
 - [[!aggregate name="Blog Posts" dir="timeline"
-  feedurl="http://hroy.eu/index.atom" url="https://hroy.eu/posts/"]]
+  feedurl="http://hroy.eu/index.atom" 
+  url="https://hroy.eu/posts/"]]
 - [[!aggregate name="Short Notes" dir="timeline"
   feedurl="http://hroy.eu/notes/index.atom"
   url="https://hroy.eu/notes"]]
@@ -25,4 +26,6 @@
 - [[!aggregate name="Videos" dir="timeline"
   feedurl="http://vimeo.com/user5876987/videos/rss"
   url="https://vimeo.com/user5876987/videos"]]
-
+- [[!aggregate name="Videos" dir="timeline"
+  feedurl="http://ampoliros.net/content/videos/hugoroyd?_t=rss" 
+  url="https://ampoliros.net/content/videos/hugoroyd"]]
