@@ -124,8 +124,8 @@ This is why the Court concludes that:
 
 In the end, the Court of Justices gives a lot more strength to the data subjects’ rights to oppose the processing of personal data when it appers “no longer relevant” in light of the purposes (of the search engine) and in light of the time. And except for narrow exceptions (scientific, historical or statistical data processing; journalistic or artistic purposes and freedom of expression) the Court makes it a general rule unless it can be demonstrated that there are particular reasons (justified by the preponderant interest of the general public).
 
-This will undeniably of practical implications for search engines and other data controllers, not just Gooogle and it might be opportunistic to see if there should be [a new role to play here for data protection authorities](http://www.husovec.eu/2014/05/should-we-centralize-right-to-be.html) in order to avoid that private and central actors such as Google make the decision for the public of what constitutes something of preponderant general public interest.
+This will undeniably have practical implications for search engines and other data controllers, not just Gooogle. It might be opportunistic to see if there should be [a new role to play here for data protection authorities](http://www.husovec.eu/2014/05/should-we-centralize-right-to-be.html) in order to avoid that private actors decide for the public what constitutes something of preponderant general public interest or not.
 
 However, it still seems to me that this “general rule” is a bold interpretation made by the Court of Justice.
 
-I find it much less balanced than remedies based on the right to private life (such as France’s [article 9 of the civil code](http://www.legifrance.gouv.fr/UnArticleDeCode.do?code=CCIVILL0.rcv&art=9)) where prejudice must be demonstrated. Was all that really necessary?
+I find it much less balanced than other remedies based on the right to private life (such as France’s [article 9 of the civil code](http://www.legifrance.gouv.fr/UnArticleDeCode.do?code=CCIVILL0.rcv&art=9)) where prejudice must be demonstrated. Was all that really necessary?
