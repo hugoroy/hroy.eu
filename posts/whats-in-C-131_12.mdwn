@@ -55,7 +55,8 @@ The decision is hard to read.
 
 One reason why it’s hard to read is because, frankly, the directive is strangely articulated and it’s just not well written. But the decision itself is also bogus, there’s often no clear path of logic to follow, it’s going in all directions with no structure.
 
-So I’ve tried to make an alternate version that’s easier to read: you can refer to [specific paragraphs][81] and you can toggle parts of the directive cited in the body of the decision. So let’s go into it.
+So I’ve tried to make an alternate version that’s easier to read: you can refer to [specific paragraphs][81] and you can toggle parts of the directive cited in the body of the decision. Okay, let’s get into it.
+
 
   - What was the question the Court had to answer? (see [paragraph [89]).
 
