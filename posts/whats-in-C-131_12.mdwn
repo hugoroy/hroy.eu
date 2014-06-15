@@ -67,7 +67,7 @@ So I’ve tried to make an alternate version that’s easier to read: you can re
     (a) 'personal data' shall mean any information relating to an identified or identifiable natural person ('data subject'); an identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his physical, physiological, mental, economic, cultural or social identity;
     """]]
 
-    <abbr title="Too Long; Didn’t Read">TL;DR</abbr>: Yes, in most cases.
+    <abbr title="Too Long; Didn’t Read">TL;DR</abbr>: the answer is Yes, in most cases.
 
   - The Court [starts][92] by repeating that the data subject has the right to obtain rectification, erasure or blocking of data when the *processing* does not comply with the directive (see the directive, [article 12(b) on “Right to access”][10]). 
 
