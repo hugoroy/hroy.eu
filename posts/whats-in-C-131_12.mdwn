@@ -61,7 +61,9 @@ So I’ve tried to make an alternate version that’s easier to read: you can re
 
     The question was whether the “data subject” (i.e. the person to whom the [[!toggle id="persdatadef" text="personal data"]] at stake relates to) can ask the search engine to alter search results of their name in order to remove true and lawfully published information.
 
-    [[!toggleable id="persdatadef" text=" (a) 'personal data' shall mean any information relating to an identified or identifiable natural person ('data subject'); an identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his physical, physiological, mental, economic, cultural or social identity;"]]
+    [[!toggleable id="persdatadef" text=""" 
+    (a) 'personal data' shall mean any information relating to an identified or identifiable natural person ('data subject'); an identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his physical, physiological, mental, economic, cultural or social identity;
+    """]]
 
   - The Court [starts][92] by repeating that the data subject has the right to obtain rectification, erasure or blocking of data when the *processing* does not comply with the directive (see the directive, [article 12(b) on “Right to access”][10]). 
 
