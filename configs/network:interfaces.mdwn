@@ -1,0 +1,1 @@
+[[!map pages="configs/network:interfaces/* and ! configs/network:interfaces/*/*"]]
