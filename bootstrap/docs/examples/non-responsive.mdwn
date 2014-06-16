@@ -1,0 +1,1 @@
+[[!map pages="bootstrap/docs/examples/non-responsive/* and ! bootstrap/docs/examples/non-responsive/*/*"]]
