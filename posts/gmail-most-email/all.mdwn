@@ -1,1 +1,0 @@
-[[!map pages="posts/gmail-most-email/all/* and ! posts/gmail-most-email/all/*/*"]]
