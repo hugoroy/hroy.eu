@@ -1,0 +1,1 @@
+[[!map pages="configs/xps/* and ! configs/xps/*/*"]]
