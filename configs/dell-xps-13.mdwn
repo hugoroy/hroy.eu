@@ -1,0 +1,1 @@
+[[!map pages="configs/dell-xps-13/* and ! configs/dell-xps-13/*/*"]]
