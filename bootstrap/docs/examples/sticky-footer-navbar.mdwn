@@ -1,0 +1,1 @@
+[[!map pages="bootstrap/docs/examples/sticky-footer-navbar/* and ! bootstrap/docs/examples/sticky-footer-navbar/*/*"]]
