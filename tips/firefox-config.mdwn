@@ -18,7 +18,7 @@ Here’s a list of options I modified in my firefox’s [about:config](about:con
       - security.ssl3.ecdh_rsa_rc4_128_sha
       - security.ssl3.ecdhe_ecdsa_rc4_128_sha
       - security.ssl3.ecdhe_rsa_rc4_128_sha
-      - security.ssl3.rsa_rc4_128_md5
+      - security.ssl3.rsa_rc4_128_md5 [this one seems required for Youtube's https to work]
       - security.ssl3.rsa_rc4_128_sha
 
     You can now [check if your browser uses secure SSL/TLS cipher](https://www.howsmyssl.com/).
