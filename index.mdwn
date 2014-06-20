@@ -1,8 +1,8 @@
-[[!if test="enabled(sidebar)" then="""
+<!--[[!if test="enabled(sidebar)" then="""
 [[!sidebar]]
 """ else="""
 [[!inline pages=sidebar raw=yes]]
-"""]]
+"""]]-->
 
 [[!meta foaf="http://hugoroy.eu/foaf.rdf"]]
 [[!meta author="Hugo Roy"]]
@@ -40,6 +40,8 @@ training at the Paris Bar school. And a Zappaist.</span></p>
 [[!inline pages="page(./posts/*) and !*/Discussion" show="10" actions=no]]
 
 If you’ve read until here, you should head to the full list of [[posts]].
+
+[[!inline pages=sidebar raw=yes]]
 
 <ul class="hide" id="relmes">
     <li><i class="fa fa-fw fa-twitter" title="Twitter"></i> 
