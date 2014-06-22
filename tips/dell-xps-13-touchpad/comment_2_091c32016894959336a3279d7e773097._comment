@@ -1,0 +1,15 @@
+[[!comment format=mdwn
+ username="hugo"
+ ip="82.66.209.187"
+ subject="comment 2"
+ date="2014-06-22T18:36:25Z"
+ content="""
+Hi Trevor. I don’t know what’s causing this: does it happen with the dell-xps-13 kernel patch alone, or is it caused by touchegg?
+
+I have updated my touchegg config, so it’s now changed in the [gist] as well. Also, `xf86-input-synaptics` has been updated since I wrote this, and for me it’s not working as smoothly as it should (I’ve opened an [issue] on github).
+
+[issue]: https://github.com/gunzy83/linux-xps13-archlinux/issues/2
+[gist]: https://gist.github.com/hugoroy/10009770#file-touchegg-conf-xml
+
+I guess the best place to start investigating is https://wiki.gnome.org/Projects/GnomeShell/Debugging
+"""]]
