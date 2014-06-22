@@ -1,0 +1,9 @@
+[[!comment format=mdwn
+ ip="65.30.12.150"
+ claimedauthor="Trevor"
+ subject="comment 1"
+ date="2014-06-22T08:03:44Z"
+ content="""
+Hey Hugo,
+I tied this on gnome 3.12. I got it to work, but whenever I touch the top of a window (the part that's blank on the same level as the x) the window and gnome shell crash. Any idea what could be wrong?
+"""]]
