@@ -1,4 +1,10 @@
 
+[[!meta title="Awesome tools"]]
+[[!meta copyright="Some of these logos may be trademarked. No affiliation or endorsement whatsoever."]]
+[[!meta license="[CC0-1.0](http://creativecommons.org/publicdomain/zero/1.0/)"]]
+[[!meta language="en"]]
+[[!tag lang:en web Free_Software]]
+
 Here some little known, yet awesome tools that I use. Thanks to the people working on these (I’m glad to have met most of them, and they’re awesome too)!
 
 #### [[!img feedbin.png size="x28"]] [Feedbin]
@@ -24,7 +30,6 @@ Here some little known, yet awesome tools that I use. Thanks to the people worki
 #### [[!img sharesome.png size="x28"]] [Sharesome]
 
 [Sharesome] lets you easily share files on the web. It has a pleasant interface that works well on all devices I have tested so far. It’s also available as a [web app][shapp].
-
 The neat feature is that you can choose where to host your data (for instance, with [remotestorage](http://remotestorage.io/); you can get an account at <https://5apps.com>).
 
 #### [[!img tosdr.png size="x28"]] [Terms of Service; Didn’t Read][tosdr]
