@@ -5,7 +5,7 @@
 [[!meta language="en"]]
 [[!tag lang:en web Free_Software]]
 
-Here some little known, yet awesome tools that I use. Thanks to the people working on these (I’m glad to have met most of them, and they’re awesome too)!
+Here some little known, yet awesome tools that I use. Thanks to the people working on these (I’m glad to have met some of them, and they’re awesome too)!
 
 <aside class="toc">
 [[!toc startlevel=4 levels=1 ]]
