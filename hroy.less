@@ -477,12 +477,8 @@ article.inlinepage {
     }
 
     .subscribers:before {
+        #webmentions .title;
         content: "Comments";
-        display: inline-block;
-        margin: 0 1em 0 0;
-        font-size: 1.2em;
-        color: rgb(154, 154, 154);
-        font-family: "Cantarell", sans-serif;
     }
 
     article[id] {
@@ -519,12 +515,11 @@ article.inlinepage {
     .hroy-layout;
     margin-top: 3em;
 
-    &:before {
+    .title {
         display: inline-block;
         margin: 0 1em 0 0;
         font-size: 1.2em;
         color: rgb(154, 154, 154);
-        font-family: "Cantarell", sans-serif;
         content: "Webmentions";
         font-weight: 600;
     }
