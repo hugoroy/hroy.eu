@@ -477,7 +477,11 @@ article.inlinepage {
     }
 
     .subscribers:before {
-        #webmentions .title;
+        display: inline-block;
+        margin: 0 1em 0 0;
+        font-size: 1.2em;
+        color: rgb(154, 154, 154);
+        font-weight: 600;
         content: "Comments";
     }
 
@@ -515,18 +519,19 @@ article.inlinepage {
     .hroy-layout;
     margin-top: 3em;
 
-    .title {
-        display: inline-block;
-        margin: 0 1em 0 0;
-        font-size: 1.2em;
-        color: rgb(154, 154, 154);
-        content: "Webmentions";
-        font-weight: 600;
-    }
     .webmention-container {
         .hroy-align;
         .hroy-max-px;
         margin-top: 1em;
+
+        &:before {
+            display: inline-block;
+            margin: 0 1em 0 0;
+            font-size: 1.2em;
+            color: rgb(154, 154, 154);
+            font-weight: 600;
+            content: "Webmentions";
+        }
     }
     .webmention-author {
         img {

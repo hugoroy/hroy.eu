@@ -199,7 +199,6 @@
                 </TMPL_IF>
 
                 <section id="webmentions">
-                    <span class="title">Webmentions</span>
                     <script id="webmention-hosted">
                       (function () {
                         var sn = document.createElement("script"), s = document.getElementsByTagName("script")[0], url;
@@ -210,6 +209,9 @@
                         s.parentNode.insertBefore(sn, s);
                       }());
                     </script>
+                    <p>
+                        <a href="http://indiewebcamp.com/webmention">webmentions</a> powered by <a href="https://webmention.herokuapp.com/">webmention.herokuapp.com</a>.
+                    </p>
                 </section>
             </TMPL_UNLESS>
 
