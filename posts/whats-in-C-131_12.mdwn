@@ -95,7 +95,9 @@ So I’ve tried to make an alternate version that’s easier to read: you can re
 
       - the data processing’s can also be found not-compliant when the data controller legitimate interests **or** the rights of the public are overridden by the data subject’s interests [or] fundamental rights and freedoms (see [article 7 in “Criteria for making data processing legitimate”][8]).
 
-        The rights to privacy of the data subject override “as a rule, not only the economic interest of the operator of the search engine **but also the interest of the general public in finding that information** upon a search relating to the data subject’s name.” (¶ [97]) What seemed an exception under the directive under article 7 now's a general rule under the circumstances of the case.
+        The rights to privacy of the data subject override “as a rule, not only the economic interest of the operator of the search engine **but also the interest of the general public in finding that information** upon a search relating to the data subject’s name.” (¶ [97]) What seemed an exception under the directive under article 7 now is a general rule under the circumstances of the case. So the right of the public in accessing public information now is an exception:
+
+        > However, that would not be the case if it appeared, for particular reasons, such as the role played by the data subject in public life, that the interference with his fundamental rights is justified by the preponderant interest of the general public in having, on account of inclusion in the list of results, access to the information in question.
 
            The [[!toggle id="justif" text="justification for this"]] can be found in paragraphs [80] and [81].
 
@@ -104,10 +106,6 @@ So I’ve tried to make an alternate version that’s easier to read: you can re
         > 
         > [81].      In the light of the potential seriousness of that interference, it is clear that it cannot be justified by merely the economic interest which the operator of such an engine has in that processing. However, inasmuch as the removal of links from the list of results could, depending on the information at issue, have effects upon the legitimate interest of internet users potentially interested in having access to that information, in situations such as that at issue in the main proceedings a fair balance should be sought in particular between that interest and the data subject’s fundamental rights under Articles 7 and 8 of the Charter. Whilst it is true that the data subject’s rights protected by those articles also override, as a general rule, that interest of internet users, that balance may however depend, in specific cases, on the nature of the information in question and its sensitivity for the data subject’s private life and on the interest of the public in having that information, an interest which may vary, in particular, according to the role played by the data subject in public life.
         """]]
-
-        Fortunately, the Court provides a way out in case the data subject’s right should not override the right of the public to access that information:
-
-        > However, that would not be the case if it appeared, for particular reasons, such as the role played by the data subject in public life, that the interference with his fundamental rights is justified by the preponderant interest of the general public in having, on account of inclusion in the list of results, access to the information in question.
 
 -------
 
