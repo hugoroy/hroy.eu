@@ -89,13 +89,13 @@ So I’ve tried to make an alternate version that’s easier to read: you can re
 
 
 
-  - It seems that most analyses of the decision have focused on the parts I have just highlighted. However, I think requests made under article 14 are even broader. Also, it’s important to note that the Court gives a very, very strong preference to data subjects’ rights *even when there’s no prejudice*:
+  - It seems that most analyses of the decision have focused on the parts I have just highlighted. However, I think the analysis made under article 14 is more worrisome. Indeed, it’s important to note that the Court gives a very, very strong preference to data subjects’ rights *even when there’s no prejudice*:
 
       - data subjects can object at any time to their personal data being processed because of their particular situation (see [article 14 on “Right to object”][11]). The Court of Justice finds here that it is not necessary for the data subject to demonstrate that the [data processing causes prejudice](https://hroy.eu/law/eucj/C-131_12/##list+of+results+causes+prejudice).
 
-      - the data processing’s can also be found not-compliant when the data controller legitimate interests are overridden by the data subject’s interests [or] fundamental rights and freedoms (see [article 7 in “Criteria for making data processing legitimate”][8]).
+      - the data processing’s can also be found not-compliant when the data controller legitimate interests **or** the rights of the public are overridden by the data subject’s interests [or] fundamental rights and freedoms (see [article 7 in “Criteria for making data processing legitimate”][8]).
 
-        The rights to privacy of the data subject override “as a rule, not only the economic interest of the operator of the search engine but also the interest of the general public in finding that information upon a search relating to the data subject’s name.” (¶ [97])
+        The rights to privacy of the data subject override “as a rule, not only the economic interest of the operator of the search engine **but also the interest of the general public in finding that information** upon a search relating to the data subject’s name.” (¶ [97]) What seemed an exception under the directive under article 7 now's a general rule under the circumstances of the case.
 
            The [[!toggle id="justif" text="justification for this"]] can be found in paragraphs [80] and [81].
 
@@ -127,7 +127,7 @@ This is why the Court concludes that:
 
 ----------
 
-In the end, the Court of Justices gives a lot more strength to the data subjects’ rights to oppose the processing of personal data when it appers “no longer relevant” in light of the purposes (of the search engine) and in light of the time --- except for narrow exceptions (scientific, historical or statistical data processing; journalistic or artistic purposes and freedom of expression). In addition, the Court makes it a general rule that data subjects’ rights to oppose data processing should override data controllers purposes on the grounds of the right to private life, unless it can be demonstrated that there are particular reasons otherwise (justified by the preponderant interest of the general public).
+In the end, the Court of Justices gives a lot more strength to the data subjects’ rights to oppose the processing of personal data when it appers “no longer relevant” in light of the purposes (of the search engine) and in light of the time --- except for narrow exceptions (scientific, historical or statistical data processing; journalistic or artistic purposes and freedom of expression). In addition, the Court makes it a general rule that data subjects’ rights to oppose data processing should override the right of the public to access public information on the grounds of the right to private life (but without the need to demonstrate prejudice), unless it can be demonstrated that there are particular reasons otherwise (justified by the preponderant interest of the general public).
 
 This will undeniably have practical implications for search engines and other data controllers, not just Gooogle. It might be opportunistic to see if there should be [a new role to play here for data protection authorities](http://www.husovec.eu/2014/05/should-we-centralize-right-to-be.html) in order to avoid that private actors decide for the public what constitutes something of preponderant general public interest or not.
 
