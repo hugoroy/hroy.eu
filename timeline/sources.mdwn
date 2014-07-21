@@ -7,6 +7,9 @@
 - [[!aggregate name="User Hacks and Tips" dir="timeline"
   feedurl="http://hroy.eu/tips/index.atom"
   url="https://hroy.eu/tips"]]
+- [[!aggregate name="Talks" dir="timeline"
+  feedurl="http://hroy.eu/talks/index.atom"
+  url="https://hroy.eu/talks"]]
 - [[!aggregate
   name="Within FSFE" dir="timeline"
   feedurl="http://blogs.fsfe.org/hugo/feed/"
@@ -23,10 +26,10 @@
 - [[!aggregate name="Youtube Videos" dir="timeline"
   feedurl="http://gdata.youtube.com/feeds/base/users/HugoJRoy/uploads?alt=rss&v=2&orderby=published&client=ytapi-youtube-profile"
   url="https://www.youtube.com/user/HugoJRoy"]]
-- [[!aggregate name="Videos" dir="timeline"
+- [[!aggregate name="Vimeo videos" dir="timeline"
   feedurl="http://vimeo.com/user5876987/videos/rss"
   url="https://vimeo.com/user5876987/videos"]]
-- [[!aggregate name="Vimeo videos" dir="timeline"
+- [[!aggregate name="Videos" dir="timeline"
   feedurl="http://ampoliros.net/content/videos/hugoroyd?_t=rss" 
   url="https://ampoliros.net/content/videos/hugoroyd"]]
 - [[!aggregate name="Checkins" dir="timeline"
