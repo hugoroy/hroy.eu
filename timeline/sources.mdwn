@@ -26,6 +26,8 @@
 - [[!aggregate name="Videos" dir="timeline"
   feedurl="http://vimeo.com/user5876987/videos/rss"
   url="https://vimeo.com/user5876987/videos"]]
+<!--
 - [[!aggregate name="Videos" dir="timeline"
   feedurl="http://ampoliros.net/content/videos/hugoroyd?_t=rss" 
   url="https://ampoliros.net/content/videos/hugoroyd"]]
+  -->
