@@ -15,11 +15,9 @@ exceeded spending on research and development.
 
 As one of my activities with [OIN] in the [Linux Defenders] program, I am helping Free Software (aka Open Source) projects submit “defensive publications.”
 
-Defensive publications are sort of anti-patents: while patents are claimed to exclude others from being able to implement something, defensive publications prevent anyone to exclude others from being able to implement something. They're called defensive because they can be used against further patent applications or they can be used a posteriori to defend oneself against patent infringement claims. Indeed, if your software is already accessible by the public before a patent on it is submitted, there’s no way you or anyone would be infringing on a patent on that software.[^null]
+Defensive publications are sort of anti-patents: while patents are claimed to exclude others from being able to implement something, defensive publications prevent anyone to exclude others from being able to implement something. They're called defensive because they can be used against further patent applications or they can be used a posteriori to defend oneself against patent infringement claims. Indeed, if your software is already accessible by the public before a patent on it is submitted, there’s no way you or anyone would be infringing on a patent on that software. Actually in that situation the patent should be invalidated by the court even if the patent application was granted by the patent office. [[!toggle  id="sourcepub" text="Then you might ask: why do I need them if I have already published my source code? -- Unfortunately, it’s not effective."]]
 
-[[!toggle  id="sourcepub" text="Then you might ask: why do I need them if I have already published my source code? -- Unfortunately, it’s not effective."]]
-
-[[!toggleable id="sourcepub" text"""
+[[!toggleable id="sourcepub" text="""
 In theory, it is true that you are immune from subsequent patents as soon as you’ve made your software source code publicly accessible online, for instance using a public version control system like Github.
 
 In practice, it’s not really effective. Here’s why: 
@@ -53,7 +51,6 @@ This patent was filed at the European Patent Office in 1998.
 
 [^intern]: Since I passed the bar exam in December last year, I now have to fulfil two 6-month internships.
 
-[^null]: Actually in that situation the patent should be invalidated by the court even if the patent application was granted by the patent office.
 
 
 Basically, [defensive publications][defpubs] consist in documenting one aspect of software projects that’s focused on solving a challenge and does it in a new, innovative way. The document would give some context about the state of the art and then describe in more details how the system works, usually by using meaningful diagrams, flowcharts and other figures.
