@@ -53,7 +53,9 @@ Il y a d’un côté les licences libres, qui sont généralement des licences p
 
 # L’application en France
 
-Enfin la GPL comme son nom l’indique est une *licence* et non un contrat de cessions de droits d’auteur. Les obligations de formalités du droit français qui s’attachent aux contrats de cessions de droit sont donc inopérantes pour la GPL. D’ailleurs la version 3 de la GNU GPL a été écrit lors d’un processus large et comprenant des avocats de plusieurs juridictions (notamment l’Allemagne) spécialement pour pallier à l’éventualité de distorsions.
+Enfin la GPL comme son nom l’indique est une *licence* et non un contrat de cessions de droits d’auteur. Les obligations de formalités du droit français qui s’attachent aux contrats de cessions de droit sont donc inopérantes pour la GPL. D’ailleurs la version 3 de la GNU GPL a été écrite lors d’un [processus large et documenté][gpl3process], qui comprenait des avocats de plusieurs juridictions (notamment l’Allemagne) spécialement pour pallier à l’éventualité de distorsions.
+
+[gpl3process]: https://fsfe.org/campaigns/gplv3/gplv3.html
 
 Pour s’en convaincre, il suffit de constater que la licence GPL-2.0 a bien été appliquée en Allemagne à plusieurs reprises (par exemple contre Skype). Bien qu’en France la licence n’ait pas vraiment fait l’objet d’un examen poussé par un juge (ce qui est en soi une bonne nouvelle en fait), son invocation ici et là n’a pas entraîné la déclaration de son incompatibilité.
 
