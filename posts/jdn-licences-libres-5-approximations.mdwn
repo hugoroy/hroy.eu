@@ -35,8 +35,10 @@ Ainsi, en droit d’auteur, on ne peut pas distribuer une copie d’une œuvre (
 Plus spécifiquement, cette condition :
 
   - concerne uniquement les développements du logiciel qui sont eux mêmes basés sur le logiciel publié sous licence copyleft; et non les logiciels qui fonctionnent indépendamment
-  - il ne s’agit pas d’une [condition de publication](https://twitter.com/hugoroyd/status/492675611597737985) des modifications, en effet il est tout à fait possible de respecter la licence simplement en distribuant avec les binaires distribué aux tiers, l’intégralité des sources correspondantes^[Dans la GPL-3.0 voir le paragraphe  « 6. Conveying Non-Source Forms »]
+  - il ne s’agit pas d’une [condition de publication](https://twitter.com/hugoroyd/status/492675611597737985) des modifications, en effet il est tout à fait possible de respecter la licence simplement en distribuant avec les binaires distribué aux tiers, l’intégralité des sources correspondantes[^gpl6]
       - si ce n’est pas le cas, il y a alors obligation d’offrir aux tiers à qui on a distribué une copie la possibilité de demander les sources.
+
+[^gpl6]: Dans la GPL-3.0 voir le paragraphe  « 6. Conveying Non-Source Forms »
 
 Par conséquent, il a bien été montré que c’est la distribution du logiciel qui déclenche les obligations. Ainsi, on peut tout à fait prendre un logiciel libre sous licence copyleft, y apporter pléthores de modifications, et gardes ces modifications privées voire secrètes si bon vous semble. Ça fait partie des libertés intégrantes du logiciel libre : on peut les utiliser pour tout usage, l’utilisation n’est absolument pas restreinte ; et on peut les modifier de façon à ce qu’ils fonctionnent comme on l’entend.
 
