@@ -20,7 +20,7 @@ Pour mieux comprendre les raisons historiques de l’existence de ces deux terme
 
 On qualifie de *licence copyleft* une licence libre qui contient des obligations supplémentaires de manière à sauvegarder les libertés des utilisateurs. Autrement dit, une clause copyleft interdit d’interdire.
 
-L’article utilise le terme « contaminant » pour qualifier ce type de clause. Ce vocabulaire nous vient directement de la propagande de Microsoft de la fin des années 1990, qui se référait au logiciel libre comme un « cancer ». Il est temps de s’écarter du vocabulaire de la pathologie ! Le logiciel libre n’est pas un mal incurable, c’est un vecteur de libertés. (Si vous cherchez absolument à remplacer le mot *copyleft* par un mot du langage courant, [clause d’hérédité ou héréditaire][héréditaire] fonctionne plutôt bien).
+L’article utilise le terme « contaminant » pour qualifier ce type de clause. Ce vocabulaire nous vient directement de la propagande de Microsoft de la fin des années 1990, qui se référait au logiciel libre comme un « cancer ». Il est temps de s’écarter du vocabulaire de la pathologie ! Le logiciel libre n’est pas un mal incurable, **c’est un vecteur de libertés.** (Si vous cherchez absolument à remplacer le mot *copyleft* par un mot du langage courant, [clause d’hérédité ou héréditaire][héréditaire] fonctionne plutôt bien).
 
 [héréditaire]: http://blog.hugoroy.eu/2012/01/27/quelques-notes-sur-la-seconde-licence-publique-mozilla-mpl-2-0/#fn-hereditaire
 
@@ -30,7 +30,7 @@ Ainsi, le qualificatif de « contaminant » est on ne peut plus approximatif. 
 
 Les licences libres étant principalement des licences de droits d’auteur (ou copyright selon la juridiction), l’acte qui déclenche les obligations relative à la clause copyleft coïncide avec l’acte auquel le droit d’auteur attache des obligations.
 
-Ainsi, en droit d’auteur, on ne peut pas distribuer une copie d’une œuvre (ici, un logiciel) sans la permission de son ou ses auteurs. La distribution, c’est la transmission d’une copie d’une personne, physique ou morale, à une autre personne. C’est cet acte là, tout à fait volontaire, qui déclenche les obligations relatives au droit d’auteur, qui requiert l’autorisation. Cette autorisation est déjà donnée par une licence libre, la clause copyleft en est cependant une condition.
+Ainsi, en droit d’auteur, on ne peut pas distribuer une copie d’une œuvre (ici, un logiciel) sans la permission de son ou ses auteurs. La distribution, c’est la transmission d’une copie d’une personne, physique ou morale, à une autre personne. C’est cet acte là, tout à fait volontaire, qui déclenche les obligations relatives au droit d’auteur, qui requiert l’autorisation. Cette autorisation est déjà donnée par une licence libre, la clause copyleft en est cependant une condition. (On voit bien ici à quel point l’analogie avec la contamination épidémique est mauvaise.)
 
 Plus spécifiquement, cette condition :
 
@@ -46,7 +46,7 @@ Par conséquent, il a bien été montré que c’est la distribution du logiciel
 
 Contrairement à ce qui est suggéré dans l’article, qui oppose d’un côté des licences libres et d’un autre côté des licences commerciales ; il n’y a en réalité pas de raison de procéder à une distinction.
 
-Comme il vient d’être souligné, un logiciel libre est forcément utilisable sans restriction. Une clause qui limite l’utilisation du logiciel à une activité non-commerciale est donc fondamentalement incompatible avec une licence de logiciel libre.
+Comme il vient d’être souligné, un logiciel libre est forcément utilisable sans restriction. **Une clause qui limite l’utilisation du logiciel à une activité non-commerciale est donc fondamentalement incompatible avec une licence de logiciel libre.**
 
 
 Il y a d’un côté les licences libres, qui sont généralement des licences publiques -- c’est-à-dire que chacun peut les utiliser pour ses propres logiciels à destination du public ; et de l’autre côté, les licences propriétaires qui sont généralement des licences spécifiques ou spéciales, qui sont utilisées seulement par quelques entreprises et pas forcément à destination du public mais au contraire parfois pour des logiciels écrits spécialement avec des modifications propres au client (ce qu’il est tout à fait possible de faire avec une licence libre par ailleurs, le client jouira ainsi également des libertés conférées par les licences).
@@ -60,6 +60,8 @@ Pour s’en convaincre, il suffit de constater que la licence GPL-2.0 a bien ét
 (Seule la [loi Toubon] pourrait causer quelques problèmes, mais rien de très grave en réalité ; ça se résout très bien en utilisant des doubles licences et ça ne vaut pas dans tous les cas. Les administrations publiques peuvent très bien faire développer et utiliser des logiciels libres et elles le font déjà !)
 
 [loi Toubon]: http://www.langue-francaise.org/Loi_toubon.php
+
+------
 
 Quoiqu’il en soit, l’objectif de l’article est louable et le petit tableau [récapitulatif partagé sur Twitter](https://twitter.com/JDNSolutions/status/492561458807705600) est assez utile.
 
