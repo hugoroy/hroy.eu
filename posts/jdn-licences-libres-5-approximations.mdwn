@@ -30,7 +30,7 @@ Ainsi, le qualificatif de « contaminant » est on ne peut plus approximatif. 
 
 Les licences libres étant principalement des licences de droits d’auteur (ou copyright selon la juridiction), l’acte qui déclenche les obligations relative à la clause copyleft coïncide avec l’acte auquel le droit d’auteur attache des obligations.
 
-Ainsi, en droit d’auteur, on ne peut pas distribuer une copie d’une œuvre (ici, un logiciel) sans la permission de son ou ses auteurs. La distribution, c’est la transmission d’une copie d’une personne, physique ou morale, à une autre personne. C’est cet acte là, tout à fait volontaire, qui déclenche les obligations relatives au droit d’auteur, qui requiert l’autorisation. Cette autorisation est déjà donnée par une licence libre, la clause copyleft en est cependant une condition de cette autorisation.
+Ainsi, en droit d’auteur, on ne peut pas distribuer une copie d’une œuvre (ici, un logiciel) sans la permission de son ou ses auteurs. La distribution, c’est la transmission d’une copie d’une personne, physique ou morale, à une autre personne. C’est cet acte là, tout à fait volontaire, qui déclenche les obligations relatives au droit d’auteur, qui requiert l’autorisation. Cette autorisation est déjà donnée par une licence libre, la clause copyleft en est cependant une condition.
 
 Plus spécifiquement, cette condition :
 
