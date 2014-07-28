@@ -15,9 +15,12 @@ exceeded spending on research and development.
 
 As one of my activities with [OIN] in the [Linux Defenders] program, I am helping Free Software (aka Open Source) projects submit “defensive publications.”
 
-Defensive publications are sort of anti-patents: while patents are claimed to exclude others from being able to implement something, defensive publications prevent anyone to exclude others from being able to implement something. They're called defensive because they can be used against further patent applications or they can be used a posteriori to defend oneself against patent infringement claims. Indeed, if your software is already accessible by the public before a patent on it is submitted, there’s no way you or anyone would be infringing on a patent on that software. 
+Defensive publications are sort of anti-patents: 
+ 
+  - while patents are claimed to *exclude others* from being able to implement something,
+  - defensive publications *prevent anyone to exclude others* from being able to implement something. 
 
-Actually in that situation the patent should be invalidated by the court even if the patent application was granted by the patent office. [[!toggle  id="sourcepub" text="Then you might ask: why do I need them if I have already published my source code? -- Unfortunately, it’s not effective."]]
+They're called defensive because they can be used against further patent applications or they can be used a posteriori to defend oneself against patent infringement claims. Indeed, if the software is already accessible by the public before a patent on it is submitted, there’s no way you or anyone would be infringing on a patent on that software.  Actually in that situation the patent should be invalidated. [[!toggle  id="sourcepub" text="Then you might ask: why do I need to write defensive publications if I have already published my source code? -- Unfortunately, that’s because just releasing source code is not effective to protect yourself against patents."]]
 
 [[!toggleable id="sourcepub" text="""
 In theory, it is true that you are immune from infringement of subsequent patents as soon as you’ve made your software source code publicly accessible online, for instance using a public version control system like Github.
@@ -26,7 +29,7 @@ In practice, it’s not really effective. Here’s why:
 
  1. the life of patents begin at the patent office where patent applications are submitted, then reviewed by patent office staff:
 
-    > Patent examiners have a strong sense of the technology that is patented, but they’re missing an understanding of what has been and is currently being developed in the open source world. As shocking as it may seem, the result is the examiner formulating an inaccurate sense of what is innovative. As the final arbiter of a very significant monopoly grant, they are often grossly uninformed in terms of what lies beyond their narrowly scoped search. This is not wholly their fault as they have limited resources and time. However, it is a strong indication of a faulty system that is so entrenched in the archaic methods under which patent offices have been operating.
+    > Patent examiners have a strong sense of the technology that is patented, but **they’re missing an understanding of what has been and is currently being developed in the open source world**. As shocking as it may seem, the result is the examiner formulating an inaccurate sense of what is innovative. As the final arbiter of a very significant monopoly grant, they are often grossly uninformed in terms of what lies beyond their narrowly scoped search. This is not wholly their fault as they have limited resources and time. However, it is a strong indication of a faulty system that is so entrenched in the archaic methods under which patent offices have been operating.
 
     As [Andrea pointed out][andreablog], patent office staff will usually not go to software repositories and read source code in order to find prior art. That’s why making it easy for them to read about what you’ve done in software is necessary. That’s what defensive publications are supposed to do.
 
