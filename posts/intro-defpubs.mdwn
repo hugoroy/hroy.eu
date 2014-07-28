@@ -38,6 +38,7 @@ In practice, it’s not really effective. Here’s why:
     2. an authoritative court decision has striked out the patent as invalid (and there’s no appeal pending)
     3. the patent office reverts their decision to grant the patent
 
+
     The problem is that in each of these cases, the process can be quite long. Litigations can go on for several years, especially since a patent holder will probably try to appeal a decision that invalidate its patent.
 
     As for the patent office procedures, they can take a decade. For instance, it took more than 15 years to strike down a single very broad Amazon patent application[^EP0927945].
@@ -57,8 +58,10 @@ This patent was filed at the European Patent Office in 1998.
 
 Basically, [defensive publications][defpubs] consist in documenting one aspect of software projects that’s focused on solving a challenge and does it in a new, innovative way. The document would give some context about the state of the art and then describe in more details how the system works, usually by using meaningful diagrams, flowcharts and other figures.
 
+<a href="https://www.flickr.com/photos/opensourceway/6554315093/">Not like this one:</a>
+
 <!--![Created by Libby Levi for opensource.com](https://farm8.staticflickr.com/7155/6554315093_d4a9119a17_o.png)-->
-[[!img typical-patent-software-fig.png id="typical-patent-software-fig" alt="Parody of a software patent figure" link="" caption="<a href="https://www.flickr.com/photos/opensourceway/6554315093/">Created by Libby Levi for opensource.com</a>" size="666x"]]
+[[!img typical-patent-software-fig.png id="typical-patent-software-fig" alt="Parody of a software patent figure" link="" caption="Created by Libby Levi for opensource.com" size="666x"]]
 
 And who’s going to read defensive publications? At [OIN], we maintain a website [to list defensive publications][defpubs]. Then, we submit them to databases used for prior-art examination by patent office examiners. So the target audience for these defensive publications is the patent office that reviews patent applications. A good defensive publication should use generic terms that are understood even by someone who’s not programming in the same language as the one used for the program.
 
