@@ -1,0 +1,4 @@
+[[!meta title="pages tagged defensive publications"]]
+
+[[!inline pages="tagged(defensive_publications)" actions="no" archive="yes"
+feedshow=10]]
