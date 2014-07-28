@@ -57,7 +57,7 @@ Enfin la GPL comme son nom l’indique est une *licence* et non un contrat de ce
 
 [gpl3process]: https://fsfe.org/campaigns/gplv3/gplv3.html
 
-Pour s’en convaincre, il suffit de constater que la licence GPL-2.0 a bien été appliquée en Allemagne à plusieurs reprises (par exemple contre Skype). Bien qu’en France la licence n’ait pas vraiment fait l’objet d’un examen poussé par un juge (ce qui est en soi une bonne nouvelle en fait), son invocation ici et là n’a pas entraîné la déclaration de son incompatibilité.
+Pour s’en convaincre, il suffit de constater que la licence GPL-2.0 a bien été appliquée en Allemagne à plusieurs reprises (par exemple contre Skype). Bien qu’en France la licence n’ait pas vraiment fait l’objet d’un examen poussé par un juge (le fait qu’il y ait peu de litiges est en soi une bonne nouvelle en fait), son invocation ici et là n’a pas entraîné la déclaration de son incompatibilité.
 
 (Seule la [loi Toubon] pourrait causer quelques problèmes, mais rien de très grave en réalité ; ça se résout très bien en utilisant des doubles licences et ça ne vaut pas dans tous les cas. Les administrations publiques peuvent très bien faire développer et utiliser des logiciels libres et elles le font déjà !)
 
