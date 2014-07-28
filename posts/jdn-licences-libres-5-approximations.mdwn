@@ -67,6 +67,6 @@ Pour bien s’y repérer, il y a heureusement plusieurs moyens :
 
   - Le livre de Benjamin Jean, [Option Libre. Du bon usage des licences libres.](http://framabook.org/option-libre-du-bon-usage-des-licences-libres/)
   - L’*International Free and Open Source Software Law Book* qui permet d’aborder les aspects juridiques de plusieurs juridictions, dont [la France](http://ifosslawbook.org/france/).
-  - L’*International Free and Open Source Software Law Review* ou [IFOSSLR](http://www.ifosslr.org/ifosslr) qui permet d’aller dans le détails avec plusieurs articles.
+  - L’*International Free and Open Source Software Law Review* ou [IFOSSLR](http://www.ifosslr.org/ifosslr) qui permet d’aller dans le détail avec plusieurs articles à chaque édition.
 
 Sinon, la communauté du logiciel libre est également là pour aider chacun à s’y repérer. L’[équipe juridique de la FSFE](https://fsfe.org/legal) répond régulièrement à ce genre de questions.
