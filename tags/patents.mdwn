@@ -1,0 +1,4 @@
+[[!meta title="pages tagged patents"]]
+
+[[!inline pages="tagged(patents)" actions="no" archive="yes"
+feedshow=10]]
