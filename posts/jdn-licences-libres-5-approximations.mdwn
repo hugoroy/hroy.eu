@@ -1,5 +1,5 @@
 
-[[!meta title="5 approximations à réctifier pour bien s’y repérer dans les licences libres"]] 
+[[!meta title="5 approximations à rectifier pour bien s’y repérer dans les licences libres"]] 
 [[!meta language="fr"]]
 [[!tag lang:fr Free_Software licenses]]
 
