@@ -45,6 +45,8 @@ In practice, it’s not really effective. Here’s why:
     The problem is that in each of these cases, the process can be quite long. Litigations can go on for several years, especially since a patent holder will probably try to appeal a decision that invalidate its patent.
 
     As for the patent office procedures, they can take a decade. For instance, it took more than 15 years to strike down a single very broad Amazon patent application[^EP0927945].
+
+    Meanwhile, the patent will constitute a potential threat that will effectively encumber the use and distribution of your software.
 """]]
 
 [^EP0927945]: It’s patent [EP0927945](https://register.epo.org/application?number=EP99105948)
