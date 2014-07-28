@@ -6,7 +6,7 @@
 
 Three weeks ago, I started working for *Open Invention Network* as an intern[^intern]. [Open Invention Network][OIN], or OIN in short, aims at creating a safe environment for Linux and Linux-based systems to thrive in spite of all the threats that patents constitute to software developers.
 
-<aside class="dyk-patents2009">
+<aside class="dyk-patents2009 sidenote right">
 **Did you know?** In 2009-2011 in the US, $20 billion was spent on patent
 litigation and patent purchases.  In 2011, for Apple and Google, this spending
 exceeded spending on research and development.
@@ -58,7 +58,7 @@ This patent was filed at the European Patent Office in 1998.
 Basically, [defensive publications][defpubs] consist in documenting one aspect of software projects that’s focused on solving a challenge and does it in a new, innovative way. The document would give some context about the state of the art and then describe in more details how the system works, usually by using meaningful diagrams, flowcharts and other figures.
 
 <!--![Created by Libby Levi for opensource.com](https://farm8.staticflickr.com/7155/6554315093_d4a9119a17_o.png)-->
-[[!img typical-patent-software-fig.png id="typical-patent-software-fig" alt="Parody of a software patent figure" link="https://www.flickr.com/photos/opensourceway/6554315093/" caption="Created by Libby Levi for opensource.com"]]
+[[!img typical-patent-software-fig.png id="typical-patent-software-fig" alt="Parody of a software patent figure" link="https://www.flickr.com/photos/opensourceway/6554315093/" caption="Created by Libby Levi for opensource.com" size="x666"]]
 
 And who’s going to read defensive publications? At [OIN], we maintain a website [to list defensive publications][defpubs]. Then, we submit them to databases used for prior-art examination by patent office examiners. So the target audience for these defensive publications is the patent office that reviews patent applications. A good defensive publication should use generic terms that are understood even by someone who’s not programming in the same language as the one used for the program.
 
