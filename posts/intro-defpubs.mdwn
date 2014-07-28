@@ -1,5 +1,5 @@
 
-[[!meta title="Intro to Open Invention Networks’s defensive publications"]] 
+[[!meta title="Intro to Open Invention Network’s defensive publications"]] 
 [[!meta description="What I’ve been working on the last three weeks, my internship at Open Invention Network starts"]]
 [[!meta language="en"]]
 [[!tag lang:en Open_Invention_Network defensive_publications patents]]
@@ -10,16 +10,16 @@ Three weeks ago, I started working for *Open Invention Network* as an intern[^in
 **Did you know?** In 2009-2011 in the US, $20 billion was spent on patent
 litigation and patent purchases.  In 2011, for Apple and Google, this spending
 exceeded spending on research and development.
-[source](http://www.nytimes.com/2012/10/08/technology/patent-wars-among-tech-giants-can-stifle-competition.html?_r=2&pagewanted=all "In the smartphone industry alone, according to a Stanford University analysis, as much as $20 billion was spent on patent litigation and patent purchases in the last two years — an amount equal to eight Mars rover missions. Last year, for the first time, spending by Apple and Google on patent lawsuits and unusually big-dollar patent purchases exceeded spending on research and development of new products, according to public filings.")
+[(source)](http://www.nytimes.com/2012/10/08/technology/patent-wars-among-tech-giants-can-stifle-competition.html?_r=2&pagewanted=all "In the smartphone industry alone, according to a Stanford University analysis, as much as $20 billion was spent on patent litigation and patent purchases in the last two years — an amount equal to eight Mars rover missions. Last year, for the first time, spending by Apple and Google on patent lawsuits and unusually big-dollar patent purchases exceeded spending on research and development of new products, according to public filings.")
 </aside>
 
 As one of my activities with [OIN] in the [Linux Defenders] program, I am helping Free Software (aka Open Source) projects submit “defensive publications.”
 
 Defensive publications are sort of anti-patents: while patents are claimed to exclude others from being able to implement something, defensive publications prevent anyone to exclude others from being able to implement something. They're called defensive because they can be used against further patent applications or they can be used a posteriori to defend oneself against patent infringement claims. Indeed, if your software is already accessible by the public before a patent on it is submitted, there’s no way you or anyone would be infringing on a patent on that software.[^null]
 
-[[!toggle text="Then you might ask: why do I need them if I have already published my source code? Unfortunately, it’s not effective." id="source-evidence"]]
+[[!toggle  id="sourcepub" text="Then you might ask: why do I need them if I have already published my source code? -- Unfortunately, it’s not effective."]]
 
-[[!toggleable id="source-evidence" text"""
+[[!toggleable id="sourcepub" text"""
 In theory, it is true that you are immune from subsequent patents as soon as you’ve made your software source code publicly accessible online, for instance using a public version control system like Github.
 
 In practice, it’s not really effective. Here’s why: 
@@ -41,24 +41,25 @@ In practice, it’s not really effective. Here’s why:
     The problem is that in each of these cases, the process can be quite long. Litigations can go on for several years, especially since a patent holder will probably try to appeal a decision that invalidate its patent.
 
     As for the patent office procedures, they can take a decade. For instance, it took more than 15 years to strike down a single very broad Amazon patent application[^EP0927945].
+"""]]
 
 [^EP0927945]: It’s patent [EP0927945](https://register.epo.org/application?number=EP99105948)
 The patent’s abstract begins like this: “A method and system for placing an order to purchase an item via the Internet.”
 This patent was filed at the European Patent Office in 1998.
-"""]]
 
 [OIN]: https://www.openinventionnetwork.com/
 [Linux Defenders]: http://www.linuxdefenders.org/
 [defpubs]: http://www.defensivepublications.org/
 
 [^intern]: Since I passed the bar exam in December last year, I now have to fulfil two 6-month internships.
+
 [^null]: Actually in that situation the patent should be invalidated by the court even if the patent application was granted by the patent office.
 
 
 Basically, [defensive publications][defpubs] consist in documenting one aspect of software projects that’s focused on solving a challenge and does it in a new, innovative way. The document would give some context about the state of the art and then describe in more details how the system works, usually by using meaningful diagrams, flowcharts and other figures.
 
 <!--![Created by Libby Levi for opensource.com](https://farm8.staticflickr.com/7155/6554315093_d4a9119a17_o.png)-->
-[[!img typical-patent-software-fig.png id="typical-patent-software-fig" alt="Parody of a software patent figure" link="https://www.flickr.com/photos/opensourceway/6554315093/" caption="Created by Libby Levi for opensource.com" size="x666"]]
+[[!img typical-patent-software-fig.png id="typical-patent-software-fig" alt="Parody of a software patent figure" link="" caption="<a href="https://www.flickr.com/photos/opensourceway/6554315093/">Created by Libby Levi for opensource.com</a>" size="666x"]]
 
 And who’s going to read defensive publications? At [OIN], we maintain a website [to list defensive publications][defpubs]. Then, we submit them to databases used for prior-art examination by patent office examiners. So the target audience for these defensive publications is the patent office that reviews patent applications. A good defensive publication should use generic terms that are understood even by someone who’s not programming in the same language as the one used for the program.
 
