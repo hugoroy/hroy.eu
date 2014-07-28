@@ -26,7 +26,7 @@ In practice, it’s not really effective. Here’s why:
 
     > Patent examiners have a strong sense of the technology that is patented, but they’re missing an understanding of what has been and is currently being developed in the open source world. As shocking as it may seem, the result is the examiner formulating an inaccurate sense of what is innovative. As the final arbiter of a very significant monopoly grant, they are often grossly uninformed in terms of what lies beyond their narrowly scoped search. This is not wholly their fault as they have limited resources and time. However, it is a strong indication of a faulty system that is so entrenched in the archaic methods under which patent offices have been operating.
 
-    As [Andrea pointed out][andreablog], patent office staff will usually not go to sofwtare repositories and read source code in order to find prior art. That’s why making it easy for them to read about what you’ve done in software is necessary. That’s what defensive publications are supposed to do.
+    As [Andrea pointed out][andreablog], patent office staff will usually not go to software repositories and read source code in order to find prior art. That’s why making it easy for them to read about what you’ve done in software is necessary. That’s what defensive publications are supposed to do.
 
 [andreablog]: http://creative-destruction.me/2014/01/21/defensive-publications-shedding-light-on-innovation/
 
