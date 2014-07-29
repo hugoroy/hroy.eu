@@ -7,7 +7,7 @@ Le *Journal du Net* publiait la semaine dernière [Comment se repérer dans la j
 
 # Licences libres et licences « open source », c’est pareil
 
-Là, ce n’est pas une simple approximation, c’est carrément une erreur. L’article semble semer la confusion en essayant de diviser et de cataloguer les licences. 
+L’article semble semer la confusion en essayant de diviser et de cataloguer les licences.
 
 **Les licences libres et les licences open source forment une seule et même catégorie**. Autrement dit, il n’y a pas de différence entre ces types de licences : une licence non-copyleft comme la licence MIT est autant une licence libre qu’une licence « open source », une licence copyleft comme la GNU GPL est autant une licence libre qu’une licence « open source ». La preuve? Il suffit de regarder la [liste des licences maintenues par l’Open Source Initiative][osilist] et [la liste maintenue par GNU][gnulist] pour constater qu’en pratique, les critères sont les mêmes puisqu’on aboutit aux mêmes résultats
 
