@@ -52,7 +52,7 @@ However, it’s unfortunate that it remains unclear to which extent this exempti
 
 Now that we see that this decision is not as extremely bad as some would like to depict it, let’s dive a little bit into the details of this “right to remove personal data that are no-longer-relevant for the purposes for which they were processed” by search engines (that’s [how Google interprets the decision](https://support.google.com/legal/contact/lr_eudpa?product=websearch&hl=en)).
 
-The decision is hard to read.
+But before that, let me note this: the decision is hard to read.
 
 One reason why it’s hard to read is because, frankly, the directive is strangely articulated and it’s just not well written. But the decision itself is also bogus, there’s often no clear path of logic to follow, it’s going in all directions with no structure.
 
