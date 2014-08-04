@@ -1,0 +1,4 @@
+[[!meta title="pages tagged msmtp"]]
+
+[[!inline pages="tagged(msmtp)" actions="no" archive="yes"
+feedshow=10]]
