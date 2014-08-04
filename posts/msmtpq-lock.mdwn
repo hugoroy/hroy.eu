@@ -57,3 +57,12 @@ I’m not sure where to file this bug report:
     Get an error feedback
 
  3. Suggest to delete the lockdir
+
+-----
+
+It’s very hard to see which program should be improved here. When using msmtpq scripts, the README tells me to add this in mutt:
+
+    set sendmail_wait = -1 #send in the background
+
+So I assume that whatever I do, mutt will now always tell me “Email sent”. Isn’t there a better way?
+
