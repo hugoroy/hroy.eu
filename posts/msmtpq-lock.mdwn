@@ -1,4 +1,4 @@
-[[!meta title="WTF Sunday: couldn’t send email with msmtp any more. Culprit: the .lock file"]]
+[[!meta title="WTF Sunday: couldn’t send email with msmtp any more. Culprit: the lockdir"]]
 [[!meta description="Yesterday, I spent some hours trying to understand what the fuck was wrong with my email setup. Indeed, I could not send email any more even though every time I hit “send” mutt replied to me: “Email sent” even though it clearly wasn’t!"]]
 [[!meta language="en"]]
 [[!tag lang:en mutt msmtp msmtpq]]
@@ -21,7 +21,7 @@ Right now, I rely on an UMTS connection at home. Maybe that was the problem? But
 
 At this stage, I was completely clueless.
 
-  
+------------------
 
 Maybe the problem was because of the program I use to connect to my SMTP servers: msmtp. Actually, I use the scripts that allow me to queue email before sending it (very useful on a laptop). But unfortunately, whether I relied on msmtp or msmtpq in the mutt config, the same result occurred: mutt told me “Email sent” even though no email was sent (I even tried, when disconnected from the internet, the same result occurred!!)
 
