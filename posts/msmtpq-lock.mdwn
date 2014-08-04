@@ -5,7 +5,7 @@
 
 Yesterday, some of the strangest thing happened. I couldn’t send email any more!
 
-The real problem was that I got no error feedback. Actually I haven’t been able to send email since August 1, but I had not realise! I thought everything was entirely fine. Until I was online discussing some issue with Torsten and he kept waiting for my emailed answer. After two hours: still no reply from me.
+The real problem was that I got no error feedback. Actually I haven’t been able to send email since August 1, but I had not realised! I thought everything was entirely fine. Until I was online discussing some issue with Torsten and he kept waiting for my emailed answer. After two hours: still no reply from me.
 
 So, something was wrong. But what?
 
