@@ -89,7 +89,7 @@ works. This could be the preamble to the documentation 😉
 
 I’ve also worked on a guide to defensive publications and I am starting to think on how a tutorial might look like. I hope you will find that useful. I’ll write more [[!taglink about_that_next_time|Open_Invention_Network]]!
 
-If you are interested, don’t hesitate to join [#linuxdefenders] on the IRC freenode server.
+If you are interested, don’t hesitate to join [#linuxdefenders][ircld] on the IRC freenode server.
 
-[#linuxdefenders]: http://irc.lc/freenode/linuxdefenders/
+[ircld]: http://irc.lc/freenode/linuxdefenders/
 
