@@ -1,4 +1,4 @@
-[[!meta title="Google prioritises https: why this has nothing to do with network neutrality"]]
+[[!meta title="Google Search prioritises https: why this has nothing to do with network neutrality"]]
 [[!meta description="Answer to some critics of Google’s decision"]]
 [[!meta language="en"]]
 [[!tag lang:en Google https network_neutrality]]
