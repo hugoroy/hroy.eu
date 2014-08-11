@@ -24,7 +24,7 @@ When I “use” what my internet access providers provides to me: I **connect**
 
 Notice something: the activity of the internet access provider is entirely generic! My basic interaction with them is not between me and them, but between the machines and software I use and their machines.[^isps]
 
-[^isps]: Which does not mean that it’s not important! It is fundamentally important that they do it in a way that safeguards our freedom of expression and privacy --- which is why I support [do-it-yourself ISPs][diyisp].)
+[^isps]: Which does not mean that it’s not important! It is fundamentally important that they do it in a way that safeguards our freedom of expression and privacy --- which is why I support [do-it-yourself ISPs][diyisp]. If you’re looking for one near you, [check out this map](http://db.ffdn.org/).
 
 [diyisp]: http://www.diyisp.org/
 
@@ -35,7 +35,7 @@ To sum it up, while I make automated requests to my ISP, I ask a human-edited qu
 
 These are so fundamentally different activities that it makes absolutely no sense to put search engines issues and network neutrality issues in the same basket! 
 
-Every step of the way from the moment I enter “Search” and the moment a list of results is displayed to me is an entirely edited process, with complex algorithms etc. There’s nothing neutral, ever, in a search engine! (The fact that is is automated is entirely irrelevant and is purely a question of implementation.) 
+Every step of the way from the moment I enter “Search” and the moment a list of results is displayed to me is an entirely edited process, with complex algorithms etc. There’s nothing neutral, ever, in a search engine! (The fact that it is automated is entirely irrelevant and is purely a question of implementation.) 
 
 If you are not convinced, consider this:
 
