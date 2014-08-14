@@ -29,10 +29,10 @@
 - [[!aggregate name="Vimeo videos" dir="timeline"
   feedurl="http://vimeo.com/user5876987/videos/rss"
   url="https://vimeo.com/user5876987/videos"]]
-- [[!aggregate name="Videos" dir="timeline"
+<!-- [[!aggregate name="Videos" dir="timeline"
   feedurl="http://ampoliros.net/content/videos/hugoroyd?_t=rss" 
-  url="https://ampoliros.net/content/videos/hugoroyd"]]
-- [[!aggregate name="Checkins" dir="timeline"
+  url="https://ampoliros.net/content/videos/hugoroyd"]]-->
+<!-- [[!aggregate name="Checkins" dir="timeline"
   feedurl="http://ampoliros.net/content/checkins/hugoroyd?_t=rss" 
-  url="https://ampoliros.net/content/checkins/hugoroyd"]]
+  url="https://ampoliros.net/content/checkins/hugoroyd"]]-->
 
