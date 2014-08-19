@@ -212,11 +212,7 @@
                     <form action="https://webmention.herokuapp.com/api/webmention" method="post" role="form">
                         <p>Have you written a response to this? Let me know by posting a <a href="//indiewebcamp.com/webmention">webmention</a>:</p>
                         <input name="source" type="url" placeholder="https://example.net/my-cool-post" />
-                        <TMPL_IF PERMALINK>
-                        <input name="target" value="<TMPL_VAR PERMALINK>" type="hidden">
-                        <TMPL_ELSE>
                         <input name="target" value="<TMPL_VAR PAGEURL>" type="hidden">
-                        </TMPL_IF>
                         <input value="Send Webmention" type="submit">
                         <p class="help-block">Powered by <a href="//webmention.herokuapp.com/">the webmention endpoint</a>.</p>
                     </form>
