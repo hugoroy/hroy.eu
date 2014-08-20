@@ -36,7 +36,25 @@
     send me replies from other corners of the Web, I will happily
     link to them.
 
-    Also, note that IP addresses of comment posters will be registered and published through [commit logs](http://source.hroy-eu.branchable.com/?p=source.git;a=summary). If you do not wish to disclose your IP address through this, then [contact me](http://hugoroy.eu/index.en.html#email) and I’ll post the comment for you.
+    This website should also support [webmentions] thanks to the [hosted
+    webmention endpoint]. Have a look at [brid.gy] if you want to send
+    webmentions from Twitter, Facebook or [other silos].
+
+    Also, note that IP addresses of comment posters will be registered and
+    published through [commit
+    logs](http://source.hroy-eu.branchable.com/?p=source.git;a=summary). If you
+    do not wish to disclose your IP address through this, then [contact
+    me](http://hugoroy.eu/index.en.html#email) and I’ll post the comment for
+    you.
+
+    At last, by commenting, you contribute to the blog and thus your comment is
+    governed by the [same license as the article to which you
+    comment][copyright].
+
+[webmentions]: http://webmention.org
+[hosted webmention endpoint]: https://webmention.herokuapp.com/
+[brid.gy]: http://brid.gy/
+[copyright]: https://hroy.eu/copyright/
 
 Here's a nearly exhaustive overview of this blog/wiki.
 
