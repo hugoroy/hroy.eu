@@ -54,6 +54,7 @@
 [webmentions]: http://webmention.org
 [hosted webmention endpoint]: https://webmention.herokuapp.com/
 [brid.gy]: http://brid.gy/
+[other silos]: https://indiewebcamp.com/silo
 [copyright]: https://hroy.eu/copyright/
 
 Here's a nearly exhaustive overview of this blog/wiki.
