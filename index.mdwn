@@ -5,7 +5,9 @@
 [[!meta license="CC-BY-SA-4.0"]]
 [[!meta copyright="[Copyright info](/copyright)"]]
 
+
 <div class="vcard" id="hcard-Hugo-Roy">
+<img id="ma-tete" class="u-photo" alt="Hugo Roy" title="Hugo Roy" src="/favatar.png" />
 <p>Hi! I’m <a href="http://hugoroy.eu" class="fn" title="Hugo Roy">Hugo</a>.
 <span class="p-note">I am the project leader for <a
 href="//tosdr.org"><img alt=""
