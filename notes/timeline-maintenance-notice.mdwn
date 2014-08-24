@@ -1,0 +1,3 @@
+[[!tag lang:en ikiwiki meta]]
+
+I've had some problems with the [[timeline]] lately. I'm trying to see if there's a way to "reboot" it and get clean of the bits that should have been left out… This will probably flood the RSS a bit, sorry for the inconvenience!
