@@ -11,6 +11,8 @@
 
 [[!inline pages="internal(timeline/aggregate/*) and !*/Discussion and !*/sources and !*/local.less and !*/local.css" show=0]]
 
+For things prior August 2014, have a look at the [[archive]].
+
 #### Sources
 
 See [[timeline/sources]]
