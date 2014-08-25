@@ -5,14 +5,19 @@
 [[!meta language="en"]]
 [[!tag lang:en Arch Linux Dell-XPS-13]]
 
-  1. Install the [linux-xps13-archlinux kernel](https://github.com/gunzy83/linux-xps13-archlinux) 
-  (soon [in the AUR](https://aur.archlinux.org/packages.php?O=0&K=linux-xps13&do_Search=Go))
+[linux-xps13]: https://github.com/gunzy83/linux-xps13-archlinux
 
-  2. Install `xf86-input-synaptics` and, from AUR, `touchegg` and
-  `touchegg-gce-git` (this last one is to be able to configure
-  gestures with the graphic interface).
+ 1. Install the [linux-xps13-archlinux kernel][linux-xps13] (now [in the
+    AUR](https://aur.archlinux.org/packages.php?O=0&K=linux-xps13&do_Search=Go))
 
-  3. Edit `/etc/X11/xorg.conf.d/50-synaptics.conf`
+    Note: Since I wrote this, it’s possible that the [patched
+    kernel][linux-xps13] now has more features than only touchpad support.
+
+ 2. Install `xf86-input-synaptics` and, from AUR, `touchegg` and
+    `touchegg-gce-git` (this last one is to be able to configure gestures with
+    the graphic interface).
+
+ 3. Edit `/etc/X11/xorg.conf.d/50-synaptics.conf`
 
         Section "InputClass"
             Identifier "touchpad catchall"
@@ -23,7 +28,7 @@
             Option "TapButton3" "0"
             Option "ClickFinger3" "0"
 
-  4. Configure your gestures with Touchègg
+ 4. Configure your gestures with Touchègg
 
     Here's my `~/.config/touchegg/touchegg.conf`:
 
@@ -82,8 +87,7 @@
     </pre><a href="https://gist.github.com/hugoroy/10009770">up to
     date version on github</a></noscript>
 
-  5. Add to your session (using `gnome-session-properties` for
-  instance):
+ 5. Add to your session (using `gnome-session-properties` for instance):
      - `touchegg`
      - `synclient TapButton3=0`
 
