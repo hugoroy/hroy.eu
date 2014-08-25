@@ -1,32 +1,32 @@
-- [[!aggregate name="Blog Posts" dir="timeline/aggregate"
+- [[!aggregate name="Blog Posts" dir="timeline/aggregate/posts"
   feedurl="http://hroy.eu/index.atom" 
   url="https://hroy.eu/posts/"]]
-- [[!aggregate name="Short Notes" dir="timeline/aggregate"
+- [[!aggregate name="Short Notes" dir="timeline/aggregate/notes"
   feedurl="http://hroy.eu/notes/index.atom"
   url="https://hroy.eu/notes"]]
-- [[!aggregate name="User Hacks and Tips" dir="timeline/aggregate"
+- [[!aggregate name="User Hacks and Tips" dir="timeline/aggregate/tips"
   feedurl="http://hroy.eu/tips/index.atom"
   url="https://hroy.eu/tips"]]
-- [[!aggregate name="Talks" dir="timeline/aggregate"
+- [[!aggregate name="Talks" dir="timeline/aggregate/talks"
   feedurl="http://hroy.eu/talks/index.atom"
   url="https://hroy.eu/talks"]]
 - [[!aggregate
-  name="Within FSFE" dir="timeline/aggregate"
+  name="Within FSFE" dir="timeline/aggregate/fsfe"
   feedurl="http://blogs.fsfe.org/hugo/feed/"
   url="https://blogs.fsfe.org/hugo/"]]
 - [[!aggregate name="Previous Blog"
-  dir="timeline/aggregate" feedurl="http://blog.hugoroy.eu/feed/"
+  dir="timeline/aggregate/old" feedurl="http://blog.hugoroy.eu/feed/"
   url="http://blog.hugoroy.eu/"]]
-- [[!aggregate name="Flickr Pictures" dir="timeline/aggregate"
+- [[!aggregate name="Flickr Pictures" dir="timeline/aggregate/flickr"
   feedurl="http://www.flickr.com/services/feeds/photos_public.gne?id=91392976@N05&format=rss_200"
   url="https://www.flickr.com/photos/hugoroyd"]]
 <!--- [[!aggregate name="Speakerdeck Slides" dir="timeline/aggregate"
   feedurl="http://speakerdeck.com/hugo.atom"
   url="https://speakerdeck.com/hugo"]]-->
-- [[!aggregate name="Youtube Videos" dir="timeline/aggregate"
+- [[!aggregate name="Youtube Videos" dir="timeline/aggregate/youtube"
   feedurl="http://gdata.youtube.com/feeds/base/users/HugoJRoy/uploads?alt=rss&v=2&orderby=published&client=ytapi-youtube-profile"
   url="https://www.youtube.com/user/HugoJRoy"]]
-- [[!aggregate name="Vimeo videos" dir="timeline/aggregate"
+- [[!aggregate name="Vimeo videos" dir="timeline/aggregate/vimeo"
   feedurl="http://vimeo.com/user5876987/videos/rss"
   url="https://vimeo.com/user5876987/videos"]]
 
