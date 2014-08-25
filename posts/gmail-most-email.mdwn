@@ -4,7 +4,7 @@
     datetime="2014-05-11T19:11:02+00:00" 
     time="May 11, 2014" 
     author="Benjamin Mako Hill"
-    photo="http://0.gravatar.com/avatar/c765934363224852356e0d9a992b3a23?s=80&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&r=G"
+    photo="//0.gravatar.com/avatar/c765934363224852356e0d9a992b3a23?s=80&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&r=G"
     profile="http://mako.cc/"]]
 
 [[!meta title="How much of my email Google has"]]
