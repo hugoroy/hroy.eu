@@ -7,7 +7,7 @@ Le *Journal du Net* publiait la semaine dernière [Comment se repérer dans la j
 
 Voici 5 rectifications :
 
-# 1. Licences libres et licences « open source », c’est pareil
+## 1. Licences libres et licences « open source », c’est pareil
 
 L’article semble semer la confusion en essayant de diviser et de cataloguer les licences.
 
@@ -18,7 +18,7 @@ L’article semble semer la confusion en essayant de diviser et de cataloguer le
 
 Pour mieux comprendre les raisons historiques de l’existence de ces deux termes, [l’article de Björn en fait l’exposé](http://fsfe.org/freesoftware/basics/comparison.html).
 
-# 2. Le copyleft, ce n’est pas un virus
+## 2. Le copyleft, ce n’est pas un virus
 
 On qualifie de *licence copyleft* une licence libre qui contient des obligations supplémentaires de manière à sauvegarder les libertés des utilisateurs. Autrement dit, une clause copyleft interdit d’interdire.
 
@@ -28,7 +28,7 @@ L’article utilise le terme « contaminant » pour qualifier ce type de claus
 
 Ainsi, le qualificatif de « contaminant » est on ne peut plus approximatif. Si on s’intéresse à l’analogie, on voit qu’elle ne tient pas. Si quelqu’un me contamine de sa maladie, je suis passif : je subis, je reçois la contamination et j’en fais les frais. C’est le contact d’un autre qui est la source de ma misère. Ce qui m’amène à une troisième approximation de l’article…
 
-# 3. Ce qui déclenche le copyleft, c’est la distribution, pas la publication
+## 3. Ce qui déclenche le copyleft, c’est la distribution, pas la publication
 
 Les licences libres étant principalement des licences de droits d’auteur (ou copyright selon la juridiction), l’acte qui déclenche les obligations relatives à la clause copyleft coïncide avec l’acte auquel le droit d’auteur attache des obligations.
 
@@ -48,7 +48,7 @@ Par conséquent, il a bien été montré que c’est la distribution du logiciel
 
 [agpl]: http://www.gnu.org/licenses/agpl.html
 
-# 4. Pas de distinction entre libre d’un côté et commercial de l’autre
+## 4. Pas de distinction entre libre d’un côté et commercial de l’autre
 
 Contrairement à ce qui est suggéré dans l’article, qui oppose d’un côté des licences libres et d’un autre côté des licences commerciales ; il n’y a en réalité pas de raison de procéder à une distinction.
 
@@ -57,7 +57,7 @@ Comme il vient d’être souligné, un logiciel libre est forcément utilisable 
 
 Il y a d’un côté les licences libres, qui sont généralement des licences publiques -- c’est-à-dire que chacun peut les utiliser pour ses propres logiciels à destination du public ; et de l’autre côté, les licences propriétaires qui sont généralement des licences spécifiques ou spéciales, qui sont utilisées seulement par quelques entreprises et pas forcément à destination du public mais au contraire parfois pour des logiciels écrits spécialement avec des modifications propres au client (ce qu’il est tout à fait possible de faire avec une licence libre par ailleurs, le client jouira ainsi également des libertés conférées par les licences).
 
-# 5. La licence GNU GPL est applicable en France
+## 5. La licence GNU GPL est applicable en France
 
 Enfin la GPL comme son nom l’indique est une *licence* et non un contrat de cessions de droits d’auteur. Les obligations de formalités du droit français qui s’attachent aux contrats de cessions de droit sont donc inopérantes pour la GPL. D’ailleurs la version 3 de la GNU GPL a été écrite lors d’un [processus large et documenté][gpl3process], qui comprenait des avocats de plusieurs juridictions (notamment l’Allemagne) spécialement pour pallier à l’éventualité de distorsions.
 
