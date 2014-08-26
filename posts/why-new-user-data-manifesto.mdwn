@@ -12,7 +12,7 @@ In late 2012, a new manifesto emerged from the free software community: [The Use
 
 [franklin]: http://autonomo.us/2008/07/14/franklin-street-statement/
 
-I have applauded the approach. However, I have had several criticisms with the text itself --- which is why I have started an effort to create a new better version built on the [first version][udm1]. If you are interested directly into [discussing the new version][udmpull] then you can [skip the first part][#mycurrentproposal] of this article.
+I have applauded the approach and I think the current manifesto is a good starting point. However, I have had several criticisms with the text itself --- which is why I have started an effort to create a new better version built on the [first version][udm1]. If you are interested directly into [discussing the new version][udmpull] then you can [skip the first part][#mycurrentproposal] of this article.
 
 [udm2]: https://github.com/hugoroy/user-data-manifesto/blob/master/Manifesto.md
 [udmpull]: https://github.com/userdatamanifesto/www/pull/4
