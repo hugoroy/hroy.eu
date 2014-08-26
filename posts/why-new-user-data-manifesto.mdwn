@@ -17,7 +17,7 @@ I have applauded the approach and I think the current manifesto is a good starti
 [udm2]: https://github.com/hugoroy/user-data-manifesto/blob/master/Manifesto.md
 [udmpull]: https://github.com/userdatamanifesto/www/pull/4
 
-[[!template id="fragmentjs.tmpl" frageg="This+manifesto+aims+at"]]
+[[!template id="fragmentjs.tmpl" frageg="Right+now"]]
 
 ## What’s wrong with the current version?
 
