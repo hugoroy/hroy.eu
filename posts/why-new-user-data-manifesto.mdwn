@@ -265,3 +265,7 @@ the service provider. ([§ 13. Remote Network Interaction][agplv3])
 
 [Open standards]: http://fsfe.org/activities/os/def.html
 [agplv3]: http://www.gnu.org/licenses/agpl.html
+
+------
+
+Thanks to Sam Tuke for his feedback on the post and the manifesto!
