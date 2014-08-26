@@ -103,7 +103,7 @@ This point was redundant with point 4 and it was drafted in a vague manner, so I
 > 7 - Use it optimally  
 > Everybody should be able to access and use their own data at all times with any device they choose and in the most convenient and easiest way for them.
 
-I have left this out.
+I feel this is not in scope with the manifesto because this describes a feature, not a right, and also because I felt it was a bit vague: what’s “most convenient and easiest way for them”? So I decided to leave this one out. 
 
 > 8 - Server software transparency  
 > Server software should be free and open source software so that the source code of the software can be inspected to confirm that it works as specified. 
