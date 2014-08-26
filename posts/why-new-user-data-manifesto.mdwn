@@ -29,7 +29,7 @@ So let me take some points separately:
 
 This one is very, very problematic. What does “belong” mean, what does “own” mean? Why is one used in the title and the other in the description? What happens when several persons “created” data. What does “create [data]” even mean? I don’t create “data”, my computer generates data when I do things and make stuff.
 
-This point could be read like a copyright provision and thus justify current copyright laws. This is probably not the intention behind this. So this point should be fixed urgently. This reason alone is enough to make it a necessity to update the current manifesto.
+This point could be read like a copyright provision and thus justify current copyright laws. This is probably not the intention behind this. So this point should be fixed. This reason alone is enough to make it a necessity to update the current manifesto.
 
 But what was the intention behind this?
 
