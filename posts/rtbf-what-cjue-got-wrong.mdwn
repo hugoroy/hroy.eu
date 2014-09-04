@@ -76,7 +76,7 @@ The personal data protection directive says in article 7:
 >   the interests [or] fundamental rights and freedoms of the data subject
 >   which require protection under Article 1(1).’
 
-In the case where the service in question is accessible and used by a large majority of the population, it means that we are talking about the *legitimate interests of the public*. Surely, the right to access lawfully published information is *a priori* a legitimate interest of the public? Otherwise, what good is a right to freedom of expression if nobody else has the right to hear you and that someone can block access to your article when they feel like?
+In the case where the service in question is accessible and used by a large majority of the population, it means that we are talking about the *legitimate interests of the public*. Surely, the right to access lawfully published information is *a priori* a legitimate interest of the public. Otherwise, what good is a right to freedom of expression if nobody else has the right to hear you and that someone can block access to your article when they feel like?
 
 Now, let’s have another read at the article above (article 7). It is clear that the general rule is that processing of personal data is allowed when the right of the public to freedom of expression is at stake, **except** where the data subject’s fundamental rights should override them.
 
