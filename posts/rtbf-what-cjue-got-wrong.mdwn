@@ -21,7 +21,7 @@ So, roughly and quickly, I’d like to point out a few flaws that I think are ve
 
 ## The EUCJ is confused about privacy
 
-You may disagree, and I have no time to explain here now (it’s still a draft mode) but I think there’s no such thing as a personal, subjective right to privacy. A right to privacy is not the same thing as a right to the respect of your private life. It is an important distinction to make.
+You may disagree, and I have no time to explain here now (it’s still a draft mode) but I think there’s no such thing as a personal, subjective right to privacy. A right to privacy is not the same thing as a right to the respect of your private life. There is an important distinction to make.
 
 Privacy is [[an_ecological_thing|moglen_privacy_ecological]] as Moglen says, it’s not an individual thing. Privacy is often understood only in a given context: a technological context and a social as well as cultural context. We have different privacy expectations and understanding depending on who we communicate with, what we communicate about, where we communicate, by which means we communicate and based on the cultural background of the communicating parties. Note that “communicate” needs to be understood broadly and may not be the right word.
 
@@ -51,15 +51,18 @@ The core of the point is, privacy is not an individual’s subjective legal righ
 
 [[!toggleable id="sosimple" text="The judges’ justification is in the decisions’ paragraphs [80](https://hroy.eu/law/eucj/C-131_12/##80.), 81 and 36, 38. As you’ll notice, it significantly lags behind good research on what privacy is and it also lacks a thorough legal analysis."]]
 
-In the EUCJ’s RTBF, privacy is taken [[!toggle id="sosimple" text="very simplistically"]] and the casualty is the right of the public to access lawfully published information that can be of public interest, which is very worrisome because that right is substantially a consequence of our right to free speech.
+In the EUCJ’s RTBF, privacy is considered in a simplistic, narrow way that does not consider the right of the public to access lawfully published information that can be of public interest. This is very worrisome because that right is substantially a consequence of our right to free speech.
 
-Moreover, the EUCJ is wrong on the legal basis. To make their arguments based in law, the EUCJ takes [article 7 of the EU Charter](https://en.wikisource.org/wiki/Charter_of_Fundamental_Rights_of_the_European_Union#Article_7_.E2.80.93_Respect_for_private_and_family_life). This article is not a right to privacy, otherwise it would say just that: “a right to privacy.” Instead, it is a right to the “respect for private and family life” and that’s not the same thing. Legally there are big differences. The right to respect for private life is well established as person’s subjective right. For instance in France it used to be under general tort law (art. 1382) but then has taken its own stance in [article 9 of the *code civil*][art9]. One important condition of such a right is that there is a need to demonstrate *préjudice*, i.e. harm has been done to that persons’ in way of infringing their private life.
+Moreover, the legal basis of the EUCJ analysis is unclear. To make their arguments justified by fundamental rights, the EUCJ takes [article 7 of the EU Charter](https://en.wikisource.org/wiki/Charter_of_Fundamental_Rights_of_the_European_Union#Article_7_.E2.80.93_Respect_for_private_and_family_life). This article is not a right to privacy, otherwise it would say just that: “a right to privacy.” Instead, it is a right to the “respect for private and family life” and that’s not the same thing. 
+
+On the one hand, the right to respect for private life is well established as a person’s subjective right. For instance, in France it used to be under general tort law (art. 1382) but then has taken its own stance in [article 9 of the *code civil*][art9]. One important condition of such a right is that there is a need to demonstrate *préjudice*, i.e. harm has been done to that persons’ in way of infringing their private life. 
+
 
 [art9]: http://www.legifrance.gouv.fr/UnArticleDeCode.do?code=CCIVILL0.rcv&art=9
 
-As you know if you’ve read [the decision][c131-12], there’s no such need to demonstrate prejudice in order for the RTBF to apply. That’s an important distinction and shows that it is a whole different beast. 
+On the other hand, as already pointed out, privacy is a process. And as you know if you’ve read [the decision][c131-12], there’s no such need to demonstrate prejudice in order for the RTBF to apply. 
 
-The legal basis thus is not clear. Is this new so called “right to be forgotten” based on the right for the respect of private life (in this case it needs to be demonstrated that there is harm) or is it based on another part of the EU Charter, the one that recognises personal data protection? Well, if it’s the latter, then the RTBF should be much less powerful than what the EUCJ makes it!
+The legal basis thus is not clear. Is this new so called “right to be forgotten” based on the right for the respect of private life (in this case it needs to be demonstrated that there is prejudice) or is it based on another part of the EU Charter, the one that recognises personal data protection? Well, if it’s the latter, then the RTBF should be much less powerful than what the EUCJ makes it!
 
 ## The EUCJ new “general rule” harms freedom of expression
 
@@ -80,9 +83,9 @@ In the case where the service in question is accessible and used by a large majo
 
 Now, let’s have another read at the article above (article 7). It is clear that the general rule is that processing of personal data is allowed when the right of the public to freedom of expression is at stake, **except** where the data subject’s fundamental rights should override them.
 
-But as already pointed out, the Court makes a confusion between fundamental rights and thus the whole analysis on balance is wrong, at the detriment of the public’s right to access lawfully published information.
+But as already pointed out, there is a confusion between fundamental rights and thus the whole analysis on balance breaks, at the detriment of the public’s right to access lawfully published information.
 
-In the decision, the Court invents a new “general rule”: 
+In the decision, the Court indeed invents a new “general rule”: 
 
 > The rights to privacy of the data subject override “as a rule, not only the
 > economic interest of the operator of the search engine <strong>but also the
@@ -97,7 +100,7 @@ Interesting fact: I just learned that the Spanish plaintiff, M. González, is a 
 
 The real privacy issues for us today come from massive surveillance by the NSA and other mass-surveillance State agencies aroudn the world. They also come from surveillance operated by companies.
 
-But no, the privacy problems do not come from search engines giving access to lawfully published information! The RTBF is the wrong fight, and it’s actually wasting our time; time that should be better spent fighting the real issues of massive surveillance which makes much more harm to our right to have a private life outside the reach of the State’s agents.
+Search engines giving access to lawfully published information is not the real privacy issue! The RTBF is the wrong fight, and it’s actually wasting our time; time that should be better spent fighting the real issues of massive surveillance which makes much more harm to our right to have a private life outside the reach of the State’s agents.
 
 Finally, the ultimate irony of the decision is that Google and the like are the ones who have to apply individual’s requests to be deleted from search engines results relating to their names. Thus, giving the role of defining privacy to… Google. [Well done for the rule of law].
 
