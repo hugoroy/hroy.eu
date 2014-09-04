@@ -1,7 +1,7 @@
-[[!meta title=""]]
+[[!meta title="“Right to be forgotten” What the EUCJ got wrong"]]
 [[!meta description=""]]
-[[!meta language=""]]
-[[!tag lang:]]
+[[!meta language="en"]]
+[[!tag lang:en]]
 
 It’s been a few months now since the controversial EUCJ [[Google_Spain_v._González_(C-131/12)|/law/eucj/C-131_12]] decision has been published. And I’m too busy, lagging behind: my draft (in French) on why I disagree a lot with this decision is still in the making. But it will eventually come.
 
