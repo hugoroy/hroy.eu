@@ -1,4 +1,5 @@
 .pageheader {
-    background: url('background.jpg') repeat fixed 50% 0 / auto #ccc;
+    background: url('background.jpg') repeat fixed 50% 800px;
+    background-size: cover;
     min-height: 300px;
 }
