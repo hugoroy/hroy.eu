@@ -1,4 +1,4 @@
-[[!meta title="“Right to be forgotten”: When the EUCJ forgot our freedom of expression"]]
+[[!meta title="“Right to be forgotten”: What the EUCJ got wrong"]]
 [[!meta language="en"]]
 [[!tag lang:en privacy right_to_be_forgotten ECJ EUCJ Google law]]
 
@@ -17,7 +17,7 @@ Meanwhile I got some interesting discussions, for instance with Neil Brown. I’
 If you’re interested, I have published [[a_quick_summary|whats-in-C-131_12]] of the interesting parts of the decision, otherwise you can also [read the whole decision][c131-12] to make your own opinion.
 </aside>
 
-So, roughly and quickly, I’d like to point out a few flaws that I think are very worrying considering the global context that is which of the European Union Court of Justice getting more powerful as a court dealing with fundamental rights (in addition to the European Court of Human Rights).
+So, roughly and quickly, I’d like to point out a few flaws that I think are very worrying considering the wider context; namely, the European Union Court of Justice getting more powerful as a court dealing with fundamental rights (in addition to the European Court of Human Rights).
 
 ## The EUCJ is confused about privacy
 
@@ -25,7 +25,7 @@ You may disagree, and I have no time to explain here now (it’s still a draft m
 
 Privacy is [[an_ecological_thing|moglen_privacy_ecological]] as Moglen says, it’s not an individual thing. Privacy is often understood only in a given context: a technological context and a social as well as cultural context. We have different privacy expectations and understanding depending on who we communicate with, what we communicate about, where we communicate, by which means we communicate and based on the cultural background of the communicating parties. Note that “communicate” needs to be understood broadly and may not be the right word.
 
-One of the most interesting researcher working on explaining privacy is danah boyd. She lately published a piece: [*What Is Privacy?*][boydprivacy] You should read [the entire piece, it’s not long][boydprivacy]. Meanwhile, emphasis is mine:
+One of the most interesting researchers working on explaining privacy is danah boyd. She lately published a piece: [*What Is Privacy?*][boydprivacy] You should read [the entire piece, it’s not long][boydprivacy]. Meanwhile, emphasis is mine:
 
 [boydprivacy]: https://medium.com/message/what-is-privacy-5ed72c66aa86
 
@@ -43,23 +43,23 @@ One of the most interesting researcher working on explaining privacy is danah bo
 > to achieve privacy. Achieving privacy requires a whole slew of skills, not
 > just in the technological sense, but in the social sense. Knowing how to read
 > people, how to navigate interpersonal conflict, how to make trust stick. This
-> is far more **complex** that people realize, and yet **we do this every day**
+> is far more **complex** than people realize, and yet **we do this every day**
 > in our efforts to control the social situations around us.
 
 
-The core of the point is, privacy is not an individual’s subjective legal right. It’s a social and fragile, but needed social process. We shouldn’t mess this up with [[!toggle id="sosimple" text="simplistic views on the issue"]], because there could be casualty (like getting the State involved in defining all the things where privacy was dealt with socially and, freely, before).
+The core of the point is, privacy is not an individual’s subjective legal right. It’s a social and fragile, but needed social process. We shouldn’t mess this up with [[!toggle id="sosimple" text="simplistic views on the issue"]], because there could be casualties (like getting the State involved in defining all the things where privacy was dealt with socially and, freely, before).
 
 [[!toggleable id="sosimple" text="The judges’ justification is in the decisions’ paragraphs [80](https://hroy.eu/law/eucj/C-131_12/##80.), 81 and 36, 38. As you’ll notice, it significantly lags behind good research on what privacy is and it also lacks a thorough legal analysis."]]
 
 In the EUCJ’s RTBF, privacy is taken [[!toggle id="sosimple" text="very simplistically"]] and the casualty is the right of the public to access lawfully published information that can be of public interest, which is very worrisome because that right is substantially a consequence of our right to free speech.
 
-Moreover, the EUCJ is wrong on the legal basis. To make their arguments based in law, the EUCJ takes [article 7 of the EU Charter](https://en.wikisource.org/wiki/Charter_of_Fundamental_Rights_of_the_European_Union#Article_7_.E2.80.93_Respect_for_private_and_family_life). This article is not a right to privacy, otherwise it would say just that: “a right to privacy.” Instead, it is a right to the “respect for private and family life” and that’s not the same thing. Legally there are big differences. The right to respect for private life is well established as person’s subjective right. For instance in France it used to be under general tort law (art. 1382) but then has taken its own stance in [article 9 of the *code civil*][art9]. One important condition of such a right is that there is a need to demonstrate *préjudice*, i.e. harm has been done to that persons’ in way of infringing their private life.
+Moreover, the EUCJ is wrong on the legal basis. To make their arguments based in law, the EUCJ takes [article 7 of the EU Charter](https://en.wikisource.org/wiki/Charter_of_Fundamental_Rights_of_the_European_Union#Article_7_.E2.80.93_Respect_for_private_and_family_life). This article is not a right to privacy, otherwise it would say just that: “a right to privacy.” Instead, it is a right to the “respect for private and family life” and that’s not the same thing. Legally there are big differences. The right to respect for private life is well established as a person’s subjective right. For instance in France it used to be under general tort law (art. 1382) but then has taken its own stance in [article 9 of the *code civil*][art9]. One important condition of such a right is that there is a need to demonstrate *préjudice*, i.e. harm has been done to that persons in way of infringing their private life.
 
 [art9]: http://www.legifrance.gouv.fr/UnArticleDeCode.do?code=CCIVILL0.rcv&art=9
 
 As you know if you’ve read [the decision][c131-12], there’s no such need to demonstrate prejudice in order for the RTBF to apply. That’s an important distinction and shows that it is a whole different beast. 
 
-The legal basis thus is not clear. Is this new so called “right to be forgotten” based on the right for the respect of private life (in this case it needs to be demonstrated that there is harm) or is it based on another part of the EU Charter, the one that recognises personal data protection? Well, if that’s the latter, then the RTBF should be much less powerful than what the EUCJ makes it!
+The legal basis thus is not clear. Is this new so called “right to be forgotten” based on the right for the respect of private life (in this case it needs to be demonstrated that there is harm) or is it based on another part of the EU Charter, the one that recognises personal data protection? Well, if it’s the latter, then the RTBF should be much less powerful than what the EUCJ makes it!
 
 ## The EUCJ new “general rule” harms freedom of expression
 
@@ -76,7 +76,7 @@ The personal data protection directive says in article 7:
 >   the interests [or] fundamental rights and freedoms of the data subject
 >   which require protection under Article 1(1).’
 
-In the case where the service in question is accessible and used by a large majority of the population, it means that we are talking about the *legitimate interests of the public*. Surely, the right to access lawfully published information is *a priori* a legitimate interest of the public. Otherwise, what good is a right to freedom of expression if nobody else has the right to hear you and that someone can block access to your article when they feel like?
+In the case where the service in question is accessible and used by a large majority of the population, it means that we are talking about the *legitimate interests of the public*. Surely, the right to access lawfully published information is *a priori* a legitimate interest of the public? Otherwise, what good is a right to freedom of expression if nobody else has the right to hear you and that someone can block access to your article when they feel like?
 
 Now, let’s have another read at the article above (article 7). It is clear that the general rule is that processing of personal data is allowed when the right of the public to freedom of expression is at stake, **except** where the data subject’s fundamental rights should override them.
 
@@ -93,7 +93,7 @@ It is clear now that there’s a problem. The rule and the exception have been e
 
 * * *
 
-Interesting fact: I just learned that the Spanish plaintiff, M. González, is a lawyer… This whole case and the decision to me, is an illustration of what goes wrong when we try to solve problems that should be best solved freely with our social processes. Solving privacy with this kind of ruling is doing us no favour.
+Interesting fact: I just learned that the Spanish plaintiff, M. Gonz`alez, is a lawyer… This whole case and the decision to me, is an illustration of what goes wrong when we try to solve problems that should be best solved freely with our social processes. Solving privacy with this kind of ruling is doing us no favour.
 
 The real privacy issues for us today come from massive surveillance by the NSA and other mass-surveillance State agencies aroudn the world. They also come from surveillance operated by companies.
 
@@ -103,4 +103,4 @@ Finally, the ultimate irony of the decision is that Google and the like are the 
 
 [well done for the rule of law]: http://www.laquadrature.net/en/the-right-to-be-forgotten-dont-forget-the-rule-of-law
 
-We should demand that the European commission does not to pursue this RTBF nonsense, but instead focuses on the real issues affecting our privacy and our autonomy.
+We should not accept this decision and we should ask the European commission not to pursue this nonsense of RTBF, but instead focus on the real issues affecting our privacy.
