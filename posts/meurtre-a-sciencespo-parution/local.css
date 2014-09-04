@@ -1,0 +1,4 @@
+.pageheader {
+    background: url('background.jpg') repeat fixed 50% 0 / auto #ccc;
+    min-height: 300px;
+}
