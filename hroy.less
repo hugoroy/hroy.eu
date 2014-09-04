@@ -52,6 +52,17 @@ footer, blockquote {
 }
 
 
+.pageheader {
+    z-index: 999;
+}
+
+#pagebody {
+    z-index: 999999;
+}
+
+.pagefooter {
+    z-index: 999;
+}
 
 
 .pageheader  {
@@ -674,6 +685,14 @@ article.inlinepage {
 #hcard-Hugo-Roy, #timeline-last {
     .hroy-align;
     color: @gray;
+}
+
+#hcard-Hugo-Roy {
+
+    @media (min-width: @screen-md) {
+        padding: 2em 1em 3em;
+        margin: -10em;
+    }
 }
 
 #timeline-last {
