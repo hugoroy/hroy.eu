@@ -93,7 +93,7 @@ It is clear now that there’s a problem. The rule and the exception have been e
 
 * * *
 
-Interesting fact: I just learned that the Spanish plaintiff, M. Gonz`alez, is a lawyer… This whole case and the decision to me, is an illustration of what goes wrong when we try to solve problems that should be best solved freely with our social processes. Solving privacy with this kind of ruling is doing us no favour.
+Interesting fact: I just learned that the Spanish plaintiff, M. González, is a lawyer… This whole case and the decision to me, is an illustration of what goes wrong when we try to solve problems that should be best solved freely with our social processes. Solving privacy with this kind of ruling is doing us no favour.
 
 The real privacy issues for us today come from massive surveillance by the NSA and other mass-surveillance State agencies aroudn the world. They also come from surveillance operated by companies.
 
@@ -103,4 +103,4 @@ Finally, the ultimate irony of the decision is that Google and the like are the 
 
 [well done for the rule of law]: http://www.laquadrature.net/en/the-right-to-be-forgotten-dont-forget-the-rule-of-law
 
-We should not accept this decision and we should ask the European commission not to pursue this nonsense of RTBF, but instead focus on the real issues affecting our privacy.
+We should demand that the European commission does not to pursue this RTBF nonsense, but instead focuses on the real issues affecting our privacy and our autonomy.
