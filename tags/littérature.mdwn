@@ -1,0 +1,4 @@
+[[!meta title="pages tagged littérature"]]
+
+[[!inline pages="tagged(littérature)" actions="no" archive="yes"
+feedshow=10]]
