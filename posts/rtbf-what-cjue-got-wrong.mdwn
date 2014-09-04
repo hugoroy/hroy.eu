@@ -47,9 +47,11 @@ One of the most interesting researcher working on explaining privacy is danah bo
 > in our efforts to control the social situations around us.
 
 
-The core of the point is, privacy is not an individual’s subjective legal right. It’s a social and fragile, but needed social process. We shouldn’t mess this up with simplistic takes on the issue, because there could be casualty (like getting the State involved in defining all the things where privacy was dealt with socially and, freely, before).
+The core of the point is, privacy is not an individual’s subjective legal right. It’s a social and fragile, but needed social process. We shouldn’t mess this up with [[!toggle id="sosimple" text="simplistic views on the issue"]], because there could be casualty (like getting the State involved in defining all the things where privacy was dealt with socially and, freely, before).
 
-In the EUCJ’s RTBF, privacy is taken very simplistically and the casualty is the right of the public to access lawfully published information that can be of public interest, which is very worrisome because that right is substantially a consequence of our right to free speech.
+[[!toggleable id="sosimple" text="The judges’ justification on the privacy issue are in the decisions’ paragraphs [80](https://hroy.eu/law/eucj/C-131_12/##80.), 81 and 36, 38. As you’ll notice, it significantly lacks behind good research on what privacy is and it also lacks behind on the legal analysis."]]
+
+In the EUCJ’s RTBF, privacy is taken [[!toggle id="sosimple" text="very simplistically"]] and the casualty is the right of the public to access lawfully published information that can be of public interest, which is very worrisome because that right is substantially a consequence of our right to free speech.
 
 Moreover, the EUCJ is wrong on the legal basis. To make their arguments based in law, the EUCJ takes [article 7 of the EU Charter](https://en.wikisource.org/wiki/Charter_of_Fundamental_Rights_of_the_European_Union#Article_7_.E2.80.93_Respect_for_private_and_family_life). This article is not a right to privacy, otherwise it would say just that: “a right to privacy.” Instead, it is a right to the “respect for private and family life” and that’s not the same thing. Legally there are big differences. The right to respect for private life is well established as person’s subjective right. For instance in France it used to be under general tort law (art. 1382) but then has taken its own stance in [article 9 of the *code civil*][art9]. One important condition of such a right is that there is a need to demonstrate *préjudice*, i.e. harm has been done to that persons’ in way of infringing their private life.
 
