@@ -17,7 +17,7 @@ Meanwhile I got some interesting discussions, for instance with Neil Brown. I’
 If you’re interested, I have published [[a_quick_summary|whats-in-C-131_12]] of the interesting parts of the decision, otherwise you can also [read the whole decision][c131-12] to make your own opinion.
 </aside>
 
-So, roughly and quickly, I’d like to point out a few flaws that I think are very worrying considering the global context that is which of the European Union Court of Justice getting more powerful as a court dealing with fundamental rights (in addition to the European Court of Human Rights).
+So, roughly and quickly, I’d like to point out a few flaws that I think are very worrying considering the wider context; namely, the European Union Court of Justice getting more powerful as a court dealing with fundamental rights (in addition to the European Court of Human Rights).
 
 ## The EUCJ is confused about privacy
 
@@ -25,7 +25,7 @@ You may disagree, and I have no time to explain here now (it’s still a draft m
 
 Privacy is [[an_ecological_thing|moglen_privacy_ecological]] as Moglen says, it’s not an individual thing. Privacy is often understood only in a given context: a technological context and a social as well as cultural context. We have different privacy expectations and understanding depending on who we communicate with, what we communicate about, where we communicate, by which means we communicate and based on the cultural background of the communicating parties. Note that “communicate” needs to be understood broadly and may not be the right word.
 
-One of the most interesting researcher working on explaining privacy is danah boyd. She lately published a piece: [*What Is Privacy?*][boydprivacy] You should read [the entire piece, it’s not long][boydprivacy]. Meanwhile, emphasis is mine:
+One of the most interesting researchers working on explaining privacy is danah boyd. She lately published a piece: [*What Is Privacy?*][boydprivacy] You should read [the entire piece, it’s not long][boydprivacy]. Meanwhile, emphasis is mine:
 
 [boydprivacy]: https://medium.com/message/what-is-privacy-5ed72c66aa86
 
@@ -43,11 +43,11 @@ One of the most interesting researcher working on explaining privacy is danah bo
 > to achieve privacy. Achieving privacy requires a whole slew of skills, not
 > just in the technological sense, but in the social sense. Knowing how to read
 > people, how to navigate interpersonal conflict, how to make trust stick. This
-> is far more **complex** that people realize, and yet **we do this every day**
+> is far more **complex** than people realize, and yet **we do this every day**
 > in our efforts to control the social situations around us.
 
 
-The core of the point is, privacy is not an individual’s subjective legal right. It’s a social and fragile, but needed social process. We shouldn’t mess this up with [[!toggle id="sosimple" text="simplistic views on the issue"]], because there could be casualty (like getting the State involved in defining all the things where privacy was dealt with socially and, freely, before).
+The core of the point is, privacy is not an individual’s subjective legal right. It’s a social and fragile, but needed social process. We shouldn’t mess this up with [[!toggle id="sosimple" text="simplistic views on the issue"]], because there could be casualties (like getting the State involved in defining all the things where privacy was dealt with socially and, freely, before).
 
 [[!toggleable id="sosimple" text="The judges’ justification is in the decisions’ paragraphs [80](https://hroy.eu/law/eucj/C-131_12/##80.), 81 and 36, 38. As you’ll notice, it significantly lags behind good research on what privacy is and it also lacks a thorough legal analysis."]]
 
@@ -59,7 +59,7 @@ Moreover, the EUCJ is wrong on the legal basis. To make their arguments based in
 
 As you know if you’ve read [the decision][c131-12], there’s no such need to demonstrate prejudice in order for the RTBF to apply. That’s an important distinction and shows that it is a whole different beast. 
 
-The legal basis thus is not clear. Is this new so called “right to be forgotten” based on the right for the respect of private life (in this case it needs to be demonstrated that there is harm) or is it based on another part of the EU Charter, the one that recognises personal data protection? Well, if that’s the latter, then the RTBF should be much less powerful than what the EUCJ makes it!
+The legal basis thus is not clear. Is this new so called “right to be forgotten” based on the right for the respect of private life (in this case it needs to be demonstrated that there is harm) or is it based on another part of the EU Charter, the one that recognises personal data protection? Well, if it’s the latter, then the RTBF should be much less powerful than what the EUCJ makes it!
 
 ## The EUCJ new “general rule” harms freedom of expression
 
