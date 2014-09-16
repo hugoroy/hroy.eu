@@ -4,10 +4,10 @@
 [[!inline pages=sidebar raw=yes]]
 """]]
 
-[[!meta title="Recent comments"]]
+[[!meta title="Comments"]]
 
 [[!inline pages="./*/Discussion or comment(./*)"
-template="comment"]]
+template="comment" show=0]]
 
 [[!inline pages="comment_pending(./*)" feedfile=pendingmoderation
 description="comments pending moderation" show=-1]]
