@@ -1,3 +1,0 @@
-[[Timeline]] Before August 2014:
-
-[[!inline pages="(internal(timeline/*) and !internal(timeline/aggregate/*)) and !*/Discussion and !*/sources and !*/local.less and !*/local.css" show=0]]
