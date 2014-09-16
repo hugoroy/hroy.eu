@@ -6,7 +6,7 @@
 
 <span class="fa fa-fw fa-lg">
 [[!toggle id="29c3" text=""]]
-</span> [Fixing the biggest lie on the web!](//tosdr.org/29c3.html)
+</span> [Fixing the biggest lie on the web!](https://tosdr.org/29c3.html)
 
 
 [[!toggleable id="29c3" text="""
