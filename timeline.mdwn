@@ -9,9 +9,7 @@
     <a class="email feedbutton btn btn-xs btn-info" title="Hugo’s blog (email subscription)" href="http://feedburner.google.com/fb/a/mailverify?uri=hroyplanet&loc=en_US">Subscribe by email <i class="fa fa-envelope icon-envelope"></i></a>
 </div>
 
-[[!inline pages="internal(timeline/aggregate/*) and !*/Discussion and !*/sources and !*/local.less and !*/local.css" show=0]]
-
-For things prior to August 2014, have a look at the [[archive]].
+[[!inline pages="internal(timeline/*) and !*/Discussion and !*/sources and !*/local.less and !*/local.css" show=0]]
 
 #### Sources
 
