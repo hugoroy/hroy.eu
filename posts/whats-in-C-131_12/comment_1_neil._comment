@@ -1,0 +1,71 @@
+[[!comment format=mdwn
+ claimedauthor="Neil Brown"
+ url="http://neilzone.co.uk"
+ subject="Right to be forgotten": Twitter"
+ date="2014-07-29T07:23:30Z"
+ content="""
+
+Dear Hugo
+
+I hope that you are well? It has been a long time now - unfortunately, I could
+not make the FSFE meeting in Barcelona  this year :(
+
+I just wanted to follow up on our conversation on Twitter about "the right to
+be forgotten" - 160 characters is just not enough some times!
+
+The point I was attempting to make is that so much of the reporting about this
+issue is describing it as a "right to be forgotten", rather than a right to
+object to processing of personal data.
+
+Whilst the CJEU set out some preconditions for the exercise of this right, my
+point in terms of liability is that this "right to object" is a right granted
+to data subjects and that, conversely, there is no "right to process" granted
+to data controllers. Instead, controllers are permitted to process provided
+that they satisfy certain criteria, including rules around lawfulness and
+legitimacy.
+
+If a controller does not comply with these requirements, they can be sued; the
+directive provides that member states must provide for a right of action for a
+person who has suffered damage as a result of an unlawful processing operation
+to be entitled to receive compensation.
+
+To my mind, this sets the incentives up incorrectly:
+
+- a controller must satisfy certain grounds to be permitted to process
+personal data
+- if the controller does not meet these requirements, it can be sued by a
+data subject
+- a data subject has a right to object, which entails providing a "justified
+objection" on "compelling legitimate grounds"
+- it is left to the data controller to determine whether the complaint meets
+these criteria
+- even if the controller decides that the criteria are not met, it may have
+to defend its decision in court
+- if the court upholds the claim, it is unlikely to benefit — spending money
+to defend its position when, arguably, there is unlikely to be much of a
+business benefit in doing so. Only the biggest, richest companies are likely
+to be able to afford to litigate on a point of principle like this
+- if the court says that the subject's objection was valid, a damages action
+is available
+
+To me, this is a case of the incentives being set incorrectly; if the aim of
+the legislation is to ensure a balancing act between the right of privacy and
+the right to communication, setting up a structure whereby the controller
+could be liable for damages if it fails to remove something following an
+objection, only encourages removal.
+
+This is much like the liability protections within the eCommerce directive: an
+intermediary is shieled from liability, as long as it removes infringing
+material expeditiously. In theory, it is open to the intermediary to argue
+that the material is not infringing, and thus it has no liability, but the
+incentive is set incorrectly: if a hosting provider is liable unless it
+removes the information, it is more than likely to err on the side of removal.
+
+
+So, a few more than 160 characters, but that's what I was trying to say!
+
+
+All the best,
+
+Neil
+"""]]
