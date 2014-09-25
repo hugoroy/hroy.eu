@@ -1,0 +1,153 @@
+[[!comment format=mdwn
+ username="hugo"
+ subject="Re: “Right to be forgotten”: Twitter"
+ date="2014-07-29T10:00:32Z"
+ content="""
+Hi Neil,
+
+Always interesting to read your thoughts!
+
+↪ 2014-07-29 mar. 09:23, Neil Brown <…>:
+>
+> I hope that you are well? It has been a long time now - unfortunately, I
+> could not make the FSFE meeting in Barcelona  this year :(
+
+I couldn’t make it either. It does seem to be a very long
+time!
+
+> I just wanted to follow up on our conversation on Twitter about "the right
+> to be forgotten" - 160 characters is just not enough some times!
+
+Yes! You need to use some more space and then link that back to
+Twitter ☺
+
+I use this to get this done and I’m quite happy with it:
+http://github.com/idno/idno
+
+> The point I was attempting to make is that so much of the reporting about
+> this issue is describing it as a "right to be forgotten", rather than a
+> right to object to processing of personal data.
+
+Yes. I am not happy at all with the characterisation of the
+judgment the media’s making either. At the same time, the issue is
+quite complex…
+
+> Whilst the CJEU set out some preconditions for the exercise of this right,
+> my point in terms of liability is that this "right to object" is a right
+> granted to data subjects and that, conversely, there is no "right to
+> process" granted to data controllers. Instead, controllers are permitted to
+> process provided that they satisfy certain criteria, including rules around
+> lawfulness and legitimacy.
+>
+> If a controller does not comply with these requirements, they can be sued;
+> the directive provides that member states must provide for a right of action
+> for a person who has suffered damage as a result of an unlawful processing
+> operation to be entitled to receive compensation.
+>
+> To my mind, this sets the incentives up incorrectly:
+>       - a controller must satisfy certain grounds to be permitted to process
+> personal data
+>       - if the controller does not meet these requirements, it can be sued by a
+> data subject
+>       - a data subject has a right to object, which entails providing a
+> "justified objection" on "compelling legitimate grounds"
+>       - it is left to the data controller to determine whether the complaint
+> meets these criteria
+>       - even if the controller decides that the criteria are not met, it may have
+> to defend its decision in court
+>       - if the court upholds the claim, it is unlikely to benefit — spending
+> money to defend its position when, arguably, there is unlikely to be much of
+> a business benefit in doing so. Only the biggest, richest companies are
+> likely to be able to afford to litigate on a point of principle like this
+>       - if the court says that the subject's objection was valid, a damages
+> action is available
+>
+> To me, this is a case of the incentives being set incorrectly; if the aim of
+> the legislation is to ensure a balancing act between the right of privacy
+> and the right to communication, setting up a structure whereby the
+> controller could be liable for damages if it fails to remove something
+> following an objection, only encourages removal.
+>
+> This is much like the liability protections within the eCommerce directive:
+> an intermediary is shieled from liability, as long as it removes infringing
+> material expeditiously. In theory, it is open to the intermediary to argue
+> that the material is not infringing, and thus it has no liability, but the
+> incentive is set incorrectly: if a hosting provider is liable unless it
+> removes the information, it is more than likely to err on the side of
+> removal.
+>
+>
+> So, a few more than 160 characters, but that's what I was trying to say!
+
+
+We entirely agree on that.
+
+
+
+What makes me sad is that is the collateral damage made by this
+decision, the right of the public to access lawfully published
+information, which IMHO should be considered a part of freedom of
+expression because it’s pointless to have the write to express
+yourself if other do not have the right to access your thoughts.
+
+
+I have been quite annoyed by the decision, specifically when it
+says:
+
+    The rights to privacy of the data subject override “as a rule,
+    not only the economic interest of the operator of the search
+    engine but also the interest of the general public in finding
+    that information upon a search relating to the data subject’s
+    name.” (¶ 97)
+
+especially because article 7 provides a basis for giving
+legitimacy to processing based on the rights of the public:
+
+    ‘Member States shall provide that personal data may be
+    processed only if:
+
+    …
+
+    (f)      processing is necessary for the purposes of the
+    legitimate interests pursued by the controller or by the
+    third party or parties to whom the data are disclosed,
+    except where such interests are overridden by the
+    interests [or] fundamental rights and freedoms of the data
+    subject which require protection under Article 1(1).’
+
+It seems quite bold to me for the ECJ to basically say that in the
+case of personal data being processed, the interests pursued by
+the public to access lawfully published information is generally
+not legitimate!
+
+Also it’s quite new to me that fundamental rights and freedoms of
+individual protected under Article 1(1) do not necessarily need to
+demonstrate prejudice. From the theory of subjective rights from
+which the right for the respect of private life (which is not the
+same as a right for privacy), this is quite interesting.
+
+I’m in favour of better understanding and protection for privacy,
+in addition to individuals’ rights to the respect of private life.
+But for me, these are two different things. While privacy is
+something more social, the right for the respect of private life
+is an individual’s subjective right and needs to demonstrate
+prejudice.
+
+This decision gives to the data subject an all too important power
+in the name of better privacy. I don’t think this decision was the
+best way to start this, and I think it did it in a way that cause
+more problems than it actually solves.
+
+Now the French CNIL is not happy with Google noticing the media
+when they alter search results pointing to their article. But the
+fact that it’s a problem is evidence for me that this is all badly
+conceived by the ECJ.
+
+Which is worrisome considered the increasing role this court plays
+regarding fundamental rights and freedoms...
+
+
+(By the way, I think this discussion could also be very
+interesting in public so that other people can correct me when I’m
+wrong and discuss)
+"""]]

@@ -1,0 +1,58 @@
+[[!comment format=mdwn
+ claimedauthor="Neil Brown"
+ url="http://neilzone.co.uk"
+ subject="“Right to be forgotten”: Twitter"
+ date="2014-08-01T08:54:49Z+0100"
+ content="""
+On 29 Jul 2014, at 09:00, Hugo Roy <…> wrote:
+
+Dear Hugo
+
+> Always interesting to read your thoughts!
+
+Likewise - and it was you that started this! ;)
+
+> http://github.com/idno/idno
+
+Thank you; I will take a look.
+
+I tried to get it going on my external-facing Raspberry Pi a couple of nights back, but it had some problems with MongoDB, so I will have to take another look when I get some more time. Thank you for the recommendation though; it is not one which I had seen before, and it looks rather good.
+
+> What makes me sad is that is the collateral damage made by this
+> decision, the right of the public to access lawfully published
+> information, which IMHO should be considered a part of freedom of
+> expression because it’s pointless to have the write to express
+> yourself if other do not have the right to access your thoughts.
+
+Absolutely. By setting this out as a "right to object" under data protection law, and failing to provide sufficient shielding for the data controller to permit them to undertake a proper balancing act, freedom of expression is jeopardised, in my view.
+
+> It seems quite bold to me for the ECJ to basically say that in the
+> case of personal data being processed, the interests pursued by
+> the public to access lawfully published information is generally
+> not legitimate!
+
+Agreed. I am less concerned that the economic interests of the search engine are deprecated, but, as you say, the much wider, societal, issue of public interest v private interest, and handling the situation in which the two are not the same is critically important. Hence, for example, the limitations on the rights of data subjects within the framework in respect of journalism,
+recognising the wider, important, role which journalism plays. Perhaps, these days, online search needs a similar recognition, although I suspect that there is a pitfall to avoid here too, that someone indexing a newspaper and someone writing the content of that newspaper are not the same thing.
+
+> the right for the respect of private life (which is not the
+> same as a right for privacy)
+
+Spot on — when I teach "privacy" law, this is one of the key points that I make: it is an interpretation to read "private life" as "privacy".
+
+> This decision gives to the data subject an all too important power
+> in the name of better privacy. I don’t think this decision was the
+> best way to start this, and I think it did it in a way that cause
+> more problems than it actually solves.
+
+It sounds like we are very much in the same place on this, especially in terms of (1) the way in which this sets incentives to perhaps over-account for privacy at the expense of wider, social, rights, and (2) the ineffectiveness of the solution, given that others are already indexing changes, to ensure that the full context is available. However, I am not sure that there has ever
+been a decision which overturns, or relegates to the sidelines, Lindqvist, so I am not sure that data protection and the Internet is particularly well understood anyway!
+
+
+Agreed, and this suits me; perhaps, when I get idno working, we could post the respective parts of our exchanges there? Else, if you have another plan, do let me know.
+
+
+All the best,
+
+Neil
+
+"""]]
