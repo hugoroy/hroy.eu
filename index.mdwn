@@ -35,7 +35,7 @@ training at the Paris Bar school. And a Zappaist.</span></p>
     by email <i class="fa fa-envelope icon-envelope"></i></a>
 </div>
 
-[[!inline pages="page(./posts/*) and !*/Discussion" show="10" actions=no]]
+[[!inline pages="page(./posts/*) and !*/Discussion and !(tagged(ignore))" show="10" actions=no]]
 
 If you’ve read until here, you should head to the full list of [[posts]].
 
