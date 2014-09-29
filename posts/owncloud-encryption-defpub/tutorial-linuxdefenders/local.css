@@ -1,6 +1,4 @@
-#content * {
-    margin: 0;
-}
+#tutorial-linuxdefenders-local-css * {
 
 section {
     margin: 0.25em 0 2em;
@@ -62,4 +60,6 @@ section.abstract ul.tags li:after {
 
 hr.break {
     clear: both;
+}
+
 }
