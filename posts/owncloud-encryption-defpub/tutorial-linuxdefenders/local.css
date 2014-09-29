@@ -5607,8 +5607,8 @@ button.close {
 .panel-body:after,
 .modal-footer:before,
 .modal-footer:after,
-#tutorial-linuxdefenders-local-css * section:before,
-#tutorial-linuxdefenders-local-css * section:after {
+#tutorial-linuxdefenders-local-css * .level:before,
+#tutorial-linuxdefenders-local-css * .level:after {
   content: " ";
   display: table;
 }
@@ -5626,7 +5626,7 @@ button.close {
 .pager:after,
 .panel-body:after,
 .modal-footer:after,
-#tutorial-linuxdefenders-local-css * section:after {
+#tutorial-linuxdefenders-local-css * .level:after {
   clear: both;
 }
 .center-block {
@@ -5799,25 +5799,25 @@ button.close {
   margin-left: 0;
   margin-right: 0;
 }
-#tutorial-linuxdefenders-local-css * section {
+#tutorial-linuxdefenders-local-css * .level {
   margin-left: -15px;
   margin-right: -15px;
 }
-#tutorial-linuxdefenders-local-css * section .defpubstep {
+#tutorial-linuxdefenders-local-css * .level .defpubstep {
   display: block;
   clear: both;
   text-align: center;
   margin-top: 2em;
   font-size: 1.4em;
 }
-#tutorial-linuxdefenders-local-css * section section {
+#tutorial-linuxdefenders-local-css * .level section {
   position: relative;
   min-height: 1px;
   padding-left: 15px;
   padding-right: 15px;
 }
 @media (min-width: 992px) {
-  #tutorial-linuxdefenders-local-css * section section {
+  #tutorial-linuxdefenders-local-css * .level section {
     float: left;
     width: 50%;
   }
