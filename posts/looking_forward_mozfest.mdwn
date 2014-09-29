@@ -1,5 +1,6 @@
 [[!meta title="Looking forward to the Mozilla Festival!"]]
-[[!tag lang:en]][[!meta language="en"]] Mozilla IAAL kolab Debian]]
+[[!tag lang:en Mozilla IAAL kolab Debian]]
+[[!meta language="en"]]
 
 I just had a good day ☺ 
 
