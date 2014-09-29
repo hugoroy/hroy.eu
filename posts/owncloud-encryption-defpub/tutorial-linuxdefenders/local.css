@@ -1,3 +1,7 @@
+#content * {
+    margin: 0;
+}
+
 section {
     margin: 0.25em 0 2em;
 }
