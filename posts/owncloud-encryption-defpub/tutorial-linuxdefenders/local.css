@@ -1,3 +1,27 @@
+#tutorial-linuxdefenders-local-css * h1,
+#tutorial-linuxdefenders-local-css * h2,
+#tutorial-linuxdefenders-local-css * h3,
+#tutorial-linuxdefenders-local-css * h4,
+#tutorial-linuxdefenders-local-css * h5,
+#tutorial-linuxdefenders-local-css * h6,
+#tutorial-linuxdefenders-local-css * ul,
+#tutorial-linuxdefenders-local-css * ol,
+#tutorial-linuxdefenders-local-css * .header a,
+#tutorial-linuxdefenders-local-css * blockquote,
+#tutorial-linuxdefenders-local-css * pre,
+#tutorial-linuxdefenders-local-css * figure,
+#tutorial-linuxdefenders-local-css * .inlinefooter,
+#tutorial-linuxdefenders-local-css * .comment-subject,
+#tutorial-linuxdefenders-local-css * .comment-header,
+#tutorial-linuxdefenders-local-css * .comment .inlinecontent,
+#tutorial-linuxdefenders-local-css * .microblog-header,
+#tutorial-linuxdefenders-local-css * .archivepage,
+#tutorial-linuxdefenders-local-css * .toggleable,
+#tutorial-linuxdefenders-local-css * .inreplyto,
+#tutorial-linuxdefenders-local-css * p {
+  margin-left: 0;
+  margin-right: 0;
+}
 #tutorial-linuxdefenders-local-css * section {
   margin: 0.25em 0 2em;
 }
@@ -49,4 +73,46 @@
 }
 #tutorial-linuxdefenders-local-css * hr.break {
   clear: both;
+}
+@media (min-width: 768px) {
+  .hroy-align {
+    margin-right: 10%;
+  }
+}
+@media (min-width: 992px) {
+  .hroy-align {
+    margin-left: 280px;
+  }
+}
+@media (min-width: 992px) {
+  .hroy-left-align {
+    width: 260px;
+    float: left;
+  }
+}
+@media (min-width: 992px) {
+  .hroy-left-align-negative {
+    margin-left: -280px;
+  }
+}
+.no-hroy-align {
+  margin-left: 0;
+  margin-right: 0;
+}
+.hroy-layout {
+  display: block;
+  margin: 3em auto 0;
+  width: 100%;
+  max-width: 80em;
+}
+@media (min-width: 992px) {
+  .hroy-layout {
+    margin-top: 1em;
+  }
+}
+.hroy-max-px {
+  max-width: 666px;
+}
+.hroy-max-em {
+  max-width: 36em;
 }
