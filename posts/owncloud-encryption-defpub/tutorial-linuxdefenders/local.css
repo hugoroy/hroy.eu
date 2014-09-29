@@ -5814,7 +5814,7 @@ button.close {
   padding-left: 15px;
   padding-right: 15px;
 }
-@media (min-width: 1200px) {
+@media (min-width: 992px) {
   #tutorial-linuxdefenders-local-css * section .defpubstep {
     float: left;
     width: 100%;
@@ -5826,7 +5826,7 @@ button.close {
   padding-left: 15px;
   padding-right: 15px;
 }
-@media (min-width: 1200px) {
+@media (min-width: 992px) {
   #tutorial-linuxdefenders-local-css * section section {
     float: left;
     width: 50%;
