@@ -1,65 +1,52 @@
-#tutorial-linuxdefenders-local-css * {
-
-section {
-    margin: 0.25em 0 2em;
+#tutorial-linuxdefenders-local-css * section {
+  margin: 0.25em 0 2em;
 }
-
-section.example {
-    width: 45%;
+#tutorial-linuxdefenders-local-css * section.example {
+  width: 45%;
 }
-section.comments {
-    width: 50%;
+#tutorial-linuxdefenders-local-css * section.comments {
+  width: 50%;
 }
-section#meta {
-    width: 95%;
+#tutorial-linuxdefenders-local-css * section#meta {
+  width: 95%;
 }
-.defpubstep {
-    width: 90%;
+#tutorial-linuxdefenders-local-css * .defpubstep {
+  width: 90%;
 }
-section.example figure img {
-    width: 100%;
+#tutorial-linuxdefenders-local-css * section.example figure img {
+  width: 100%;
 }
-
-
-section#meta section {
-    border: 1px solid #1A4C7F;
-    text-align: center;
+#tutorial-linuxdefenders-local-css * section#meta section {
+  border: 1px solid #1A4C7F;
+  text-align: center;
 }
-
-.defpubstep {
-    clear: both;
-    display: block;
-    text-align: center;
-    margin-bottom: 1em;
-    font-size: 1.5em;
+#tutorial-linuxdefenders-local-css * .defpubstep {
+  clear: both;
+  display: block;
+  text-align: center;
+  margin-bottom: 1em;
+  font-size: 1.5em;
 }
-
-section.level {
-    clear: both;
-    margin: 6em 0;
+#tutorial-linuxdefenders-local-css * section.level {
+  clear: both;
+  margin: 6em 0;
 }
-
-section.example {
-    clear: right;
-    float: left;
-    padding-right: 2em;
-    border-right: 2px solid #1A4C7F;
+#tutorial-linuxdefenders-local-css * section.example {
+  clear: right;
+  float: left;
+  padding-right: 2em;
+  border-right: 2px solid #1A4C7F;
 }
-
-section.comments {
-    float: right;
-    font-style: italic;
+#tutorial-linuxdefenders-local-css * section.comments {
+  float: right;
+  font-style: italic;
 }
-
-section.abstract ul.tags li {
-    display: inline;
+#tutorial-linuxdefenders-local-css * section.abstract ul.tags li {
+  display: inline;
 }
-section.abstract ul.tags li:after {
-    content: " —";
+#tutorial-linuxdefenders-local-css * section.abstract ul.tags li:after {
+  content: " —";
 }
-
-hr.break {
-    clear: both;
-}
-
+#tutorial-linuxdefenders-local-css * hr.break {
+  clear: both;
 }
