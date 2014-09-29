@@ -5809,16 +5809,6 @@ button.close {
   text-align: center;
   margin-top: 2em;
   font-size: 1.4em;
-  position: relative;
-  min-height: 1px;
-  padding-left: 15px;
-  padding-right: 15px;
-}
-@media (min-width: 992px) {
-  #tutorial-linuxdefenders-local-css * section .defpubstep {
-    float: left;
-    width: 100%;
-  }
 }
 #tutorial-linuxdefenders-local-css * section section {
   position: relative;
