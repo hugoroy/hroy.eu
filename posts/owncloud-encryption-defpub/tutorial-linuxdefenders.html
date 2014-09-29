@@ -151,7 +151,6 @@
 <li><p>The container abstraction is defined in terms of the container abstraction implementation. The container abstraction (‘Type-erased Iterable’ in the diagram) contains standard methods to allow creation of type-erased iterator implementations pointing to the beginning and end of a container, as well as iterators pointing to particular seeked elements. This allows the use of standard library algorithms and language features as they apply to the containers. The Type-erased Iterator is implemented in terms of the container abstraction implementation.</p></li>
 <li><p>Dereferencing a type-erased iterator yields an instance of a <code>Variant</code>, which contains a type-erased void pointer to data in the container, and an integral value representing the type. The integral value may be examined to interpret the void pointer as a static type which can be used with other code.</p></li>
 </ol>
-</section>
     </section>
     <section class="comments">
 <section id="steps-to-create-the-invention" class="level1">
