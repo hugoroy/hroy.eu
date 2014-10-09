@@ -2,15 +2,6 @@
 
 [[!tag lang:en patents EPO]]
 
-<aside class="toc">
-Contents
-
-[[!toc startlevel=1 levels=4 ]]
-
-</aside>
-    
-
-
 The European Patent Convention allows any person to submit prior art at
 the European Patent Office. There are two procedures:
 [one](http://www.epo.org/law-practice/legal-texts/html/epc/2013/e/ar115.html)
