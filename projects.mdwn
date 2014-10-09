@@ -1,0 +1,7 @@
+[[!meta title="Projects/Objects"]]
+
+  - [Terms of Service; Didn’t Read][tosdr]
+  - [User Data Manifesto][udm]
+
+[tosdr]: https://tosdr.org
+[udm]: https://userdatamanifesto.org/2.0/
