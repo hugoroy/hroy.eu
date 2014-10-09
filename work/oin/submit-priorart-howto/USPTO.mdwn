@@ -152,7 +152,7 @@ monitor classes of interest, you need to [learn their query
 format](http://appft1.uspto.gov/netahtml/PTO/help/helpadv.html).
 
 For instance, to search all applications related to Artificial
-Intelligence (class **706**), query <code>CCL/**706**/\$</code>.
+Intelligence (class **706**), query <code>CCL/**706**/$</code>.
 
 You can also limit the query to certain timeframes. For instance, to
 search from **January 2014** to **September** 2014, add to your query
