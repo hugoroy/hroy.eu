@@ -299,11 +299,15 @@ Affidavits and declarations submitted as evidence of publication must be limited
 -->
 
 
-[[!meta title="Submit prior art for US patent applications"]][[!tag
-lang:en patents]]
+[[!meta title="Submit prior art for US patent applications"]]
+
+[[!tag lang:en patents]]
 
 <aside class="toc">
-Contents [[!toc startlevel=2 levels=2 ]]
+Contents
+
+[[!toc startlevel=2 levels=2 ]]
+
 </aside>
     
 
