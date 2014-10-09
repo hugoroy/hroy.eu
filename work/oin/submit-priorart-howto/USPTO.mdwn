@@ -217,13 +217,13 @@ others.
     elements of the claims on the left and a concise description or quotation
     of relevance of the publication on the right:
 
-<table>
+<table class="table">
 <colgroup>
 <col width="15%" />
 <col width="84%" />
 </colgroup>
 <thead>
-<tr class="header">
+<tr class="tableheader">
 <th align="left">Claim 1</th>
 <th align="left">Publication X</th>
 </tr>
