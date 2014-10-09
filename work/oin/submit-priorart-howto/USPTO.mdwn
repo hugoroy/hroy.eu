@@ -148,10 +148,13 @@ To [search through the database of patent applications][usptodb] and monitor cla
 
 
 For instance, to search all applications related to Artificial Intelligence
-(class 706), search `CCL/706/$`. You can also limit the query to certain
-timeframes by adding `AND PD/1/$/2014->9/$/2014` to search from January 2014 to
-September 2014. (The `$` works as a catch-all).
+(class <bold>706</bold>), query `CCL/<bold>706</bold>/$`. 
 
+You can also limit the query to certain
+timeframes. For instance, to search from <bold>January 2014</bold> to
+<bold>September</bold> 2014, query
+`AND PD/<bold>1</bold>/$/<bold>2014</bold>-><bold>9</bold>/$/2014` 
+ (The `$` works as a catch-all).
 
 <aside class="sidenote note right">
 
