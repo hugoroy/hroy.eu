@@ -195,9 +195,9 @@ You have to select what kind of prior art reference you submit:
   - a foreign patent or patent application
   - non-patent documents
 
-However, it should be noted that almost all examiners rely on patent references
-when they reject claims so this kind of reference should be preferred over
-others.
+However, it should be noted that almost all examiners rely on patent and patent
+applications references when they reject claims so **patent references should
+be preferred over others**.
 
 ### Formalities
 
@@ -213,8 +213,8 @@ others.
     the patent.
 
     However, *stick to the facts* and the content of the prior art documents
-    itself and *don’t propose legal arguments related to the patent’s
-    validity*, it is the exclusive competence of the examiner.
+    itself and **don’t propose legal arguments related to the patent’s
+    validity**, it is the exclusive competence of the examiner.
 
     The USPTO suggests to format this information as a “claimchart” emphasising
     elements of the claims on the left and a concise description or quotation
