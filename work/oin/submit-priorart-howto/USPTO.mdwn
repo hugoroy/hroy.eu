@@ -1,12 +1,12 @@
 
-[AIA]: https://en.wikipedia.org/wiki/Leahy-Smith_America_Invents_Act
-[3PPI]: http://www.uspto.gov/patents/init_events/preissuance_submissions.jsp
     
 
 With the passing of the [America Invents Act][AIA], the US patent office now
-accepts prior art submissions from anyone[^anyone]. This guide will help you get through
+accepts prior art submissions from anyone. This guide will help you get through
 the procedure to submit prior art effectively and contribute to getting patent
 applications rejected.
+
+[AIA]: https://en.wikipedia.org/wiki/Leahy-Smith_America_Invents_Act
 
 <aside class="sidenote note right"> <!--Trying to be very, very concise at the expense of legal details-->
 #### What is prior art?  
@@ -19,13 +19,21 @@ something which was already obvious, then such patent application is invalid.
 # The USPTO procedure to submit prior art before the issuance of a patent
 
 There are several ways in which prior art can be used to invalidate a patent or
-a patent application. Since 2012, **anyone can submit prior art** before a
+a patent application. Since 2012, **anyone[^anyone] can submit prior art** before a
 patent gets granted, **during the application phase.**
+
+[^anyone]: From the USPTO: A third-party can submit prior art, but not an
+  individual who has a duty to disclose information with respect to the
+  application (i.e., each individual associated with the filing and prosecution
+  of the patent application) under 37 CFR 1.56. The party making the submission
+  must also state that the submission complies with the requirements of 35
+  U.S.C. 122(e) and 37 CFR 1.290.
 
 The prior art references must be submitted to the US patent office in a
 procedure called [third-party preissuance submissions][3PPI] (“code name:”
 3PPI). This procedure is subject to [§122 (e)][122] of title 35 of the US Code.
 
+[3PPI]: http://www.uspto.gov/patents/init_events/preissuance_submissions.jsp
 [122]: http://www.law.cornell.edu/uscode/text/35/122
 [132]: http://www.law.cornell.edu/uscode/text/35/132
 
@@ -128,7 +136,6 @@ software][usptoclasses] taken from the [USPTO classification][usptofull].
 [usptoclasses]: usptoclasses
 [usptofull]: http://www.uspto.gov/web/patents/classification/selectnumwithtitle.htm
 
-
 To [search through the database of patent applications][usptodb] and monitor classes of interest, you need to [learn their query format][queryhelp].
 
 [usptodb]: http://appft1.uspto.gov/netahtml/PTO/search-adv.html
@@ -173,14 +180,9 @@ can be found on the USPTO [PAIR system][pair]. You will need this number when
 making your prior art submission and to track your submission.
 
 [paying fees]: http://www.uspto.gov/about/offices/cfo/finance/fees.jsp
-        
 [submit]: https://efs.uspto.gov/efile/portal/efs-unregistered
-<!--https://efs.uspto.gov/EFSWebUIUnregistered/EFSWebUnregistered-->
 [registered]: https://efs.uspto.gov/efile/myportal/efs-registered
-
-
 [pair]: http://portal.uspto.gov/external/portal/pair
-
 [pdf]: http://www.uspto.gov/forms/3prsubmission_instructions.pdf
 [fullpdf]: http://www.uspto.gov/patents/process/file/efs/guidance/QSG_Third_Party_Preissuance.pdf
 [quick]: http://www.uspto.gov/patents/process/file/efs/guidance/EFS-WebQuickStartGuide.pdf
@@ -274,10 +276,3 @@ be in the form of affidavits or declarations.
 According to [the USPTO][FAQ]: 
 Affidavits and declarations submitted as evidence of publication must be limited to facts establishing why a submitted document qualifies as a publication and must not to be used as a mechanism to place information that is not pertinent to establishing the document as a publication before the examiner.  Further, affidavits and declarations submitted as evidence of publication should explain how the affiant/declarant has personal knowledge of the facts described therein and must be specific to the document(s) submitted for consideration.
 -->
-
-[^anyone]: From the USPTO: A third-party can submit prior art, but not an
-  individual who has a duty to disclose information with respect to the
-  application (i.e., each individual associated with the filing and prosecution
-  of the patent application) under 37 CFR 1.56. The party making the submission
-  must also state that the submission complies with the requirements of 35
-  U.S.C. 122(e) and 37 CFR 1.290.
