@@ -1,0 +1,280 @@
+
+With the passing of the [America Invents Act][AIA], the US patent office now
+accepts prior art submissions from anyone. This guide will help you get through
+the procedure to submit prior art effectively and contribute to getting patent
+applications rejected.
+
+[AIA]: https://en.wikipedia.org/wiki/Leahy-Smith_America_Invents_Act
+
+<aside class="sidenote note right"> <!--Trying to be very, very concise at the expense of legal details-->
+#### What is prior art?  
+
+Prior art is information available to the public before a patent application’s
+filing date. If a patent application claims something that already existed or
+something which was already obvious, then such patent application is invalid.
+</aside>
+
+# The USPTO procedure to submit prior art before the issuance of a patent
+
+There are several ways in which prior art can be used to invalidate a patent or
+a patent application. Since 2012, **anyone[^anyone] can submit prior art** before a
+patent gets granted, **during the application phase.**
+
+[^anyone]: From the USPTO: A third-party can submit prior art, but not an
+  individual who has a duty to disclose information with respect to the
+  application (i.e., each individual associated with the filing and prosecution
+  of the patent application) under 37 CFR 1.56. The party making the submission
+  must also state that the submission complies with the requirements of 35
+  U.S.C. 122(e) and 37 CFR 1.290.
+
+The prior art references must be submitted to the US patent office in a
+procedure called [third-party preissuance submissions][3PPI] (“code name:”
+3PPI). This procedure is subject to [§122 (e)][122] of title 35 of the US Code.
+
+[3PPI]: http://www.uspto.gov/patents/init_events/preissuance_submissions.jsp
+[122]: http://www.law.cornell.edu/uscode/text/35/122
+[132]: http://www.law.cornell.edu/uscode/text/35/132
+
+## When to submit prior art to the US patent office?
+
+The submission has to be sent in time during the application phase: 
+
+  - *no more than 6 months* after the patent application was published, 
+
+    or
+
+  - as long as *no part of the application has been rejected* by the patent
+    examiner (section [132] notice)
+
+    whichever comes last.
+
+### Example
+
+  - 2013: Inventor X files for a patent
+  - May 2014: the US patent office publishes the patent application (under
+    section [122] (b))
+
+We have three possible scenarios:
+
+ 1. The patent examiner issues a §151 *notice of allowance* before November 2014
+
+    Then, it is **too late** to submit prior art after that notice. Prior art
+    submissions under the third-party preissuance procedure must be made on
+    patent applications, not granted patents.
+
+ 2. The patent examiner issues a §132 *notice of rejection* before November 2014
+
+    You can **still submit prior art** references until November 2014, which is
+    during a 6-month timeframe starting from the publication of the patent
+    application (in our example, May 2014 → November 2014).
+
+ 3. The patent examiner issues a §132 notice of rejection *after November 2014*
+
+    You can **still submit prior art** references after November 2014, until
+    the patent examiner issues such [a §132 notice][132].
+
+For more information, you can refer to the USPTO’s answers on [Timing of a Preissuance Submission](http://www.uspto.gov/aia_implementation/faqs-preissuance-submissions.jsp#heading-5).
+
+
+## Which prior art references can you submit?
+
+Two conditions are absolutely necessary for a document to constitute prior art:
+
+  - the document must have been made available to the public
+
+  - the publication date is paramount in order for prior art to be relevant for
+    challenging patent validity, so any document where the publication date is
+    uncertain is going to have less value.[^nopubdate]
+
+[^nopubdate]: Where the actual publication date of a document is not known, you will have to provide evidence to establish when the document was publicly available. 
+<!--See [below](#nopubdate).-->
+
+
+<!--
+The publication date matters in different ways, depending on which section of
+patent validity is applied:
+
+  - a patent must cover something new (that’s section [102])
+  - a patent must cover something that is not obvious (that’s section [103]).
+
+[102]: http://www.law.cornell.edu/uscode/text/35/102
+[103]: http://www.law.cornell.edu/uscode/text/35/103
+
+So, **any document that was available to the public before the filing date of
+the patent application can constitute prior art.**
+-->
+
+In order to constitute prior art and establish that the patent application
+claims something that is **not new**, the publication date must precede the
+patent application filing date and its priority date.
+
+<!--# What makes a good prior art reference?
+
+You can only submit **up to 3 prior art references** for each patent
+application. So it’s important to select your best prior art references.
+
+[FIXME: I lack strategic insight here, from my understanding of what Raffi wanted, the most useful prior art references are those which make the patent fail the novelty threshold. But what if prior art is inadmissible for novelty but would still be very good for the non-obvious test? which are the chances that would work, how much should we encourage this?]
+
+[QUESTION: Raffi: maybe you could give a few pieces of advice on what you think makes good prior art for 3PPI]
+
+[TODO: explain in more details date for novelty]
+
+## Tools and tips to find good prior art
+
+[TODO: explain claimcharts here?]-->
+
+# HOWTO submit your selected prior art references
+
+## Find relevant patent applications
+
+The US patent office classifies patent and applications in classes and
+subclasses. Linux Defenders maintain [a list of classes relevant to
+software][usptoclasses] taken from the [USPTO classification][usptofull].
+
+[usptoclasses]: usptoclasses
+[usptofull]: http://www.uspto.gov/web/patents/classification/selectnumwithtitle.htm
+
+To [search through the database of patent applications][usptodb] and monitor classes of interest, you need to [learn their query format][queryhelp].
+
+[usptodb]: http://appft1.uspto.gov/netahtml/PTO/search-adv.html
+[queryhelp]: http://appft1.uspto.gov/netahtml/PTO/help/helpadv.html
+
+
+For instance, to search all applications related to Artificial Intelligence
+(class **706**), query 
+<code>CCL/**706**/$</code>. 
+
+You can also limit the query to certain
+timeframes. For instance, to search from **January 2014** to
+**September** 2014, add to your query 
+<code>AND PD/**1**/$/**2014**->**9**/$/2014</code>
+ (The `$` works as a catch-all).
+
+<aside class="sidenote note right">
+
+The USPTO maintains a [FAQ related to preissuance submissions][FAQ].
+
+[FAQ]: http://www.uspto.gov/aia_implementation/faqs-preissuance-submissions.jsp
+
+  -  [General](http://www.uspto.gov/aia_implementation/faqs-preissuance-submissions.jsp#heading-1)
+  -  [Filing a Preissuance Submission](http://www.uspto.gov/aia_implementation/faqs-preissuance-submissions.jsp#heading-2)
+  -  [Content of a Preissuance Submission](http://www.uspto.gov/aia_implementation/faqs-preissuance-submissions.jsp#heading-3)
+  -  [Concise Description of Relevance](http://www.uspto.gov/aia_implementation/faqs-preissuance-submissions.jsp#heading-4)
+  -  [Timing of a Preissuance Submission](http://www.uspto.gov/aia_implementation/faqs-preissuance-submissions.jsp#heading-5)
+  -  [Fees](http://www.uspto.gov/aia_implementation/faqs-preissuance-submissions.jsp#heading-6)
+  -  [Processing of Preissuance Submissions](http://www.uspto.gov/aia_implementation/faqs-preissuance-submissions.jsp#heading-7)
+
+</aside>
+
+## Submit prior art
+
+The procedure of third party preissuance submissions is identified as “37 CFR
+1.290” within the USPTO. You can **submit up to three prior art references**
+without [paying fees] and statement “37 CFR 1.290(g)” is selected in the
+submission interface. You can [submit without registration][submit].
+[Registered filers][registered] can save a submission draft for 7 days (the
+application requires Java).
+
+When you select that you submit prior art for an existing application and that
+the procedure is “37 CFR 1.290” you need to identify the patent application
+with the application number. You will also need a confirmation number, which
+can be found on the USPTO [PAIR system][pair]. You will need this number when
+making your prior art submission and to track your submission.
+
+[paying fees]: http://www.uspto.gov/about/offices/cfo/finance/fees.jsp
+[submit]: https://efs.uspto.gov/efile/portal/efs-unregistered
+[registered]: https://efs.uspto.gov/efile/myportal/efs-registered
+[pair]: http://portal.uspto.gov/external/portal/pair
+[pdf]: http://www.uspto.gov/forms/3prsubmission_instructions.pdf
+[fullpdf]: http://www.uspto.gov/patents/process/file/efs/guidance/QSG_Third_Party_Preissuance.pdf
+[quick]: http://www.uspto.gov/patents/process/file/efs/guidance/EFS-WebQuickStartGuide.pdf
+
+
+You have to select what kind of prior art reference you submit:
+
+  - a US patent
+  - a US patent application
+  - a foreign patent or patent application
+  - non-patent documents
+
+However, it should be noted that almost all examiners rely on patent and patent
+applications references when they reject claims so **patent references should
+be preferred over others**.
+
+### Formalities
+
+  - For all of these documents, several details will be needed, like the name
+    of the inventor for a patent, the date of publication, the title, etc.  
+
+  - For documents other than US patents, you will need to provide a copy. 
+
+  - For documents not in English, you will need to attach a translation.
+
+  - For each prior art reference, you need to provide the information to
+    identify portions of the document and to expose how they are relevant to
+    the patent.
+
+    However, *stick to the facts* and the content of the prior art documents
+    itself and **don’t propose legal arguments related to the patent’s
+    validity**, it is the exclusive competence of the examiner.
+
+    The USPTO suggests to format this information as a “claimchart” emphasising
+    elements of the claims on the left and a concise description or quotation
+    of relevance of the publication on the right:
+
+    <table class="table">
+    <colgroup>
+    <col width="15%" />
+    <col width="84%" />
+    </colgroup>
+    <thead>
+    <tr class="tableheader">
+    <th align="left">Claim 1</th>
+    <th align="left">Publication X</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr class="odd">
+    <td align="left"><p>Element A</p></td>
+    <td align="left"><p>As discussed on page 1, publication X discloses a machine that performs the same function as the machine recited in claim 1. The machine set forth in publication X includes many of the same parts discussed in the specification of this application. For example, in the first embodiment depicted in Figure 2 and discussed on page 5, the machine of publication X expressly includes element A of claim 1. See lines 7-14 on page 5 of publication X.</p></td>
+    </tr>
+    <tr class="even">
+    <td align="left"><p>Element B</p></td>
+    <td align="left"><p>The first embodiment also includes element B of claim 1. See lines 1-3 on page 6 of publication X.</p></td>
+    </tr>
+    </tbody>
+    </table>
+
+<!--
+
+#### Evidence for lack of an actual publication date {#nopubdate}
+
+The publication date is paramount to make prior art admissible. However,
+sometimes a prior art reference does not contain a publication date itself. In
+such cases, it is necessary to submit evidence that the document was publicly
+accessible before the filing date of the patent application. Such evidence may
+be in the form of affidavits or declarations.
+
+> Manual of Patent Examining Procedure (MPEP) § [715].04(II). II.  Formal
+> requirements of affidavits and declarations
+> 
+> An affidavit is a statement in writing made under oath before a notary
+> public, magistrate, or officer authorized to administer oaths. See MPEP §
+> 602et seq. for additional information regarding formal requirements of
+> affidavits.
+> 
+> 37 CFR 1.68 permits a declaration to be used instead of an affidavit. The
+> declaration must include an acknowledgment by the declarant that willful
+> false statements and the like are punishable by fine or imprisonment, or both
+> (18 U.S.C. 1001) and may jeopardize the validity of the application or any
+> patent issuing thereon. The declarant must set forth in the body of the
+> declaration that all statements made of the declarant’s own knowledge are
+> true and that all statements made on information and belief are believed to
+> be true. 
+
+
+[715]: http://www.uspto.gov/web/offices/pac/mpep/s715.html
+
+According to [the USPTO][FAQ]: 
+Affidavits and declarations submitted as evidence of publication must be limited to facts establishing why a submitted document qualifies as a publication and must not to be used as a mechanism to place information that is not pertinent to establishing the document as a publication before the examiner.  Further, affidavits and declarations submitted as evidence of publication should explain how the affiant/declarant has personal knowledge of the facts described therein and must be specific to the document(s) submitted for consideration.
+-->
