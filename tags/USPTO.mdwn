@@ -1,0 +1,4 @@
+[[!meta title="pages tagged USPTO"]]
+
+[[!inline pages="tagged(USPTO)" actions="no" archive="yes"
+feedshow=10]]
