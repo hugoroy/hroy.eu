@@ -1,0 +1,7 @@
+[[!meta title="Work at Open Invention Network"]]
+[[!tag lang:en Open_Invention_Network Linux_Defenders]]
+
+Here’s a list of documents related to my work at Open Invention Network. Please, do not assume that everything here is official.
+
+[[!inline pages="page(./oin/*) and !*/Discussion" archive=yes
+feedshow=10 quick=yes trail=no action=yes feeds=yes]]
