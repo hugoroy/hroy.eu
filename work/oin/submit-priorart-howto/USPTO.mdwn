@@ -1,4 +1,9 @@
 
+[[!meta title="Submit prior art for US patent applications"]]
+
+<aside class="toc">Contents
+[[!toc startlevel=2 levels=2 ]]
+</aside>
     
 
 With the passing of the [America Invents Act][AIA], the US patent office now
