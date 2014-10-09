@@ -4,7 +4,7 @@
     
 
 With the passing of the [America Invents Act][AIA], the US patent office now
-accepts prior art submissions from anyone. This guide will help you get through
+accepts prior art submissions from anyone[^anyone]. This guide will help you get through
 the procedure to submit prior art effectively and contribute to getting patent
 applications rejected.
 
@@ -140,7 +140,6 @@ For instance, to search all applications related to Artificial Intelligence
 timeframes by adding `AND PD/1/$/2014->9/$/2014` to search from January 2014 to
 September 2014. (The `$` works as a catch-all).
 
-## Submit prior art
 
 <aside class="sidenote note right">
 
@@ -157,6 +156,8 @@ The USPTO maintains a [FAQ related to preissuance submissions][FAQ].
   -  [Processing of Preissuance Submissions](http://www.uspto.gov/aia_implementation/faqs-preissuance-submissions.jsp#heading-7)
 
 </aside>
+
+## Submit prior art
 
 The procedure of third party preissuance submissions is identified as “37 CFR
 1.290” within the USPTO. You can **submit up to three prior art references**
@@ -273,3 +274,10 @@ be in the form of affidavits or declarations.
 According to [the USPTO][FAQ]: 
 Affidavits and declarations submitted as evidence of publication must be limited to facts establishing why a submitted document qualifies as a publication and must not to be used as a mechanism to place information that is not pertinent to establishing the document as a publication before the examiner.  Further, affidavits and declarations submitted as evidence of publication should explain how the affiant/declarant has personal knowledge of the facts described therein and must be specific to the document(s) submitted for consideration.
 -->
+
+[^anyone]: From the USPTO: A third-party can submit prior art, but not an
+  individual who has a duty to disclose information with respect to the
+  application (i.e., each individual associated with the filing and prosecution
+  of the patent application) under 37 CFR 1.56. The party making the submission
+  must also state that the submission complies with the requirements of 35
+  U.S.C. 122(e) and 37 CFR 1.290.
