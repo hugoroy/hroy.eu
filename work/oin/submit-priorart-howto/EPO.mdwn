@@ -1,0 +1,111 @@
+[[!meta title="Submit prior art to the European Patent Office"]]
+
+[[!tag lang:en patents EPO]]
+
+<aside class="toc">
+Contents
+
+[[!toc startlevel=1 levels=4 ]]
+
+</aside>
+    
+
+
+The European Patent Convention allows any person to submit prior art at
+the European Patent Office. There are two procedures:
+[one](http://www.epo.org/law-practice/legal-texts/html/epc/2013/e/ar115.html)
+before the patent is granted (the “observations” procedure), the
+[other](http://www.epo.org/law-practice/legal-texts/html/epc/2013/e/apv.html)
+within 9 months after the patent is granted (the “opposition”
+procedure).
+
+The official languages of the European Patent Office are English, French
+and German. You should provide translations to one of these languages
+for documents in other languages.
+
+0. Which prior art references can you submit?
+=============================================
+
+Two conditions are absolutely necessary for a document to constitute
+prior art:
+
+-   the document must have been made available to the public
+
+-   the publication date is paramount in order for prior art to be
+    relevant for challenging patent validity, so any document where the
+    publication date is uncertain is going to have less value.[^1]
+
+In order to constitute prior art and establish that the patent
+application claims something that is **not new**, the publication date
+must precede the patent application filing date and its priority date.
+
+1. The EPO observation procedure
+================================
+
+The observation procedure starts after the publication of the European
+patent application (according to article
+[93](http://www.epo.org/law-practice/legal-texts/html/epc/2013/e/ar93.html))
+and ends when such application is granted. The EPO
+[guidelines](http://www.epo.org/law-practice/legal-texts/html/guidelines/e/e_v_3.htm)
+specify that:
+
+> Although lack of novelty and/or inventive step are the most common
+> observations, third-party observations may also be directed to clarity
+> (Art. 84), sufficiency of disclosure (Art. 83), patentability (Art.
+> 52(2) and (3), 53 or 57) and unallowable amendments (Art. 76(1),
+> 123(2)).
+
+Third-party observations can be [submitted online directly to the
+EPO](http://www.epo.org/searching/free/observations.html).
+
+2. The EPO opposition procedure
+===============================
+
+The opposition procedure is much more complex. A third-party filing a
+notice of opposition will become a party to the procedure.
+
+Any person may oppose a patent **within 9 months of the publication of
+the mention of the grant** in the European Patent
+[Bulletin](http://www.epo.org/searching/free/bulletin.html). The
+formalities of the opposition notice are set forth in rule
+[76](http://www.epo.org/law-practice/legal-texts/html/epc/2013/e/r76.html).
+
+> (a) particulars of the opponent as provided in [Rule
+>     41](http://www.epo.org/law-practice/legal-texts/html/epc/2013/e/r41.html),
+>     paragraph 2(c);
+>
+> (b) the number of the European patent against which opposition is
+>     filed, the name of the proprietor of the patent and the title of
+>     the invention;
+>
+> (c) a statement of the extent to which the European patent is opposed
+>     and of the grounds on which the opposition is based, as well as an
+>     indication of the facts and evidence presented in support of these
+>     grounds; […]
+>
+#### Fees
+
+> […] Each party to the opposition proceedings shall bear the costs it
+> has incurred, unless the Opposition Division, for reasons of equity,
+> orders, in accordance with the Implementing Regulations, a different
+> apportionment of costs. […] (article
+> [104](http://www.epo.org/law-practice/legal-texts/html/epc/2013/e/ar104.html)).
+
+These rules are set forth in rule
+[88](http://www.epo.org/law-practice/legal-texts/html/epc/2013/e/r88.html).
+
+> (1) The apportionment of costs shall be dealt with in the decision on
+>     the opposition. Such apportionment shall only take into
+>     consideration the expenses necessary to assure proper protection
+>     of the rights involved. The costs shall include the remuneration
+>     of the representatives of the parties.
+>
+> (2) The Opposition Division shall, on request, fix the amount of costs
+>     to be paid under a final decision apportioning them. A bill of
+>     costs, with supporting evidence, shall be attached to the request.
+>     Costs may be fixed once their credibility is established.
+>
+[^1]: Where the actual publication date of a document is not known, you
+    will have to provide evidence to establish when the document was
+    publicly available.
+

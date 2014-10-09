@@ -1,6 +1,6 @@
 [[!meta title="Submit prior art for US patent applications"]]
 
-[[!tag lang:en patents]]
+[[!tag lang:en patents USPTO]]
 
 <aside class="toc">
 Contents
