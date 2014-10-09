@@ -8,7 +8,7 @@ accepts prior art submissions from anyone. This guide will help you get through
 the procedure to submit prior art effectively and contribute to getting patent
 applications rejected.
 
-<aside> <!--Trying to be very, very concise at the expense of legal details-->
+<aside class="sidenote note right"> <!--Trying to be very, very concise at the expense of legal details-->
 #### What is prior art?  
 
 Prior art is information available to the public before a patent application’s
@@ -142,7 +142,7 @@ September 2014. (The `$` works as a catch-all).
 
 ## Submit prior art
 
-<aside>
+<aside class="sidenote note right">
 
 The USPTO maintains a [FAQ related to preissuance submissions][FAQ].
 
@@ -223,6 +223,7 @@ others.
     +-----------+------------------------------------------------------------------+
     | Element B | The first embodiment also includes element B of claim 1.  See lines 1-3 on page 6 of publication X. |
     +-----------+------------------------------------------------------------------+
+
 
 <!--
 
