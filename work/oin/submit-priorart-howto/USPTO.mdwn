@@ -1,3 +1,16 @@
+[[!meta title="Submit prior art for US patent applications"]]
+
+[[!tag lang:en patents]]
+
+<aside class="toc">
+Contents
+
+[[!toc startlevel=2 levels=2 ]]
+
+</aside>
+    
+
+
 With the passing of the [America Invents
 Act](https://en.wikipedia.org/wiki/Leahy-Smith_America_Invents_Act), the
 US patent office now accepts prior art submissions from anyone. This
@@ -297,19 +310,6 @@ be in the form of affidavits or declarations.
 According to [the USPTO][FAQ]: 
 Affidavits and declarations submitted as evidence of publication must be limited to facts establishing why a submitted document qualifies as a publication and must not to be used as a mechanism to place information that is not pertinent to establishing the document as a publication before the examiner.  Further, affidavits and declarations submitted as evidence of publication should explain how the affiant/declarant has personal knowledge of the facts described therein and must be specific to the document(s) submitted for consideration.
 -->
-
-
-[[!meta title="Submit prior art for US patent applications"]]
-
-[[!tag lang:en patents]]
-
-<aside class="toc">
-Contents
-
-[[!toc startlevel=2 levels=2 ]]
-
-</aside>
-    
 
 
 [^1]: From the USPTO: A third-party can submit prior art, but not an
