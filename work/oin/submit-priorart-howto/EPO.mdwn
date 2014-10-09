@@ -74,9 +74,7 @@ formalities of the opposition notice are set forth in rule
 >     indication of the facts and evidence presented in support of these
 >     grounds; […]
 >
-* * * * *
-
-#### Fees
+The procedure is not admitted until the fees are paid:
 
 > […] Each party to the opposition proceedings shall bear the costs it
 > has incurred, unless the Opposition Division, for reasons of equity,
@@ -98,7 +96,8 @@ These rules are set forth in rule
 >     costs, with supporting evidence, shall be attached to the request.
 >     Costs may be fixed once their credibility is established.
 >
-* * * * *
+Oppositions may be [submitted
+online](http://www.epo.org/applying/european/oppositions.html).
 
 Find relevant patent and patent applications
 ============================================
