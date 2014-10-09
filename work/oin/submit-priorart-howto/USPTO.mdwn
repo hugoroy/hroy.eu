@@ -153,7 +153,7 @@ For instance, to search all applications related to Artificial Intelligence
 
 You can also limit the query to certain
 timeframes. For instance, to search from **January 2014** to
-**September** 2014, query
+**September** 2014, add to your query 
 <code>AND PD/**1**/$/**2014**->**9**/$/2014</code>
  (The `$` works as a catch-all).
 
