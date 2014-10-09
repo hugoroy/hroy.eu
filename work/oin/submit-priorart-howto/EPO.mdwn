@@ -96,6 +96,15 @@ These rules are set forth in rule
 >     costs, with supporting evidence, shall be attached to the request.
 >     Costs may be fixed once their credibility is established.
 >
+Find relevant patent and patent applications
+============================================
+
+You can [search through the EPO’s patent
+database](https://register.epo.org/regviewer). You can also search
+through the
+[classification](http://worldwide.espacenet.com/classification) to find
+relevant classes.
+
 [^1]: Where the actual publication date of a document is not known, you
     will have to provide evidence to establish when the document was
     publicly available.
