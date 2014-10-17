@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/hugoroy
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://hroy.eu
+  * I am hugoroy (https://keybase.io/hugoroy) on keybase.
+  * I have a public key with fingerprint EBE6 F998 953C BD94 FFA4  E671 8D02 2C99 B3D7 B795
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.2"
+        },
+        "key": {
+            "fingerprint": "ebe6f998953cbd94ffa4e6718d022c99b3d7b795",
+            "host": "keybase.io",
+            "key_id": "8D022C99B3D7B795",
+            "uid": "608d68c2f6dd050e056f9ff77db05a00",
+            "username": "hugoroy"
+        },
+        "merkle_root": {
+            "ctime": 1413544947,
+            "hash": "dc24eeb8231258b328646caec60d224d78fa7e4ebfa8e3b12b17b7bd7800b3b743878572dee45f4186737a8da28d38d1fba5d27553538d6e57f63ac55a4af67b",
+            "seqno": 80522
+        },
+        "service": {
+            "hostname": "hroy.eu",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1413545006,
+    "expire_in": 157680000,
+    "prev": "11b5a5b6ebb8adcc96ddb9b1e108e76aa799ae71aaf6e7676c70fb1988f9f144",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+owFVkmtoHUUUx/feamgFHxS/xIqUJSI215vZ2Zmd2ZsvIQYTv2gVqVAr15mdszeb
+x+7t7iYxxlRFfFxBKCFqK8aS+EFrzYc2qZf6IdoKCj4qrUIL6QNEKzbpA9r4aBWd
+TVu03/ac/Z3/Of9zZuvNK4x87vV8YfvMkfobua9/lcZjbX8VR0wZqWGzNGJ6fQGE
+afYVin4wS2YvDEuRQDGI1oaRgmJPsvYqUzAHIU6CKNQUKrIiNkcLGZ4V+0FYgbga
+B5mWCRIc33W5S21PKpf4viDgMIsrhLHnutJWTDKXasnuKEmv62oua5YDpbO8Q/P3
+u2673cHar/ADyz8cxJXDPew7SiGKAFHdz/cZUxJRgVAGJhBftdQ9UIniaDgbtx/i
+3j4ox1G07NlLg4ywiGVTQlzC9EAi6dY1ysMEQHJsW5hyaWPuEMcT4DlIYUwU475g
+QED6goMtLSwtbUnqPELSlozYnHHKsAIg1CcWd5jNBFcCc2VzZflSUIUZpTbVoQOU
++Y4tPEoFEb7DpHaQwOYwMkscUYxHszAeDDzIxs6Wds2bNlaEAY1X4yiNvKgvS6Zp
+NSllftPhakYNgSxfqX8fyjIIlT7X/+9pafS6XVCEnIIJT1eDGMpBRlDmaGsIZY1g
+UGtalqSCSgek5EJ5nqtvIV1pgYU4MEcI5roCmCW0Hx0zx2PIl5bLuT6VRch/DvXW
+U1HRkklQCUU6EIM5WsvdeYORyxsNN+azB2vctOq2a694qLbSmJqceevNTv7cwx8f
+LxmNL7zTGqy79YuLD716ZNdXS7WzUz3NG3fuOhPWf5kcu70E9T1PNM6+e5EtdP0x
+1pVfPdO635h4kt/zaNPLf+899dvIpuN3HzrYdpju+HnL1Kc/fNbcufFYx7oPXvyy
+pb7/5Llvm6YrvRvWoAMPHl4c3/pjse3zyT0Hz384W9ndGYzPhRN80+PB6YlvTre3
+Hjv0T8fJo3Ri5wPNc0vr18+tfPZteCmZPVNYrOXsZy68gscO1Peeeu3ytqMNwugv
+vddA8F0f1T5ZWP3IpcXfn8rdt21w3/Pfb54e253sW2jvaunZMl/7czydPHHL+cbL
+9/50abqlaSiYH2/57uzS/B3b/wU=
+=213p
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hugoroy
+
+==================================================================
