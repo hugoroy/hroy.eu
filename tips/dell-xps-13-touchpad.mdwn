@@ -20,13 +20,21 @@
  3. Edit `/etc/X11/xorg.conf.d/50-synaptics.conf`
 
         Section "InputClass"
-            Identifier "touchpad catchall"
-            Driver "synaptics"
-            MatchIsTouchpad "on"
-            Option "TapButton1" "1"
-            Option "TapButton2" "2"
-            Option "TapButton3" "0"
-            Option "ClickFinger3" "0"
+                Identifier "touchpad catchall"
+                Driver "synaptics"
+                MatchIsTouchpad "on"
+                Option "TapButton1" "1"
+                Option "TapButton2" "0"
+                Option "TapButton3" "0"
+                Option "ClickFinger2" "0"
+                Option "ClickFinger3" "0"
+
+        # This option is recommend on all Linux systems using evdev, but cannot be
+        # enabled by default. See the following link for details:
+        # http://who-t.blogspot.com/2010/11/how-to-ignore-configuration-errors.html
+                MatchDevicePath "/dev/input/event*"
+
+        EndSection
 
  4. Configure your gestures with Touchègg
 
@@ -89,7 +97,7 @@
 
  5. Add to your session (using `gnome-session-properties` for instance):
      - `touchegg`
-     - `synclient TapButton3=0`
+<!--     - `synclient TapButton3=0`-->
 
 
 The real improvement is that I can use three-finger tapping to
