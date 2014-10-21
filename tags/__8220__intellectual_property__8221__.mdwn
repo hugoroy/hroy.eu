@@ -1,4 +1,0 @@
-[[!meta title="pages tagged “intellectual property”"]]
-
-[[!inline pages="tagged(__8220__intellectual_property__8221__)" actions="no" archive="yes"
-feedshow=10]]

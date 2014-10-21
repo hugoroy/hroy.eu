@@ -1,4 +1,0 @@
-[[!meta title="pages tagged droitD’Auteur"]]
-
-[[!inline pages="tagged(droitD__8217__Auteur)" actions="no" archive="yes"
-feedshow=10]]
