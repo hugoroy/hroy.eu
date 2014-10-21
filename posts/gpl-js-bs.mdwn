@@ -2,7 +2,7 @@
 [[!meta license="[CC0-1.0](http://creativecommons.org/publicdomain/zero/1.0/)"]]
 [[!meta description="Be careful what you read about how the GPL applies to Javascript. There’s a lot of nonsense out there"]]
 [[!meta language="en"]]
-[[!tag lang:en javascript GnuGeneralPublicLicense freeSoftware licenses]]
+[[!tag lang:en javascript GNU GPL-3 freeSoftware licenses]]
 
 <aside>[[!img js.png alt="JS" class="pull-right aside"]]</aside>
 
