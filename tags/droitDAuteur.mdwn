@@ -1,0 +1,4 @@
+[[!meta title="pages tagged droitDAuteur"]]
+
+[[!inline pages="tagged(droitDAuteur)" actions="no" archive="yes"
+feedshow=10]]
