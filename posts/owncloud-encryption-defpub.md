@@ -1,5 +1,5 @@
 
-Last month, I have worked with Björn Schießle on ownCloud’s first defensive
+Last month, I worked with Björn Schießle on ownCloud’s first defensive
 publication. This one covers ownCloud’s encryption system.
 
 The challenge is that ownCloud is a free software server for file syncing and
