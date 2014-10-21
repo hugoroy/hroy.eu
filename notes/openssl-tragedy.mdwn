@@ -44,5 +44,5 @@ explanation of how the vulnerability works."]]
 [[!meta license="[CC0-1.0](http://creativecommons.org/publicdomain/zero/1.0/) except for the XKCD graphic"]]
 [[!meta description="Heartbleed: marketing and project governance issues."]]
 [[!meta language="en"]]
-[[!tag lang:en heartbleed security governance marketing free_software]]
+[[!tag lang:en Heartbleed security governance marketing freeSoftware]]
 

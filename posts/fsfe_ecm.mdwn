@@ -1,6 +1,6 @@
 [[!meta title="Coming back from the first FSFE Coordinators
 Meeting"]]
-[[!tag fsfe lang:en]][[!meta language="en"]]
+[[!tag FSFE lang:en]][[!meta language="en"]]
 
 <aside class="pull-right">
 [[!img /images/fsfe_ecm-group_pic/2013-09-ECM-group-picture.JPG caption="Some of the 22

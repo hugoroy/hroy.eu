@@ -15,5 +15,5 @@ interface.
 vim. I suppose there's a way to launch a terminal and then vim…
 
 [[!meta title="It’s all text!"]]
-[[!tag lang:en firefox vim]]
+[[!tag lang:en Firefox Vim]]
 [[!meta language="en"]]

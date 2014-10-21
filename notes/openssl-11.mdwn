@@ -42,7 +42,7 @@ C][inessentialssl].
 [[!meta license="[CC0-1.0](http://creativecommons.org/publicdomain/zero/1.0/)"]]
 [[!meta description="Hartbleed contributors: 10 volunteers and 1 employee."]]
 [[!meta language="en"]]
-[[!tag lang:en heartbleed security Internet free_software]]
+[[!tag lang:en Heartbleed security internet freeSoftware]]
 
 The whole heartbleed bugs also reminds me that OpenSSL is also an
 example of bad idea when it comes to

@@ -1,7 +1,7 @@
 [[!meta title="Les CGUs qu’on ne lit jamais"]]
 [[!meta language="fr"]]
 [[!meta description=""]]
-[[!tag lang:fr ToSDR Terms_of_service privacy]]
+[[!tag lang:fr ToSDR termsOfService privacy]]
 [[!meta date="2013-06-02"]]
 
 <span class="fa fa-fw fa-lg">

@@ -13,7 +13,7 @@ message posté et le genre de media utilisé.
 
 Il se pose parfois sous d’autres formes :
 
-  - faut-il instaurer un [[!taglink droit_à_l’oubli|right_to_be_forgotten]] ?
+  - faut-il instaurer un [[!taglink droit_à_l’oubli|rightToBeForgotten]] ?
 
   - la [[!taglink censure|censorship]] est-elle parfois légitime ou autrement dit, dans
     quelle mesure admet-on qu’il y a abus de la liberté
@@ -201,7 +201,7 @@ d’expression prend une toute autre dimension. Disons que si je
 publie un truc par an, je prendrais probablement beaucoup de temps
 de réflexion pour peaufiner ce que je publie, peser le pour et le
 contre, etc. Dans cette optique, lorsque je fais usage de ma
-[[!taglink liberté_d’expression|freedom_of_expression]], il est normal que j’assume le propos que
+[[!taglink liberté_d’expression|freedomOfExpression]], il est normal que j’assume le propos que
 j’ai publié à un moment donné. Mais dans l’optique où on publie
 beaucoup et tous les jours, il me semble normal d’envisager qu’il
 n’est pas très juste d’imposer une telle responsabilité. Après

@@ -1,5 +1,5 @@
 [[!meta title="Work at Open Invention Network"]]
-[[!tag lang:en Open_Invention_Network Linux_Defenders]]
+[[!tag lang:en OpenInventionNetwork LinuxDefenders]]
 
 Here’s a list of documents related to my work at Open Invention Network. Please, do not assume that everything here is official.
 

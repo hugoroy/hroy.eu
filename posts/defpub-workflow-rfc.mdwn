@@ -1,7 +1,7 @@
 [[!meta title="How to produce defensive publications"]] 
 [[!meta description="A proposal and request for comments on how to make it easy for free software projects to produce defensive publications against patents."]]
 [[!meta language="en"]]
-[[!tag lang:en Open_Invention_Network defensive_publications patents Free_Software]]
+[[!tag lang:en OpenInventionNetwork defensivePublications patents freeSoftware]]
 
 Last month, I [[introduced_what_defensive_publications_are|intro-defpubs]]: documents describing something (a new feature, a new algorithm, a new system) in order to prevent further patents. 
 
@@ -80,5 +80,5 @@ Also, I’m very much interested in your feedback. What’s your opinion? What d
 
 * * *
 
-Next month, I should be able to show an example from [[!taglink defensive_publications]], with additional explanation and comments!
+Next month, I should be able to show an example from [[!taglink defensive_publications|defensivePublications]], with additional explanation and comments!
 

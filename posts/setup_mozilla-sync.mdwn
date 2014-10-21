@@ -1,5 +1,5 @@
 [[!meta title="Setting up Firefox Sync"]]
-[[!tag lang:en firefox free_software self-hosting]] [[!meta language="en"]]
+[[!tag lang:en Firefox freeSoftware self-hosting]] [[!meta language="en"]]
 
 [Sync][Firefox Sync] enables to have Firefox on several devices and to sync
 bookmarks, passwords, history, and other browser data between

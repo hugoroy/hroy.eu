@@ -1,5 +1,5 @@
 [[!meta title="Dell XPS 13 with Ubuntu: wrong wireless chipset"]]
-[[!tag Dell-XPS-13 Ubuntu Windows_Tax Free_Software lang:en]][[!meta language="en"]]
+[[!tag Dell-XPS-13 Ubuntu WindowsTax freeSoftware lang:en]][[!meta language="en"]]
 
 # The Windows Tax problem and free software
 

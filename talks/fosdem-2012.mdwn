@@ -1,7 +1,7 @@
 [[!meta title="Legal Panel on Application Stores and Free Software"]]
 [[!meta language="en"]]
 [[!meta description=""]]
-[[!tag lang:en FOSDEM free_software app_stores licenses compliance]]
+[[!tag lang:en FOSDEM freeSoftware appStores licenses compliance]]
 [[!meta date="2012-02-04"]]
 
 <span class="fa fa-fw fa-lg">
