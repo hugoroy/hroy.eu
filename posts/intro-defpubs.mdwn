@@ -2,7 +2,7 @@
 [[!meta title="Intro to Open Invention Network’s defensive publications"]] 
 [[!meta description="What I’ve been working on the last three weeks, my internship at Open Invention Network starts"]]
 [[!meta language="en"]]
-[[!tag lang:en Open_Invention_Network defensive_publications patents Free_Software]]
+[[!tag lang:en OpenInventionNetwork defensivePublications patents freeSoftware]]
 
 Three weeks ago, I started working for *Open Invention Network* as an intern[^intern]. [Open Invention Network][OIN], or OIN in short, aims at creating a safe environment for Linux and Linux-based systems to thrive in spite of all the threats that patents constitute to software developers.
 
