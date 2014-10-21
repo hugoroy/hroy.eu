@@ -2,7 +2,7 @@
 [[!meta license="[CC0-1.0](http://creativecommons.org/publicdomain/zero/1.0/)"]]
 [[!meta description="Be careful what you read about how the GPL applies to Javascript. There’s a lot of nonsense out there"]]
 [[!meta language="en"]]
-[[!tag lang:en Javascript GNU_GPL free_software licenses]]
+[[!tag lang:en javascript GnuGeneralPublicLicense freeSoftware licenses]]
 
 <aside>[[!img js.png alt="JS" class="pull-right aside"]]</aside>
 
@@ -14,7 +14,7 @@ the time to write something about it until now… sorry!</small>
 
 It’s quite outstanding, but trying to find some good resource
 online about this issue is nearly impossible. If you try to read
-about how the [[!taglink GNU_GPL|GNU_GPL]] impacts javascript web
+about how the [[!taglink GNU_GPL|GnuGeneralPublicLicense]] impacts javascript web
 apps, you will find so much nonsense---that will make you
 believe the GPL is going to “infect” everything.
 (In spite of the fact that some of the most important Javascript

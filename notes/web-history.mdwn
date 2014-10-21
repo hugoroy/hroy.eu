@@ -2,7 +2,7 @@
 /images/zappa-cat-bw.png alt="zappa and his cat" link=no
 size="150x" class="pull-right aside"]]
 [[!meta language="en"]]
-[[!tag lang:en Frank_Zappa Dave_Winer blogging history]]
+[[!tag lang:en FrankZappa blogging history]]
 
 Frank Zappa used to say that he viewed some of his work as
 journalism: reporting what he saw around him in society. Thus, if

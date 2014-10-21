@@ -1,7 +1,7 @@
 [[!meta title="What’s wrong with data protection – does consent really work?"]]
 [[!meta language="en"]]
 [[!meta description=""]]
-[[!tag lang:en European_Parliament personal_data privacy law]]
+[[!tag lang:en EuropeanParliament personalData privacy law]]
 [[!meta date="2013-01-31"]]
 
 <span class="fa fa-fw fa-lg">

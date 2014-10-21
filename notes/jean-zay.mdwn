@@ -1,5 +1,5 @@
 [[!meta title="Re: Jean Zay et la possibilité d’un retour aux origines du domaine public"]]
-[[!tag lang:fr droit_d’auteur Jean_Zay Augustin-Charles_Renouard]][[!meta language="fr"]]
+[[!tag lang:fr droitD’Auteur JeanZay Augustin-CharlesRenouard]][[!meta language="fr"]]
 [[!template  id="inreplyto.tmpl"
     replyto="Jean Zay et la possibilité d’un retour aux origines du domaine public"
     link="http://scinfolex.com/2014/03/21/jean-zay-et-la-possibilite-dun-retour-aux-origines-du-domaine-public/"

@@ -6,7 +6,7 @@ believed to belong to the label, Poker Flat Recordings, or the
 graphic artist(s)."]]
 [[!meta description="Listening to Trentemoller's 2006 Last Resort"]]
 [[!meta language="en"]]
-[[!tag lang:en Music Ambient Minimal]]<aside class="pull-right"
+[[!tag lang:en music ambient minimal]]<aside class="pull-right"
 id="last-resort-cover-thumb">[[!img lastresort.jpg alt="Last
 Resort cover" link=no size="150x"]]</aside>
 
