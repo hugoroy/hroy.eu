@@ -1,0 +1,4 @@
+[[!meta title="pages tagged JeanZay"]]
+
+[[!inline pages="tagged(JeanZay)" actions="no" archive="yes"
+feedshow=10]]

@@ -1,0 +1,4 @@
+[[!meta title="pages tagged EuropeanParliament"]]
+
+[[!inline pages="tagged(EuropeanParliament)" actions="no" archive="yes"
+feedshow=10]]

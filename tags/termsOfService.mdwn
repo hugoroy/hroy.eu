@@ -1,0 +1,4 @@
+[[!meta title="pages tagged termsOfService"]]
+
+[[!inline pages="tagged(termsOfService)" actions="no" archive="yes"
+feedshow=10]]

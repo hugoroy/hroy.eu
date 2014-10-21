@@ -1,0 +1,4 @@
+[[!meta title="pages tagged intellectualProperty"]]
+
+[[!inline pages="tagged(intellectualProperty)" actions="no" archive="yes"
+feedshow=10]]
