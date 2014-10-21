@@ -1,0 +1,4 @@
+[[!meta title="pages tagged appStores"]]
+
+[[!inline pages="tagged(appStores)" actions="no" archive="yes"
+feedshow=10]]
