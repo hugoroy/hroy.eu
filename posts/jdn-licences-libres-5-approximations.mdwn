@@ -1,7 +1,7 @@
 
 [[!meta title="5 approximations à rectifier pour bien s’y repérer dans les licences libres"]] 
 [[!meta language="fr"]]
-[[!tag lang:fr Free_Software licenses]]
+[[!tag lang:fr freeSoftware licenses]]
 
 Le *Journal du Net* publiait la semaine dernière [Comment se repérer dans la jungle des licences open source](http://www.journaldunet.com/solutions/dsi/comparatif-des-licences-open-source.shtml). L’article a été pas mal [partagé sur Twitter](https://twitter.com/JDNSolutions/status/492561458807705600). Malheureusement, il souffre de plusieurs approximations dommageables.
 

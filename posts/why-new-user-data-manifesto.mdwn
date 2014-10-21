@@ -1,7 +1,7 @@
 [[!meta title="Why I want to update the User Data Manifesto"]]
 [[!meta description="I’ve been working on a new version of the User Data Manifesto published by Frank Karlitschek. I think the current version have several problems and I want to fix them."]]
 [[!meta language="en"]]
-[[!tag lang:en Free_Software user rights self-hosting Terms_of_Service]]
+[[!tag lang:en freeSoftware user rights self-hosting termsOfService]]
 
 
 In late 2012, a new manifesto emerged from the free software community: [The User Data Manifesto][udm1], written by Frank Karlitschek of [Owncloud]. Quite similar to the [Franklin Street Statement][franklin] on freedom and network services, the manifesto was taking another approach which I think was good: identifying a new set of rights for users, or as the manifesto puts it: “defining basic rights for people to control their own data in the internet age.”
