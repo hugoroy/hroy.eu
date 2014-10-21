@@ -1,5 +1,5 @@
 [[!meta title="ikiwiki’s aggregate directive the right way"]]
-[[!tag lang:en ikiwiki]][[!meta language="en"]]
+[[!tag lang:en Ikiwiki]][[!meta language="en"]]
 
 I’m a new [[!taglink ikiwiki]] user. I’ve been interested in using this,
 because of the git version control, and I liked the idea that I

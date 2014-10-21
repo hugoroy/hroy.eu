@@ -1,6 +1,6 @@
 [[!meta title="A Turing complete user"]]
 [[!meta copyright="Picture source: <a href='http://totalrecallbook.com/storage/As%20We%20May%20Think%20Vannevar%20Bush%20450910.pdf'>Illustrated version</a>"]]
-[[!tag user free_software CCC video technology lang:en]][[!meta language="en"]]
+[[!tag user freeSoftware CCC video technology lang:en]][[!meta language="en"]]
 
 I like to consider myself a [Turing complete user][turinguser]. This is a
 concept I discovered in a [fascinating essay][turinguser] written

@@ -24,7 +24,7 @@ One month ago, the [European Union’s highest court][ECJ] published its [“rig
 [99]: https://hroy.eu/law/eucj/C-131_12/##99.
 
 [[!toggleable id="rtbfintro" text="""
-I’ve never been a big fan of the so-called “[[!taglink right_to_be_forgotten]]”. 
+I’ve never been a big fan of the so-called “[[!taglink right_to_be_forgotten|rightToBeForgotten]]”. 
 The first time I heard about it was in 2009 when the French digital economy minister launched this debate. Already then, I remember that a student asked her during a conference, [how to erase their name from Google](https://twitter.com/nk_m/status/5645297133). (While at the same time the discussion was about students publishing stuff on Facebook they might regret later…)
 """]]
 

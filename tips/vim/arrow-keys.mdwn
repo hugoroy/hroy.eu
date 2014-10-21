@@ -23,5 +23,5 @@ updated version on github</a>
 
 
 
-[[!tag vimrc lang:en ]]
+[[!tag Vim lang:en ]]
 [[!meta language="en"]]

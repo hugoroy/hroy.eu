@@ -10,7 +10,7 @@ translation isn’t really what I’m looking for.
 If you’ve got any suggestion on how to solve this, you’re very welcome.
 Until then, I’ll just stick to tagging.
 
-[[!tag lang:en ikiwiki]][[!meta language="en"]]
+[[!tag lang:en Ikiwiki]][[!meta language="en"]]
 
 [^1]: You might wonder: what for? I’d like to add a
     <code>lang="en|fr"</code> attribute for each post, that would allow

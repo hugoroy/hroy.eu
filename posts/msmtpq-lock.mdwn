@@ -1,7 +1,7 @@
 [[!meta title="WTF Sunday: couldn’t send email with msmtp any more. Culprit: the lockdir"]]
 [[!meta description="Yesterday, I spent some hours trying to understand what the fuck was wrong with my email setup. Indeed, I could not send email any more even though every time I hit “send” mutt replied to me: “Email sent” even though it clearly wasn’t!"]]
 [[!meta language="en"]]
-[[!tag lang:en mutt msmtp msmtpq]]
+[[!tag lang:en Mutt Msmtp Msmtpq]]
 
 Yesterday, some of the strangest thing happened. I couldn’t send email any more!
 

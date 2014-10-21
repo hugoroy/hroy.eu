@@ -1,7 +1,7 @@
 Reply to an email, easily delete the parts below line
 =====================================================
 
-When I reply to emails, mutt fires up vim. Then
+When I reply to emails, Mutt fires up vim. Then
 I can quickly navigate until I reach the parts I want to reply to
 specifically. Sometimes it’s just a portion of the whole email,
 so I want to leave out the rest. [Matthias][mk@fsfe] shared a
@@ -40,5 +40,5 @@ noremap ,dd :.;/^-- $/dO--
 </pre>
 
 [[!meta title="Email: delete until signature"]]
-[[!tag vimrc lang:en ]]
+[[!tag Vim lang:en ]]
 [[!meta language="en"]]

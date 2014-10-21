@@ -1,9 +1,9 @@
-[[!meta title="Getting things done with mutt and org-mode"]]
+[[!meta title="Getting things done with Mutt and org-mode"]]
 [[!tag Emacs Org-mode lang:en Mutt GTD]][[!meta language="en"]]
 
 The way it works is:
 
-  - You’re reading an email on mutt and you think: Oh, I should
+  - You’re reading an email on Mutt and you think: Oh, I should
   really remember that because I need to do X.
   - You pass this email to emacs’ org-mode containing:
      - the subject, the date and the from
@@ -14,7 +14,7 @@ The way it works is:
 Now, you’re in your org-mode todo list, you can work with it as
 usual. Now you have this bit, and you need to remember what it’s
 about exactly. You can click the link in org-mode, and it will
-open mutt and show you the right email in mutt! 
+open Mutt and show you the right email in Mutt! 
 
   - More info on [Zack’s blog]
   - Get org-mutt directly from his [git repo]

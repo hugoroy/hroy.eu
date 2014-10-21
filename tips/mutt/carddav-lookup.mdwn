@@ -1,5 +1,5 @@
-[[!meta title="Kolab’s CardDav address lookup in mutt"]]
-[[!tag Kolab lang:en mutt]][[!meta language="en"]]
+[[!meta title="Kolab’s CardDav address lookup in Mutt"]]
+[[!tag Kolab lang:en Mutt]][[!meta language="en"]]
 
 This should work with any carddav server, but if you use Kolab's
 carddav server here's some extra tip!
@@ -7,7 +7,7 @@ carddav server here's some extra tip!
 The problem you want to fix is: it's impossible to remember
 everyone's email address. This problem is solved by most email
 programs because they are linked to a contact list already.
-However, for those of us using mutt, there's no full contact
+However, for those of us using Mutt, there's no full contact
 integration so you need to rely on something else.
 
 One obvious solution is to rely on a mail indexer to search and
@@ -77,14 +77,14 @@ Name: Hugo Roy
 TEL (CELL): +...
 EMAIL (INTERNET\, WORK): hugo at fsfe dot org</code></pre>
 
-# Lookup directly from mutt
+# Lookup directly from Mutt
 
 I just added this to my [~/.muttrc](https://github.com/hugoroy/.mutt):
 
     set query_command="pc_query -m '%s'"
     bind editor <Tab> complete-query
 
-That way, in mutt, just type ‘Q’ to search for a contact. Or you
+That way, in Mutt, just type ‘Q’ to search for a contact. Or you
 can also press ‘m’ to start a new message, start typing in the
 ‘To:’ field the name of your contact and just press [Tab] to have
 autocompletion!

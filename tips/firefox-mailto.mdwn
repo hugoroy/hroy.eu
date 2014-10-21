@@ -7,10 +7,10 @@ system preferences to send an email.
 
 For instance, my system is set up so that when I click on an email
 address or mailto: link anywhere, gnome-terminal opens up with
-mutt ready to send an email. For some reason, Firefox tries to
+Mutt ready to send an email. For some reason, Firefox tries to
 figure out all by itself which program I should use.
 
-I have tried to make Firefox use gnome-terminal with [[!taglink mutt]], but it
+I have tried to make Firefox use gnome-terminal with [[!taglink Mutt]], but it
 didn’t work. However, it's possible to add your own webmail there
 (for some reason, I could choose between Yahoo Mail, Gmail and
 Mykolab.com but I can't remember how I did that). Now that I have

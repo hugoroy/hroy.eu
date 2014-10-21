@@ -1,7 +1,7 @@
 [[!meta title="Google Search prioritises https: why this has nothing to do with network neutrality"]]
 [[!meta description="Answer to some critics of Google’s decision"]]
 [[!meta language="en"]]
-[[!tag lang:en Google https network_neutrality]]
+[[!tag lang:en Google https networkNeutrality]]
 
 I’ve seen on Twitter some criticism raised against [Google’s announcement to give a bit more weight to websites with `https`][gghttps]. The core of the argument is not entirely clear, but it takes various forms similar to:
 

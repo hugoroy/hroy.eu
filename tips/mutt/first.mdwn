@@ -1,7 +1,7 @@
-[[!meta title="First tips for mutt beginners"]]
-[[!tag lang:en mutt]][[!meta language="en"]]
+[[!meta title="First tips for Mutt beginners"]]
+[[!tag lang:en Mutt]][[!meta language="en"]]
 
-Once you have mutt up and running with the basic tools that will
+Once you have Mutt up and running with the basic tools that will
 allow you to [fetch][offlineimap], [index][notmuch], view,
 [edit][vim] and [send][msmtp] email, there are a couple of
 things that you probably need in your ``.muttrc``, 
@@ -19,13 +19,13 @@ defaults which I think are not sane.
 [notmuch]: http://notmuchmail.org/
 [msmtp]: http://msmtp.sourceforge.net/
 
-  - In mutt, even if you are on the pager that lets you read a
+  - In Mutt, even if you are on the pager that lets you read a
   selected email, the ``<up>`` and ``<down>`` keys will not help
   you navigate *inside* the email; instead they will bring you to
   the previous or to the next email in the index.
 
     That’s rather weird and unexpected. One of the first thing I
-    did was trying to scroll inside an email, and mutt suddenly
+    did was trying to scroll inside an email, and Mutt suddenly
     browsed dozens of emails from the index (even marking them as
     read…). That’s quite unhelpful. To solve this, add:
 
@@ -38,7 +38,7 @@ defaults which I think are not sane.
     When the pager is not opened, the up and down keys will behave
     as usual in the index.
 
-  - To makes mutt faster
+  - To make Mutt faster
 
         set sleep_time = 0 # be fast
 
@@ -52,20 +52,20 @@ defaults which I think are not sane.
     this option suppresses the pause.
 
   - When you display email in the pager, it can look ugly when the
-  lines are too long and that mutt, by default, is not very nice
+  lines are too long and that Mutt, by default, is not very nice
   about line-wrapping because it can cut words in the middle. You
   probably want to add:
 
         set smart_wrap
 
-  - Changing between mailboxes can be a pain by default in mutt.
-  You need to tell mutt where to find your several mailboxes, so
+  - Changing between mailboxes can be a pain by default in Mutt.
+  You need to tell Mutt where to find your several mailboxes, so
   you’ll be able to switch between them more easily (for instance
   by pressing ``y`` or with the sidebar). Add:
 
         mailboxes $Mail
 
-    I have seen on some mutt configs that ``y``
+    I have seen on some Mutt configs that ``y``
     sometimes does not toggle the list of mailboxes. In that case, you
     can add something like: 
 
