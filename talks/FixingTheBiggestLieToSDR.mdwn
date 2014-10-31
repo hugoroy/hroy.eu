@@ -21,5 +21,5 @@ webkitallowfullscreen="true" frameborder="0" title="Fixing The Biggest Lie on th
 width="666" height="580"></iframe>
 </figure>
 
-<a href="/talks/FixingTheBiggestLieToSDR/revealjs/">RevalJS Slides</a>
+<a href="/talks/FixingTheBiggestLieToSDR/revealjs.slides">RevalJS Slides</a>
 """]]
