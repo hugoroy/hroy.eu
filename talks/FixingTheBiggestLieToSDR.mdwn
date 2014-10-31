@@ -12,8 +12,6 @@
 
 [[!toggleable id="FixingTheBiggestLieToSDR" text="""
 
-<a href="/talks/FixingTheBiggestLieToSDR/revealjs.html">RevalJS Slides</a>
-
 <figure class="slides">
 <figcaption><a href="/talks/FixingTheBiggestLieToSDR/src/">Sources</a></figcaption>
 <iframe
@@ -22,4 +20,6 @@ allowfullscreen="true" mozallowfullscreen="true"
 webkitallowfullscreen="true" frameborder="0" title="Fixing The Biggest Lie on the Web - OWF"
 width="666" height="580"></iframe>
 </figure>
+
+<a href="/talks/FixingTheBiggestLieToSDR/revealjs/">RevalJS Slides</a>
 """]]
