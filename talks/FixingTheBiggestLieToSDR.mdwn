@@ -12,8 +12,10 @@
 
 [[!toggleable id="FixingTheBiggestLieToSDR" text="""
 
+<a href="/talks/FixingTheBiggestLieToSDR/revealjs.html">RevalJS Slides</a>
+
 <figure class="slides">
-<figcaption><a href="//github.com/hugoroy/hroy.eu/tree/master/talks/FixingTheBiggestLie/">Sources</a></figcaption>
+<figcaption><a href="/talks/FixingTheBiggestLieToSDR/src/">Sources</a></figcaption>
 <iframe
 src="//speakerdeck.com/player/8e5e0220431601321f4a224c6a5d1c37"
 allowfullscreen="true" mozallowfullscreen="true"
