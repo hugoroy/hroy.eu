@@ -1,4 +1,4 @@
 [[!meta title="pages tagged right to be forgotten"]]
-
+[[!meta redirect="tags/rightToBeForgotten"]]
 [[!inline pages="tagged(right_to_be_forgotten)" actions="no" archive="yes"
 feedshow=10]]
