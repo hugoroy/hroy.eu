@@ -4,7 +4,7 @@
 <!--li>[[Short Notes|notes]]</li-->
 <li>[[Blog Posts|posts]]</li>
 <li>[[User Hacks & Tips|tips]]</li>
-<li>[[All Tags|tags]]</li>
 <li>[[Talks|talks]]</li>
+<li>[[All Tags|tags]]</li>
 <li>[[About/Meta|about]]</li>
 </ul>
