@@ -1,2 +1,0 @@
-Moved to [[mutt/carddav-lookup]]
-[[!meta redir=mutt/carddav-lookup]]
