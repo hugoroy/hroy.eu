@@ -6,7 +6,7 @@
 [[!meta language="en"]]
 
 
-<a href="http://hugoroy.eu/index.en.html" rel="me">Who am I?</a>
+[[Who_am_I?|hugo]]
 
 # About this website
 
