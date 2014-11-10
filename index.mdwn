@@ -5,21 +5,12 @@
 [[!meta license="CC-BY-SA-4.0"]]
 [[!meta copyright="[Copyright info](/copyright)"]]
 
+[[!inline pages="page(./hugo) and !*/Discussion" show="0" feeds=no actions=no template=inlinetext]]
 
-<div class="vcard" id="hcard-Hugo-Roy">
-<img id="ma-tete" class="u-photo" alt="Hugo Roy" title="Hugo Roy" src="/favatar.png" />
-<p>Hi! I’m <a href="http://hugoroy.eu" class="fn" title="Hugo Roy">Hugo</a>.
-<span class="p-note">I am the project leader for <a
-href="//tosdr.org"><img alt=""
-src="//tosdr.org/img/tosdr-icon-19.png"> <span class="org"
-title="ToSDR">Terms of Service; Didn't Read</span></a> and I sit
-on the board of the General Assembly of the <a
-href="//www.fsfe.org"><img alt=""
-src="//fsfe.org/graphics/stars-smaller.png" height="19"> <span
-class="org">Free Software Foundation Europe
-(FSFE)</span></a>. I’m also a freshly graduated lawyer, in
-training at the Paris Bar school. And a Zappaist.</span></p>
-</div>
+<style type="text/css">
+/*This is a comment ***** */
+.readmore.notindex {display: none;}
+</style>
 
 <h1 id="blog-motto">You can’t do that online anymore!</h1>
 
