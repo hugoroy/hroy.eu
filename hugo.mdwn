@@ -6,10 +6,10 @@
 
 I am the project leader for <a href="//tosdr.org"><img alt=""
 src="//tosdr.org/img/tosdr-icon-19.png"> <span class="org" title="ToSDR">Terms
-of Service; Didn't Read</span></a> and I sit on the board of the General
-Assembly of the <a href="//www.fsfe.org"><img alt=""
-src="//fsfe.org/graphics/stars-smaller.png" height="19"> <span class="org">Free
-Software Foundation Europe</span></a>. I’m also a freshly graduated
-lawyer, in training at the Paris Bar school. And a Zappaist.
+of Service; Didn't Read</span></a> and I sit on the board of the <a
+href="//www.fsfe.org"><img alt="" src="//fsfe.org/graphics/stars-smaller.png"
+height="19"> <span class="org">Free Software Foundation Europe</span></a>. I’m
+also a freshly graduated lawyer, in training at the Paris Bar school. And a
+Zappaist.
 
 [More information on my personal page][homepage]
