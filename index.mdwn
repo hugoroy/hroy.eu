@@ -7,11 +7,6 @@
 
 [[!inline pages="page(./hugo) and !*/Discussion" show="0" feeds=no actions=no template=inlinetext]]
 
-<style type="text/css">
-/*This is a comment ***** */
-.readmore.notindex {display: none;}
-</style>
-
 <h1 id="blog-motto">You can’t do that online anymore!</h1>
 
 <div id="timeline-last">

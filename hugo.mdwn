@@ -15,8 +15,7 @@ on the board of the <a
 href="//www.fsfe.org"><img alt=""
 src="//fsfe.org/graphics/stars-smaller.png" height="19"> <span
 class="org">Free Software Foundation Europe</span></a>. I’m also a freshly graduated lawyer, in
-training at the Paris Bar school. And a Zappaist.</span></p>
+training at the Paris Bar school. And a Zappaist.</span> </p>
 </div>
 
 
-<span class="readmore notindex">[More information on my personal page][homepage]</span>
