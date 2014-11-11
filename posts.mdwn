@@ -11,6 +11,4 @@ Here is a full list of posts to the [[blog|index]] in both
 [[!inline pages="page(./posts/*) and !*/Discussion" archive=yes
 feedshow=15 quick=yes trail=yes feeds=yes]]
 
-<style type="text/css">
-#pagebody .pagedate.published {display: none;}
-</style>
+<style type="text/css">#pagebody .pagedate.published {display: none;}</style>
