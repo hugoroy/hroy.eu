@@ -12,5 +12,5 @@ Here is a full list of posts to the [[blog|index]] in both
 feedshow=15 quick=yes trail=yes feeds=yes]]
 
 <style type="text/css">
-.pagedate.published.dt-published {display: none;}
+#pagebody .pagedate.published {display: none;}
 </style>
