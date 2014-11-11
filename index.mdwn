@@ -26,3 +26,7 @@
 If you’ve read until here, you should head to the full list of [[posts]].
 
 [[!inline pages=sidebar raw=yes]]
+
+<style type="text/css">
+    #webmentions{display:none;}
+</style>
