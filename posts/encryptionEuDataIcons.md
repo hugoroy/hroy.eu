@@ -2,17 +2,18 @@
 title: "The Privacy Icon which is a bad idea"
 tags: [privacy, dataProtection, EuropeanParliament, ToSDR]
 lang: en
-abstract: |
-    The European Union is currently reviewing the regulatory framework of
-    personal data protection. In the current draft, a standardised icon set
-    would be mandatory in some circumstances. 
-
-    I'm not convinced this is the best implementation, and there's even one
-    icon in the set that I'm really concerned about: “Encryption”. This
-    proposal could undermine years of activism in favour of better encryption
-    for users.
 ...
 
+The European Union is currently reviewing the regulatory framework of
+personal data protection. In the current draft, a standardised icon set
+would be mandatory in some circumstances. 
+
+I'm not convinced this is the best implementation, and there's even one
+icon in the set that I'm really concerned about: “Encryption”. This
+proposal could undermine years of activism in favour of better encryption
+for users.
+
+-----
 
 As I've been working on Terms of Service; Didn't Read for a couple of years
 now, I have some experience and idea about how this sort of things might work
