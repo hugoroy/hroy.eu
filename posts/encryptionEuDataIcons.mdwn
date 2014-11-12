@@ -180,7 +180,7 @@ thing. Only, we allow for more variations:
 
 [[!img ToSDRTitles.png caption="Good points, and bad ponts" alt="screenshot from ToS;DR"]]
 
-[[!img thumbdsDown.png caption="… and blockers" alt="screenshot from ToS;DR"]]
+[[!img thumbsDown.png caption="… and blockers" alt="screenshot from ToS;DR"]]
 
 But the major problem that I have with “Privacy Icons” is that they are
 too **difficult to grasp**. If you actually remove the text aside the
