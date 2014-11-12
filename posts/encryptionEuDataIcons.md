@@ -109,7 +109,7 @@ One of the icons proposed is about encryption:
 
 
 <figure class="picture" id="iconEncrypt">
-<img src"iconEncrypt.png" alt="Screenshot from the EU consolidated draft" />
+<img src="iconEncrypt.png" alt="Screenshot from the EU consolidated draft" />
 <figcaption>Everything is Safe!</figcaption>
 </figure>
 
