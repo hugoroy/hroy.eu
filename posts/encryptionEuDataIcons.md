@@ -95,7 +95,7 @@ I want to focus on [[!toggle id="13a" text="article 13a (in Chapter Ⅲ, Section
 """]]
 
 
-# Why the “Encryption” icon is a bad idea?
+## Why the “Encryption” icon is a bad idea?
 
 **TL;DR** Storing sensitive data in data centers without encrypting them first
 is just negligence and should not be allowed. There's no need for an icon that
@@ -147,7 +147,7 @@ really means in which context, thus making it even harder to explain why
 encryption is important and why tools such as GnuPG should be improved in
 usability.
 
-# Is this standardised icon set really good anyway?
+## Is this standardised icon set really good anyway?
 
 Raising awareness about privacy rights online is important. This is what I have
 been doing with [Terms of Service; Didn't Read][tosdr] for about two years now.
