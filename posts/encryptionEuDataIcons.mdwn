@@ -1,4 +1,4 @@
-[[!meta title="The Privacy Icon which is a bad idea"]]
+[[!meta title="Some comments on the EU's draft Privacy Icons"]]
 [[!meta language="en"]]
 [[!tag lang:en  privacy dataProtection EuropeanParliament ToSDR ]]
 
@@ -16,7 +16,7 @@ encryption for users.
 
 As I've been working on Terms of Service; Didn't Read for a couple of
 years now, I have some experience and idea about how this sort of things
-might work and how it compare to existing projects, especially in the
+might work and how it compares to existing projects, especially in the
 fields of “Privacy Icons” where several projects coexist and keep
 raising much attention (including, it seems, from European legislators).
 

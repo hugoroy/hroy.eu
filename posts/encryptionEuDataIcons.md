@@ -1,5 +1,5 @@
 ---
-title: "The Privacy Icon which is a bad idea"
+title: "Some comments on the EU's draft Privacy Icons"
 tags: [privacy, dataProtection, EuropeanParliament, ToSDR]
 lang: en
 ...
@@ -17,7 +17,7 @@ for users.
 
 As I've been working on Terms of Service; Didn't Read for a couple of years
 now, I have some experience and idea about how this sort of things might work
-and how it compare to existing projects, especially in the fields of “Privacy
+and how it compares to existing projects, especially in the fields of “Privacy
 Icons” where several projects coexist and keep raising much attention
 (including, it seems, from European legislators).
 
