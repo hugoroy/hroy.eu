@@ -1,6 +1,7 @@
 ---
 title: "The Privacy Icon which is a bad idea"
 tags: [privacy, dataProtection, EuropeanParliament, ToSDR]
+lang: en
 abstract: |
     The European Union is currently reviewing the regulatory framework of
     personal data protection. In the current draft, a standardised icon set

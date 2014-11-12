@@ -7,7 +7,8 @@ I'm not convinced this is the best implementation, and there's even one
 icon in the set that I'm really concerned about: “Encryption”. This
 proposal could undermine years of activism in favour of better
 encryption for users."]]
-[[!tag  privacy dataProtection EuropeanParliament ToSDR ]]
+[[!meta language="en"]]
+[[!tag lang:en  privacy dataProtection EuropeanParliament ToSDR ]]
 
 
 The European Union is currently reviewing the regulatory framework of
