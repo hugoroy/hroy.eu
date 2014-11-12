@@ -58,24 +58,24 @@ I want to focus on [[!toggle id="13a" text="article 13a (in Chapter Ⅲ, Section
 > provide the data subject with the following particulars before providing
 > information pursuant to Article 14:
 > 
->     (a) whether personal data are collected beyond the minimum necessary for
+>     a. whether personal data are collected beyond the minimum necessary for
 >     each specific purpose of the processing;
->     (b) whether personal data are retained beyond the minimum necessary for
+>     b. whether personal data are retained beyond the minimum necessary for
 >     each specific purpose of the processing;
->     (c) whether personal data are processed for purposes other than the purposes
+>     c. whether personal data are processed for purposes other than the purposes
 >     for which they were collected;
->     (d) whether personal data are disseminated to commercial third parties;
->     (e) whether personal data are sold or rented out;
->     (f) whether personal data are retained in encrypted form.
+>     d. whether personal data are disseminated to commercial third parties;
+>     e. whether personal data are sold or rented out;
+>     f. whether personal data are retained in encrypted form.
 > 
 > 2. The particulars referred to in paragraph 1 shall be presented pursuant to Annex X
 > in an aligned tabular format, using text and symbols, in the following three
 > columns:
 > 
->     (a) the first column depicts graphical forms symbolising those particulars;
->     (b) the second column contains essential information describing those
+>     a. the first column depicts graphical forms symbolising those particulars;
+>     b. the second column contains essential information describing those
 >     particulars;
->     (c) the third column depicts graphical forms indicating whether a specific
+>     c. the third column depicts graphical forms indicating whether a specific
 >     particular is met.
 > 
 > 3. The information referred to in paragraphs 1 and 2 shall be presented in an easily
@@ -114,7 +114,9 @@ green mark next to the icon. *All is fine!*
 
 Except that it's not. I can really see how this could get very, very confusing.
 It is very easy to claim that something “is encrypted” and that thus,
-*everything's good.*
+*everything's good.* I've heard this argument several times from Google
+employees: “Google stores the data in encrypted forms, so don't worry”. But
+still, when Google access the data to process it, it is decrypted.
 
 Let's put this in context.
 
@@ -123,8 +125,8 @@ part of the solution against the intrusion in our lives that the NSA and other
 State agencies in the world are pursuing. Thus, it is crucial that users
 understand that **there are ways to protect their communications against the
 intrusion of the State**, and also from companies or criminals. This is why
-initiatives such as Cryptoparties and Privacy Cafés or the like, where people
-help each other understand and use encryption techniques are so important!
+initiatives such as Cryptoparties and Privacy Cafés, where people help each
+other understand and use encryption techniques, are so important!
 
 
 But encryption does not always mean the same thing in all contexts. It requires
@@ -134,23 +136,24 @@ powerful tool.
 
 For instance, when I send sensitive information over the web (like a financial
 transaction, or like my user nick and password), it is very important that the
-connection is encrypted (using HTTPS); otherwise, it would not be difficult to
-intercept that sensitive information. Enabling encryption for that kind of
-stuff should simply be mandatory. 
+connection is encrypted (e.g. using HTTPS); otherwise, it would not be
+difficult to intercept that sensitive information. Enabling encryption for that
+kind of stuff should simply be mandatory. 
 
 It's a good idea to impose security obligations over storing personal data. But
 I fail to see how showing an icon to users about storing data in encrypted form
 will do any good. Worse, it might even confuse people about what encryption
-really means, thus making it even harder to explain why encryption is important
-and why tools such as GnuPG should be improved in usability.
+really means in which context, thus making it even harder to explain why
+encryption is important and why tools such as GnuPG should be improved in
+usability.
 
-# Is this standardised icon set really a good idea anyway?
+# Is this standardised icon set really good anyway?
 
 Raising awareness about privacy rights online is important. This is what I have
 been doing with [Terms of Service; Didn't Read][tosdr] for about two years now.
 I've seen several variations of the Privacy Icons idea, and this implementation
-as suggested by the EU draft regulation shows that it's important to get it
-right.
+as suggested by the EU draft regulation shows that getting it right is not
+easy.
 
 [tosdr]: https://tosdr.org
 
@@ -174,12 +177,12 @@ more variations:
 
 
 But the major problem that I have with “Privacy Icons” is that they are too
-difficult to grasp. If you actually remove the text aside the icon itself, you
-realise that the icon itself is far from self-explanatory. This gets even more
-complex with the number of icons you add. 
+**difficult to grasp**. If you actually remove the text aside the icon itself, you
+realise that the icon itself is **far from self-explanatory**. This gets even more
+*complex* with the number of icons you add. 
 
-These icons are not universally understood. Here's how the same concept is
-rendered differently by different Privacy icons set:
+These icons are not universally understood. Here's how *the same concept* is
+rendered differently by different Privacy icons sets:
 
 ![EU draft](dataProcessing.png)
 
@@ -214,9 +217,6 @@ labels][EUlabels]. (They actually were a source of inspiration for ToS;DR
 [EUlabels]: https://en.wikipedia.org/wiki/European_Union_energy_label
 [classes]: https://tosdr.org/classification.html
 
-Let's hope the next proposal gets it right with an icon system that is more
-easy to understand and which gets rid of the confusing ones. But an icon system
-is not an acceptable alternative to making strong regulations that really
-achieve what it promises: safeguarding what can be saved of our privacy rights
-in the 21st century.
+Let's hope the next proposal gets it right with an icon system that is easier
+to understand and which gets rid of the confusing bits.
 
