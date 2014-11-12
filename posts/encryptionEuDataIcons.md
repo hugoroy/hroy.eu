@@ -115,8 +115,8 @@ green mark next to the icon. *All is fine!*
 Except that it's not. I can really see how this could get very, very confusing.
 It is very easy to claim that something “is encrypted” and that thus,
 *everything's good.* I've heard this argument several times from Google
-employees: “Google stores the data in encrypted forms, so don't worry”. But
-still, when Google access the data to process it, it is decrypted.
+employees: *Google stores the data in encrypted forms, so don't worry*. But
+still, when Google access the data to process it, it is decrypted by them. 
 
 Let's put this in context.
 
