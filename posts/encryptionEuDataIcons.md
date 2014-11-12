@@ -48,9 +48,7 @@ regulation is now in a [consolidated draft].
 
 I want to focus on [[!toggle id="13a" text="article 13a (in Chapter Ⅲ, Section 1: Transparency and modalities)"]].
 
-<!--Ikiwiki-->
 [[!toggleable id="13a" text="""
-<!--/Ikiwiki-->
 
 > ### Article 13a – Standardised information policies
 > 
@@ -93,9 +91,7 @@ I want to focus on [[!toggle id="13a" text="article 13a (in Chapter Ⅲ, Section
 > the purpose of further specifying the particulars referred to in paragraph 1 and
 > their presentation as referred to in paragraph 2 and in Annex 1.
 
-<!--Ikiwiki-->
 """]]
-<!--/Ikiwiki-->
 
 
 # Why the “Encryption” icon is a bad idea?
