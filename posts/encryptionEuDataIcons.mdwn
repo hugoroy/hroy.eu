@@ -112,7 +112,7 @@ In the draft proposal, when personal data is collected, the person who's
 subject of that data should get information in the form of a
 standardised icon. One of the icons proposed is about encryption:
 
-![Everything is Safe!](iconEncrypt.png)
+[[!img iconEncrypt.png caption="Everything is Safe!" alt="Encryption icon"]]
 
 If the data is stored encrypted, then the data controller can display a
 huge green mark next to the icon. *All is fine!*
@@ -167,20 +167,20 @@ easy.
 The [consolidated draft](DPRConsolidated.pdf) has an annex showing how
 the icons could be:
 
-![No unnecessary data collection](dataCollect.png)
+[[!img dataCollect.png caption="No unnecessary data collection" alt="Data Collection icon example"]]
 
 Depending on whether that's the case, the data controller would have to
 display a green or a red mark next to this icon:
 
-![Good or Bad?](goodOrBad.png)
+[[!img goodOrBad.png caption="Good or Bad?" alt="Green and red marks"]]
 
 In [ToS;DR](https://tosdr.org), we also use this approach: for each
 point, there's an iconic indication whether this is a good or a bad
 thing. Only, we allow for more variations:
 
-![Good points, and bad points](ToSDRTitles.png)
+[[!img ToSDRTitles.png caption="Good points, and bad ponts" alt="screenshot from ToS;DR"]]
 
-![… and blockers](thumbsDown.png)
+[[!img thumbdsDown.png caption="… and blockers" alt="screenshot from ToS;DR"]]
 
 But the major problem that I have with “Privacy Icons” is that they are
 too **difficult to grasp**. If you actually remove the text aside the
@@ -191,27 +191,27 @@ icons you add.
 These icons are not universally understood. Here's how *the same
 concept* is rendered differently by different Privacy icons sets:
 
-![EU draft](dataProcessing.png)
+[[!img dataProcessing.png alt="EU draft screenshot" caption="EU Draft"]]
 
 ------------------------------------------------------------------------
 
-![Mozilla's Alpha version of Privacy Icons](dataForPurpose.png)
+[[!img dataForPurpose.png caption="Mozilla's Alpha version of Privacy Icons" alt="screenshot"]]
 
-![Mozilla's Alpha version of Privacy Icons](dataNoPurpose.png)
+[[!img dataNoPurpose.png caption="Mozilla's Alpha version of Privacy Icons" alt="screenshot"]]
 
 ------------------------------------------------------------------------
 
-![Disconnect.me icons](DisconnectIcons.png)
+[[!img DisconnectIcons.png caption="Disconnect.me Icons" alt="screenshot from disconnect.me"]]
 
 Compare these with how a similar point would be addressed in
 [ToS;DR](https://tosdr.org):
 
-![The summary version](ToSDRTitle.png)
+[[!img ToSDRTitle.png caption="The Summary version"]]
 
 which can be expanded with a plain-English paragraph and links to
 contextualise if the user wants more information:
 
-![The plain english version](ToSDRParagraph.png)
+[[!img ToSDRParagraph.png caption="the Plain English version"]]
 
 There's probably a way somewhere to learn from these different
 approaches and make an implementation that gets it right for users.
