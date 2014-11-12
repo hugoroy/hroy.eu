@@ -112,8 +112,12 @@ In the draft proposal, when personal data is collected, the person who's
 subject of that data should get information in the form of a
 standardised icon. One of the icons proposed is about encryption:
 
-![Everything is Safe!](iconEncrypt.png)
-
+<figure class="picture" id="iconEncrypt">
+<img src"iconEncrypt.png" alt="Screenshot from the EU consolidated draft" />
+<figcaption>
+Everything is Safe!
+</figcaption>
+</figure>
 If the data is stored encrypted, then the data controller can display a
 huge green mark next to the icon. *All is fine!*
 
