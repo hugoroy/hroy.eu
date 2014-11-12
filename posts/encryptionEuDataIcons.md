@@ -169,6 +169,7 @@ more variations:
 
 ![Good points, and bad points](ToSDRTitles.png)
 
+
 ![… and blockers](thumbsDown.png)
 
 
@@ -182,18 +183,14 @@ rendered differently by different Privacy icons set:
 
 ![EU draft](dataProcessing.png)
 
-<div class="row">
-<div class="col-md-6">
+------------
 
 ![Mozilla's Alpha version of Privacy Icons](dataForPurpose.png)
 
-</div>
-<div class="col-md-6">
 
 ![Mozilla's Alpha version of Privacy Icons](dataNoPurpose.png)
 
-</div>
-</div>
+-------------
 
 ![Disconnect.me icons](DisconnectIcons.png)
 
