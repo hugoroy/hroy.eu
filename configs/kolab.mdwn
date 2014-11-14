@@ -2,15 +2,7 @@ Since March 2014, the kolab server is a debian machine. Trying out
 CentOS was interesting, but now that the debian packages are good,
 I went back to debian, which I know better.
 
-However, there are still issues with Kolab on debian. The most
-important issue at the moment, is that something in the database
-will fail when you run the initial `kolab-setup` for version 3.1
-on debian. See bug [2811].
-
 Tip: [enable external email addresses](https://blogs.fsfe.org/torsten.grote/2013/12/20/using-external-email-addresses-with-kolab/)
-
-If you have trouble using the Files app within the web app, it’s
-probably because of non-secure `http` connections. See bug [2436].
 
 
 # Syncing: ActiveSync and DAV
@@ -24,32 +16,15 @@ org-caldav](http://sjoberg.fi/blog/mykolab-org-mode.html), and I cannot access t
 
 [davdroid]: http://davdroid.bitfire.at/
 
-# Issues fixed in Kolab
+# Postfix and SMTP
 
+For Kolab 3.3 first install attempt, I did not select a configuration for
+postfix, and during setup-kolab, I entered the FQDN instead of the primary
+domain name. I ended up with a weird SMTP error 454.
 
-#### `mod_ssl` not enabled by default
-
-Moreover, for some odd reason, Kolab did not come with <code>mod_ssl</code>
-installed, so you need to install it yourself and to set it up in
-Apache.
-
-## CardDav and CalDav server
-
-After [setting up Kolab 3.1](/posts/kolab_up/), which includes a
-cardDav and CalDav server, it is possible that, going with a web
-browser to <https://totosh.ampoliros.net/iRony/> gives the error:
-
-> Requested uri (/iRony/) is out of base uri
-
-To fix this, change "null" in <code>/etc/iRony/dav.inc.php</code>
-
-    $rcmail_config['base_uri'] = '/iRony/';
-
-*Update*: this was fixed in [2475].
-
-[2436]: https://issues.kolab.org/show_bug.cgi?id=2436
-[2811]: https://issues.kolab.org/show_bug.cgi?id=2811
-[2475]: https://issues.kolab.org/show_bug.cgi?id=2475
+So I retried, this time selecting postfix's default configuration (something
+like “Internet site”) and using the primary domain (the default option) instead
+of the FQDN during the setup-kolab.
 
 [[!meta title="Kolab server"]]
 [[!meta license="[CC0-1.0](http://creativecommons.org/publicdomain/zero/1.0/)"]]
