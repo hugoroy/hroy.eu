@@ -4,6 +4,9 @@ I went back to debian, which I know better.
 
 Tip: [enable external email addresses](https://blogs.fsfe.org/torsten.grote/2013/12/20/using-external-email-addresses-with-kolab/)
 
+# Kolab 3.3 on Debian bugs
+
+  - Apache segfault: [workaround](https://issues.kolab.org/show_bug.cgi?id=2050#c11)
 
 # Syncing: ActiveSync and DAV
 
