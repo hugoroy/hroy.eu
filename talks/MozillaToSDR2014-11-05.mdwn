@@ -22,7 +22,6 @@ webkitallowfullscreen="true" frameborder="0" title="Fixing The Biggest Lie on th
 width="666" height="580"></iframe>
 </figure>
 
-<a href="//ampoliros.net/slides/hugo/MozillaToSDR2014-11-05/FixingTheBiggestLieAtMozilla.md.revealjs.html" download>RevealJS Slides</a>
 """]]
 
 
@@ -42,5 +41,4 @@ webkitallowfullscreen="true" frameborder="0" title="ToS;DR Behind the Scenes, Mo
 width="666" height="580"></iframe>
 </figure>
 
-<a href="//ampoliros.net/slides/hugo/MozillaToSDR2014-11-05/ToSDRBehindTheScenes.md.revealjs.html" download>RevealJS Slides</a>
 """]]
