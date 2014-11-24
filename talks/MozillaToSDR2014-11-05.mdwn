@@ -14,7 +14,7 @@
 [[!toggleable id="FixingTheBiggestLieAtMozilla" text="""
 
 <figure class="slides">
-<figcaption><a href="/talks/MozillaToSDR-2014-11-05/src/">Sources</a></figcaption>
+<figcaption><a href="/talks/MozillaToSDR2014-11-05/src/">Sources</a></figcaption>
 <iframe
 src="//ampoliros.net/slides/hugo/MozillaToSDR2014-11-05/FixingTheBiggestLieAtMozilla.md.revealjs.html"
 allowfullscreen="true" mozallowfullscreen="true"
@@ -34,7 +34,7 @@ width="666" height="580"></iframe>
 [[!toggleable id="ToSDRBehindTheScenes" text="""
 
 <figure class="slides">
-<figcaption><a href="/talks/MozillaToSDR-2014-11-05/src/">Sources</a></figcaption>
+<figcaption><a href="/talks/MozillaToSDR2014-11-05/src/">Sources</a></figcaption>
 <iframe
 src="//ampoliros.net/slides/hugo/MozillaToSDR2014-11-05/ToSDRBehindTheScenes.md.revealjs.html"
 allowfullscreen="true" mozallowfullscreen="true"
