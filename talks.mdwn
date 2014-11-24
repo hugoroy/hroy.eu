@@ -5,7 +5,7 @@
 [[!inline pages=sidebar raw=yes]]
 """]]
 
-[[!inline pages="page(./talks/*) and !*/Discussion and !tag(meta:ignore) and !*/slides
+[[!inline pages="page(./talks/*) and !*/Discussion and !(tagged(meta:ignore)) and !*/slides
 and !*/local" show=55
 trail=yes feeds=yes template="microblog"]]
 
