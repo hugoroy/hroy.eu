@@ -1,0 +1,4 @@
+[[!meta title="pages tagged meta:ignore"]]
+
+[[!inline pages="tagged(meta:ignore)" actions="no" archive="yes"
+feedshow=10]]
