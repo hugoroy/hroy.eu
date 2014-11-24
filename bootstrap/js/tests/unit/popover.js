@@ -83,8 +83,8 @@ $(function () {
         var popover = $('<a href="#" title="@mdo" data-content="loves data attributes (づ｡◕‿‿◕｡)づ ︵ ┻━┻" >@mdo</a>')
           .appendTo('#qunit-fixture')
           .popover({
-              title: 'ignored title option',
-              content: 'ignored content option'
+              title: 'meta:ignored title option',
+              content: 'meta:ignored content option'
           })
           .popover('show')
 

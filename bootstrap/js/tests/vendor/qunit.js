@@ -165,7 +165,7 @@ QUnit = {
 		if ( config.semaphore > 0 ) {
 			return;
 		}
-		// ignore if start is called more often then stop
+		// meta:ignore if start is called more often then stop
 		if ( config.semaphore < 0 ) {
 			config.semaphore = 0;
 			QUnit.pushFailure( "Called start() while already started (QUnit.config.semaphore was 0 already)", null, sourceFromStacktrace(2) );
@@ -731,7 +731,7 @@ window.onerror = function ( error, filePath, linerNr ) {
 	// Only do our handling if not suppressed.
 	if ( ret !== true ) {
 		if ( QUnit.config.current ) {
-			if ( QUnit.config.current.ignoreGlobalErrors ) {
+			if ( QUnit.config.current.meta:ignoreGlobalErrors ) {
 				return true;
 			}
 			QUnit.pushFailure( error, filePath + ":" + linerNr );
@@ -967,7 +967,7 @@ function saveGlobal() {
 	if ( config.noglobals ) {
 		for ( var key in window ) {
 			if ( hasOwn.call( window, key ) ) {
-				// in Opera sometimes DOM element ids show up here, ignore them
+				// in Opera sometimes DOM element ids show up here, meta:ignore them
 				if ( /^qunit-test-output/.test( key ) ) {
 					continue;
 				}
@@ -1548,13 +1548,13 @@ assert = QUnit.assert = {
 			expected = null;
 		}
 
-		config.current.ignoreGlobalErrors = true;
+		config.current.meta:ignoreGlobalErrors = true;
 		try {
 			block.call( config.current.testEnvironment );
 		} catch (e) {
 			actual = e;
 		}
-		config.current.ignoreGlobalErrors = false;
+		config.current.meta:ignoreGlobalErrors = false;
 
 		if ( actual ) {
 			// we don't want to validate thrown error
@@ -1671,7 +1671,7 @@ QUnit.equiv = (function() {
 						// and its modifiers
 						a.global === b.global &&
 						// (gmi) ...
-						a.ignoreCase === b.ignoreCase &&
+						a.meta:ignoreCase === b.meta:ignoreCase &&
 						a.multiline === b.multiline &&
 						a.sticky === b.sticky;
 				},

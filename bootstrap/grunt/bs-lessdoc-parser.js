@@ -26,7 +26,7 @@ Mini-language:
 
   //-- This is a heading for a section whose variables shouldn't be customizable
 
-  All other lines are ignored completely.
+  All other lines are meta:ignored completely.
 */
 
 
@@ -87,7 +87,7 @@ Tokenizer.prototype.unshift = function (token) {
 
 Tokenizer.prototype._shift = function () {
   // returning null signals EOF
-  // returning undefined means the line was ignored
+  // returning undefined means the line was meta:ignored
   if (this._next !== undefined) {
     var result = this._next;
     this._next = undefined;

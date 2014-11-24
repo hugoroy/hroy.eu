@@ -1,7 +1,7 @@
 [[!meta title="Fixing The Biggest Lie on The Web (Open World Forum, Paris, 2014)"]]
 [[!meta language="en"
 [[!meta description="“I have read and agree to the terms” is the biggest lie on the web. But what lies beneath the joke is fundamental: how our rights are governed online. Terms of service are often the subject of negative attention, yet the situation perpetuates. How did we get here? How can we fix this?"]]
-[[!tag lang:en ToSDR termsOfService]]
+[[!tag lang:en ToSDR termsOfService meta:meta:ignore]]
 [[!meta date="2014-10-31T10:00:00+01:00"]]
 [[!meta copyright="XKCD's by Randall Munroe, used under CC-BY-NC-2.5; Joy of Tech comics by Nitrozac and Snaggy used with permission https://twitter.com/Snaggy/status/529333803496374272"]]
 

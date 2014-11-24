@@ -8,7 +8,7 @@
 Mais qui est donc Madame Michu ? La grand’mère, l’utilisateur
 inexpérimenté, le critère absolu du concepteur d’une interface
 pour juger de l’expérience-utilisateur, l’ignare qui n’y connaît
-rien à rien et qui s’en fout, l’inconnu qui ignore mais ne demande
+rien à rien et qui s’en fout, l’inconnu qui meta:ignore mais ne demande
 qu’à apprendre… Tout ça à la fois ?
 
 Le fait est que « Madame Michu » est une expression employée pour
