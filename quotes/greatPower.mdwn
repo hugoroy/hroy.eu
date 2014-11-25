@@ -1,0 +1,5 @@
+ > With great power comes great responsibility.
+ > 
+ > <cite>Uncle Ben in <em>Spider-Man</em> (2002)</cite>
+
+ [[!tag lang:en power responsibility]]
