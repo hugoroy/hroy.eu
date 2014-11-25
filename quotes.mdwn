@@ -1,2 +1,2 @@
 
-[[!inline pages="page(./quotes/) and !*/Discussion" show="0" feeds=no actions=no template=inlinetext]]
+[[!inline pages="page(./*) and !*/Discussion" show="0" feeds=no actions=no template=inlinetext]]
