@@ -270,10 +270,6 @@
 
             <TMPL_IF HTML5></section><TMPL_ELSE></div></TMPL_IF>
 
-            <TMPL_IF EXTRAFOOTER>
-                <TMPL_VAR EXTRAFOOTER>
-            </TMPL_IF>
-
             <ul id="relmes">
                 <li>
                     <a href="https://ampoliros.net/profile/hugoroyd" rel="me" title="Known profile"><img src="/templates/img/logo_k.png" class="fa-fw" alt="" /></a></li>
@@ -305,6 +301,10 @@
             <p class="randomquote">
                 Without deviation from the norm, progress is not possible.
             </p>
+
+            <TMPL_IF EXTRAFOOTER>
+                <TMPL_VAR EXTRAFOOTER>
+            </TMPL_IF>
 
         </TMPL_UNLESS>
         <!-- from <TMPL_VAR WIKINAME> -->
