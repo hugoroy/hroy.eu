@@ -1,7 +1,7 @@
 
-[[!map pages="page(*)  and !archives/* and !bootstrap/* and !templates/* !*/discussion and !recentchanges and
+[[!map pages="page(*)  and !archives/* and !bootstrap/* and !templates/* and !*/discussion and !recentchanges and
 !plugins/* and !sandbox/* and !ikiwiki/*"]]
 
 # Archives
 
-[[!map pages="page(./archives/*) !*/discussion"]]
+[[!map pages="page(./archives/*) and !*/discussion"]]
