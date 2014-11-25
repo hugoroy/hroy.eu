@@ -1,0 +1,4 @@
+[[!meta title="pages tagged ruleOfLaw"]]
+
+[[!inline pages="tagged(ruleOfLaw)" actions="no" archive="yes"
+feedshow=10]]

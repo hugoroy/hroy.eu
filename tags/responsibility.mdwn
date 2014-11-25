@@ -1,0 +1,4 @@
+[[!meta title="pages tagged responsibility"]]
+
+[[!inline pages="tagged(responsibility)" actions="no" archive="yes"
+feedshow=10]]
