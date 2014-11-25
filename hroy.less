@@ -123,6 +123,7 @@ footer, blockquote {
 
     .actions {
         top: 0;
+        left: 0;
         height: 16px;
         position: absolute;
 
@@ -130,6 +131,12 @@ footer, blockquote {
             visibility: hidden;
             border: 0;
             background: transparent;
+            &.skipto {
+                .pull-left;
+                &:focus, &:active {
+                    visibility: visible;
+                }
+            }
         }
     }
 
