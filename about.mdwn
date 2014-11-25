@@ -4,61 +4,42 @@
 [[!inline pages=sidebar raw=yes]]
 """]]
 [[!meta language="en"]]
+[[!meta title="About"]]
 
 
 [[Who_am_I?|hugo]]
 
-# About this website
+This site runs [[ikiwiki]]. 
 
-  - [[Copyright Info|copyright]]
+A copy of the source code of this site is available on
+[Github](https://github.com/hugoroy/hroy.eu/).
 
-  - This site is hosted by
-    [branchable](https://www.branchable.com/about/) and runs
-    [[ikiwiki]]. 
-    
-      - This is their [privacy
-        policy](https://www.branchable.com/privacy/). The most
-        important information for readers is at the end (from November
-        2013):
+--------------------
 
-        > We retain data in web server logs for a limited period of time,
-        > including IP addresses. We may provide this information to the
-        > owner of a site, in either aggregate or raw form. We may also
-        > provide this information to third parties as necessary to deal
-        > with sites that are being used for spamming or distribution of
-        > malware.
-        > 
-        > This service will comply with court orders to turn over your
-        > private information.
-
-      - A copy of the source code of this site is available on [Github](https://github.com/hugoroy/hroy.eu/).
-
-  - <span class="title" id="comment-policy">Comment policy</span>
+<span class="title" id="comment-policy">Comment policy</span>
   
-    Please keep the comments on-topic. I reserve the right to hide
-    the content of your comment in my own discretion. Feel free to
-    send me replies from other corners of the Web, I will happily
-    link to them.
+Please keep the comments on-topic. I reserve the right to hide
+the content of your comment in my own discretion. Feel free to
+send me replies from other corners of the Web, I will happily
+link to them.
 
-    This website should also support [webmentions] thanks to the [hosted
-    webmention endpoint]. Have a look at [brid.gy] if you want to send
-    webmentions from Twitter, Facebook or [other silos].
+This website should also support [webmentions] thanks to the [hosted
+webmention endpoint]. Have a look at [brid.gy] if you want to send
+webmentions from Twitter, Facebook or [other silos].
 
-    Also, note that IP addresses of comment posters will be registered and
-    published through [commit
-    logs](http://source.hroy-eu.branchable.com/?p=source.git;a=summary). If you
-    do not wish to disclose your IP address through this, then [contact
-    me](http://hugoroy.eu/index.en.html#email) and I’ll post the comment for
-    you.
+Also, note that IP addresses of comment posters will be registered and
+published through [commit
+logs](http://source.hroy-eu.branchable.com/?p=source.git;a=summary). If you
+do not wish to disclose your IP address through this, then [contact
+me](http://hugoroy.eu/index.en.html#email) and I’ll post the comment for
+you.
 
-    At last, by commenting, you contribute to the blog and thus your comment is
-    governed by the [same license as the article to which you
-    comment][copyright].
+At last, by commenting, you contribute to the blog and thus your comment is
+governed by the [same license as the article to which you
+comment][copyright].
 
 [webmentions]: http://webmention.org
 [hosted webmention endpoint]: https://webmention.herokuapp.com/
 [brid.gy]: http://brid.gy/
 [other silos]: https://indiewebcamp.com/silo
 [copyright]: https://hroy.eu/copyright/
-
-  - [[Sitemap|map]]

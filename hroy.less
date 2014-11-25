@@ -615,6 +615,19 @@ article.inlinepage {
     }
 }
 
+#sitenav {
+    margin: -1em 0 2em 0;
+
+    a {
+        &:after {
+            content: " | ";
+
+            &:last-child {
+                content: "";
+            }
+        }
+    }
+}
 
 .p-category a:before, a.p-category:before, .tags a[rel="tag"]:before {
     content: "#";

@@ -1,0 +1,23 @@
+
+  - [[Copyright Info|copyright]]
+
+  - This site is hosted by
+    [branchable](https://www.branchable.com/about/) and runs
+    [[ikiwiki]]. 
+    
+      - This is their [privacy
+        policy](https://www.branchable.com/privacy/). The most
+        important information for readers is at the end (from November
+        2013):
+
+        > We retain data in web server logs for a limited period of time,
+        > including IP addresses. We may provide this information to the
+        > owner of a site, in either aggregate or raw form. We may also
+        > provide this information to third parties as necessary to deal
+        > with sites that are being used for spamming or distribution of
+        > malware.
+        > 
+        > This service will comply with court orders to turn over your
+        > private information.
+
+

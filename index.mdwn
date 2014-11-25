@@ -2,8 +2,6 @@
 [[!meta foaf="http://hugoroy.eu/foaf.rdf"]]
 [[!meta author="Hugo Roy"]]
 [[!meta description="You can’t do that online anymore! a blog, notes, tips and everything else elsewhere… by Hugo Roy."]]
-[[!meta license="CC-BY-SA-4.0"]]
-[[!meta copyright="[Copyright info](/copyright)"]]
 
 [[!inline pages="page(./hugo) and !*/Discussion" show="0" feeds=no actions=no template=inlinetext]]
 
