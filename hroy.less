@@ -619,12 +619,12 @@ article.inlinepage {
     margin: -1em 0 2em 0;
 
     a {
-        &:after {
-            content: " | ";
-
-            &:last-child {
-                content: "";
-            }
+        border-right: 1px solid #999;
+        margin-right: 0.3em;
+        padding-right: 0.5em;
+        
+        &:last-child {
+            border-right: 0;
         }
     }
 }
