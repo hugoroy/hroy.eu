@@ -1,0 +1,4 @@
+[[!meta title="pages tagged JeanMarieGuyau"]]
+
+[[!inline pages="tagged(JeanMarieGuyau)" actions="no" archive="yes"
+feedshow=10]]
