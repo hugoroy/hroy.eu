@@ -1,0 +1,18 @@
+#content blockquote {
+    background: none;
+}
+
+#content blockquote cite {
+    display: block;
+    line-height: 1.42857;
+    color: #999;
+    font-size: 0.85em;
+}
+
+#content blockquote cite:before { content: "— "; }
+
+#content blockquote .translated {
+    font-size: 0.9em;
+    line-height: 1.1;
+}
+
