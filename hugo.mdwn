@@ -6,7 +6,7 @@
 
 <div class="vcard" id="hcard-Hugo-Roy">
 <img id="ma-tete" class="u-photo" alt="Hugo Roy" title="Hugo Roy" src="/favatar.png" />
-<p>Hi! I’m <a href="//hugoroy.eu/index.en.html" class="fn" title="Hugo Roy">Hugo</a>.
+<p>Hi! I’m <a href="//hugoroy.eu/" class="fn" title="Hugo Roy">Hugo</a>.
 <span class="p-note">I am the project leader for <a
 href="//tosdr.org"><img alt=""
 src="//tosdr.org/img/tosdr-icon-19.png"> <span class="org"
@@ -17,9 +17,15 @@ src="//fsfe.org/graphics/stars-smaller.png" height="19"> <span
 class="org">Free Software Foundation Europe</span></a>. I’m also a freshly graduated lawyer, in
 training at the Paris Bar school. And a Zappaist.</span> </p>
 
-<p id="contact">
+<div id="contact">
+
 Email: hu<span class="zzz">SPAM</span>go@hu<span class="zzz">REMOVE</span>go<span class="y">roy.eu</span>
-</p>
+
+XMPP: hugo@jabber.fsfe.org
+
+<span class="pull-right">[[keys]]</span>
+
+</div>
 </div>
 
 
