@@ -24,6 +24,10 @@ Email: hu<span class="zzz">SPAM</span>go@hu<span class="zzz">REMOVE</span>go<spa
 
 
 <style type="text/css">
+#ma-tete {
+    float: left;
+    margin: 0 0.5em 0.15em 0;
+}
 .zzz{float: right;
 font-size: 0.001px;
 color: transparent;
