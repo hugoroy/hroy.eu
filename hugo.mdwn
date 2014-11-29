@@ -17,15 +17,12 @@ src="//fsfe.org/graphics/stars-smaller.png" height="19"> <span
 class="org">Free Software Foundation Europe</span></a>. I’m also a freshly graduated lawyer, in
 training at the Paris Bar school. And a Zappaist.</span> </p>
 
-<div id="contact">
-
-Email: hu<span class="zzz">SPAM</span>go@hu<span class="zzz">REMOVE</span>go<span class="y">roy.eu</span>
+<p id="contact">Email: hu<span class="zzz">SPAM</span>go@hu<span class="zzz">REMOVE</span>go<span class="y">roy.eu</span></p>
 
 XMPP: hugo@jabber.fsfe.org
 
-<span class="pull-right">[[keys]]</span>
+[[keys]]
 
-</div>
 </div>
 
 
