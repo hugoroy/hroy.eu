@@ -16,6 +16,19 @@ href="//www.fsfe.org"><img alt=""
 src="//fsfe.org/graphics/stars-smaller.png" height="19"> <span
 class="org">Free Software Foundation Europe</span></a>. I’m also a freshly graduated lawyer, in
 training at the Paris Bar school. And a Zappaist.</span> </p>
+
+<p id="contact">
+Email: hu<span class="zzz">SPAM</span>go@hu<span class="zzz">REMOVE</span>go<span class="y">roy.eu</span>
+</p>
 </div>
 
+
+<style type="text/css">
+.zzz{float: right;
+font-size: 0.001px;
+color: transparent;
+display: inline-block;
+width: 0px;
+text-decoration: none;}
+</style>
 

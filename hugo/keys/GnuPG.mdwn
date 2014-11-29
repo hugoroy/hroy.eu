@@ -1,3 +1,19 @@
+
+GnuPG key `EBE6 F998 953C BD94 FFA4 E671 8D02 2C99 B3D7 B795` [stats](http://pgp.cs.uu.nl/stats/B3D7B795.html)
+
+<form action="http://pgp.cs.uu.nl/mk_path.cgi" class="form-inline" method="get">
+<fieldset class="form-group">
+<legend>GnuPG's web of trust</legend>
+<span class="help-block">Check the existence of a path of
+trust between our GnuPG keys</span>
+<input name="FROM" placeholder="Your key ID" size="20" class="form-control" type="text">
+<input name="TO" value="B8B78D13" type="hidden">
+<button class="btn" name="PATHS" type="submit">Find Path</button>
+</fieldset>
+</form>
+
+-----------------
+
     -----BEGIN PGP PUBLIC KEY BLOCK-----
     Version: GnuPG v2.0.20 (GNU/Linux)
 

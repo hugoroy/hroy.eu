@@ -34,4 +34,7 @@ If you’ve read until here, you should head to the full list of [[posts]].
         float: left;
         margin: 0 0.5em 0.15em 0;
     }
+    #hcard-Hugo-Roy #contact {
+        display: none;
+    }
 </style>
