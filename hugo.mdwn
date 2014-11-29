@@ -19,9 +19,9 @@ training at the Paris Bar school. And a Zappaist.</span> </p>
 
 <p id="contact">Email: hu<span class="zzz">SPAM</span>go@hu<span class="zzz">REMOVE</span>go<span class="y">roy.eu</span></p>
 
-XMPP: hugo@jabber.fsfe.org
+<p><a href="https://xmpp.net/directory.php">XMPP/Jabber</a>: hugo@jabber.fsfe.org</p>
 
-[[keys]]
+<p>[[keys]]</p>
 
 </div>
 
