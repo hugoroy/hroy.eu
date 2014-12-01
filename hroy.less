@@ -782,11 +782,24 @@ article.inlinepage {
             border-bottom: 1px solid #CCC;
             display: inline-block;
             text-align: left;
+            padding: 0.5em;
+
+            a.mapitem { 
+                font-weight: 600;
+                &:after {
+                    content: "/ ";
+                }
+            }
 
             ul {
                 display: inline-block;
                 li {
                     border: 0;
+                    a.mapitem {
+                        &:after {
+                            content: "";
+                        }
+                    }
                 }
             }
         }
@@ -797,14 +810,19 @@ article.inlinepage {
     ul.list {
         padding: 0;
         margin: 0;
+        margin-bottom: 1em;
         list-style: none;
 
         li {
             display: inline-block;
+            margin-bottom: 0.2em;
 
             span {
                 .label;
                 .label-info;
+                background: rgba(91, 192, 222, 0.17);
+                font-weight: 500;
+                margin: O.2em;
             }
         }
     }
