@@ -7,14 +7,17 @@
 [[!meta title="About"]]
 
 
-[[Who_am_I?|hugo]]
+[[!inline pages="page(./hugo) and !*/Discussion" show="0" feeds=no actions=no template=inlinetext]]
 
-This site runs [[ikiwiki]]. 
+
+--------------------
+
+This site runs [[ikiwiki]]. It's a mess: it's my blog, it's a wiki, it's stuff
+put together. Feel free to explore.
 
 A copy of the source code of this site is available on
 [Github](https://github.com/hugoroy/hroy.eu/).
 
---------------------
 
 <span class="title" id="comment-policy">Comment policy</span>
   

@@ -1,10 +1,10 @@
 <ul class="nav" role="menu">
+<li>[[About|about]]</li>
 <li>[[Timeline|timeline]]</li>
 <!--li>[[Archives]]</li-->
 <!--li>[[Short Notes|notes]]</li-->
-<li>[[Blog Posts|posts]]</li>
-<li>[[User Hacks & Tips|tips]]</li>
+<!--<li>[[Blog Posts|posts]]</li>-->
+<li>[[Tips|tips]]</li>
 <li>[[Talks|talks]]</li>
-<li>[[All Tags|tags]]</li>
-<li>[[About/Meta|about]]</li>
+<!--<li>[[All Tags|tags]]</li>-->
 </ul>
