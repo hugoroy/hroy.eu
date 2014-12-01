@@ -7,7 +7,9 @@ You need to use the `ikiwiki-calendar` program to generate calendar-based
 archive pages.
 """]]-->
 
-Filter by: [[!toggle id="bytags" text="Tags"]] [[!toggle id="bydate" text="Months"]]
+<div role="group" class="archives-filter">
+[[!toggle id="bytags" text="Tags"]] [[!toggle id="bydate" text="Months"]]
+</div>
 
 [[!toggleable id="bytags" text="""
 [[!pagestats pages="./tags/*" among="*" style="list" show="40"]]
@@ -15,7 +17,7 @@ Filter by: [[!toggle id="bytags" text="Tags"]] [[!toggle id="bydate" text="Month
 <span class="btn btn-default">[[All Tags|tags]]</span>
 """]]
 
-[[!toggleable id="bydate" text="""
+[[!toggleable id="bydate" open="yes" text="""
 [[!map pages="page(./archives/*) and !*/discussion"]]
 """]]
 
