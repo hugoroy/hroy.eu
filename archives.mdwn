@@ -1,8 +1,23 @@
-[[!if test="archives/*" then="""
+<!--[[!if test="archives/*" then="""
 Browse through blog archives by year:
 [[!map pages="./archives/* and !./archives/*/* and !*/Discussion"]]
 """
 else="""
 You need to use the `ikiwiki-calendar` program to generate calendar-based
 archive pages.
+"""]]-->
+
+[[!toggle id="bytags" text="All Tags"]] [[!toggle id="bydate" text="Monthly"]] [[!toggle id="sitemap" text="Sitemap"]]
+
+[[!toggleable id="bytags" text="""
+[[!pagestats pages="./tags/*" among="*"]]
+"""]]
+
+[[!toggleable id="bydate" text="""
+[[!map pages="page(./archives/*) and !*/discussion"]]
+"""]]
+
+[[!toggleable id="sitemap" text="""
+[[!map pages="page(*)  and !archives/* and !tags/* and !bootstrap/* and !templates/* and !*/discussion and !recentchanges and
+!plugins/* and !sandbox/* and !ikiwiki/*"]]
 """]]
