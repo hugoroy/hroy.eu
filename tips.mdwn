@@ -10,6 +10,12 @@ Here is a full list of tips, and [below](#configs), some [configs](/configs).
 [[!inline pages="page(./tips/*) and !*/Discussion" archive=yes
 feedshow=10 quick=yes trail=yes feeds=yes]]
 
+
+<br />
+<br />
+
+<hr />
+
 <span id="configs">Configs</span>
 
 [[!inline pages="page(./configs/*) and !*/Discussion" archive=yes

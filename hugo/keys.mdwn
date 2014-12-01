@@ -1,3 +1,8 @@
 [[GnuPG]] key.
 
+[[!inline pages="page(./GnuPG) and !*/Discussion" show="0" feeds=no actions=no template=inlinetext]]
+
+-----
+
+
 I'm also on <https://keybase.io/hugoroy>.
