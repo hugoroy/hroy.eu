@@ -12,7 +12,7 @@ Filter by: [[!toggle id="bytags" text="Tags"]] [[!toggle id="bydate" text="Month
 [[!toggleable id="bytags" text="""
 [[!pagestats pages="./tags/*" among="*" style="list" show="40"]]
 
-[[All Tags|tags]]
+<span class="btn btn-default">[[All Tags|tags]]</span>
 """]]
 
 [[!toggleable id="bydate" text="""
