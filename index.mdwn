@@ -1,3 +1,8 @@
+[[!if test="enabled(sidebar)" then="""
+[[!sidebar]]
+""" else="""
+[[!inline pages=sidebar raw=yes]]
+"""]]
 
 [[!meta foaf="http://hugoroy.eu/foaf.rdf"]]
 [[!meta author="Hugo Roy"]]
