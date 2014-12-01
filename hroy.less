@@ -293,11 +293,11 @@ footer, blockquote {
         font-size: 1em;
     }
 
-    h1, h2, h3, h4, h5, h6, ul, ol, .header a, blockquote, pre, figure, .inlinefooter, .comment-subject, .comment-header, .comment .inlinecontent, .microblog-header, .archivepage, .toggleable, .inreplyto  {
+    h1, h2, h3, h4, h5, h6, ul, ol, .header a, blockquote, pre, figure, .inlinefooter, .comment-subject, .comment-header, .comment .inlinecontent, .microblog-header, .archivepage, .toggleable, .toggleable-open, .inreplyto  {
         .hroy-align;
         .hroy-max-px;
 
-        h1, h2, h3, h4, h5, h6, ul, ol, .header a, blockquote, pre, figure, .inlinefooter, .archivepage, .toggleable, .inreplyto {
+        h1, h2, h3, h4, h5, h6, ul, ol, .header a, blockquote, pre, figure, .inlinefooter, .archivepage, .toggleable, .toggleable-open, .inreplyto {
             .no-hroy-align;
         }
     }
@@ -343,7 +343,7 @@ footer, blockquote {
         }
     }
 
-    .toggleable {
+    .toggleable, .toggleable-open {
         table.img, figure.video, figure.picture, figure.slides {
             .hroy-left-align-negative;
         }
@@ -394,7 +394,7 @@ footer, blockquote {
     }
 
     .sidenote {
-        h1, h2, h3, h4, h5, h6, ul, ol, .header a, blockquote, pre, figure, .inlinefooter, .archivepage, .toggleable, .inreplyto {
+        h1, h2, h3, h4, h5, h6, ul, ol, .header a, blockquote, pre, figure, .inlinefooter, .archivepage, .toggleable, .toggleable-open, .inreplyto {
             .no-hroy-align;
         }
     }
@@ -419,7 +419,7 @@ footer, blockquote {
         font-size: 0.8em;
     }
 
-    .toggleable {
+    .toggleable, .toggleable-open {
         padding-left: 1.5em;
     }
 
@@ -769,22 +769,6 @@ article.inlinepage {
 }
 
 /* Archive page */
-
-
-.archives-filter {
-    .btn-group;
-    width: 100%;
-    text-align: center;
-    margin: 1em auto;
-
-    a.toggle {
-        .btn-group > .btn;
-        .btn-default;
-        &:after {
-            content: "";
-        }
-    }
-}
 
 #archives\.bydate {
     .map ul {
