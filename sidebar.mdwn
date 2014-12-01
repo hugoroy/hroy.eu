@@ -1,6 +1,7 @@
 <ul class="nav" role="menu">
 <li>[[About|about]]</li>
-<li>[[Timeline|timeline]]</li>
+<li>[[Archives|archives]]</li>
+<!--<li>[[Timeline|timeline]]</li>-->
 <!--li>[[Archives]]</li-->
 <!--li>[[Short Notes|notes]]</li-->
 <!--<li>[[Blog Posts|posts]]</li>-->
