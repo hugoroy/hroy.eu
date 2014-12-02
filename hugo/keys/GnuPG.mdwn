@@ -1,5 +1,5 @@
 
-GnuPG key `EBE6 F998 953C BD94 FFA4 E671 8D02 2C99 B3D7 B795` [stats](http://pgp.cs.uu.nl/stats/B3D7B795.html)
+`EBE6 F998 953C BD94 FFA4 E671 8D02 2C99 B3D7 B795` [stats](http://pgp.cs.uu.nl/stats/B3D7B795.html)
 
 <form action="http://pgp.cs.uu.nl/mk_path.cgi" class="form-inline" method="get">
 <fieldset class="form-group">
