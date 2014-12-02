@@ -1,5 +1,5 @@
 
-`EBE6 F998 953C BD94 FFA4 E671 8D02 2C99 B3D7 B795` [stats](http://pgp.cs.uu.nl/stats/B3D7B795.html)
+`EBE6 F998 953C BD94 FFA4 E671 8D02 2C99 B3D7 B795` [stats](http://pgp.cs.uu.nl/stats/B3D7B795.html), [[!toggle id="keyblock" text="key block"]]
 
 <form action="http://pgp.cs.uu.nl/mk_path.cgi" class="form-inline" method="get">
 <fieldset class="form-group">
@@ -12,7 +12,7 @@ trust between our GnuPG keys</span>
 </fieldset>
 </form>
 
------------------
+[[!toggleable id="keyblock" text="""
 
     -----BEGIN PGP PUBLIC KEY BLOCK-----
     Version: GnuPG v2.0.20 (GNU/Linux)
@@ -262,3 +262,5 @@ trust between our GnuPG keys</span>
     VUJ3E0tXsJM4KxH9YamBdfcJdmX3hiheA8U5MZfed9OF+Q==
     =sssI
     -----END PGP PUBLIC KEY BLOCK-----
+
+"""]]
