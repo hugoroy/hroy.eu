@@ -15,7 +15,9 @@ switched to using DAV with [DAVDroid on Android][davdroid]. It’s
 less buggy.
 
 For me right now the main problem is that I can’t [sync with Emacs’
-org-caldav](http://sjoberg.fi/blog/mykolab-org-mode.html), and I cannot access the webDAV with nautilus.
+org-caldav](http://sjoberg.fi/blog/mykolab-org-mode.html).
+
+To connect with [Nautilus][nautilusbug], you need to connect to `davs://kolab.example.org/iRony/index.php`.
 
 [davdroid]: http://davdroid.bitfire.at/
 
@@ -34,3 +36,5 @@ of the FQDN during the setup-kolab.
 [[!meta description="A set of configs and changes I made to my Kolab server"]]
 [[!meta language="en"]]
 [[!tag lang:en machine:totosh Kolab self-hosting debian]]
+
+[nautilusbug]: https://bugzilla.gnome.org/show_bug.cgi?id=740251 "Nautilus bug ticket"
