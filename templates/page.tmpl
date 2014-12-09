@@ -1,5 +1,5 @@
 <TMPL_IF HTML5><!DOCTYPE html>
-<html<TMPL_IF LANGUAGE> lang="<TMPL_VAR LANGUAGE>"</TMPL_IF>>
+<html<TMPL_IF LANGUAGE> lang="<TMPL_VAR LANGUAGE>"</TMPL_IF> class="no-js <TMPL_IF LANGUAGE> <TMPL_VAR LANGUAGE></TMPL_IF> ">
 <TMPL_ELSE><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml"<TMPL_IF LANGUAGE> xml:lang="<TMPL_VAR LANGUAGE>"</TMPL_IF>>
@@ -48,6 +48,7 @@
         </TMPL_LOOP>
         <link rel="webmention" href="https://webmention.herokuapp.com/api/webmention">
     </TMPL_UNLESS>
+    <script type="text/javascript" src="/js/modernizr.custom.js"></script>
 
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@hugoroyd">
@@ -331,7 +332,7 @@
         <TMPL_IF HTML5></footer><TMPL_ELSE></div></TMPL_IF>
 
     <TMPL_IF HTML5></article><TMPL_ELSE></div></TMPL_IF>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script type="text/javascript" src="/js/jquery.1.11.1.min.js"></script>
 <script type="text/javascript" src="/bootstrap/js/transition.js"></script>
 <script type="text/javascript" src="/bootstrap/js/collapse.js"></script>
 </body>
