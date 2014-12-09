@@ -151,7 +151,7 @@ footer, blockquote {
 
             @media (min-width: @screen-tablet) {
                 position: absolute;
-                top: 48px;
+                top: 32px;
                 right: 1em;
                 text-align: right;
                 
@@ -263,12 +263,14 @@ html.js {
                     margin: 0;
                     clip: auto;
                     position: absolute;
-                    top: 48px;
+                    top: 32px;
                     right: 1em;
                 }
                 .menu-toggleable {
                     .collapse;
-                    transition: display 0.15s ease 0s;
+                    .in {
+                        transition: display 0.15s ease 0s;
+                    }
                 }
 
                 @media (min-width: @screen-tablet) {
