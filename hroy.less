@@ -103,8 +103,7 @@ footer, blockquote {
 
         .menu {
             .links, .links li {
-                /*display: block;*/
-                display: none;
+                display: block;
                 margin: 0;  padding: 0;
                 width: 100%;
                 color: @white;
@@ -177,14 +176,14 @@ footer, blockquote {
                 #searchform {
                     padding-right: 0.8em;
                     opacity: 0.7;
-                    transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s, width 0.15s ease-in-out 0s;
+                    transition: opacity 0.15s ease-in-out 0s;
 
                     &:hover, &:focus {
                         opacity: 1;
                     }
                     input {
                         width: 6em;
-
+                        transition: width 0.15s ease-in-out 0s;
                         &:focus {
                             width: 16em;
                         }
@@ -245,7 +244,31 @@ footer, blockquote {
 
 }
 
+html.js {
+    .pageheader {
+        .header {
+            .menu {
+                .label {
+                    .btn;
+                    .btn-default;
+                }
+                .menu-toggleable {
+                    .collapse;
+                }
 
+                @media (min-width: @screen-tablet) {
+                    .label {
+                        display: none;
+                    }
+                    .menu-toggleable {
+                        display: block;
+                    }
+                }
+
+            }
+        }
+    }
+}
 
 #ma-tete {
     width: 48px;

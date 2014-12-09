@@ -119,19 +119,21 @@
                 </div>
                 
                 <TMPL_IF HTML5><nav class="menu"><TMPL_ELSE><div class="menu"></TMPL_IF>
-                    <span class="sr-only label" type="button" data-toggle="collapse" data-target=".menu-links">Menu</span>
-                    <ul class="links" role="navigation">
-                        <li id="link-about"><a href="/about/">About</a></li>
-                        <li id="link-archives"><a href="/archives/">Archives</a></li>
-                        <li id="link-tips"><a href="/tips/">Tips</a></li>
-                        <li id="link-talks"><a href="/talks/">Talks</a></li>
-                    </ul>
-                    <TMPL_UNLESS DYNAMIC>
-                        <span class="search-glass">🔍</span>
-                        <TMPL_IF SEARCHFORM>
-                            <TMPL_VAR SEARCHFORM>
-                        </TMPL_IF>
-                    </TMPL_UNLESS>
+                    <span class="sr-only label" type="button" data-toggle="collapse" data-target=".menu-toggleable">Menu</span>
+                    <div class="menu-toggleable">
+                        <ul class="menu-links" role="navigation">
+                            <li id="link-about"><a href="/about/">About</a></li>
+                            <li id="link-archives"><a href="/archives/">Archives</a></li>
+                            <li id="link-tips"><a href="/tips/">Tips</a></li>
+                            <li id="link-talks"><a href="/talks/">Talks</a></li>
+                        </ul>
+                        <TMPL_UNLESS DYNAMIC>
+                            <span class="search-glass">🔍</span>
+                            <TMPL_IF SEARCHFORM>
+                                <TMPL_VAR SEARCHFORM>
+                            </TMPL_IF>
+                        </TMPL_UNLESS>
+                    </div>
                 <TMPL_IF HTML5></nav><TMPL_ELSE></div></TMPL_IF>
 
             <TMPL_IF HTML5></header><TMPL_ELSE></div></TMPL_IF>
