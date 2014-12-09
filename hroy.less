@@ -100,6 +100,34 @@ footer, blockquote {
                 margin-right: 0%;
             }
         }
+
+        .menu {
+            .links {
+                display: none;
+            }
+        }
+
+        #searchbox {
+            .form-control;
+            margin: auto;
+            width: 100%;
+            opacity: 0.7;
+            transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s, width 0.15s ease-in-out 0s;
+            background-color: rgba(255,255,255,0.7);
+
+                    @media (min-width: @screen-sm) {
+                        margin-top: 2em;
+                        width: 7em;
+                        position: absolute;
+                        right: 0;
+                    }
+        }
+        #searchbox:hover, #searchbox:focus {opacity:1}
+        #searchbox:focus {
+            width: 14em;
+            background-color: rgba(255,255,255,1);
+        }
+
     }
 
     .trails {
@@ -153,26 +181,6 @@ footer, blockquote {
 
 }
 
-#searchbox {
-    .form-control;
-    margin: auto;
-    width: 100%;
-    opacity: 0.7;
-    transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s, width 0.15s ease-in-out 0s;
-    background-color: rgba(255,255,255,0.7);
-
-            @media (min-width: @screen-sm) {
-                margin-top: 2em;
-                width: 7em;
-                position: absolute;
-                right: 0;
-            }
-}
-#searchbox:hover, #searchbox:focus {opacity:1}
-#searchbox:focus {
-    width: 14em;
-    background-color: rgba(255,255,255,1);
-}
 
 
 #ma-tete {
