@@ -148,26 +148,13 @@ footer, blockquote {
                     background-color: @white;
                     color: @brand-primary;
                 }
-
-                /* @media (min-width: @screen-sm) {
-                    opacity: 0.7;
-                    transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s, width 0.15s ease-in-out 0s;
-
-                    margin-top: 2em;
-                    width: 7em;
-                    position: absolute;
-                    right: 0;
-
-                    &:focus {
-                        width: 14em;
-                    }
-                }*/
             }
 
             @media (min-width: @screen-tablet) {
                 position: absolute;
                 top: 48px;
                 right: 1em;
+                text-align: right;
                 
                 .links, #searchform {
                     display: inline-block;
@@ -182,7 +169,21 @@ footer, blockquote {
                         color: @white;
 
                         &:hover, &:focus {
+                            text-decoration: none;
                         }
+                    }
+                }
+
+                #searchform {
+                    padding-right: 0.8em;
+                    opacity: 0.7;
+                    transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s, width 0.15s ease-in-out 0s;
+
+                    &:hover, &:focus {
+                        opacity: 1;
+                    }
+                    &:focus {
+                        width: 14em;
                     }
                 }
             }
