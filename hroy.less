@@ -102,7 +102,7 @@ footer, blockquote {
         }
 
         .menu {
-            .links li {
+            .links, .links li {
                 /*display: block;*/
                 display: none;
                 margin: 0;  padding: 0;
@@ -115,49 +115,77 @@ footer, blockquote {
                     #searchbox;
                 }
             }
-        }
 
-        #searchform {
-            position: relative;
-            top: auto;
-            right: auto;
-            float: none;
-            display: block;
-
-            input {
-                .form-control;
-            }
-        }
-
-        #searchbox {
-            background-color: rgba(255,255,255,0.7);
-            transition: background-color 0.1s ease 0s;
-            display: block;
-            white-space: nowrap;
-            box-shadow: 0px 1px 1px @gray-lighter, 0px -1px @white;
-            border: 0;
-            margin: 0.3em;
-            padding: 0.6em;
-            font-weight: 500;
-
-            &:hover, &:focus {
-                background-color: @white;
-                color: @brand-primary;
+            .search-glass {
+                display: none;
             }
 
-/*            @media (min-width: @screen-sm) {
-                opacity: 0.7;
-                transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s, width 0.15s ease-in-out 0s;
+            #searchform {
+                position: relative;
+                top: auto;
+                right: auto;
+                float: none;
+                display: block;
 
-                margin-top: 2em;
-                width: 7em;
-                position: absolute;
-                right: 0;
-
-                &:focus {
-                    width: 14em;
+                input {
+                    .form-control;
                 }
-            }*/
+            }
+
+            #searchbox {
+                background-color: rgba(255,255,255,0.7);
+                transition: background-color 0.1s ease 0s;
+                display: block;
+                white-space: nowrap;
+                box-shadow: 0px 1px 1px @gray-lighter, 0px -1px @white;
+                border: 0;
+                margin: 0.3em;
+                padding: 0.6em;
+                height: auto;
+                font-weight: 500;
+
+                &:hover, &:focus {
+                    background-color: @white;
+                    color: @brand-primary;
+                }
+
+                /* @media (min-width: @screen-sm) {
+                    opacity: 0.7;
+                    transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s, width 0.15s ease-in-out 0s;
+
+                    margin-top: 2em;
+                    width: 7em;
+                    position: absolute;
+                    right: 0;
+
+                    &:focus {
+                        width: 14em;
+                    }
+                }*/
+            }
+
+            @media (min-width: @screen-tablet) {
+                position: absolute;
+                top: 48px;
+                right: 1em;
+                
+                .links, #searchform {
+                    display: inline-block;
+                }
+
+                .links li {
+                    display: inline-block;
+                    width: auto;
+
+                    a {
+                        .btn-link;
+                        color: @white;
+
+                        &:hover, &:focus {
+                        }
+                    }
+                }
+            }
         }
     }
 
