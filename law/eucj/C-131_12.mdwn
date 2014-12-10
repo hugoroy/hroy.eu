@@ -1,6 +1,7 @@
 [[!meta title="ECJ’s “Right to be forgotten” in Google Spain v. Mario Costeja González (C-131/12)"]]
 [[!meta author="Curia Europa"]]
-[[!tag lang:en Google privacy rightToBeForgotten ECJ EUCJ]]
+[[!tag lang:en Google privacy rightToBeForgotten ECJ EUCJ dataProtection]]
+
 
 <center>JUDGMENT OF THE COURT (Grand Chamber)</center>
 
