@@ -15,18 +15,18 @@ archive pages.
 [[!meta title="Archives"]]
 
 <div class="selectors" role="group">
-  <button type="button" class="selector active" data-toggle="collapse" data-target="#archives-bytags" data-parent=".accordeon">By Tags</button>
-  <button type="button" class="selector">Monhtly</button>
+  <button type="button" class="selector" data-toggle="collapse" data-target="#archives-bytags" data-parent=".accordeon">By Tags</button>
+  <button type="button" class="selector" data-toggle="collapse" data-target="#archives-bydate" data-parent=".accordeon">Monhtly</button>
 </div>
 
 <div class="accordeon">
-<div id="archives-bytags">
+<div id="archives-bytags" class="collapse in">
 [[!pagestats pages="./tags/*" among="*" style="list" show="40"]]
 <br />
 <span class="btn btn-default">[[All Tags|tags]]</span>
 </div>
 
-<div id="archives-bydate">
+<div id="archives-bydate" class="collapse">
 [[!map pages="page(./archives/*) and !*/discussion" sort="-path"]]
 </div>
 </div>
