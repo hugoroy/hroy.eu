@@ -12,18 +12,22 @@ You need to use the `ikiwiki-calendar` program to generate calendar-based
 archive pages.
 """]]-->
 
-[[!toggle id="bytags" text="By Tags"]] 
+[[!meta title="Archives"]]
 
-[[!toggleable id="bytags" text="""
+<div class="selectors" role="group">
+  <button type="button" class="selector active" data-toggle="collapse" data-target="#archives-bytags" data-parent=".accordeon">By Tags</button>
+  <button type="button" class="selector">Monhtly</button>
+</div>
+
+<div class="accordeon">
+<div id="archives-bytags">
 [[!pagestats pages="./tags/*" among="*" style="list" show="40"]]
-
+<br />
 <span class="btn btn-default">[[All Tags|tags]]</span>
-"""]]
+</div>
 
-[[!toggle id="bydate" text="Monthly"]]
-
-[[!toggleable id="bydate" open="yes" text="""
+<div id="archives-bydate">
 [[!map pages="page(./archives/*) and !*/discussion" sort="-path"]]
-"""]]
-
+</div>
+</div>
 
