@@ -60,3 +60,6 @@ If you’re looking for a curated list of awesome web services that are free of 
 [Libre projects]: http://libreprojects.net/
 
 [^nofs]: Unfortunately, Pinboard is not released as free software. But you can [export your bookmarks](https://pinboard.in/export/).
+
+<style type="text/css">.pagedate.published {display: none;}</style>
+
