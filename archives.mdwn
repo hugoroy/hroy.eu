@@ -23,7 +23,7 @@ archive pages.
 [[!toggle id="bydate" text="Monthly"]]
 
 [[!toggleable id="bydate" open="yes" text="""
-[[!map pages="page(./archives/*) and !*/discussion"]]
+[[!map pages="page(./archives/*) and !*/discussion" sort="-path"]]
 """]]
 
 
