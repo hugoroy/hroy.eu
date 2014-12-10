@@ -14,9 +14,10 @@ archive pages.
 
 [[!meta title="Archives"]]
 
+<div id="select-archive">
 <div class="selectors" role="group">
-  <button type="button" class="selector" data-toggle="collapse" data-target="#archives-bytags" data-parent=".accordeon">By Tags</button>
-  <button type="button" class="selector" data-toggle="collapse" data-target="#archives-bydate" data-parent=".accordeon">Monhtly</button>
+  <button type="button" class="selector" data-toggle="collapse" data-target="#archives-bytags" data-parent="#select-archive">By Tags</button>
+  <button type="button" class="selector" data-toggle="collapse" data-target="#archives-bydate" data-parent="#select-archive">Monhtly</button>
 </div>
 
 <div class="accordeon">
@@ -30,4 +31,4 @@ archive pages.
 [[!map pages="page(./archives/*) and !*/discussion" sort="-path"]]
 </div>
 </div>
-
+</div>
