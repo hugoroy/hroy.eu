@@ -1,4 +1,4 @@
-[[!meta title="Talks and confs"]]
+[[!meta title="Talks and slides"]]
 [[!if test="enabled(sidebar)" then="""
 [[!sidebar]]
 """ else="""

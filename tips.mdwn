@@ -4,6 +4,7 @@
 [[!inline pages=sidebar raw=yes]]
 """]]
 
+[[!meta title="User tips and hacks"]]
 
 Here is a full list of tips, and [below](#configs), some [configs](/configs).
 
