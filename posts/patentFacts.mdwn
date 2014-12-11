@@ -1,0 +1,31 @@
+[[!meta title="Patent Facts"]]
+[[!tag lang:en patents]]
+
+Some facts and stastics about patents (with a focus on software and information technology). I will update this post over time, so subscribe to comments to get notified! Please suggest other facts in the Discussion!
+
+  - the number of patent lawsuits filed each year in the US has tripled.
+
+    source: [New York Times][nyt2012]
+
+    year: 1990-2010
+
+  - “Internet software patents are litigated eight times as often as other patents.”
+
+    source: [Allison, Standford](http://stlr.stanford.edu/pdf/allison-patent-litigation.pdf)
+
+    year: unknown (paper published in 2012, then taken down)
+
+  - Apple and Google spend more on patent litigation and patent purchases than on research and development.
+
+    source: [New York Times][nyt2012]
+
+    year: 2011
+
+[nyt2012]: http://www.nytimes.com/2012/10/08/technology/patent-wars-among-tech-giants-can-stifle-competition.html?_r=2&pagewanted=all
+
+  - IBM abandons around 40% of their US patents in the first three years.
+
+    source: [patentlyo](http://patentlyo.com/patent/2012/03/ibms-patent-abandonment-strategy.html)
+
+    year: 2012
+
