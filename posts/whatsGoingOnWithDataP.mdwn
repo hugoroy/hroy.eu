@@ -1,5 +1,5 @@
 [[!meta title="What’s going on with Data Protection?"]]
-[[!tag lang:en dataProtection EUCJ ECJ]]
+[[!tag lang:en dataProtection EUCJ ECJ law]]
 [[!meta copyright="Privacy notices under CC-0 https://twitter.com/neil_neilzone/status/543036681759514624"]]
 
 The [[!taglink EUCJ]] has just published [another decision][c-212_13] regarding [[!taglink data_protection|dataProtection]] that got me puzzled (but I'm not the only one!).
