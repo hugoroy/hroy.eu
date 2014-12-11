@@ -35,7 +35,12 @@ Some facts and statistics about [[!taglink patents]] (with a focus on software a
 
     year: 2013
 
-## Good article on patent facts
+## Good articles and other sources on patent facts
+
+### Journalism
 
   - <span class="csl-entry">Duhigg, Charles, and Steve Lohr. “In Technology Wars, Using the Patent as a Sword.” *The New York Times*, October 7, 2012, sec. Technology. <http://www.nytimes.com/2012/10/08/technology/patent-wars-among-tech-giants-can-stifle-competition.html.></span> I summarised this article [on my old blog](http://blog.hugoroy.eu/2012/10/10/some-facts-about-the-us-patent-system/)
 
+### Official statistics
+
+  - WIPO Statistics: <http://www.wipo.int/ipstats/en/>
