@@ -4,11 +4,11 @@
 
 The [[!taglink EUCJ]] has just published [another decision][c-212_13] regarding [[!taglink data_protection|dataProtection]] that got me puzzled (but I'm not the only one!).
 
-This one is primarily concerned with the interpretation of exceptions to the 1995 directive, but it also has interesting things to say regarding to the infamous [[!taglink so-called_right_to_be_forgotten|rightToBeForgotten]] decision where [[legitimate_interests_of_personal_data_processing|/posts/rtbf-what-cjue-got-wrong/]] was involved.
+This one is primarily concerned with the interpretation of exceptions to the 1995 directive, but it also has interesting things to say regarding the infamous [[!taglink so-called_right_to_be_forgotten|rightToBeForgotten]] decision where [[legitimate_interests_in_personal_data_processing|/posts/rtbf-what-cjue-got-wrong/]] was involved.
 
 [c-212_13]: http://curia.europa.eu/juris/documents.jsf?num=C-212/13
 
-The facts are simple: someone puts a camera to monitor the entrance of his house. One day, people break in but they are later identified. Then, these suspects challenge the legality of the camera system on the grounds that they were not notified of the processing of their personal data.
+The facts are simple: someone puts a camera to monitor the entrance of his house. One day, people break in, but they are later identified thanks to the camera. Then, these suspects challenge the legality of the camera system on the grounds that they were not notified of the processing of their personal data.
 
 Article 3 of the 1995 directive provides:
 
@@ -29,13 +29,14 @@ This is a strange reasoning in my opinion, as it seems to make no distinction be
 
 So here's how this applies to us: thanks to [Neil], we already have a solution!
 
-
+<div class="embedexternal">
 <blockquote class="twitter-tweet" lang="en"><p>Following today’s CJEU ruling, I have launched new data protection compliance stickers for everyone with a smartphone <a href="http://t.co/WHa72i05iM">pic.twitter.com/WHa72i05iM</a></p>&mdash; Neil Brown (@neil_neilzone) <a href="https://twitter.com/neil_neilzone/status/543013244894711808">December 11, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <blockquote class="twitter-tweet" lang="en"><p>Don’t want to be filmed or photographed? Get my new, trendy “right to object” jumper-based notification: <a href="http://t.co/sCwmsXtgGd">pic.twitter.com/sCwmsXtgGd</a></p>&mdash; Neil Brown (@neil_neilzone) <a href="https://twitter.com/neil_neilzone/status/543035098732711936">December 11, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
 ## How does this relate to the so-called right to be forgotten?
 
