@@ -1,0 +1,4 @@
+[[!meta title="pages tagged information"]]
+
+[[!inline pages="tagged(information)" actions="no" archive="yes"
+feedshow=10]]
