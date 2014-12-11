@@ -1,7 +1,7 @@
 [[!meta title="Patent Facts"]]
 [[!tag lang:en patents]]
 
-Some facts and stastics about [[!taglink patents]] (with a focus on software and information technology). I will update this post over time, so subscribe to comments to get notified! Please suggest other facts in the Discussion!
+Some facts and statistics about [[!taglink patents]] (with a focus on software and information technology). I will update this post over time, so subscribe to comments to get notified! Please suggest other noteworthy facts too.
 
   - the number of patent lawsuits filed each year in the US has tripled.
 
@@ -28,4 +28,14 @@ Some facts and stastics about [[!taglink patents]] (with a focus on software and
     source: [patentlyo](http://patentlyo.com/patent/2012/03/ibms-patent-abandonment-strategy.html)
 
     year: 2012
+
+  - IBM has been granted most US patents for [more than] 20 years in a row
+
+    source: [bloomberg](http://www.bloomberg.com/news/2013-01-10/ibm-granted-most-u-s-patents-for-20th-straight-year.html)
+
+    year: 2013
+
+## Good article on patent facts
+
+  - <span class="csl-entry">Duhigg, Charles, and Steve Lohr. “In Technology Wars, Using the Patent as a Sword.” *The New York Times*, October 7, 2012, sec. Technology. <http://www.nytimes.com/2012/10/08/technology/patent-wars-among-tech-giants-can-stifle-competition.html.></span> I summarised this article [on my old blog](http://blog.hugoroy.eu/2012/10/10/some-facts-about-the-us-patent-system/)
 
