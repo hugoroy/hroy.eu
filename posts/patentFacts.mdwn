@@ -17,7 +17,7 @@ Some facts and statistics about [[!taglink patents]] (with a focus on software a
 
     year: unknown (paper published in 2012, then taken down)
 
-  - In Germany, software and telecommmunications patents are invalidated by
+  - In Germany, patents covering software and telecoms are invalidated by
     courts in 88.11% of decisions. <small>For all patents, the main ground for
     invalidations by the German Federal Patent Court is lack of patentability
     in 75% of the cases</small>
