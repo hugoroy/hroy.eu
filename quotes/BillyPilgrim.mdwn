@@ -2,7 +2,7 @@
  > God, grant me the serenity to accept the things I cannot change,  
  > courage to change the things I can,  
  > and wisdom to know the difference.
- > 
+ >
  > <span class="translated">Que Dieu  
  > m'accorde la sérénité  
  > d'accépter les choses que je ne peux pas changer,  
@@ -11,3 +11,6 @@
  > de savoir toujours les distinguer.</span>
  >
  > <cite>Billy Pilgrim, in <em>Slaughterhouse-Five, or The Children's Crusade: A Duty-Dance with Death</em> (1969)</cite>
+
+
+[[!tag lang:en lang:fr wisdom]]
