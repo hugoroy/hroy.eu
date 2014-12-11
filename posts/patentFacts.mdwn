@@ -17,6 +17,15 @@ Some facts and statistics about [[!taglink patents]] (with a focus on software a
 
     year: unknown (paper published in 2012, then taken down)
 
+  - In Germany, software and telecommmunications patents are invalidated by
+    courts in 88.11% of decisions. <small>For all patents, the main ground for
+    invalidations by the German Federal Patent Court is lack of patentability
+    in 75% of the cases</small>
+
+    source: [Bardehle](http://www.bardehle.com/uploads/files/Patent_Papiertiger.pdf) [pdf]
+
+    year: 2010-2013
+
   - Apple and Google spend more on patent litigation and patent purchases than on research and development.
 
     source: [New York Times][nyt2012]
