@@ -1,7 +1,9 @@
 [[!meta title="Patent Facts"]]
 [[!tag lang:en patents]]
 
-Some facts and statistics about [[!taglink patents]] (with a focus on software and information technology). I will update this post over time, so subscribe to comments to get notified! Please suggest other noteworthy facts too.
+[gitrss]: http://source.hroy-eu.branchable.com/?p=source.git;a=atom;f=posts/patentFacts.mdwn
+
+Some facts and statistics about [[!taglink patents]] (with a focus on software and information technology). I will update this post over time, so [subscribe to commits][gitrss] to get notified! Please suggest other noteworthy facts in the comments.
 
   - the number of patent lawsuits filed each year in the US has tripled.
 
