@@ -3,7 +3,7 @@
 
 [gitrss]: http://source.hroy-eu.branchable.com/?p=source.git;a=atom;f=posts/patentFacts.mdwn
 
-Some facts and statistics about [[!taglink patents]] (with a focus on software and information technology). I will update this post over time, so [subscribe to commits][gitrss] to get notified! Please suggest other noteworthy facts in the comments.
+Some facts and statistics about [[!taglink patents]] (with a focus on software and information technology). I will update this post over time, so [subscribe to commits][gitrss] to get notified! Please suggest other noteworthy facts in the comments. 
 
   - the number of patent lawsuits filed each year in the US has tripled.
 
@@ -46,3 +46,5 @@ Some facts and statistics about [[!taglink patents]] (with a focus on software a
 ### Official statistics
 
   - WIPO Statistics: <http://www.wipo.int/ipstats/en/>
+  - EPO reports and statistics: <http://www.epo.org/about-us/annual-reports-statistics.html>
+  - USPTO statistics: <http://www.uspto.gov/about/stats/index.jsp>
