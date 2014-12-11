@@ -1,0 +1,4 @@
+[[!meta title="pages tagged justice"]]
+
+[[!inline pages="tagged(justice)" actions="no" archive="yes"
+feedshow=10]]
