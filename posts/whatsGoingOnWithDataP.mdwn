@@ -4,7 +4,7 @@
 
 The [[!taglink EUCJ]] has just published [another decision][c-212_13] regarding [[!taglink data_protection|dataProtection]] that got me puzzled (but I'm not the only one!).
 
-This one is primarily concerned with the interpretation of exceptions to the 1995 directive, but it also has interesting things to say regarding the infamous [[!taglink so-called_right_to_be_forgotten|rightToBeForgotten]] decision where [[legitimate_interests_in_personal_data_processing|/posts/rtbf-what-cjue-got-wrong/]] was involved.
+This one is primarily concerned with the interpretation of exceptions to the 1995 directive, but it also has interesting things to say regarding the infamous [[!taglink so-called_right_to_be_forgotten|rightToBeForgotten]] decision where [[legitimate_interests_in_personal_data_processing|/posts/rtbf-what-cjue-got-wrong/]] were involved.
 
 [c-212_13]: http://curia.europa.eu/juris/documents.jsf?num=C-212/13
 
