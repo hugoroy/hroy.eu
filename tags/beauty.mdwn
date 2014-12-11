@@ -1,0 +1,4 @@
+[[!meta title="pages tagged beauty"]]
+
+[[!inline pages="tagged(beauty)" actions="no" archive="yes"
+feedshow=10]]
