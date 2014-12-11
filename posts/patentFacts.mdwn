@@ -1,7 +1,7 @@
 [[!meta title="Patent Facts"]]
 [[!tag lang:en patents]]
 
-Some facts and stastics about patents (with a focus on software and information technology). I will update this post over time, so subscribe to comments to get notified! Please suggest other facts in the Discussion!
+Some facts and stastics about [[!taglink patents]] (with a focus on software and information technology). I will update this post over time, so subscribe to comments to get notified! Please suggest other facts in the Discussion!
 
   - the number of patent lawsuits filed each year in the US has tripled.
 
