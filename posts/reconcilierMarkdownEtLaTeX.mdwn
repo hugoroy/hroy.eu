@@ -2,9 +2,9 @@
 [[!meta language="fr"]]
 [[!tag lang:fr Markdown LaTeX français typography publishing writing]]
 
-<p class="tldr">
+<div class="tldr">
 **Pour faire vite :** [appliquer un filtre à Pandoc](#filter-for-pandoc-french)
-</p>
+</div>
 
 [Markdown] et LaTeX sont pratiquement à l'opposé l'un de l'autre. C'est
 deux philosophies qui s'affrontent !
