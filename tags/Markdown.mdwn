@@ -1,0 +1,4 @@
+[[!meta title="pages tagged Markdown"]]
+
+[[!inline pages="tagged(Markdown)" actions="no" archive="yes"
+feedshow=10]]
