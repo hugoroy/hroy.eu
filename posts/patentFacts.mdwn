@@ -11,11 +11,11 @@ Some facts and statistics about [[!taglink patents]] (with a focus on software a
 
     year: 1990-2010
 
-  - “Internet software patents are litigated eight times as often as other patents.”
+  - “Internet software patents” are litigated eight times as often as other patents.
 
-    source: [Allison, Standford](http://stlr.stanford.edu/pdf/allison-patent-litigation.pdf)
+    source: [Allison, Standford](http://stlr.stanford.edu/pdf/allison-patent-litigation.pdf) [404] in 2012 Stan. Tech. L. Rev. 3 [SSRN](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1989144)
 
-    year: unknown (paper published in 2012, then taken down)
+    year: 1998-2009
 
   - In Germany, patents covering software and telecoms are invalidated by
     courts in 88.11% of cases. <small>For all patents, the main ground for
