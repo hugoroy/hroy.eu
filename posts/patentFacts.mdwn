@@ -46,9 +46,11 @@ Some facts and statistics about [[!taglink patents]] (with a focus on software a
 
     year: 2013
 
-  - More than 1000 software patents are granted each year in the European Patent Convention states.
+  - More than 1000 software patents are granted each year by the EPO
+    or EPC states.
 
-    source: [European Commission](http://europa.eu/rapid/press-release_MEMO-02-32_en.htm?locale=en)
+    source:
+    [European Commission](http://europa.eu/rapid/press-release_MEMO-02-32_en.htm?locale=en)
 
     years: 1978-2002
 
