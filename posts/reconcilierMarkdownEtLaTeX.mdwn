@@ -79,6 +79,6 @@ Si vous avez des modifications à suggérer, n'hésitez pas !
 -----
 
 Pour une critique de markdown intéressante :
-[*My principled objection to Markdown*, par Matthew Butterick auteur de Pollen][http://pkg-build.racket-lang.org/doc/pollen/second-tutorial.html?q=markdown#%28part._.Prelude__my_principled_objection_to_.Markdown%29)
+[*My principled objection to Markdown*, par Matthew Butterick auteur de Pollen](http://pkg-build.racket-lang.org/doc/pollen/second-tutorial.html?q=markdown#%28part._.Prelude__my_principled_objection_to_.Markdown%29)
 
 [markdown]: http://commonmark.org/
