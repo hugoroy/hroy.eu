@@ -2,7 +2,7 @@
 [[!meta language="fr"]]
 [[!tag lang:fr Markdown LaTeX français typography publishing writing]]
 
-<aside class="sidenote right">
+<aside class="sidenote tldr">
 **Pour faire vite :** [appliquer un filtre à Pandoc](#filter-for-pandoc-french)
 </aside>
 
