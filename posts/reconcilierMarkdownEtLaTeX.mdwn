@@ -1,0 +1,85 @@
+[[!meta title="Réconcilier Markdown et LaTeX"]]
+[[!meta language="fr"]]
+[[!tag lang:fr Markdown LaTeX français typography publishing writing]]
+
+[Markdown] et LaTeX sont pratiquement à l'opposé l'un de l'autre. C'est
+deux philosophies qui s'affrontent !
+
+Voici comment **écrire** un *même passage* avec :
+
+ 1. markdown,
+
+    puis avec
+
+ 2. LaTeX (en utilisant « XeLaTeX »).
+
+------
+
+	Voici comment **écrire** un *même passage* avec :
+
+	 1. markdown,
+
+		puis avec
+
+	2. LaTeX (en utilisant « XeLaTeX »).
+
+-----
+
+	Voici comment \textbf{écrire} un \emph{même passage} avec:
+
+	\begin{enumerate}
+	\item markdown,
+
+	puis avec
+
+	\item \LaTeX{} (en utilisant «XeLaTeX»).
+	\end{itemize}
+
+-----
+
+On le voit bien, markdown est plus facile à lire et à écrire. Tandis
+que LaTeX a l'avantage d'être plus prévisible et plus strict ! C'est
+parce qu'on a d'un coté une syntaxe plutôt lâche ; tandis que de
+l'autre coté, on a un vrai langage.
+
+Mais il ne faut pas oublier que markdown, à l'origine, est destiné à
+être converti en HTML (d'où ses limites !). En fait, markdown n'est
+qu'une syntaxe pour une sous-partie d'HTML. Malheureusement, LaTeX et
+HTML sont à peu près aussi éloignés que possible en terme d'approche
+de ce qu'est un document. Il est vrai que LaTeX est généralement
+utilisé pour produire des PDF, tandis que HTML a le mérite de faire de
+réels documents informatiques plutôt que de faire des documents
+numériques qui imitent le papier !
+
+Par conséquent, combiner markdown et LaTeX n'est pas sans poser
+quelques problèmes !
+
+Dans l'exemple ci-dessus, vous avez peut-être pu observer, si vous
+avez fait attention, que les espaces ne sont pas traitées de la même
+manière selon qu'on est dans markdown ou dans LaTeX. Ainsi, en
+markdown, j'insère une espace insécable en guise d'espace
+typographique avant `:` ou entre `« »` -- alors que si je fais la même
+chose en LaTeX, XeLaTeX va prendre les espaces insécables en tant que
+tel et donc n'appliquera pas ses propres espaces typographiques. C'est
+pourquoi dans la source LaTeX on n'écrit que les symboles sans
+s'occuper de leur représentation plus tard dans le PDF.
+
+Voici donc un petit script que j'applique automatiquement avant chaque
+passage par XeLaTeX grâce à l'option `--filter` de [Pandoc] :
+
+[Pandoc]: http://johnmacfarlane.net/pandoc/README.html
+
+<script src="https://gist.github.com/hugoroy/248f8aa411835cb55e5b.js"></script>
+<noscript><pre>
+#!/bin/bash
+sed "s/« /«/g" | sed "s/ »/»/g" | sed "s/ !/!/g" | sed "s/ ?/?/g" | sed "s/ ;/;/g" | sed "s/ :/:/g" | sed "s/1er/1\\\textsuperscript{er}/g" | sed "s/Mme /M\\\textsuperscript{me} /g" 
+</pre></noscript>
+
+Si vous avez des modifications à suggérer, n'hésitez pas !
+
+-----
+
+Pour une critique de markdown intéressante :
+[*My principled objection to Markdown*, par Matthew Butterick auteur de Pollen][http://pkg-build.racket-lang.org/doc/pollen/second-tutorial.html?q=markdown#%28part._.Prelude__my_principled_objection_to_.Markdown%29)
+
+[markdown]: http://commonmark.org/
