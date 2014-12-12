@@ -9,13 +9,13 @@ Some facts and statistics about [[!taglink patents]] (with a focus on software a
 
     source: [New York Times][nyt2012]
 
-    year: 1990-2010
+    years: 1990-2010
 
   - “Internet software patents” are litigated eight times as often as other patents.
 
     source: [Allison, Standford](http://stlr.stanford.edu/pdf/allison-patent-litigation.pdf) [404] in 2012 Stan. Tech. L. Rev. 3 [SSRN](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1989144)
 
-    year: 1998-2009
+    years: 1998-2009
 
   - In Germany, patents covering software and telecoms are invalidated by
     courts in 88.11% of cases. <small>For all patents, the main ground for
@@ -24,7 +24,7 @@ Some facts and statistics about [[!taglink patents]] (with a focus on software a
 
     source: [Bardehle](http://www.bardehle.com/uploads/files/Patent_Papiertiger.pdf) [pdf]
 
-    year: 2010-2013
+    years: 2010-2013
 
   - Apple and Google spend more on patent litigation and patent purchases than on research and development.
 
@@ -45,6 +45,12 @@ Some facts and statistics about [[!taglink patents]] (with a focus on software a
     source: [bloomberg](http://www.bloomberg.com/news/2013-01-10/ibm-granted-most-u-s-patents-for-20th-straight-year.html)
 
     year: 2013
+
+  - More than 1000 software patents are granted each year in the European Patent Convention states.
+
+    source: [European Commission](http://europa.eu/rapid/press-release_MEMO-02-32_en.htm?locale=en)
+
+    years: 1978-2002
 
 ## Good articles and other sources on patent facts
 
