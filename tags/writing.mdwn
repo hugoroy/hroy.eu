@@ -1,0 +1,4 @@
+[[!meta title="pages tagged writing"]]
+
+[[!inline pages="tagged(writing)" actions="no" archive="yes"
+feedshow=10]]
