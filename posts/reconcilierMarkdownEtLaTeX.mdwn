@@ -3,7 +3,7 @@
 [[!tag lang:fr Markdown LaTeX français typography publishing writing]]
 
 <div class="tldr">
-**Pour faire vite :** [appliquer un filtre à Pandoc](#filter-for-pandoc-french)
+<strong>Pour faire vite :</strong> <a href="#filter-for-pandoc-french">appliquer un filtre à Pandoc</a>
 </div>
 
 [Markdown] et LaTeX sont pratiquement à l'opposé l'un de l'autre. C'est
