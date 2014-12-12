@@ -2,6 +2,10 @@
 [[!meta language="fr"]]
 [[!tag lang:fr Markdown LaTeX français typography publishing writing]]
 
+<aside class="sidenote right">
+**Pour faire vite :** [appliquer un filtre à Pandoc](#filter-for-pandoc-french)
+</aside>
+
 [Markdown] et LaTeX sont pratiquement à l'opposé l'un de l'autre. C'est
 deux philosophies qui s'affrontent !
 
@@ -68,11 +72,13 @@ passage par XeLaTeX grâce à l'option `--filter` de [Pandoc] :
 
 [Pandoc]: http://johnmacfarlane.net/pandoc/README.html
 
+<div id="filter-for-pandoc-french">
 <script src="https://gist.github.com/hugoroy/248f8aa411835cb55e5b.js"></script>
 <noscript><pre>
 #!/bin/bash
 sed "s/« /«/g" | sed "s/ »/»/g" | sed "s/ !/!/g" | sed "s/ ?/?/g" | sed "s/ ;/;/g" | sed "s/ :/:/g" | sed "s/1er/1\\\textsuperscript{er}/g" | sed "s/Mme /M\\\textsuperscript{me} /g" 
 </pre></noscript>
+</div>
 
 Si vous avez des modifications à suggérer, n'hésitez pas !
 
