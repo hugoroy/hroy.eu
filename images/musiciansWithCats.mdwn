@@ -1,0 +1,11 @@
+[[!meta title="Musicians with cats. A series."]]
+[[!meta copyright="Some of these pictures may be subject to copyright, please refer to each for credit."]]
+[[!tag music cats]]
+
+
+
+[[!img zappa-cat.jpg caption="Frank Zappa" alt="picture"]]
+
+[[!img wendy-carlos-cat.jpg caption="Wendy Carlos" alt="picture"]]
+
+[[!img brian-eno-cat.png caption="Brian Eno" alt="picture"]]
