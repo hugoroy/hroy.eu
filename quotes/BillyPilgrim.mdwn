@@ -1,11 +1,10 @@
-
  > God, grant me the serenity to accept the things I cannot change,  
  > courage to change the things I can,  
  > and wisdom to know the difference.
  >
  > <span class="translated">Que Dieu  
  > m'accorde la sérénité  
- > d'accépter les choses que je ne peux pas changer,  
+ > d'accepter les choses que je ne peux pas changer,  
  > le courage de transformer celles qui s'y prêtent  
  > et la sagesse  
  > de savoir toujours les distinguer.</span>
