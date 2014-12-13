@@ -1,0 +1,4 @@
+[[!meta title="pages tagged cats"]]
+
+[[!inline pages="tagged(cats)" actions="no" archive="yes"
+feedshow=10]]
