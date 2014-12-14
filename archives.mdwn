@@ -17,7 +17,7 @@ archive pages.
 <div id="select-archive">
 <div class="selectors btn-group" role="group">
   <button type="button" class="selector btn btn-default" data-toggle="collapse" data-target="#archives-bytags" data-parent="#select-archive">By Tags</button>
-  <button type="button" class="selector btn btn-default" data-toggle="collapse" data-target="#archives-bydate" data-parent="#select-archive">Monhtly</button>
+  <button type="button" class="selector btn btn-default" data-toggle="collapse" data-target="#archives-bydate" data-parent="#select-archive">Monthly</button>
 </div>
 
 <div class="accordeon">
