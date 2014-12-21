@@ -55,3 +55,6 @@ then `msmtpq` could queue the email for 30 seconds before testing the
 connection and feeding the email to `msmtp`. The Queue management
 could then allow the user to pause all outgoing emails, cancel the
 email containing the mistake, then sending remaining emails from the queue.
+
+
+The `msmtpq` script is available at: <http://sourceforge.net/p/msmtp/code/ci/master/tree/scripts/msmtpq/>
