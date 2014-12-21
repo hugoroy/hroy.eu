@@ -1,0 +1,57 @@
+[[!meta title="Delay sending emails in Mutt"]]
+[[!meta language="en"]]
+[[!tag lang:en mutt msmtp]]
+
+I've been looking for a solution to this problem:
+
+Sometimes, I just sent an email. And after 10 seconds I realise: “Oh,
+damn, I forgot to add something!” or “Oh, nooooes, I sent it to the
+wrong person!” Whatever. This is annoying.
+
+Making mistakes is human. Email clients are for humans, therefore they
+should be able to cope with our mistakes and help fix them. That's why
+software should allow us to “undo” or “cancel” our actions.
+
+Gmail does this right, so why can't we do it in Mutt too?
+
+I wrapped my head around this a little bit. And I'm no programmer, so
+after trying to add some stuff here and there, I finally decided to
+have it with this very, very, very dirty hack. You've been warned. So
+here's how I do it:
+
+  - I use the `msmtpq` script which allows me to queue emails when I'm
+    offline, so that `msmtp` can take care of sending queued email
+    when I'm back online.
+
+  - I have tried to put a delay of 30 seconds any time before calling
+    `msmtp` or I tried to force `msmtpq` to queue all outgoing email
+    for at least 30 seconds. But I couldn't make it work. So instead,
+
+  - I added `sleep 30 &&` at the beginning of the `msmtpq` script!
+
+  - Result: now when I send an email, I have 30 seconds to realise
+    when I made a mistake. Then, I just need to activate plane mode on
+    my laptop, and fix whatever needs fixing from here.
+
+	One issue with this workflow is that I can't just edit the
+    outgoing email, I also have to make sure I update the openPGP
+    signature. So I'd probably just delete the email and start again
+    from Mutt.
+
+
+I warned you, this is very ugly :-)
+
+
+But as they say: the best way to get an answer on the net is not to
+ask a question, but to give the wrong answer!
+
+So if anyone wants to implement this feature in `msmtpq`, that would
+be great. Here's how it could work ideally, in the `.muttrc`:
+
+	set sendmail="msmtpq --wait 30" 
+	set sendmail_wait=-1  #send in the background
+
+then `msmtpq` could queue the email for 30 seconds before testing the
+connection and feeding the email to `msmtp`. The Queue management
+could then allow the user to pause all outgoing emails, cancel the
+email containing the mistake, then sending remaining emails from the queue.
