@@ -1,0 +1,19 @@
+[[!comment format=mdwn
+ ip="94.227.18.34"
+ claimedauthor="Ann"
+ url="http://www.keek.be"
+ subject="They are visually confusing, to say the least"
+ date="2014-12-21T13:03:10Z"
+ content="""
+There's a lot to be said against how the implementation is suggested at the moment. For starters, in Europe the 'round red circle' means 'forbidden' in traffic signs. (Forbidden to go harder than 50km/h, forbidden to turn here, ...). So the encryption bord would be read as 'Forbidden to not encrypt.' (or even - wrongfully 'forbidden to encrypt', according to how quickly one scans the icon.) This might make sense for the first three, where keeping to the rules is mandatory to comply with EU law, but not for the encryption, and do not sell/rent, .. . 
+
+(A red triangle, signalling 'be alert' would be more in line with what they are trying to do here. Notify, not forbid.) 
+
+The second issue I have with this is that even companies who do 'the right thing', will be displaying six huge red 'dangerous' icons on their signup pages. And the green checkmarks do not counteract this enough. The negation in the text, with the 'negative connotation' text still highlighted, is not helping either, not that the checkmarks are not directly next to the icons. (For better scanning.)
+
+So, very much not a fan. I see some great design & UX coming from some EU departments. Wish they'd actually ask these guys to have a look at these.
+
+As they stand now, I'll have a hard time advising anybody to implement these when the GDPR comes into affect. If they are not improved upon, I'd likely suggest they take some of their two years grace period, and see if these have evolved for the better by then. 
+
+(I do look forward to seeing these on my credit card contract, loyalty card brochures, etc.. rather than having this information and opt-out conditions hidden in the 20 pages-long small print. Especially the 'disseminated' and 'sell or rent'.. . ) 
+"""]]
