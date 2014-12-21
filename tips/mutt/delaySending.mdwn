@@ -4,7 +4,7 @@
 
 I've been looking for a solution to this problem:
 
-Sometimes, I just sent an email. And after 10 seconds I realise: “Oh,
+Sometimes, I just sent an email, and after 10 seconds I realise: “Oh,
 damn, I forgot to add something!” or “Oh, nooooes, I sent it to the
 wrong person!” Whatever. This is annoying.
 
