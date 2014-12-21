@@ -4,7 +4,6 @@
 [[!inline pages=sidebar raw=yes]]
 """]]
 
-[[!meta foaf="http://hugoroy.eu/foaf.rdf"]]
 [[!meta author="Hugo Roy"]]
 [[!meta description="You can’t do that online anymore! a blog, notes, tips and everything else elsewhere… by Hugo Roy."]]
 
@@ -14,28 +13,27 @@
 
 <div id="timeline-last">
 <p id="last-bits"><span>[[Blog Posts|posts]]</span></p>
-<!--[[!inline pages="internal(timeline/*) and !*/Discussion and !*/sources and !*/local.less and !*/local.css" show=4 archive=yes feeds=no]]-->
 </div>
 
 <div class="subscribers">
-    <a class="email feedbutton btn btn-xs btn-info" title="Hugo’s
-    blog (email subscription)"
+    <a class="email feedbutton btn btn-xs btn-info" title="Hugo’s blog (email subscription)"
     href="http://feedburner.google.com/fb/a/mailverify?uri=hroyblog&loc=en_US">Subscribe
     by email <i class="fa fa-envelope icon-envelope"></i></a>
 </div>
 
-[[!inline pages="page(./posts/*) and !*/Discussion and !(tagged(meta:ignore))" show="10" actions=no]]
+[[!inline pages="page(./posts/*) and !*/Discussion and !(tagged(meta:ignore))" show="10" actions=no title="“You can’t do that online anymore!”"]]
+
+----------------------------------------------------------------------------
 
 If you’ve read until here, you should head to the full list of [[posts]].
 
-[[!inline pages=sidebar raw=yes]]
 
 <style type="text/css">
     #webmentions{display:none;}
     .pageheader .header .title {
         padding: 50px 0.3em 150px;
     }
-    #hcard-Hugo-Roy #contact {
+    #hcard-Hugo-Roy .more {
         display: none;
     }
 </style>
