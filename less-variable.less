@@ -1,17 +1,14 @@
 @import "bootstrap/less/variables.less";
 
 .hroy-align {
-    @media (min-width: @screen-sm) {
-        margin-right: 10%;
-    }
-    @media (min-width: @screen-md) {
-        margin-left: 280px;
-    }
+    margin-left: auto;
+    margin-right: auto;
 }
 .hroy-left-align {
     @media (min-width: @screen-md) {
         width: 260px;
         float: left;
+        margin-left: -280px;
     }
 }
 .hroy-left-align-negative {
@@ -28,7 +25,7 @@
     display: block;
     margin: 1em auto 0;
     width: 100%;
-    max-width: 80em;
+    // max-width: 80em;
 }
 
 .hroy-max-px {
