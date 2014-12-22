@@ -268,6 +268,7 @@ footer, blockquote {
         .menu {
             margin-left: -15px;
             margin-right: -15px;
+            padding: 0;
             
             .links, .links li {
                 display: block;
@@ -278,6 +279,7 @@ footer, blockquote {
                 background: @gray-darker;
 
                 a {
+                    text-align: left;
                     #searchbox;
                 }
             }
@@ -287,14 +289,12 @@ footer, blockquote {
             }
 
             #searchform {
-                position: relative;
-                top: auto;
-                right: auto;
-                float: none;
-                display: block;
+                padding-right: 0.5em;
 
                 input {
                     .form-control;
+                    background-color: transparent;
+                    color: @white;
                 }
             }
 
