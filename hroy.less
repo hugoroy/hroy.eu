@@ -107,6 +107,7 @@ footer, blockquote {
                 .make-md-column(6);
             }
             .menu {
+                text-align: right;
                 .label {
                 }
                 .menu-toggleable {
@@ -127,6 +128,8 @@ footer, blockquote {
             .make-row(12);
             .title {
                 .make-md-column(12);
+                min-height: 2em;
+                text-align: center;
             }
         }
         .otherlinks {
@@ -197,28 +200,13 @@ footer, blockquote {
 
 #pageheader  {
     .header {
-
-        .masthead {
-            .hroy-layout;
-            padding-bottom: 5em;
-        }
-
         .title {
             .hroy-align;
             display: block;
             font-size: 2.4em;
-            max-width: 800px;
-            min-height: 2em;
-            padding-left: 0.3em;
         }
         .title, .parentlinks {
             text-shadow:0px 0.1em 0.2em rgba(0, 0, 0, 0.5), -0.1em 0px 0.2em rgba(0, 0, 0, 0.5), -0.1em 0px 0.2em rgba(0, 0, 0, 0.5), -0.1em 0px 0.2em rgba(0, 0, 0, 0.5);
-        }
-        #ma-tete {
-            .hroy-align;
-            @media (min-width: @screen-sm) {
-                margin-right: 0%;
-            }
         }
 
         .menu {
@@ -889,7 +877,6 @@ article.inlinepage {
     text-align: center;
     
     #pageinfo {
-        #pageheader .header .masthead;
         border: 0;
     }
 
