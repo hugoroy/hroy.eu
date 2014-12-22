@@ -64,9 +64,9 @@ footer, blockquote {
     padding: 0;
     background: url(/background.jpg) fixed no-repeat 50% -20px  #000;
     background-size: cover;
-    .container;
 
-    #pageheader, #pagebody, #pagefooter, & {
+    #pageheader, #pagebody, #pagefooter {
+        .container;
     }
     #pageheader {
         z-index: 999;
@@ -154,6 +154,8 @@ footer, blockquote {
     }
     #pagebody {
         z-index: 9999;
+        width: 100%;
+        padding: 0 -15px;
         background-color: @white;
         
         .pagedate {
