@@ -142,8 +142,8 @@
             <TMPL_IF HTML5></div><TMPL_ELSE></div></TMPL_IF>
 
             <TMPL_IF HTML5><footer class="otherlinks"><TMPL_ELSE><div class="otherlinks"></TMPL_IF>
-                <TMPL_IF OTHERLANGUAGES>
                 <TMPL_IF HTML5><nav id="otherlanguages"><TMPL_ELSE><div id="otherlanguages"></TMPL_IF>
+                <TMPL_IF OTHERLANGUAGES>
                     <ul>
                     <TMPL_LOOP OTHERLANGUAGES>
                         <li>
@@ -156,8 +156,8 @@
                         </li>
                     </TMPL_LOOP>
                     </ul>
-                <TMPL_IF HTML5></nav><TMPL_ELSE></div></TMPL_IF>
                 </TMPL_IF>
+                <TMPL_IF HTML5></nav><TMPL_ELSE></div></TMPL_IF>
 
                 <TMPL_UNLESS DYNAMIC>
                 <TMPL_VAR TRAILS>
