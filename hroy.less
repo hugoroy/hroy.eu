@@ -262,15 +262,16 @@ footer, blockquote {
 
 #pageheader {
     .header {
-        .menu {
+        .menu, .links {
             margin-left: -15px;
             margin-right: -15px;
             padding-left: 0;
             padding-right: 0;
             
-            .links, .links li {
+            li {
                 display: block;
-                margin: 0;  padding: 0;
+                margin: 0;
+                padding: 0;
                 width: 100%;
                 color: @white;
                 border: 1px solid @gray;
@@ -280,15 +281,24 @@ footer, blockquote {
                     background: transparent;
                     border: 0;
                     width: auto;
+                    height: auto;
+                    display: inline-block;
+                    width: auto;
+                    height: auto;
                 }
               
                 a {
                     text-align: left;
-                    #searchbox;
                     @media (min-width: @screen-tablet) {
                         .btn;
                         .btn-default;
                         .button;
+                        .btn-link;
+                        color: @white;
+
+                        &:hover, &:focus {
+                            text-decoration: none;
+                        }
                     }
                 }
                 .search-glass {
@@ -299,20 +309,6 @@ footer, blockquote {
             @media (min-width: @screen-tablet) {
                 .links, #searchform {
                     display: inline-block;
-                }
-
-                .links li {
-                    display: inline-block;
-                    width: auto;
-
-                    a {
-                        .btn-link;
-                        color: @white;
-
-                        &:hover, &:focus {
-                            text-decoration: none;
-                        }
-                    }
                 }
             }
         }
