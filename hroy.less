@@ -90,6 +90,11 @@ footer, blockquote {
         .actions {
             height: 16px;
 
+            @media (max-width: @screen-sm) {
+                display: none;
+                height: 0;
+            }
+
             ul {
                 width: 100%;
                 text-align: right;
