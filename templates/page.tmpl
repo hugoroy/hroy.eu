@@ -1,8 +1,9 @@
-<TMPL_IF HTML5><!DOCTYPE html>
-<html<TMPL_IF LANGUAGE> lang="<TMPL_VAR LANGUAGE>"</TMPL_IF> class="no-js <TMPL_IF LANGUAGE> <TMPL_VAR LANGUAGE></TMPL_IF> ">
-<TMPL_ELSE><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
- "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml"<TMPL_IF LANGUAGE> xml:lang="<TMPL_VAR LANGUAGE>"</TMPL_IF>>
+<TMPL_IF HTML5>
+    <!DOCTYPE html>
+    <html<TMPL_IF LANGUAGE> lang="<TMPL_VAR LANGUAGE>"</TMPL_IF> class="no-js<TMPL_IF LANGUAGE> <TMPL_VAR LANGUAGE></TMPL_IF>">
+<TMPL_ELSE>
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+    <html xmlns="http://www.w3.org/1999/xhtml"<TMPL_IF LANGUAGE> xml:lang="<TMPL_VAR LANGUAGE>"</TMPL_IF>>
 </TMPL_IF>
 <head>
     <TMPL_IF DYNAMIC>
@@ -14,7 +15,7 @@
             </TMPL_IF>
         </TMPL_IF>
     </TMPL_IF>
-    <TMPL_IF HTML5><meta charset="utf-8" /><TMPL_ELSE><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /></TMPL_IF>
+    <TMPL_IF HTML5><meta charset="utf-8"><TMPL_ELSE><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /></TMPL_IF>
     <TMPL_IF HTML5><meta name="viewport" content="width=device-width, initial-scale=1.0"></TMPL_IF>
     <TMPL_IF TITLE>
         <title><TMPL_VAR TITLE></title>
@@ -49,22 +50,20 @@
         <link rel="webmention" href="https://webmention.herokuapp.com/api/webmention">
     </TMPL_UNLESS>
     <script type="text/javascript" src="/js/modernizr.custom.js"></script>
-
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@hugoroyd">
     <meta name="twitter:title" content="<TMPL_IF TITLE><TMPL_VAR TITLE><TMPL_ELSE><TMPL_VAR WIKINAME></TMPL_IF>">
     <meta name="twitter:description" content="<TMPL_IF DESCRIPTION><TMPL_VAR DESCRIPTION></TMPL_IF> <TMPL_LOOP TAGS>&#35;<TMPL_VAR LINK ESCAPE=HTML> </TMPL_LOOP>">
     <meta name="twitter:domain" content="hroy.eu">
 </head>
-<body class="hroy-eu<TMPL_IF LANGUAGE> <TMPL_VAR LANGUAGE></TMPL_IF>"> <!--<TMPL_IF PAGEID> <TMPL_VAR PAGEID></TMPL_IF>"<TMPL_IF PAGEID> id="<TMPL_VAR PAGEID>"</TMPL_IF>>-->
+<body class="h-entry hroy-eu<TMPL_IF LANGUAGE> <TMPL_VAR LANGUAGE></TMPL_IF>">
 
-    <TMPL_IF HTML5><article class="page h-entry"><TMPL_ELSE><div class="page"></TMPL_IF>
+    <TMPL_IF HTML5><article class="page"><TMPL_ELSE><div class="page"></TMPL_IF>
 
-        <TMPL_IF HTML5><section class="pageheader"><TMPL_ELSE><div class="pageheader"></TMPL_IF>
+        <TMPL_IF HTML5><header id="pageheader"><TMPL_ELSE><div id="pageheader"></TMPL_IF>
 
             <TMPL_IF HAVE_ACTIONS>
                 <TMPL_IF HTML5><nav class="actions"><TMPL_ELSE><div class="actions"></TMPL_IF>
-
                     <ul>
                         <li class="skipto"><a href="#content" rel="nofollow">Skip to content</a></li>
                     <TMPL_IF EDITURL>
@@ -103,20 +102,12 @@
 
             <TMPL_IF HTML5><header class="header"><TMPL_ELSE><div class="header"></TMPL_IF>
 
-                <div class="masthead">
+                <div class="directories">
                     <span class="parentlinks">
                     <TMPL_LOOP PARENTLINKS>
                         <a href="<TMPL_VAR URL>"><TMPL_VAR PAGE></a>/ 
                     </TMPL_LOOP>
                     </span>
-
-                    <h1 class="title p-name">
-                    <TMPL_VAR TITLE>
-                    <TMPL_IF ISTRANSLATION>
-                        &nbsp;(<TMPL_VAR PERCENTTRANSLATED>%)
-                    </TMPL_IF>
-                    </h1>
-
                 </div>
                 
                 <TMPL_IF HTML5><nav class="menu"><TMPL_ELSE><div class="menu"></TMPL_IF>
@@ -127,45 +118,57 @@
                             <li id="link-archives"><a href="/archives/">Archives</a></li>
                             <li id="link-tips"><a href="/tips/">Tips</a></li>
                             <li id="link-talks"><a href="/talks/">Talks</a></li>
+                            <TMPL_UNLESS DYNAMIC>
+                                <TMPL_IF SEARCHFORM>
+                                    <li id="menu-search">
+                                    <span class="search-glass">🔍</span>
+                                        <TMPL_VAR SEARCHFORM>
+                                    </li>
+                                </TMPL_IF>
+                            </TMPL_UNLESS>
                         </ul>
-                        <TMPL_UNLESS DYNAMIC>
-                            <span class="search-glass">🔍</span>
-                            <TMPL_IF SEARCHFORM>
-                                <TMPL_VAR SEARCHFORM>
-                            </TMPL_IF>
-                        </TMPL_UNLESS>
                     </div>
                 <TMPL_IF HTML5></nav><TMPL_ELSE></div></TMPL_IF>
 
             <TMPL_IF HTML5></header><TMPL_ELSE></div></TMPL_IF>
 
-
-        <TMPL_IF OTHERLANGUAGES>
-        <TMPL_IF HTML5><nav id="otherlanguages"><TMPL_ELSE><div id="otherlanguages"></TMPL_IF>
-            <ul>
-            <TMPL_LOOP OTHERLANGUAGES>
-                <li>
-                    <a href="<TMPL_VAR URL>"><TMPL_VAR LANGUAGE></a>
-                    <TMPL_IF MASTER>
-                    (master)
-                    <TMPL_ELSE>
-                    &nbsp;(<TMPL_VAR PERCENT>%)
+            <TMPL_IF HTML5><div class="masthead"><TMPL_ELSE><div class="masthead"></TMPL_IF>
+                <h1 class="title p-name">
+                    <TMPL_VAR TITLE>
+                    <TMPL_IF ISTRANSLATION>
+                        &nbsp;(<TMPL_VAR PERCENTTRANSLATED>%)
                     </TMPL_IF>
-                </li>
-            </TMPL_LOOP>
-            </ul>
-        <TMPL_IF HTML5></nav><TMPL_ELSE></div></TMPL_IF>
-        </TMPL_IF>
+                </h1>
+            <TMPL_IF HTML5></div><TMPL_ELSE></div></TMPL_IF>
 
-        <TMPL_UNLESS DYNAMIC>
-        <TMPL_VAR TRAILS>
-        </TMPL_UNLESS>
+            <TMPL_IF HTML5><footer class="otherlinks"><TMPL_ELSE><div class="otherlinks"></TMPL_IF>
+                <TMPL_IF OTHERLANGUAGES>
+                <TMPL_IF HTML5><nav id="otherlanguages"><TMPL_ELSE><div id="otherlanguages"></TMPL_IF>
+                    <ul>
+                    <TMPL_LOOP OTHERLANGUAGES>
+                        <li>
+                            <a href="<TMPL_VAR URL>"><TMPL_VAR LANGUAGE></a>
+                            <TMPL_IF MASTER>
+                            (master)
+                            <TMPL_ELSE>
+                            &nbsp;(<TMPL_VAR PERCENT>%)
+                            </TMPL_IF>
+                        </li>
+                    </TMPL_LOOP>
+                    </ul>
+                <TMPL_IF HTML5></nav><TMPL_ELSE></div></TMPL_IF>
+                </TMPL_IF>
 
-        <TMPL_IF HTML5></section><TMPL_ELSE></div><!--/.pageheader--></TMPL_IF>
+                <TMPL_UNLESS DYNAMIC>
+                <TMPL_VAR TRAILS>
+                </TMPL_UNLESS>
+            <TMPL_IF HTML5></footer><TMPL_ELSE></div></TMPL_IF>
+
+        <TMPL_IF HTML5></header><TMPL_ELSE></div><!--/#pageheader--></TMPL_IF>
 
         <TMPL_UNLESS DYNAMIC>
             <TMPL_IF SIDEBAR>
-            <TMPL_IF HTML5><aside class="sidebar"><TMPL_ELSE><div class="sidebar"></TMPL_IF>
+            <TMPL_IF HTML5><aside id="sidebar"><TMPL_ELSE><div id="sidebar"></TMPL_IF>
 
                 <TMPL_VAR SIDEBAR>
 
@@ -175,58 +178,67 @@
 
         <div id="pagebody">
 
-            <div class="pagedate published dt-published">
+            <TMPL_IF HTML5><header class="pagedate published dt-published"><TMPL_ELSE><div class="pagedate published dt-published"></TMPL_IF>
                 <TMPL_IF PERMALINK>
                     <a href="<TMPL_VAR PERMALINK>" class="u-url" title="Permalink to: <TMPL_VAR TITLE>"><TMPL_VAR CTIME></a>
                     <TMPL_ELSE>
                     <a href="<TMPL_VAR PAGEURL>" class="u-url" title="Bookmark: <TMPL_VAR TITLE>"><TMPL_VAR CTIME></a>
                 </TMPL_IF>
-            </div>
+            <TMPL_IF HTML5></header><TMPL_ELSE></div></TMPL_IF>
 
-            <TMPL_IF HTML5><section id="content" class="e-content"><TMPL_ELSE><div id="content"></TMPL_IF>
+            <TMPL_IF HTML5><main id="content" class="e-content"><TMPL_ELSE><div id="content"></TMPL_IF>
 
                 <TMPL_VAR CONTENT>
 
+            <TMPL_IF HTML5></main><TMPL_ELSE></div></TMPL_IF>
+
+                
+            <TMPL_IF HTML5><section class="added content"><TMPL_ELSE><div class="added content"></TMPL_IF>
+
+                <TMPL_UNLESS DYNAMIC>
+                    <TMPL_IF COMMENTS>
+                        <TMPL_IF HTML5><section id="comments"><TMPL_ELSE><div id="comments"></TMPL_IF>
+
+                            <TMPL_VAR COMMENTS>
+
+                            <TMPL_IF ADDCOMMENTURL>
+                                <div class="addcomment">
+                                <a href="<TMPL_VAR ADDCOMMENTURL>" class="btn btn-default">Add a comment</a>
+                                <br />
+                                <a href="/about/#comment-policy" class="terms">Comment Policy (your IP is logged)</a>
+                                </div>
+                                <TMPL_ELSE>
+                                <div class="addcomment">Comments on this page are closed.</div>
+                            </TMPL_IF>
+                        <TMPL_IF HTML5></section><TMPL_ELSE></div></TMPL_IF>
+
+                    </TMPL_IF>
+
+                    <section id="webmentions">
+                        <script id="webmention-hosted">
+                          (function () {
+                            var sn = document.createElement("script"), s = document.getElementsByTagName("script")[0], url;
+                            url = document.querySelectorAll ? document.querySelectorAll("link[rel~=canonical]") : false;
+                            url = url && url[0] ? url[0].href : false;
+                            sn.type = "text/javascript"; sn.async = true;
+                            sn.src = "//webmention.herokuapp.com/api/embed?url=" + encodeURIComponent(url || window.location);
+                            s.parentNode.insertBefore(sn, s);
+                          }());
+                        </script>
+                    </section>
+                </TMPL_UNLESS>
             <TMPL_IF HTML5></section><TMPL_ELSE></div></TMPL_IF>
 
-            <TMPL_UNLESS DYNAMIC>
-                <TMPL_VAR TRAILS>
-
-                <TMPL_IF COMMENTS>
-                    <TMPL_IF HTML5><section id="comments"><TMPL_ELSE><div id="comments"></TMPL_IF>
-
-                        <TMPL_VAR COMMENTS>
-
-                        <TMPL_IF ADDCOMMENTURL>
-                            <div class="addcomment">
-                            <a href="<TMPL_VAR ADDCOMMENTURL>" class="btn btn-default">Add a comment</a>
-                            <br />
-                            <a href="/about/#comment-policy" class="terms">Comment Policy (your IP is logged)</a>
-                            </div>
-                            <TMPL_ELSE>
-                            <div class="addcomment">Comments on this page are closed.</div>
-                        </TMPL_IF>
-                    <TMPL_IF HTML5></section><TMPL_ELSE></div></TMPL_IF>
-
-                </TMPL_IF>
-
-                <section id="webmentions">
-                    <script id="webmention-hosted">
-                      (function () {
-                        var sn = document.createElement("script"), s = document.getElementsByTagName("script")[0], url;
-                        url = document.querySelectorAll ? document.querySelectorAll("link[rel~=canonical]") : false;
-                        url = url && url[0] ? url[0].href : false;
-                        sn.type = "text/javascript"; sn.async = true;
-                        sn.src = "//webmention.herokuapp.com/api/embed?url=" + encodeURIComponent(url || window.location);
-                        s.parentNode.insertBefore(sn, s);
-                      }());
-                    </script>
-                </section>
-            </TMPL_UNLESS>
+                          
+            <TMPL_IF HTML5><footer id="trails"><TMPL_ELSE><div id="trails"></TMPL_IF>
+                <TMPL_UNLESS DYNAMIC>
+                    <TMPL_VAR TRAILS>
+                </TMPL_UNLESS>
+            <TMPL_IF HTML5></footer><TMPL_ELSE></div></TMPL_IF>
 
         </div>
 
-        <TMPL_IF HTML5><footer id="footer" class="pagefooter"><TMPL_ELSE><div id="footer" class="pagefooter"></TMPL_IF>
+        <TMPL_IF HTML5><footer id="pagefooter"><TMPL_ELSE><div id="pagefooter"></TMPL_IF>
         <TMPL_UNLESS DYNAMIC>
 
             <TMPL_IF HTML5><section id="pageinfo"><TMPL_ELSE><div id="pageinfo"></TMPL_IF>
@@ -270,15 +282,13 @@
             </TMPL_IF>
 
             <TMPL_IF COPYRIGHT>
-                <div class="pagecopyright">
-                    <a name="pagecopyright"></a>
+                <div class="pagecopyright p-copyright" id="pagecopyright">
                     <TMPL_VAR COPYRIGHT>
                 </div>
             </TMPL_IF>
 
             <TMPL_IF LICENSE>
-                <div class="pagelicense">
-                <a name="pagelicense"></a>
+                <div class="pagelicense p-license" id="pagelicense">
                 License: <span rel="license"><TMPL_VAR LICENSE></span>
                 </div>
             </TMPL_IF>

@@ -1,8 +1,8 @@
 /* ikiwiki local style sheet */
 @import "bootstrap/less/bootstrap.less";
-@import "style.css";
+// @import "style.css";
+// @import "stylefix.css";
 /* Add local styling here, instead of modifying style.css. */
-
 
 body, .title { 
     font-family:@font-family-base;
@@ -12,7 +12,6 @@ body :target, body [fragmention] {
     background-color: rgba(255,255,0,0.33);
 }
 
-
 a:hover, a:active, a:focus {
     text-decoration: none;
     transition-property: background-color;
@@ -21,7 +20,7 @@ a:hover, a:active, a:focus {
     background-color: rgba(255, 255, 0, 0.2);
 }
 
-#pagebody, #footer {
+#pagebody, #pagefooter {
     a:visited {
         color: @link-visited-color;
         .p-name {
@@ -49,34 +48,110 @@ footer, blockquote {
     font-weight: 500;
 }
 
-#comments .subscribers:before { font-weight: 700; }
+#comments .subscribers:before {
+    font-weight: 700;
+}
 
 .title {
     font-weight: 900;
 }
 
 
-.pageheader {
-    z-index: 999;
+/* General structure of the page */
+
+.page {
+    #pageheader, #pagebody, #sidebar, #pagefooter, & {
+        margin: 0;
+        padding: 0;
+    }
+    #pageheader {
+        z-index: 999;
+        .actions {
+            .skipto {
+            }
+        }
+        .header {
+            .directories {
+                .parentlinks {
+                }
+            }
+            .menu {
+                .label {
+                }
+                .menu-toggleable {
+                    .links {
+                        #menu-search {
+                            .search-glass {
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        .masthead {
+            .title {
+            }
+        }
+        .otherlinks {
+            #otherlanguages {
+            }
+            .trails {
+            }
+        }
+    }
+    #sidebar {
+        z-index: 99999;
+    }
+    #pagebody {
+        z-index: 9999;
+        .pagedate {
+            a {
+            }
+        }
+        #content {
+        }
+        .added.content {
+            #comments {
+                .addcomment {
+                }
+            }
+            #webmentions {
+            }
+            #trails {
+            }
+        }
+    }
+    #pagefooter {
+        z-index: 999;
+        #pageinfo {
+            .contact {
+            }
+            .pagedate {
+            }
+            .tags {
+            }
+            #backlinks {
+            }
+            .pagecopyright {
+            }
+            .pagelicense {
+            }
+        }
+        #sitenav {
+        }
+        #relmes {
+        }
+        .randomquote {
+        }
+    }
 }
 
-#pagebody {
-    z-index: 999999;
-}
-
-.pagefooter {
-    z-index: 999;
-}
 
 
-.pageheader  {
-    margin: 0;
-    padding: 2em 1em 0 1em;
+/* Styles for elements */
 
+#pageheader  {
     .header {
-        float: none;
-        clear: both;
-        font-size: 1em;
 
         .masthead {
             .hroy-layout;
@@ -245,7 +320,7 @@ footer, blockquote {
 }
 
 html.js {
-    .pageheader {
+    #pageheader {
         .header {
             .menu {
                 .label {
@@ -798,13 +873,13 @@ article.inlinepage {
 }
 
 
-#footer {
+#pagefooter {
     margin: 0;
     border-top: 1px solid #CCC;
     text-align: center;
     
     #pageinfo {
-        .pageheader .header .masthead;
+        #pageheader .header .masthead;
         border: 0;
     }
 

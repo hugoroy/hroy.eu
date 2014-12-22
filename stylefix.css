@@ -1,0 +1,186 @@
+/* Some fixes of style.css that I don't like: */
+.header {
+	font-size: auto;
+	font-weight: auto;
+	line-height: auto;
+}
+
+.inlineheader .author {
+	font-size: auto;
+	font-weight: auto;
+}
+
+.actions ul {
+	padding: 0;
+}
+.pageheader .actions ul {
+    border-bottom: 0;
+}
+
+.inlinepage .actions ul {
+	border-bottom: 0;
+}
+
+.pageheader #otherlanguages {
+	border-bottom: 0;
+}
+
+.inlinecontent,
+.inlineenclosure {
+	margin-top: 0;
+}
+
+#pageinfo {
+	margin: 0;
+	border-top: 0;
+}
+
+.tags {
+	margin-top: 0;
+}
+
+.inlinepage .tags {
+        display: inline;
+}
+
+#backlinks {
+	margin-top: 0;
+}
+
+#searchform {
+	display: inline;
+	float: none;
+}
+
+.blogform, #blogform {
+    border: 0;
+    color: auto;
+}
+
+.inlinepage {
+    padding: 0;
+    border: 0;
+}
+
+.pagedate,
+.pagelicense,
+.pagecopyright {
+	font-style: auto;
+	margin-top: 0;
+}
+
+.sidebar {
+	width: auto;
+	float: none;
+    margin: 0;
+    padding: 0;
+	background: transparent;
+    border: 0;
+    color: auto !important;
+}
+
+span.color {
+    padding: 0;
+}
+
+.comment-header,
+.microblog-header {
+	font-style: italic;
+	margin-top: .3em;
+}
+.comment .author,
+.microblog .author {
+	font-weight: bold;
+}
+.comment-subject {
+	font-weight: bold;
+}
+.comment-avatar {
+	float: right;
+}
+.comment {
+	border: 1px solid #aaa;
+	padding: 3px;
+}
+
+
+/* tag cloud */
+.pagecloud {
+	float: none;
+	width: auto;
+    padding: 0;
+    border: 0;
+    background: transparent;
+	color: auto !important;
+}
+
+.pageheader {
+    padding: 0;
+    background: transparent;
+    border: 0;
+}
+
+.pageheader .header {
+	float: none;
+	font-size: auto;
+}
+
+.title {
+	display: block;
+	margin-top: 0;
+	font: auto;
+}
+
+#searchform {
+	position: relative;
+    top: auto; right: auto;
+}
+
+.pageheader .actions {
+	position: relative;
+	bottom: auto; right: auto;
+}
+
+#content, #enclosure, #comments, #footer {
+	margin: 0;
+}
+
+#pageinfo {
+	border: 0;
+}
+
+.inlinepage {
+	margin:  0;
+	padding: 0;
+	border-top: 0;
+}
+
+.inlineheader {
+	font-size: auto;
+}
+
+h1 { font: auto; }
+h2 { font: auto; }
+h3, h4, h5, h6 { font: auto; }
+
+/* Smaller headings for inline pages */
+.inlinepage h1 { font-size: auto }
+.inlinepage h2 { font-size: auto }
+.inlinepage h3 { font-size: auto }
+
+.pageheader .actions ul li {
+	margin: 0;
+    padding: 0;
+    background: transparent;
+    border: 0;
+}
+
+
+.sidebar {
+    padding: 0;
+    margin: 0;
+}
+
+.pageheader .trails {
+    margin-bottom: auto;
+}
