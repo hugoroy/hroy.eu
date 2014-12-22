@@ -133,10 +133,8 @@ footer, blockquote {
             
             .menu {
                 text-align: right;
-                margin-top: 2em;
                 @media (min-width: @screen-tablet) {
                     float: right;
-                    margin-top: 0;
                 }
                 .label {
                     z-index: 99999;
@@ -145,6 +143,10 @@ footer, blockquote {
                     top: 0em;
                 }
                 .menu-toggleable {
+                    margin-top: 2em;
+                    @media (min-width: @screen-tablet) {
+                        margin-top: 0;
+                    }
                     .links {
                         #menu-search {
                             .search-glass {
@@ -365,9 +367,6 @@ html.js {
                     height: auto;
                     margin: 0;
                     clip: auto;
-                    position: absolute;
-                    top: 32px;
-                    right: 1em;
                 }
                 .menu-toggleable {
                     .collapse;
