@@ -115,11 +115,17 @@ footer, blockquote {
         }
         .header, .otherlinks {
             .make-row(12);
-            .menu, #otherlanguages {
-                .make-md-column(8);
+            .menu {
+                .make-lg-column(8);
             }
-            .trails, .directories {
-                .make-md-column(4);
+            .directories {
+                .make-lg-column(4);
+            }
+            #otherlanguages {
+                .make-xs-column(8);
+            }
+            .trails {
+                .make-xs-column(4);
             }
         }
         .header {
@@ -129,6 +135,7 @@ footer, blockquote {
                 float: right;
                 text-align: right;
                 .label {
+                    z-index: 99999;
                 }
                 .menu-toggleable {
                     .links {
