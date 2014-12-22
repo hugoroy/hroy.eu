@@ -104,12 +104,12 @@ footer, blockquote {
             }
         }
         .header {
-            .make-row;
+            .make-row(12);
             .menu, .directories {
                 .make-md-column(6);
             }
             .menu {
-                .make-sm-column-push(6);
+                .make-md-column-push(6);
                 text-align: right;
                 .label {
                 }
@@ -123,28 +123,26 @@ footer, blockquote {
                 }
             }
             .directories {
-                .make-sm-column-pull(6);
+                .make-md-column-pull(6);
                 .parentlinks {
                 }
             }
         }
         .masthead {
-            .make-row;
             .title {
-                .make-md-column(12);
                 min-height: 2em;
                 // text-align: center;
             }
         }
         .otherlinks {
-            .make-row;
+            .make-row(12);
             #otherlanguages, .trails {
                 .make-md-column(6);
             }
             #otherlanguages {
             }
             .trails {
-                .pull-right;
+                text-align: right;
             }
         }
     }
