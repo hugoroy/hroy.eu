@@ -132,8 +132,12 @@ footer, blockquote {
             padding-top: 2.5em;
             
             .menu {
-                float: right;
                 text-align: right;
+                margin-top: 2em;
+                @media (min-width: @screen-tablet) {
+                    float: right;
+                    margin-top: 0;
+                }
                 .label {
                     z-index: 99999;
                     position: absolute;
