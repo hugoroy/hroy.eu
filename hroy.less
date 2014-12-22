@@ -74,13 +74,18 @@ footer, blockquote {
         .actions {
             height: 16px;
 
-            ul li {
-                visibility: hidden;
-                list-style: none;
+            ul {
+                margin: 0;
                 padding: 0;
-                display: inline;
-                span {
-                    color: #999;
+                .pull-right;
+                li {
+                    visibility: hidden;
+                    list-style: none;
+                    padding: 0 0.5em;
+                    display: inline;
+                    span {
+                        color: #999;
+                    }
                 }
             }
             
@@ -92,9 +97,6 @@ footer, blockquote {
 
             .skipto {
                 .pull-left;
-                &:focus, &:active {
-                    visibility: visible;
-                }
             }
         }
         .header {
