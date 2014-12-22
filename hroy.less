@@ -144,14 +144,13 @@ footer, blockquote {
                 }
                 .label {
                     z-index: 99999;
-                    position: absolute;
+                    position: relative;
                     right: 0.5em;
                     top: 0em;
                 }
                 .menu-toggleable {
                     .links {
                         margin: 2em 0;
-                        z-index: 999999;
                         @media (min-width: @screen-tablet) {
                             margin-top: 0;
                         }
@@ -285,38 +284,8 @@ footer, blockquote {
                     text-align: left;
                     #searchbox;
                 }
-            }
-
-            .search-glass {
-                display: none;
-            }
-
-            #searchform {
-                padding-right: 0.5em;
-
-                input {
-                    .form-control;
-                    background-color: transparent;
-                    color: @white;
-                    border: 0;
-                }
-            }
-
-            #searchbox {
-                background-color: rgba(255,255,255,0.1);
-                transition: background-color 0.1s ease 0s;
-                display: block;
-                white-space: nowrap;
-                border: 0;
-                margin: 0.3em;
-                padding: 0.6em;
-                height: auto;
-                font-weight: 500;
-                color: @white;
-
-                &:hover, &:focus {
-                    background-color: @white;
-                    color: @brand-primary;
+                .search-glass {
+                    display: none;
                 }
             }
 
@@ -335,23 +304,6 @@ footer, blockquote {
 
                         &:hover, &:focus {
                             text-decoration: none;
-                        }
-                    }
-                }
-
-                #searchform {
-                    padding-right: 0.8em;
-                    opacity: 0.7;
-                    transition: opacity 0.15s ease-in-out 0s;
-
-                    &:hover, &:focus {
-                        opacity: 1;
-                    }
-                    input {
-                        width: 6em;
-                        transition: width 0.15s ease-in-out 0s;
-                        &:focus {
-                            width: 16em;
                         }
                     }
                 }
@@ -394,11 +346,56 @@ html.js {
                         display: block;
                     }
                 }
-
             }
         }
     }
 }
+
+
+#searchform {
+    padding-right: 0.5em;
+
+    input {
+        .form-control;
+        background-color: transparent;
+        color: @white;
+        border: 0;
+    }
+    @media (min-width: @screen-tablet) {
+            padding-right: 0.8em;
+            opacity: 0.7;
+            transition: opacity 0.15s ease-in-out 0s;
+
+            &:hover, &:focus {
+                opacity: 1;
+            }
+            input {
+                width: 6em;
+                transition: width 0.15s ease-in-out 0s;
+                &:focus {
+                    width: 16em;
+                }
+            }
+        }
+    }
+
+    #searchbox {
+        background-color: rgba(255,255,255,0.1);
+        transition: background-color 0.1s ease 0s;
+        display: block;
+        white-space: nowrap;
+        border: 0;
+        margin: 0.3em;
+        padding: 0.6em;
+        height: auto;
+        font-weight: 500;
+        color: @white;
+
+        &:hover, &:focus {
+            background-color: @white;
+            color: @brand-primary;
+        }
+    }
 
 #ma-tete {
     width: 48px;
