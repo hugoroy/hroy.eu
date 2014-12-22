@@ -1030,14 +1030,15 @@ a.feedbutton {
 
 .archivepage {
     margin: 0.5em 0;
-    a {
-        display: block;
-    }
     br {
         display: none;
     }
     .archivepagedate {
-        display: block;
+        visibility: hidden;
+        time {
+            visibility: visible;
+            display: block;
+        }
     }
 }
 
