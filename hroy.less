@@ -167,7 +167,7 @@ footer, blockquote {
             .title {
                 .make-xs-column(12);
                 min-height: 2em;
-                // text-align: center;
+                text-align: center;
             }
         }
         .otherlinks {
@@ -192,14 +192,21 @@ footer, blockquote {
         width: 100%;
         padding: 0 -15px;
         background-color: @white;
+        .hroy-layout;
         
         .pagedate {
-            a {
+            .hroy-left-align;
+            text-align: left;
+            margin: 0.25em 0 2em;
+            a.u-url {
+                color: @gray;
             }
         }
         #content {
+            .make-row(12);
         }
         .added.content {
+            .make-row(12);
             #comments {
                 .addcomment {
                 }
@@ -416,19 +423,9 @@ html.js {
 
 
 #pagebody {
-    // .hroy-layout;
-    // padding: 5em 1em;
-
     .pagedate.published {
-        .hroy-left-align;
-        text-align: left;
-        margin: 0.25em 0 2em;
-        font-style: normal;
     }
     .pagedate.published, .microblog-header {
-        a.u-url {
-            color: @gray;
-        }
     }
 }
 
