@@ -101,14 +101,6 @@
             </TMPL_IF>
 
             <TMPL_IF HTML5><header class="header"><TMPL_ELSE><div class="header"></TMPL_IF>
-
-                <div class="directories">
-                    <span class="parentlinks">
-                    <TMPL_LOOP PARENTLINKS>
-                        <a href="<TMPL_VAR URL>"><TMPL_VAR PAGE></a>/ 
-                    </TMPL_LOOP>
-                    </span>
-                </div>
                 
                 <TMPL_IF HTML5><nav class="menu"><TMPL_ELSE><div class="menu"></TMPL_IF>
                     <span class="sr-only label" type="button" data-toggle="collapse" data-target=".menu-toggleable">Menu</span>
@@ -129,6 +121,14 @@
                         </ul>
                     </div>
                 <TMPL_IF HTML5></nav><TMPL_ELSE></div></TMPL_IF>
+
+                <div class="directories">
+                    <span class="parentlinks">
+                    <TMPL_LOOP PARENTLINKS>
+                        <a href="<TMPL_VAR URL>"><TMPL_VAR PAGE></a>/ 
+                    </TMPL_LOOP>
+                    </span>
+                </div>
 
             <TMPL_IF HTML5></header><TMPL_ELSE></div></TMPL_IF>
 
