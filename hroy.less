@@ -77,7 +77,9 @@ footer, blockquote {
             ul {
                 margin: 0;
                 padding: 0;
-                .pull-right;
+                width: 100%;
+                text-align: right;
+            
                 li {
                     visibility: hidden;
                     list-style: none;
@@ -237,7 +239,7 @@ footer, blockquote {
             }
 
             #searchbox {
-                background-color: rgba(255,255,255,0.7);
+                background-color: rgba(255,255,255,0.1);
                 transition: background-color 0.1s ease 0s;
                 display: block;
                 white-space: nowrap;
@@ -246,6 +248,7 @@ footer, blockquote {
                 padding: 0.6em;
                 height: auto;
                 font-weight: 500;
+                color: @white;
 
                 &:hover, &:focus {
                     background-color: @white;
