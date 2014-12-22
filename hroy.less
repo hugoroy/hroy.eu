@@ -66,8 +66,32 @@ footer, blockquote {
     }
     #pageheader {
         z-index: 999;
+        background: url(/background.jpg) fixed no-repeat 50% -20px  #000;
+        background-size: cover;
+        color: #fff;
+        min-height: 250px;
+
         .actions {
+            height: 16px;
+
+            ul li {
+                visibility: hidden;
+                span {
+                    color: #999;
+                }
+            }
+            
+            &:hover {
+                ul li {
+                    visibility: visible;
+                }
+            }
+
             .skipto {
+                .pull-left;
+                &:focus, &:active {
+                    visibility: visible;
+                }
             }
         }
         .header {
@@ -280,42 +304,6 @@ footer, blockquote {
         }
     }
 
-    background: url(/background.jpg) fixed no-repeat 50% -20px  #000;
-    background-size: cover;
-    color: #fff;
-    border: 0;
-    min-height: 280px;
-
-
-    .actions {
-        top: 0;
-        left: 0;
-        height: 16px;
-        position: absolute;
-
-        ul li {
-            visibility: hidden;
-            border: 0;
-            background: transparent;
-            &.skipto {
-                .pull-left;
-                &:focus, &:active {
-                    visibility: visible;
-                }
-            }
-        }
-    }
-
-    .actions:hover {
-        visibility: visible; 
-        height: 16px;
-
-        ul li { visibility: visible; }
-
-        ul li span {
-            color: #999;
-        }
-    }
 
 }
 
