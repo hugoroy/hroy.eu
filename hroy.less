@@ -60,15 +60,16 @@ footer, blockquote {
 /* General structure of the page */
 
 .page {
-    #pageheader, #pagebody, #pagefooter, & {
-        margin: 0;
-        padding: 0;
+    margin: 0;
+    padding: 0;
+    background: url(/background.jpg) fixed no-repeat 50% -20px  #000;
+    background-size: cover;
+
+    #pageheader, #pagebody, #pagefooter {
         .container;
     }
     #pageheader {
         z-index: 999;
-        background: url(/background.jpg) fixed no-repeat 50% -20px  #000;
-        background-size: cover;
         color: #fff;
         min-height: 250px;
 
