@@ -106,13 +106,15 @@ footer, blockquote {
                 .pull-left;
             }
         }
-        .header {
+        .header, .otherlinks {
             .make-row(12);
-            .menu, .directories {
+            .menu, .directories, .trails, #otherlanguages {
                 .make-md-column(6);
             }
+        }
+        .header {
             .menu {
-                .make-md-column-push(6);
+                float: right;
                 text-align: right;
                 .label {
                 }
@@ -138,10 +140,6 @@ footer, blockquote {
             }
         }
         .otherlinks {
-            .make-row(12);
-            #otherlanguages, .trails {
-                .make-md-column(6);
-            }
             #otherlanguages {
             }
             .trails {
