@@ -2,7 +2,7 @@
 [[!tag lang:en Dell-XPS-13]][[!meta language="en"]]
 
 After I found out that Dell was selling one thing, but
-[delivering another], I decided to leave the new laptop for a bit.
+[[delivering_another|/posts/dell_ubuntu_wireless/]], I decided to leave the new laptop for a bit.
 Anyway, right now is not the time to tweak settings and setups.
 
 [delivering another]: /posts/dell_ubuntu_wireless/
@@ -32,7 +32,7 @@ with this, or just go for cancelling the whole sell, as cryptie
 shared [her comments] on her own XPS-13 and made me think twice
 before reclaiming an intel chipset.
 
-[her comments]: http://hroy.eu/posts/dell_ubuntu_wireless/#comment-83647c0fd7fef5436ae6ad74dafd2aa9
+[her comments]: /posts/dell_ubuntu_wireless/#comment-83647c0fd7fef5436ae6ad74dafd2aa9
 
 Moreover, friends [in Finland] with the same issue pointed out to me
 a quick fix. However, I wholly agree with their update:

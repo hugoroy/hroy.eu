@@ -31,6 +31,5 @@ And really, it is so simple to set up, that you really wonder why
 you haven't done it before!
 
 [I’m starting yet another folder on this blog/wiki where I'm going
-to post some of the [configs] for my home servers.]
+to post some of the [[configs]] for my home servers.]
 
-[configs]: /configs/
