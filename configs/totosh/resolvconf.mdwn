@@ -1,0 +1,4 @@
+DNS de FDN:
+
+    nameserver 80.67.169.12
+    nameserver 80.67.169.40
