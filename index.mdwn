@@ -9,7 +9,7 @@
 
 <!--[[!inline pages="page(./hugo) and !*/Discussion" show="0" feeds=no actions=no template=inlinetext]]-->
 
-<h1 id="blog-motto">You can’t do that online anymore!</h1>
+<span id="blog-motto">You can’t do that online anymore!</span>
 
 <div id="timeline-last">
 <p id="last-bits"><span>[[Blog Posts|posts]]</span></p>
