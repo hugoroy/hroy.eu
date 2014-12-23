@@ -7,7 +7,7 @@
 [[!meta author="Hugo Roy"]]
 [[!meta description="You can’t do that online anymore! a blog, notes, tips and everything else elsewhere… by Hugo Roy."]]
 
-[[!inline pages="page(./hugo) and !*/Discussion" show="0" feeds=no actions=no template=inlinetext]]
+<!--[[!inline pages="page(./hugo) and !*/Discussion" show="0" feeds=no actions=no template=inlinetext]]-->
 
 <h1 id="blog-motto">You can’t do that online anymore!</h1>
 
