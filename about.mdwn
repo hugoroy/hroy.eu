@@ -38,11 +38,9 @@ me](http://hugoroy.eu/index.en.html#email) and I’ll post the comment for
 you.
 
 At last, by commenting, you contribute to the blog and thus your comment is
-governed by the [same license as the article to which you
-comment][copyright].
+governed by the [[same_license_as_the_article_to_which_you_comment|copyright]].
 
 [webmentions]: http://webmention.org
 [hosted webmention endpoint]: https://webmention.herokuapp.com/
 [brid.gy]: http://brid.gy/
 [other silos]: https://indiewebcamp.com/silo
-[copyright]: https://hroy.eu/copyright/

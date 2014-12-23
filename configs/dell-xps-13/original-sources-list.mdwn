@@ -5,7 +5,7 @@
 Here are the sources shipped with Ubuntu 12.04 on the [[!taglink
 Dell-XPS-13]] aka “sputnik” in case anyone wants to know. With
 these enabled, even after an upgrade, the shipped wireless chipset
-(Qualcomm Atheros) does not function. See [fix here].
+(Qualcomm Atheros) does not function. See [[fix_here|/posts/dell_xps13_first_impressions/]].
 
 [fix here]: /posts/dell_xps13_first_impressions/
 
