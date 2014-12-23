@@ -15,7 +15,7 @@ proprietary software.”](http://news.cnet.com/8301-13505_3-10168267-16.html)
 
 So, one must wonder… 
 
-# What makes Facebook an Open Source company?
+## What makes Facebook an Open Source company?
 
 I hope that, at this point, we can drop the notion of Free
 Software; because free software focuses on the [users’
@@ -112,7 +112,7 @@ Or does that mean that all manufacturers embedding a linux kernel
 in their device are open source companies as soon as they release
 sources of their modifications to the kernel?  Of course not!
 
-# What makes a Free Software company, then?
+## What makes a Free Software company, then?
 
  >  usage of and contribution to Free Software are not
  >  differentiators for what makes a Free Software company. The

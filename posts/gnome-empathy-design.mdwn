@@ -53,7 +53,7 @@ not the point.
 
     Or maybe it is because bigger picture looks nice…
 
-# A suggestion for real improvement
+## A suggestion for real improvement
 
 While there might be reasons for the redesign, it's astonishing
 that this design did not solve the main problem with the list

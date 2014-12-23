@@ -1,7 +1,7 @@
 [[!meta title="Dell XPS 13 with Ubuntu: wrong wireless chipset"]]
 [[!tag Dell-XPS-13 Ubuntu WindowsTax freeSoftware lang:en]][[!meta language="en"]]
 
-# The Windows Tax problem and free software
+## The Windows Tax problem and free software
 
 At this point, you must have figured this out. I am a free
 software advocate. I think it's both painful and wrong when I'm
@@ -43,7 +43,7 @@ I mean that it should work without requiring non-free software.
 
 And here comes the Dell XPS 13.
 
-# Dell XPS 13 Ubuntu: wireless issues with Qualcomm Atheros AR9462
+## Dell XPS 13 Ubuntu: wireless issues with Qualcomm Atheros AR9462
 
 [[!img logo-wt-bl.png alt="Dell logo" class="pull-right"]]
 
