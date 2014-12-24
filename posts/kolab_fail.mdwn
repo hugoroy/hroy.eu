@@ -58,5 +58,5 @@ get…
 
 Yes. Quite annoying.
 
-[[!tag Kolab self-hosting freeSoftware bug lang:en]][[!meta language="en"]]]]
+[[!tag Kolab self-hosting freeSoftware bug lang:en]][[!meta language="en"]]
 [[!meta title="Installing kolab, part 1"]]
