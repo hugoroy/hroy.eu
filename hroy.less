@@ -734,6 +734,7 @@ html.js {
 article.inlinepage {
     border: 0;
     margin: 1em 0 10em 0;
+    clear: both;
 }
 
 .sidebar {
@@ -981,6 +982,9 @@ article.inlinepage {
     clear: left;
     margin-bottom: 1em;
     display: inline-block;
+    @media (min-width: @screen-md) {
+        float: left;
+    }
 }
 
 .feedbutton {
