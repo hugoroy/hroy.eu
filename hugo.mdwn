@@ -1,12 +1,10 @@
 [[!meta title="Hugo Roy"]]
 
 
-[homepage]: http://hugoroy.eu/index.en.html
-
 
 <div class="vcard" id="hcard-Hugo-Roy">
 <img id="ma-tete" class="u-photo" alt="Hugo Roy" title="Hugo Roy" src="/favatar.png" />
-<p>Hi! I’m <a href="//hugoroy.eu/" class="fn" title="Hugo Roy">Hugo</a>.
+<p>Hi! I’m <span class="fn" title="Hugo Roy">Hugo</span>.
 <span class="p-note">I am the project leader for <a
 href="//tosdr.org"><img alt=""
 src="//tosdr.org/img/tosdr-icon-19.png"> <span class="org"
@@ -25,13 +23,3 @@ training at the Paris Bar school. And a Zappaist.</span> </p>
 <p>[[keys]]</p>
 </div>
 </div>
-
-
-<style type="text/css">
-.zzz{float: right; font-size: 0.001px; color: transparent; display:
-inline-block; width: 0px; text-decoration: none;}#ma-tete { float: left;
-margin: 0 0.5em 0.15em 0; }.page {
-background: url(/hugo/background.jpg) no-repeat fixed 50% -350px #000;
-background-size: cover;}
-</style>
-
