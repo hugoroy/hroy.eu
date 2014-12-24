@@ -1,0 +1,5 @@
+
+.page {
+    background: url(/hugo/background.jpg) no-repeat fixed 50% -200px #000;
+    background-size: cover;
+}
