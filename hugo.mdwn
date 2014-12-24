@@ -1,5 +1,5 @@
 [[!meta title="Hugo Roy"]]
-[[!meta copyright="Cover photo [by Nine Inch Nails](http://www.flickr.com/photos/nineinchnails/7376287586/],
+[[!meta copyright="Cover photo [by Nine Inch Nails](http://www.flickr.com/photos/nineinchnails/7376287586/),
 used and modified under Creative Commons [non-commercial license](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.fr)"]]
 
 
