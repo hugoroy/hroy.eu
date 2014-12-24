@@ -13,3 +13,17 @@ margin: 0 0.5em 0.15em -60px; }
     display: none;
 }
 
+dl#contact dt {
+    width: 90px;
+    float: left;
+    font-weight: 500;
+}
+
+dl#contact dt + dt {
+    float: none;
+}
+
+dl#contact dd {
+
+}
+
