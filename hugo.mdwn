@@ -30,6 +30,8 @@ training at the Paris Bar school. And a Zappaist.</span> </p>
 <style type="text/css">
 .zzz{float: right; font-size: 0.001px; color: transparent; display:
 inline-block; width: 0px; text-decoration: none;}#ma-tete { float: left;
-margin: 0 0.5em 0.15em 0; }
+margin: 0 0.5em 0.15em 0; }.page {
+background: url(/hugo/background.jpg) no-repeat fixed 50% -350px #000;
+background-size: cover;}
 </style>
 
