@@ -13,6 +13,7 @@ Here are short notes in both
 </aside>
 """]]
 
+I'm not really using this any more. To subscribe to my short notes, go to <https://ampoliros.net/> or to [Twitter](https://twitter.com/hugoroyd)
 
 [[!inline pages="(page(notes/*) or internal(notes/instant/*)) and
 !*/Discussion and !notes/sources and !notes/instant and
