@@ -20,9 +20,9 @@
 - [[!aggregate name="Flickr Pictures" dir="timeline/aggregate/flickr"
   feedurl="http://www.flickr.com/services/feeds/photos_public.gne?id=91392976@N05&format=rss_200"
   url="https://www.flickr.com/photos/hugoroyd"]]
-- [[!aggregate name="Photos" dir="timeline/aggregate/idno/photos"
+<!--!aggregate name="Photos" dir="timeline/aggregate/idno/photos"
   feedurl="http://ampoliros.net/content/photos/hugoroyd?_t=rss"
-  url="http://ampoliros.net/content/photos/hugoroyd"]]
+  url="https://ampoliros.net/content/photos/hugoroyd"-->
 - [[!aggregate name="Youtube Videos" dir="timeline/aggregate/youtube"
   feedurl="http://gdata.youtube.com/feeds/base/users/HugoJRoy/uploads?alt=rss&v=2&orderby=published&client=ytapi-youtube-profile"
   url="https://www.youtube.com/user/HugoJRoy"]]
@@ -30,5 +30,5 @@
   feedurl="http://vimeo.com/user5876987/videos/rss"
   url="https://vimeo.com/user5876987/videos"]]
 - [[!aggregate name="Media" dir="timeline/aggregate/idno/media"
-  feedurl="http://ampoliros.net/content/streamingmedia/hugoroyd?_t=rss"
-  url="http://ampoliros.net/content/streamingmedia/hugoroyd"]]
+  feedurl="https://ampoliros.net/content/streamingmedia/hugoroyd?_t=rss"
+  url="https://ampoliros.net/content/streamingmedia/hugoroyd"]]
