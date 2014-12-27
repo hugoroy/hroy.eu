@@ -24,7 +24,7 @@ archive pages.
 <div id="archives-bytags" class="collapse in">
 [[!pagestats pages="./tags/*" among="*" style="list" show="40"]]
 <span class="btn btn-default">[[All Tags|tags]]</span>
-<br /><hr /><br />
+<br /><br />
 </div>
 
 <div id="archives-bydate" class="collapse">
