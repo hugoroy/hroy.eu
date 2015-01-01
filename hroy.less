@@ -22,7 +22,16 @@ a:hover, a:active, a:focus {
     transition-duration: 0.66s;
     transition-timing-function: ease-out;
     background-color: rgba(255, 255, 0, 0.2);
+
+    &[href^="http"], &[href^="//"] {
+        border-bottom: 1px dotted;
+    }
+
+    &[href^="/"], &[href^="./"], &[href^="../"], &[href*="hroy.eu"] {
+        border-bottom: 0;
+    }
 }
+
 
 #pagebody, #pagefooter {
     a:visited {
