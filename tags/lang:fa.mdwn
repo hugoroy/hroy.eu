@@ -1,0 +1,4 @@
+[[!meta title="pages tagged lang:fa"]]
+
+[[!inline pages="tagged(lang:fa)" actions="no" archive="yes"
+feedshow=10]]
