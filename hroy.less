@@ -456,7 +456,7 @@ html.js {
         &[href^="http"], &[href^="//"] {
             border-bottom: 1px dotted;
         }
-        &[href^="/"], &[href^="./"], &[href^="../"], &[href*="source.hroy"], &[href*="hroy.eu"] {
+        &[href^="/"], &[href^="./"], &[href^="../"], &[href*="source.hroy"], &[href*="hroy.eu"], &.feedbutton {
             border-bottom: 0;
         }
     }
@@ -1060,6 +1060,12 @@ a.feedbutton {
     &:visited {
         color: #FFF;
     }
+    &.email {
+        background-color: #5BC0DE !important;
+        border-color: #46B8DA;
+    }
+    background-color: #F0AD4E !important;
+    border-color: #EEA236;
 }
 
 .dt-published, .archivepagedate {
