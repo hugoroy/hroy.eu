@@ -1,0 +1,4 @@
+[[!meta title="pages tagged 2015resolutions"]]
+
+[[!inline pages="tagged(2015resolutions)" actions="no" archive="yes"
+feedshow=10]]
