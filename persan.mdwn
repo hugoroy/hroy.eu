@@ -10,12 +10,10 @@ fatigué
 </td>
 <td class="phonetic" lang="">
 khasteh <span class="IPA">/xæstæ/</span>
+<audio src="https://storage.5apps.com/hugo/public/shares/150101-2227-recording20150101232511.wav" controls></audio>
 </td>
 <td class="farsiScript" lang="fa">
 خسته
-
-<audio
-src="https://storage.5apps.com/hugo/public/shares/150101-2227-recording20150101232511.wav" controls></audio>
 </td>
 </tr>
 </table>
