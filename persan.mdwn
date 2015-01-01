@@ -11,7 +11,7 @@ fatigué
 <td>
 khasteh
 </td>
-<td>
+<td dir="rtl">
 هتسخ
 </td>
 </tr>
