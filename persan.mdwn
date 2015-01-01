@@ -11,8 +11,8 @@ fatigué
 <td>
 khasteh
 </td>
-<td dir="rtl">
-هتسخ
+<td class="farsiScript">
+خسته
 </td>
 </tr>
 </table>
