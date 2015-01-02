@@ -1,0 +1,4 @@
+[[!meta title="pages tagged nomad"]]
+
+[[!inline pages="tagged(nomad)" actions="no" archive="yes"
+feedshow=10]]
