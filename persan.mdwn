@@ -16,4 +16,17 @@ khasteh <span class="IPA">/xæstæ/</span>
 خسته
 </td>
 </tr>
+
+<tr>
+<td lang="fr">
+content
+</td>
+<td class="phonetic" lang="">
+khosh hâl <span class="IPA">/xoʃˈhɒːl/</span>
+<audio src="https://storage.5apps.com/hugo/public/shares/150102-1407-recording20150102150655.wav" controls></audio>
+</td>
+<td class="farsiScript" lang="fa">
+خوشحال
+</td>
+</tr>
 </table>
