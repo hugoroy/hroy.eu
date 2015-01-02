@@ -1,0 +1,4 @@
+[[!meta title="pages tagged violence"]]
+
+[[!inline pages="tagged(violence)" actions="no" archive="yes"
+feedshow=10]]
