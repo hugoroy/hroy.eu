@@ -3,3 +3,6 @@
 > <span class="translated">La violence est le dernier refuge de l'incompétence</span>
 >
 > <cite>Salvador Hardin, in Isaac Asimov's <em>Foundation</em> (1951)</cite>
+
+[[!meta title="Violence is the last refuge…"]]
+[[!tag violence lang:en IsaacAsimov]]

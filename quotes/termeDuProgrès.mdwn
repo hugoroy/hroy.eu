@@ -8,3 +8,4 @@
 [wikisource]: //fr.wikisource.org/wiki/Esquisse_d%E2%80%99une_morale_sans_obligation_ni_sanction
 
 [[!tag lang:en lang:fr JeanMarieGuyau progress]]
+[[!meta title="Dans la pratique — les révolutionnaires se trompent toujours…"]]

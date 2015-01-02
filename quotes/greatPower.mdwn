@@ -2,4 +2,5 @@
  > 
  > <cite>Uncle Ben in <em>Spider-Man</em> (2002)</cite>
 
- [[!tag lang:en power responsibility]]
+[[!tag lang:en power responsibility]]
+[[!meta title="Withg great power comes…"]]

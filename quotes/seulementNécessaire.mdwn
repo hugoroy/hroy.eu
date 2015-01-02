@@ -9,3 +9,4 @@
 > <cite>Franz Kafka, <em>Le Procès</em>, Dans la Cathédrale (1925)</cite>
 
 [[!tag lang:fr lang:de FranzKafka truth law]]
+[[!meta title="Non, dit le prêtre, on n'a pas à tenir tout pour vrai…"]]
