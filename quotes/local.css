@@ -19,3 +19,7 @@
 #pagebody .pagedate.published {
     display: none;
 }
+
+#pageheader .masthead .title {
+    display: none;
+}
