@@ -10,6 +10,8 @@ fatigué
 </td>
 <td class="phonetic" lang="">
 khasteh <span class="IPA">/xæstæ/</span>
+</td>
+<td class="audio" lang="">
 <audio src="https://storage.5apps.com/hugo/public/shares/150101-2227-recording20150101232511.wav" controls></audio>
 </td>
 <td class="farsiScript" lang="fa">
@@ -23,6 +25,8 @@ content
 </td>
 <td class="phonetic" lang="">
 khosh hâl <span class="IPA">/xoʃˈhɒːl/</span>
+</td>
+<td class="audio" lang="">
 <audio src="https://storage.5apps.com/hugo/public/shares/150102-1407-recording20150102150655.wav" controls></audio>
 </td>
 <td class="farsiScript" lang="fa">
