@@ -33,4 +33,19 @@ khosh hâl <span class="IPA">/xoʃˈhɒːl/</span>
 خوشحال
 </td>
 </tr>
+
+<tr>
+<td lang="fr">
+alcool
+</td>
+<td class="phonetic" lang="">
+mashroub <span class="IPA">/[FIXME]/</span>
+</td>
+<td class="audio" lang="">
+<audio src="https://storage.5apps.com/hugo/public/shares/150103-0940-recording20150103103936.wav" controls></audio>
+</td>
+<td class="farsiScript" lang="fa">
+مشروب
+</td>
+</tr>
 </table>
