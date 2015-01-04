@@ -224,7 +224,7 @@
 <span class="help-block">Check the existence of a path of
 trust between our GnuPG keys</span>
 <input name="FROM" placeholder="Your key ID" size="20" class="form-control" type="text">
-<input name="TO" value="B8B78D13" type="hidden">
+<input name="TO" value="8D022C99B3D7B795" type="hidden">
 <button class="btn" name="PATHS" type="submit">Find Path</button>
 </fieldset>
 </form>
