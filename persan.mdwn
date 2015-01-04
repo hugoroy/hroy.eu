@@ -48,4 +48,34 @@ mashroub <span class="IPA">/[FIXME]/</span>
 مشروب
 </td>
 </tr>
+
+<tr>
+<td lang="fr">
+chat (affectueux)
+</td>
+<td class="phonetic" lang="">
+pishi <span class="IPA">/[FIXME]/</span>
+</td>
+<td class="audio" lang="">
+<audio src="https://storage.5apps.com/hugo/public/shares/150104-1523-recording20150104162159.wav" controls></audio>
+</td>
+<td class="farsiScript" lang="fa">
+پیشی
+</td>
+</tr>
+<tr>
+<td lang="fr">
+chat (neutre)
+</td>
+<td class="phonetic" lang="">
+gorbeh <span class="IPA">/[FIXME]/</span>
+</td>
+<td class="audio" lang="">
+<audio src="https://storage.5apps.com/hugo/public/shares/150104-1523-recording20150104162221.wav" controls></audio>
+</td>
+<td class="farsiScript" lang="fa">
+گربه
+</td>
+</tr>
+
 </table>
