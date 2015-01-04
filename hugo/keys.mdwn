@@ -1,6 +1,6 @@
-[[GnuPG]] key.
+## [[GnuPG]] key.
 
-[[!inline pages="page(GnuPG) and !*/Discussion" show="0" feeds=no actions=no template=inlinetext]]
+[[!inline pages="page(/hugo/keys/GnuPG/*) and !*/Discussion" show="0" feeds=no actions=no template=inlinetext]]
 
 -----
 
