@@ -51,7 +51,7 @@ mashroub <span class="IPA">/[FIXME]/</span>
 
 <tr>
 <td lang="fr">
-chat (affectueux)
+chat, minou
 </td>
 <td class="phonetic" lang="">
 pishi <span class="IPA">/[FIXME]/</span>
