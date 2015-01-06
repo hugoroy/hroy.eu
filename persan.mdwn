@@ -93,4 +93,19 @@ khanevadeh <span class="IPA">[xɒːnevɒːˈd̪e]</span>
 </td>
 </tr>
 
+<tr>
+<td lang="fr">
+bisou
+</td>
+<td class="phonetic" lang="">
+boos <span class="IPA">/ˈbuːs/</span>
+</td>
+<td class="audio" lang="fa">
+<audio src="https://storage.5apps.com/hugo/public/shares/150106-2218-recording20150106231536.wav" controls></audio>
+</td>
+<td class="farsiScript" lang="fa">
+بوس
+</td>
+</tr>
+
 </table>
