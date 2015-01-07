@@ -108,4 +108,18 @@ boos <span class="IPA">/ˈbuːs/</span>
 </td>
 </tr>
 
+<tr>
+<td lang="fr">
+Je suis Charlie.
+</td>
+<td class="phonetic" lang="">
+man Charlie hastam <span class="IPA">/[FIXME]/</span>
+</td>
+<td class="audio" lang="fa">
+<audio src="https://storage.5apps.com/hugo/public/shares/150107-2115-recording20150107221444.wav" controls></audio>
+</td>
+<td class="farsiScript" lang="fa">
+من چارلی هستم
+</td>
+</tr>
 </table>
