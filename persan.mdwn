@@ -122,4 +122,19 @@ man Charlie hastam <span class="IPA">/[FIXME]/</span>
 من چارلی هستم
 </td>
 </tr>
+
+<tr>
+<td lang="fr">
+bains, salle de bains
+</td>
+<td class="phonetic" lang="">
+hammam <span class="IPA">[hamaâm]</span>
+</td>
+<td class="audio" lang="fa">
+<audio src="https://storage.5apps.com/hugo/public/shares/150108-2137-recording20150108223609.wav" controls></audio>
+</td>
+<td class="farsiScript" lang="fa">
+حمام
+</td>
+</tr>
 </table>
