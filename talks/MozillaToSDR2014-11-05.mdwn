@@ -1,5 +1,5 @@
 [[!meta title="Fixing The Biggest Lie on The Web (Mozilla, London, 2014)"]]
-[[!meta language="en"
+[[!meta language="en"]]
 [[!meta description="“I have read and agree to the terms” is the biggest lie on the web. But what lies beneath the joke is fundamental: how our rights are governed online. Terms of service are often the subject of negative attention, yet the situation perpetuates. How did we get here? How can we fix this?"]]
 [[!tag lang:en ToSDR termsOfService]]
 [[!meta date="2014-11-05T18:00:00+01:00"]]
