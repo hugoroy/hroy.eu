@@ -1,0 +1,23 @@
+[[!meta title="Contribution de ToS;DR à la consultation du Conseil National du Numérique (Strasbourg, janvier 2015)"]]
+[[!meta language="fr"]]
+[[!tag lang:fr ToSDR termsOfService]]
+[[!meta copyright="Photo de fond par Frenchy sur [Flickr](https://www.flickr.com/photos/frenchy/5064611664/in/photolist-8HxsAL-fGGjGj-fGpHqR-fGGmw3-fGGov3-fGFUPw-4Tnny3-fGG5rY-hW82a4-aXfkqi-diyALW-diywgM-diyyxf-f2b98y-pYs25t-jMq5L5-axbm5b-dYPTh1-dYJb5X-aBHxwQ-aBHxr3-8nKvyk-beRA3a-beRxBK-8nNEj9-8nRzLs-3yccSn/)"]]
+
+<span class="fa fa-fw fa-lg">
+[[!toggle id="CNNumStrasbourg2015-01-09" text=""]]
+</span> Contribution de ToS;DR à la consultation du Conseil National
+du Numérique
+
+[[!toggleable id="CNNumStrasbourg2015-01-09" text="""
+
+<figure class="slides">
+<figcaption><a href="/talks/CNNumStrasbourg2015-01-09/src/">Sources</a></figcaption>
+<iframe
+src="//hugoroy.eu/slides/hugo/CNNumStrasbourg2015-01-09/PitchHugoRoyToSDR.md.revealjs.html"
+allowfullscreen="true" mozallowfullscreen="true"
+webkitallowfullscreen="true" frameborder="0" title="Pitch Hugo Roy ToS;DR Strasbourg CNNum"
+width="666" height="580"></iframe>
+</figure>
+
+
+"""]]
