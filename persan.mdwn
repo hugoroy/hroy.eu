@@ -137,4 +137,35 @@ hammam <span class="IPA">[hamaâm]</span>
 حمام
 </td>
 </tr>
+
+<tr>
+<td lang="fr">
+guerre
+</td>
+<td class="phonetic" lang="">
+djang <span class="ipa">[dʒæŋɡ]/span>
+</td>
+<td class="audio" lang="fa">
+<audio src="https://storage.5apps.com/hugo/public/shares/150111-2012-recording20150111211155.wav" controls></audio>
+</td>
+<td class="farsiscript" lang="fa">
+جنگ
+</td>
+</tr>
+
+
+<tr>
+<td lang="fr">
+fleur
+</td>
+<td class="phonetic" lang="">
+gol <span class="ipa">[ɡʲel]/span>
+</td>
+<td class="audio" lang="fa">
+<audio src="https://storage.5apps.com/hugo/public/shares/150111-2013-recording20150111211221.wav" controls></audio>
+</td>
+<td class="farsiscript" lang="fa">
+گل
+</td>
+</tr>
 </table>
