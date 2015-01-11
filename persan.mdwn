@@ -143,7 +143,7 @@ hammam <span class="IPA">[hamaâm]</span>
 guerre
 </td>
 <td class="phonetic" lang="">
-djang <span class="ipa">[dʒæŋɡ]/span>
+djang <span class="ipa">[dʒæŋɡ]</span>
 </td>
 <td class="audio" lang="fa">
 <audio src="https://storage.5apps.com/hugo/public/shares/150111-2012-recording20150111211155.wav" controls></audio>
@@ -159,7 +159,7 @@ djang <span class="ipa">[dʒæŋɡ]/span>
 fleur
 </td>
 <td class="phonetic" lang="">
-gol <span class="ipa">[ɡʲel]/span>
+gol <span class="ipa">[ɡʲel]</span>
 </td>
 <td class="audio" lang="fa">
 <audio src="https://storage.5apps.com/hugo/public/shares/150111-2013-recording20150111211221.wav" controls></audio>
