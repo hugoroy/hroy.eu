@@ -177,7 +177,7 @@ travail
 kar <span class="ipa">[kʰɒːɾ]</span>
 </td>
 <td class="audio" lang="fa">
-<audio src="" controls></audio>
+<audio src="https://storage.5apps.com/hugo/public/shares/150113-2130-recording20150113223026.wav" controls></audio>
 </td>
 <td class="farsiscript" lang="fa">
 کار
