@@ -183,4 +183,19 @@ kar <span class="ipa">[kʰɒːɾ]</span>
 کار
 </td>
 </tr>
+
+<tr>
+<td lang="fr">
+fille
+</td>
+<td class="phonetic" lang="">
+dokhtar <span class="ipa">/dux.tar/]</span>
+</td>
+<td class="audio" lang="fa">
+<audio src="https://storage.5apps.com/hugo/public/shares/150115-2056-recording20150115215603.wav" controls></audio>
+</td>
+<td class="farsiscript" lang="fa">
+دختر
+</td>
+</tr>
 </table>
