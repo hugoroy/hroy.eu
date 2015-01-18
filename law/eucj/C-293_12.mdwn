@@ -1479,6 +1479,8 @@ modifiant la directive [2002/58]/CE, est invalide.**
 
 [95/46/CE]: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995L0046:FR:HTML
 
+[95/46]: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995L0046:FR:HTML
+
 [article 95 CE]: FIXME
 
 [C-92/09]: http://curia.europa.eu/juris/liste.jsf?language=fr&num=c-92/09
