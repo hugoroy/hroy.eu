@@ -1467,16 +1467,28 @@ modifiant la directive [2002/58]/CE, est invalide.**
 
 
 
-[2009/136/CE]: FIXME
-[2006/24/CE]: FIXME
-[2006/24]: FIXME
-[2002/58/CE]: FIXME
-[2002/58]: FIXME
-[95/46/CE]: FIXME
+[2009/136/CE]: http://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32009L0136 "Directive du Parlement européen et du Conseil du 25 novembre 2009"
+
+[2006/24/CE]: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32006L0024:FR:HTML "Directive du Parlement européen et du Conseil du 15 mars 2006"
+
+[2006/24]: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32006L0024:FR:HTML "Directive du Parlement européen et du Conseil du 15 mars 2006"
+
+[2002/58/CE]: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0058:FR:HTML
+
+[2002/58]: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0058:FR:HTML
+
+[95/46/CE]: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995L0046:FR:HTML
+
 [article 95 CE]: FIXME
-[C-92/09]: FIXME
-[C-93/09]: FIXME
-[C-465/00]: FIXME
-[C-138/01]: FIXME
-[C-139/01]: FIXME
-[C‑473/12]: FIXME
+
+[C-92/09]: http://curia.europa.eu/juris/liste.jsf?language=fr&num=c-92/09
+
+[C-93/09]: http://curia.europa.eu/juris/liste.jsf?language=fr&num=c-93/09
+
+[C-465/00]: http://curia.europa.eu/juris/liste.jsf?language=fr&num=c-465/00
+
+[C-138/01]: http://curia.europa.eu/juris/liste.jsf?language=fr&num=c-138/01
+
+[C-139/01]: http://curia.europa.eu/juris/liste.jsf?language=fr&num=c-139/01
+
+[C‑473/12]: http://curia.europa.eu/juris/liste.jsf?language=fr&num=c-473/12
