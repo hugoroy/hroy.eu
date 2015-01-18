@@ -58,10 +58,10 @@ et
 LA COUR (grande chambre),
 
 composée de M. V. Skouris, président, M. K. Lenaerts, vice-président, M.
-A. Tizzano, M^me^ R. Silva de Lapuerta, MM. T. von Danwitz (rapporteur),
+A. Tizzano, M<sup>me</sup> R. Silva de Lapuerta, MM. T. von Danwitz (rapporteur),
 E. Juhász, A. Borg Barthet, C. G. Fernlund et J. L. da Cruz Vilaça,
 présidents de chambre, MM. A. Rosas, G. Arestis, J.‑C. Bonichot, A.
-Arabadjiev, M^me^ C. Toader et M. C. Vajda juges,
+Arabadjiev, M<sup>me</sup> C. Toader et M. C. Vajda juges,
 
 avocat général : M. P. Cruz Villalón,
 
@@ -74,44 +74,44 @@ considérant les observations présentées :
 –  pour Digital Rights Ireland Ltd, par MM. F. Callanan, SC, et F.
 Crehan, BL, mandatés par M. S. McGarr, solicitor,
 
-–  pour M. Seitlinger, par M^e^ G. Otto, Rechtsanwalt,
+–  pour M. Seitlinger, par M<sup>e</sup> G. Otto, Rechtsanwalt,
 
-–  pour M. Tschohl e.a., par M^e^ E. Scheucher, Rechtsanwalt,
+–  pour M. Tschohl e.a., par M<sup>e</sup> E. Scheucher, Rechtsanwalt,
 
 –  pour l’Irish Human Rights Commission, par M. P. Dillon Malone,
-BL, mandaté par M^me^ S. Lucey, solicitor,
+BL, mandaté par M<sup>me</sup> S. Lucey, solicitor,
 
-–  pour l’Irlande, par M^me^ E. Creedon et M. D. McGuinness, en
+–  pour l’Irlande, par M<sup>me</sup> E. Creedon et M. D. McGuinness, en
 qualité d’agents, assistés de MM. E. Regan, SC, et D. Fennelly, JC,
 
 –  pour le gouvernement autrichien, par MM. G. Hesse et G.
 Kunnert, en qualité d’agents, 
 
-–  pour le gouvernement espagnol, par M^me^ N. Díaz Abad, en
+–  pour le gouvernement espagnol, par M<sup>me</sup> N. Díaz Abad, en
 qualité d’agent,
 
 –  pour le gouvernement français, par MM. G. de Bergues et D.
-Colas ainsi que par M^me^ B. Beaupère-Manokha, en qualité d’agents,
+Colas ainsi que par M<sup>me</sup> B. Beaupère-Manokha, en qualité d’agents,
 
-–  pour le gouvernement italien, par M^me^ G. Palmieri, en qualité
+–  pour le gouvernement italien, par M<sup>me</sup> G. Palmieri, en qualité
 d’agent, assistée de M. A. De Stefano, avvocato dello Stato,
 
 –  pour le gouvernement polonais, par MM. B. Majczyna et
 M. Szpunar, en qualité d’agents,
 
 –  pour le gouvernement portugais, par M. L. Inez Fernandes et
-M^me^ C. Vieira Guerra, en qualité d’agents,
+M<sup>me</sup> C. Vieira Guerra, en qualité d’agents,
 
 –  pour le gouvernement du Royaume-Uni, par M. L. Christie, en
-qualité d’agent, assisté de M^me^ S. Lee, barrister,
+qualité d’agent, assisté de M<sup>me</sup> S. Lee, barrister,
 
 –  pour le Parlement européen, par MM. U. Rösslein et A. Caiola
-ainsi que par M^me^ K. Zejdová, en qualité d’agents,
+ainsi que par M<sup>me</sup> K. Zejdová, en qualité d’agents,
 
 –  pour le Conseil de l’Union européenne, par MM. J. Monteiro et
-E. Sitbon ainsi que par M^me^ I. Šulce, en qualité d’agents,
+E. Sitbon ainsi que par M<sup>me</sup> I. Šulce, en qualité d’agents,
 
-–  pour la Commission européenne, par M^me^ D. Maidani ainsi que
+–  pour la Commission européenne, par M<sup>me</sup> D. Maidani ainsi que
 par MM. B. Martenczuk et M. Wilderspin, en qualité d’agents,
 
 ayant entendu l’avocat général en ses conclusions à l’audience du 12
@@ -156,7 +156,7 @@ constitutionnelle fédérale (Bundes-Verfassungsgesetz).
 européen et du Conseil, du 24 octobre 1995, relative à la protection
 des personnes physiques à l’égard du traitement des données à
 caractère personnel et à la libre circulation de ces données (JO L
-281, p. 31), a, conformément à son article 1^er^, paragraphe 1, pour
+281, p. 31), a, conformément à son article 1<sup>er</sup>, paragraphe 1, pour
 objet d’assurer la protection des libertés et des droits fondamentaux
 des personnes physiques, notamment de leur vie privée, à l’égard du
 traitement des données à caractère personnel.
@@ -188,7 +188,7 @@ vie privée et communications électroniques) (JO L 201, p. 37), telle
 que modifiée par la directive [2009/136/CE] du Parlement européen et
 du Conseil, du 25 novembre 2009 (JO L 337, p. 11, ci-après la
 « directive [2002/58] »), a pour objectif, conformément à son article
-1^er^, paragraphe 1, d’harmoniser les dispositions des États membres
+1<sup>er</sup>, paragraphe 1, d’harmoniser les dispositions des États membres
 nécessaires pour assurer un niveau équivalent de protection des droits
 et des libertés fondamentaux, et en particulier du droit à la vie
 privée et à la confidentialité, en ce qui concerne le traitement des
@@ -429,7 +429,7 @@ ladite directive précisent :
 l’obligation des fournisseurs de services de communications
 électroniques accessibles au public ou des réseaux publics de
 communications de conserver certaines données qui sont générées ou
-traitées par ces fournisseurs. À cet égard, les articles 1^er^ à 9, 11
+traitées par ces fournisseurs. À cet égard, les articles 1<sup>er</sup> à 9, 11
 et 13 de cette directive disposent:
 
 > « *Article premier*
@@ -738,7 +738,7 @@ et 13 de cette directive disposent:
 > 
 > ‘1 *bis*.      Le paragraphe 1 n’est pas applicable aux données dont la
 > conservation est spécifiquement exigée par la [directive [2006/24]] aux
-> fins visées à l’article 1^er^, paragraphe 1, de ladite directive.’
+> fins visées à l’article 1<sup>er</sup>, paragraphe 1, de ladite directive.’
 > 
 > […]’
 > 
@@ -930,7 +930,7 @@ directive [2006/24] à la lumière des articles 7, 8 et 11 de la Charte.
 
 #### Sur la pertinence des articles 7, 8 et 11 de la Charte au regard de la question de la validité de la directive [2006/24]
 
-<span id="para24">24.</span>      Il résulte de l’article 1^er^ ainsi
+<span id="para24">24.</span>      Il résulte de l’article 1<sup>er</sup> ainsi
 que des considérants 4, 5, 7 à 11, 21 et 22 de la directive [2006/24]
 que celle-ci a pour objectif principal d’harmoniser les dispositions
 des États membres relatives à la conservation, par les fournisseurs de
@@ -983,7 +983,7 @@ de ces personnes et les milieux sociaux fréquentés par celles-ci.
 
 <span id="para28">28.</span>      Dans de telles circonstances, même
 si la directive [2006/24] n’autorise pas, ainsi qu’il découle de ses
-articles 1^er^, paragraphe 2, et 5, paragraphe 2, la conservation du
+articles 1<sup>er</sup>, paragraphe 2, et 5, paragraphe 2, la conservation du
 contenu de la communication et des informations consultées en
 utilisant un réseau de communications électroniques, il n’est pas
 exclu que la conservation des données en cause puisse avoir une
@@ -1099,7 +1099,7 @@ autres droits consacrés à l’article 7 de la Charte, il convient de
 constater que, même si la conservation des données imposée par la
 directive [2006/24] constitue une ingérence particulièrement grave
 dans ces droits, elle n’est pas de nature à porter atteinte audit
-contenu étant donné que, ainsi qu’il découle de son article 1^er^,
+contenu étant donné que, ainsi qu’il découle de son article 1<sup>er</sup>,
 paragraphe 2, cette directive ne permet pas de prendre connaissance du
 contenu des communications électroniques en tant que tel.
 
@@ -1124,7 +1124,7 @@ de relever que, si la directive [2006/24] est destinée à harmoniser
 les dispositions des États membres relatives aux obligations desdits
 fournisseurs en matière de conservation de certaines données qui sont
 générées ou traitées par ces derniers, l’objectif matériel de cette
-directive vise, ainsi qu’il découle de son article 1^er^, paragraphe
+directive vise, ainsi qu’il découle de son article 1<sup>er</sup>, paragraphe
 1, à garantir la disponibilité de ces données à des fins de recherche,
 de détection et de poursuite d’infractions graves telles qu’elles sont
 définies par chaque État membre dans son droit interne. L’objectif
@@ -1184,7 +1184,7 @@ en fonction d’un certain nombre d’éléments, parmi lesquels figurent,
 notamment, le domaine concerné, la nature du droit en cause garanti
 par la Charte, la nature et la gravité de l’ingérence ainsi que la
 finalité de celle-ci (voir, par analogie, en ce qui concerne l’article
-8 de la CEDH, arrêt Cour EDH, S et Marper c. Royaume-Uni [GC], n^os^
+8 de la CEDH, arrêt Cour EDH, S et Marper c. Royaume-Uni [GC], n<sup>os</sup>
 30562/04 et 30566/04, § 102, CEDH 2008-V).
 
 <span id="para48">48.</span>      En l’espèce, compte tenu, d’une
@@ -1254,7 +1254,7 @@ efficacement leurs données à caractère personnel contre les risques
 d’abus ainsi que contre tout accès et toute utilisation illicites de
 ces données (voir, par analogie, en ce qui concerne l’article 8 de la
 CEDH, arrêts Cour EDH, Liberty et autres c. Royaume-Uni, n° 58243/00,
-§ 62 et 63, du 1^er^ juillet 2008; Rotaru c. Roumanie, précité, § 57 à
+§ 62 et 63, du 1<sup>er</sup> juillet 2008; Rotaru c. Roumanie, précité, § 57 à
 59, ainsi que S et Marper c. Royaume-Uni, précité, § 99).
 
 <span id="para55">55.</span>      La nécessité de disposer de telles
@@ -1322,7 +1322,7 @@ pénales concernant des infractions pouvant, au regard de l’ampleur et
 de la gravité de l’ingérence dans les droits fondamentaux consacrés
 aux articles 7 et 8 de la Charte, être considérées comme suffisamment
 graves pour justifier une telle ingérence. Au contraire, la directive
-[2006/24] se borne à renvoyer, à son article 1^er^, paragraphe 1, de
+[2006/24] se borne à renvoyer, à son article 1<sup>er</sup>, paragraphe 1, de
 manière générale aux infractions graves telles qu’elles sont définies
 par chaque État membre dans son droit interne.
 
