@@ -189,13 +189,58 @@ kar <span class="ipa">[kʰɒːɾ]</span>
 fille
 </td>
 <td class="phonetic" lang="">
-dokhtar <span class="ipa">/dux.tar/]</span>
+dokhtar <span class="ipa">/dux.tar/</span>
 </td>
 <td class="audio" lang="fa">
 <audio src="https://storage.5apps.com/hugo/public/shares/150115-2056-recording20150115215603.wav" controls></audio>
 </td>
 <td class="farsiscript" lang="fa">
 دختر
+</td>
+</tr>
+
+<tr>
+<td lang="fr">
+garçon
+</td>
+<td class="phonetic" lang="">
+pesar <span class="ipa">/FIXME.tar/</span>
+</td>
+<td class="audio" lang="fa">
+<audio src="FIXME" controls></audio>
+</td>
+<td class="farsiscript" lang="fa">
+FIXME
+</td>
+</tr>
+
+<tr>
+<td lang="fr">
+cheveu
+</td>
+<td class="phonetic" lang="">
+mou <span class="ipa">[FIXME]</span>
+</td>
+<td class="audio" lang="fa">
+<audio src="FIXME" controls></audio>
+</td>
+<td class="farsiscript" lang="fa">
+FIXME
+</td>
+</tr>
+
+<tr>
+<td lang="fr">
+papa
+</td>
+<td class="phonetic" lang="">
+baba <span class="ipa">[FIXME]</span>
+</td>
+<td class="audio" lang="fa">
+<audio src="FIXME" controls></audio>
+</td>
+<td class="farsiscript" lang="fa">
+FIXME
 </td>
 </tr>
 </table>
