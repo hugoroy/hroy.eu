@@ -225,7 +225,7 @@ mou <span class="ipa">[FIXME]</span>
 <audio src="FIXME" controls></audio>
 </td>
 <td class="farsiscript" lang="fa">
-FIXME
+مو
 </td>
 </tr>
 
@@ -244,6 +244,20 @@ baba <span class="ipa">[FIXME]</span>
 </td>
 </tr>
 
+<tr>
+<td lang="fr">
+maman
+</td>
+<td class="phonetic" lang="">
+mamane <span class="ipa">[FIXME]</span>
+</td>
+<td class="audio" lang="fa">
+<audio src="FIXME" controls></audio>
+</td>
+<td class="farsiscript" lang="fa">
+مامان
+</td>
+</tr>
 
 <tr>
 <td lang="fr">
