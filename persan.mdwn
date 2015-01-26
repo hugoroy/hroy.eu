@@ -240,7 +240,23 @@ baba <span class="ipa">[FIXME]</span>
 <audio src="FIXME" controls></audio>
 </td>
 <td class="farsiscript" lang="fa">
-FIXME
+بابا
+</td>
+</tr>
+
+
+<tr>
+<td lang="fr">
+gâteau
+</td>
+<td class="phonetic" lang="">
+kaik <span class="ipa">[FIXME]</span>
+</td>
+<td class="audio" lang="fa">
+<audio src="FIXME" controls></audio>
+</td>
+<td class="farsiscript" lang="fa">
+کیک
 </td>
 </tr>
 </table>
