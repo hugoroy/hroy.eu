@@ -273,4 +273,19 @@ kaik <span class="ipa">[FIXME]</span>
 کیک
 </td>
 </tr>
+
+<tr>
+<td lang="fr">
+chauve
+</td>
+<td class="phonetic" lang="">
+katchal <span class="ipa">[FIXME]</span>
+</td>
+<td class="audio" lang="fa">
+<audio src="FIXME" controls></audio>
+</td>
+<td class="farsiscript" lang="fa">
+کچل
+</td>
+</tr>
 </table>
