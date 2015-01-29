@@ -288,4 +288,19 @@ katchal <span class="ipa">[FIXME]</span>
 کچل
 </td>
 </tr>
+
+<tr>
+<td lang="fr">
+non
+</td>
+<td class="phonetic" lang="">
+na <span class="ipa">[FIXME]</span>
+</td>
+<td class="audio" lang="fa">
+<audio src="FIXME" controls></audio>
+</td>
+<td class="farsiscript" lang="fa">
+نه
+</td>
+</tr>
 </table>
