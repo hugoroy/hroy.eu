@@ -291,6 +291,21 @@ katchal <span class="ipa">[FIXME]</span>
 
 <tr>
 <td lang="fr">
+oui
+</td>
+<td class="phonetic" lang="">
+baleh <span class="ipa">[FIXME]</span>
+</td>
+<td class="audio" lang="fa">
+<audio src="FIXME" controls></audio>
+</td>
+<td class="farsiscript" lang="fa">
+بله
+</td>
+</tr>
+
+<tr>
+<td lang="fr">
 non
 </td>
 <td class="phonetic" lang="">
