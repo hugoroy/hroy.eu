@@ -54,8 +54,9 @@ Some facts and statistics about [[!taglink patents]] (with a focus on software a
 
     years: 1978-2002
 
-  - More than 20 000 patent *applications* on “digital communications”
-    and “computer technology” are filed each year at the EPO.
+  - More than 20 000 patent *applications* on “digital
+    communications”, “IT methods” and “computer technology” are filed
+    each year at the EPO.
  
     source:
     [European Patent Office](http://www.epo.org/about-us/annual-reports-statistics/annual-report/2013/statistics-trends/patent-applications.html)
