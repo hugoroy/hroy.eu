@@ -2,7 +2,7 @@
 [[!meta language="fr"]]
 [[!meta title="Mots de persan"]]
 
-J'apprends un mot de persan  (presque) chaque jour [[!taglink en_2015|2015resolutions]].
+J'apprends un mot de persan  chaque jour (ou presque) [[!taglink en_2015|2015resolutions]].
 
 <table class="table">
 <tr>
