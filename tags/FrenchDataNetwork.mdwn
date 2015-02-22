@@ -1,0 +1,4 @@
+[[!meta title="pages tagged FrenchDataNetwork"]]
+
+[[!inline pages="tagged(FrenchDataNetwork)" actions="no" archive="yes"
+feedshow=10]]
