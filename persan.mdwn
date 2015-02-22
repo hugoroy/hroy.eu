@@ -39,7 +39,7 @@ khosh hâl <span class="IPA">/xoʃˈhɒːl/</span>
 alcool
 </td>
 <td class="phonetic" lang="">
-mashroub <span class="IPA">/[FIXME]/</span>
+mashroub <span class="IPA hide">/[FIXME]/</span>
 </td>
 <td class="audio" lang="fa">
 <audio src="https://storage.5apps.com/hugo/public/shares/150103-0940-recording20150103103936.wav" controls></audio>
@@ -54,7 +54,7 @@ mashroub <span class="IPA">/[FIXME]/</span>
 chat, minou
 </td>
 <td class="phonetic" lang="">
-pishi <span class="IPA">/[FIXME]/</span>
+pishi <span class="IPA hide">/[FIXME]/</span>
 </td>
 <td class="audio" lang="fa">
 <audio src="https://storage.5apps.com/hugo/public/shares/150104-1523-recording20150104162159.wav" controls></audio>
@@ -68,7 +68,7 @@ pishi <span class="IPA">/[FIXME]/</span>
 chat (neutre)
 </td>
 <td class="phonetic" lang="">
-gorbeh <span class="IPA">/[FIXME]/</span>
+gorbeh <span class="IPA hide">/[FIXME]/</span>
 </td>
 <td class="audio" lang="fa">
 <audio src="https://storage.5apps.com/hugo/public/shares/150104-1523-recording20150104162221.wav" controls></audio>
@@ -204,7 +204,7 @@ dokhtar <span class="ipa">/dux.tar/</span>
 garçon
 </td>
 <td class="phonetic" lang="">
-pesar <span class="ipa">/FIXME.tar/</span>
+pesar <span class="ipa hide">/FIXME.tar/</span>
 </td>
 <td class="audio" lang="fa">
 <audio src="https://storage.5apps.com/hugo/public/shares/150222-2042-recording20150222214141.wav" controls></audio>
@@ -219,7 +219,7 @@ FIXME
 cheveu
 </td>
 <td class="phonetic" lang="">
-mou <span class="ipa">[FIXME]</span>
+mou <span class="ipa hide">[FIXME]</span>
 </td>
 <td class="audio" lang="fa">
 <audio src="https://storage.5apps.com/hugo/public/shares/150222-2043-recording20150222214240.wav" controls></audio>
@@ -234,7 +234,7 @@ mou <span class="ipa">[FIXME]</span>
 papa
 </td>
 <td class="phonetic" lang="">
-baba <span class="ipa">[FIXME]</span>
+baba <span class="ipa hide">[FIXME]</span>
 </td>
 <td class="audio" lang="fa">
 <audio src="https://storage.5apps.com/hugo/public/shares/150222-2043-recording20150222214325.wav" controls></audio>
@@ -249,7 +249,7 @@ baba <span class="ipa">[FIXME]</span>
 maman
 </td>
 <td class="phonetic" lang="">
-mamane <span class="ipa">[FIXME]</span>
+mamane <span class="ipa hide">[FIXME]</span>
 </td>
 <td class="audio" lang="fa">
 <audio src="https://storage.5apps.com/hugo/public/shares/150222-2044-recording20150222214421.wav" controls></audio>
@@ -264,7 +264,7 @@ mamane <span class="ipa">[FIXME]</span>
 gâteau
 </td>
 <td class="phonetic" lang="">
-kaik <span class="ipa">[FIXME]</span>
+kaik <span class="ipa hide">[FIXME]</span>
 </td>
 <td class="audio" lang="fa">
 <audio src="https://storage.5apps.com/hugo/public/shares/150222-2045-recording20150222214519.wav" controls></audio>
@@ -279,7 +279,7 @@ kaik <span class="ipa">[FIXME]</span>
 chauve
 </td>
 <td class="phonetic" lang="">
-katchal <span class="ipa">[FIXME]</span>
+katchal <span class="ipa hide">[FIXME]</span>
 </td>
 <td class="audio" lang="fa">
 <audio src="https://storage.5apps.com/hugo/public/shares/150222-2046-recording20150222214629.wav" controls></audio>
@@ -294,7 +294,7 @@ katchal <span class="ipa">[FIXME]</span>
 oui
 </td>
 <td class="phonetic" lang="">
-baleh <span class="ipa">[FIXME]</span>
+baleh <span class="ipa hide">[FIXME]</span>
 </td>
 <td class="audio" lang="fa">
 <audio src="https://storage.5apps.com/hugo/public/shares/150222-2047-recording20150222214726.wav" controls></audio>
@@ -309,7 +309,7 @@ baleh <span class="ipa">[FIXME]</span>
 non
 </td>
 <td class="phonetic" lang="">
-na <span class="ipa">[FIXME]</span>
+na <span class="ipa hide">[FIXME]</span>
 </td>
 <td class="audio" lang="fa">
 <audio src="https://storage.5apps.com/hugo/public/shares/150222-2048-recording20150222214801.wav" controls></audio>
@@ -325,7 +325,7 @@ na <span class="ipa">[FIXME]</span>
 malade
 </td>
 <td class="phonetic" lang="">
-mariz <span class="ipa">[FIXME]</span>
+mariz <span class="ipa hide">[FIXME]</span>
 </td>
 <td class="audio" lang="fa">
 <audio src="https://storage.5apps.com/hugo/public/shares/150222-2038-recording20150222215025.wav" controls></audio>
