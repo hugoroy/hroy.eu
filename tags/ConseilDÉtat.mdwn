@@ -1,0 +1,4 @@
+[[!meta title="pages tagged ConseilDÉtat"]]
+
+[[!inline pages="tagged(ConseilDÉtat)" actions="no" archive="yes"
+feedshow=10]]

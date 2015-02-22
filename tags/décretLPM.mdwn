@@ -1,0 +1,4 @@
+[[!meta title="pages tagged décretLPM"]]
+
+[[!inline pages="tagged(décretLPM)" actions="no" archive="yes"
+feedshow=10]]
