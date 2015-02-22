@@ -282,7 +282,7 @@ chauve
 katchal <span class="ipa">[FIXME]</span>
 </td>
 <td class="audio" lang="fa">
-<audio src="FIXME" controls></audio>
+<audio src="https://storage.5apps.com/hugo/public/shares/150222-2046-recording20150222214629.wav" controls></audio>
 </td>
 <td class="farsiscript" lang="fa">
 کچل
@@ -297,7 +297,7 @@ oui
 baleh <span class="ipa">[FIXME]</span>
 </td>
 <td class="audio" lang="fa">
-<audio src="FIXME" controls></audio>
+<audio src="https://storage.5apps.com/hugo/public/shares/150222-2047-recording20150222214726.wav" controls></audio>
 </td>
 <td class="farsiscript" lang="fa">
 بله
@@ -312,7 +312,7 @@ non
 na <span class="ipa">[FIXME]</span>
 </td>
 <td class="audio" lang="fa">
-<audio src="FIXME" controls></audio>
+<audio src="https://storage.5apps.com/hugo/public/shares/150222-2048-recording20150222214801.wav" controls></audio>
 </td>
 <td class="farsiscript" lang="fa">
 نه
