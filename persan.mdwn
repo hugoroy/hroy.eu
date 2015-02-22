@@ -113,7 +113,7 @@ boos <span class="IPA">/ˈbuːs/</span>
 Je suis Charlie.
 </td>
 <td class="phonetic" lang="">
-man Charlie hastam <span class="IPA">/[FIXME]/</span>
+man Charlie hastam <span class="IPA hide">/[FIXME]/</span>
 </td>
 <td class="audio" lang="fa">
 <audio src="https://storage.5apps.com/hugo/public/shares/150107-2115-recording20150107221444.wav" controls></audio>
