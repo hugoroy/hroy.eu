@@ -207,7 +207,7 @@ garçon
 pesar <span class="ipa">/FIXME.tar/</span>
 </td>
 <td class="audio" lang="fa">
-<audio src="FIXME" controls></audio>
+<audio src="https://storage.5apps.com/hugo/public/shares/150222-2042-recording20150222214141.wav" controls></audio>
 </td>
 <td class="farsiscript" lang="fa">
 FIXME
@@ -222,7 +222,7 @@ cheveu
 mou <span class="ipa">[FIXME]</span>
 </td>
 <td class="audio" lang="fa">
-<audio src="FIXME" controls></audio>
+<audio src="https://storage.5apps.com/hugo/public/shares/150222-2043-recording20150222214240.wav" controls></audio>
 </td>
 <td class="farsiscript" lang="fa">
 مو
@@ -237,7 +237,7 @@ papa
 baba <span class="ipa">[FIXME]</span>
 </td>
 <td class="audio" lang="fa">
-<audio src="FIXME" controls></audio>
+<audio src="https://storage.5apps.com/hugo/public/shares/150222-2043-recording20150222214325.wav" controls></audio>
 </td>
 <td class="farsiscript" lang="fa">
 بابا
@@ -252,7 +252,7 @@ maman
 mamane <span class="ipa">[FIXME]</span>
 </td>
 <td class="audio" lang="fa">
-<audio src="FIXME" controls></audio>
+<audio src="https://storage.5apps.com/hugo/public/shares/150222-2044-recording20150222214421.wav" controls></audio>
 </td>
 <td class="farsiscript" lang="fa">
 مامان
@@ -267,7 +267,7 @@ gâteau
 kaik <span class="ipa">[FIXME]</span>
 </td>
 <td class="audio" lang="fa">
-<audio src="FIXME" controls></audio>
+<audio src="https://storage.5apps.com/hugo/public/shares/150222-2045-recording20150222214519.wav" controls></audio>
 </td>
 <td class="farsiscript" lang="fa">
 کیک
@@ -316,6 +316,22 @@ na <span class="ipa">[FIXME]</span>
 </td>
 <td class="farsiscript" lang="fa">
 نه
+</td>
+</tr>
+
+
+<tr>
+<td lang="fr">
+malade
+</td>
+<td class="phonetic" lang="">
+mariz <span class="ipa">[FIXME]</span>
+</td>
+<td class="audio" lang="fa">
+<audio src="https://storage.5apps.com/hugo/public/shares/150222-2038-recording20150222213723.wav" controls></audio>
+</td>
+<td class="farsiscript" lang="fa">
+مريض
 </td>
 </tr>
 </table>
