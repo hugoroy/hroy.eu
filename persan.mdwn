@@ -328,7 +328,7 @@ malade
 mariz <span class="ipa">[FIXME]</span>
 </td>
 <td class="audio" lang="fa">
-<audio src="https://storage.5apps.com/hugo/public/shares/150222-2038-recording20150222213723.wav" controls></audio>
+<audio src="https://storage.5apps.com/hugo/public/shares/150222-2038-recording20150222215025.wav" controls></audio>
 </td>
 <td class="farsiscript" lang="fa">
 مريض
