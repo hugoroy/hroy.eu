@@ -1,6 +1,6 @@
 [[!meta title="Starting against Data Retention in France"]]
 [[!meta language="en"]]
-[[!tag lang:en surveillance privacy law LaQuadratureDuNet FrenchDataNetwork FédérationFDN ConseilDÉtat décretLPM 2014-1576]]
+[[!tag lang:en surveillance privacy dataRetention law LaQuadratureDuNet FrenchDataNetwork FédérationFDN ConseilDÉtat décretLPM 2014-1576]]
 
 If you've been wondering why I haven't blogged lately, or why I
 haven't replied to your email yet, it's because I have been quite busy
