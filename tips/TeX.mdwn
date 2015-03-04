@@ -1,0 +1,10 @@
+[[!tag lang:en TeX LaTeX XeTeX]]
+
+I've been using LaTeX since about 2009.
+
+Here's a collection of tips for Xe/La/TeX with an inclination towards
+use in the French language, within a legal context or in combination
+with [[pandoc]].
+
+[[!inline pages="page(./TeX/*) and !*/Discussion" archive=yes
+feedshow=10 quick=yes trail=no action=yes feeds=yes]]
