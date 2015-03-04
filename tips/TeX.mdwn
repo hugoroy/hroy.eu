@@ -1,9 +1,10 @@
 [[!tag lang:en TeX LaTeX XeTeX]]
+[[!meta copyright="CTAN lion drawing by Duane Bibby (http://ctan.org/lion/)"]]
 
 I've been using LaTeX since about 2009.
 
 <aside>
-[[!img ctanLion.png class="pull-right aside" caption="[CTAN lion draw­ing by Duane Bibby](http://ctan.org/lion/)"]]
+[[!img ctanLion.png class="pull-right aside" caption="CTAN lion drawing by Duane Bibby"]]
 </aside>
 
 Here's a collection of tips for Xe/La/TeX with an inclination towards
