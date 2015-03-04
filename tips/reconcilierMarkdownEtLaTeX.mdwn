@@ -1,6 +1,6 @@
 [[!meta title="Réconcilier Markdown et LaTeX"]]
 [[!meta language="fr"]]
-[[!tag lang:fr Markdown LaTeX français typography publishing writing]]
+[[!tag lang:fr Markdown LaTeX français typography publishing writing Pandoc]]
 
 <p class="tldr">
 <strong>Pour faire vite :</strong> <a href="#filter-for-pandoc-french">appliquer un filtre à Pandoc</a>
