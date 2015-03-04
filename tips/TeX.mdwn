@@ -2,6 +2,10 @@
 
 I've been using LaTeX since about 2009.
 
+<aside>
+[[!img ctanLion.png class="pull-right aside" caption="[CTAN lion draw­ing by Duane Bibby](http://ctan.org/lion/)"]]
+</aside>
+
 Here's a collection of tips for Xe/La/TeX with an inclination towards
 use in the French language, within a legal context or in combination
 with [[pandoc]].
