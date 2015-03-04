@@ -7,6 +7,8 @@ weird which led me to believe that I couldn't see my emails since
 2010. It turns out everything was fine, but Evolution hang up on
 me).
 
+<aside>[[!img mutt.png class="pull-right aside"]]</aside>
+
 Beginning on Mutt is “not easy.” I went to [Mutterwares] to have
 experienced user show me how they use it. You might be interested
 in some of the [information collected there][Mutterwares].
