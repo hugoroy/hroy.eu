@@ -5,35 +5,13 @@
 
 <span class="xetex">X<sub>&#398;</sub>T<sub>E</sub>X</span>
 
-<style type="text/css">
-.latex sub {
-  vertical-align: -0.3ex;
-  margin-left: -0.1667em;
-  margin-right: -0.025em;
-}
 
-.xetex sub {
-  vertical-align: -0.3ex;
-  margin-left: -0.1667em;
-  margin-right: -0.125em;
-}
-
-.latex sub, .latex sup, .xetex sub {
-  font-size: 0.9em;
-  text-transform:uppercase;
-
-}
-.latex sup {
-  font-size: 0.85em;
-  vertical-align: 0.15em;
-  margin-left: -0.26em;
-  margin-right: -0.05em;
-}
-</style>
 
     <span class="latex">L<sup>A</sup>T<sub>E</sub>X</span>
 
     <span class="xetex">X<sub>&#398;</sub>T<sub>E</sub>X</span>
+
+[stylesheet](./local.css)
 
     .latex sub {
       vertical-align: -0.3ex;
