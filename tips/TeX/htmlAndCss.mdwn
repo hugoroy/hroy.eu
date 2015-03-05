@@ -31,7 +31,6 @@
 
     <span class="xetex">X<sub>&#398;</sub>T<sub>E</sub>X</span>
 
-[stylesheet](./local.css)
 
     .latex sub {
       vertical-align: -0.1ex;
