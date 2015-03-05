@@ -21,7 +21,7 @@
       text-transform:uppercase;
     }
     .latex sup {
-      font-size: 0.85em;
+      font-size: 0.74em;
       vertical-align: -0.2em;
       margin-left: -0.26em;
       margin-right: -0.05em;
