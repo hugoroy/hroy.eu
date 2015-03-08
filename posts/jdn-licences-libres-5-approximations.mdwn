@@ -42,7 +42,14 @@ Plus spécifiquement, cette condition :
 
 [^gpl6]: Dans la GPL-3.0 voir le paragraphe  « 6. Conveying Non-Source Forms »
 
-Par conséquent, il a bien été montré que c’est la distribution du logiciel qui déclenche les obligations.[^agpl] Ainsi, on peut tout à fait prendre un logiciel libre sous licence copyleft, y apporter pléthores de modifications, et gardes ces modifications privées voire secrètes si bon vous semble. Ça fait partie des libertés intégrantes du logiciel libre : on peut les utiliser pour tout usage, l’utilisation n’est absolument pas restreinte ; et on peut les modifier de façon à ce qu’ils fonctionnent comme on l’entend.
+Par conséquent, il a bien été montré que c’est la distribution du
+logiciel qui déclenche les obligations.[^agpl] Ainsi, on peut tout à
+fait prendre un logiciel libre sous licence copyleft, y apporter
+pléthores de modifications, et garder ces modifications privées voire
+secrètes si bon vous semble. Ça fait partie des libertés intégrantes
+du logiciel libre : on peut les utiliser pour tout usage,
+l’utilisation n’est absolument pas restreinte ; et on peut les
+modifier de façon à ce qu’ils fonctionnent comme on l’entend.
 
 [^agpl]: Une précision importante toutefois, il peut exister d’autres cas de figure où les obligations du copyleft sont déclenchées. Par exemple, dans la licence [AGPL], la réunion de deux conditions déclenche aussi ces obligations (section 13): 1) la modification du code source, 2) l’interaction des utilisateurs avec le logiciel par l’intermédiaire du réseau (par exemple dans le cas d’une application web).
 
@@ -57,13 +64,33 @@ Comme il vient d’être souligné, un logiciel libre est forcément utilisable 
 
 Il y a d’un côté les licences libres, qui sont généralement des licences publiques -- c’est-à-dire que chacun peut les utiliser pour ses propres logiciels à destination du public ; et de l’autre côté, les licences propriétaires qui sont généralement des licences spécifiques ou spéciales, qui sont utilisées seulement par quelques entreprises et pas forcément à destination du public mais au contraire parfois pour des logiciels écrits spécialement avec des modifications propres au client (ce qu’il est tout à fait possible de faire avec une licence libre par ailleurs, le client jouira ainsi également des libertés conférées par les licences).
 
-## 5. La licence GNU GPL est applicable en France
+## 5. La licence GNU GPL est applicable en France/en Europe
 
-Enfin la GPL comme son nom l’indique est une *licence* et non un contrat de cessions de droits d’auteur. Les obligations de formalités du droit français qui s’attachent aux contrats de cessions de droit sont donc inopérantes pour la GPL. D’ailleurs la version 3 de la GNU GPL a été écrite lors d’un [processus large et documenté][gpl3process], qui comprenait des avocats de plusieurs juridictions (notamment l’Allemagne) spécialement pour pallier l’éventualité de distorsions.
+Pour s’en convaincre, il suffit de constater que la licence GPL-2.0 a
+bien été appliquée par des ayants droit en Allemagne à plusieurs
+reprises (par exemple contre Skype). Bien qu’en France la licence
+n’ait pas vraiment fait l’objet d’un examen poussé par un juge (le
+fait qu’il y ait peu de litiges est en soi une bonne nouvelle en
+fait), son invocation ici et là[^jpFrIncomp] n’a pas entraîné la
+déclaration de son incompatibilité[^formalismes].
 
-[gpl3process]: https://fsfe.org/campaigns/gplv3/gplv3.html
+[^jpFrIncomp]: Educaffix contre CNRS, ou encore EDU4 contre AFPA, et
+d'autres décisions encore...
 
-Pour s’en convaincre, il suffit de constater que la licence GPL-2.0 a bien été appliquée en Allemagne à plusieurs reprises (par exemple contre Skype). Bien qu’en France la licence n’ait pas vraiment fait l’objet d’un examen poussé par un juge (le fait qu’il y ait peu de litiges est en soi une bonne nouvelle en fait), son invocation ici et là n’a pas entraîné la déclaration de son incompatibilité.
+[^formalismes]: Certaines dispositions du code de la propriété
+intellectuelle sont parfois avancées pour expliquer que la licence GNU
+GPL serait nulle en droit français... c'est en réalité un argument
+purement académique, car on voit mal qui irait invoquer une telle
+nullité ! D'une part, c'est une stratégie désastreuse pour celui qu'on
+accuserait de ne pas respecter la licence car, sans licence valide,
+c'est la contrefaçon automatiquement -- d'autre part, cette nullité
+*relative* n'est en réalité invocable que par l'ayant droit lui-même.
+Non seulement cette situation est peu envisageable car il s'agirait de
+se tirer une balle dans le pied, d'autre part la *ratio legis* de
+cette disposition du code pourrait nous amener à considérer qu'elle
+n'est pas applicable aux cas d'espèce du logiciel libre. Une
+discussion donc tout à fait académique mais sans impact sur la
+réalité.
 
 (Seule la [loi Toubon] pourrait causer quelques problèmes, mais rien de très grave en réalité ; ça se résout très bien en utilisant des doubles licences et ça ne vaut pas dans tous les cas. Les administrations publiques peuvent très bien faire développer et utiliser des logiciels libres et elles le font déjà !)
 
