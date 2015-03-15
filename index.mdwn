@@ -29,7 +29,7 @@
 </div>
 
 [[!inline pages="page(./posts/*) and !*/Discussion" archive=yes show="15"
-feedshow=15 quick=yes trail=yes feeds=yes]]
+feedshow=15 quick=yes trail=yes feeds=no]]
 
 ----------------------------------------------------------------------------
 
