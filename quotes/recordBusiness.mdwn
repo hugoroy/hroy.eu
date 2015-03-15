@@ -1,0 +1,22 @@
+
+> Most of the hardware devices are, even as you read this, available
+> as off-the-shelf items, just waiting to be plugged into each other in
+> order to put an end to the record business as we know it.
+>
+> <cite>Frank Zappa with Peter Occhiogrosso, <em>The Real Frank Zappa
+> Book</em> (p. 336, Chapter 18, “Failure”), A Touchstone Book,
+> published by Simon & Schuster, 1988-1989.</cite>
+
+[[!tag lang:en music internet FrankZappa]]
+[[!meta title="… to put an end to the record business as we know it"]]
+
+<aside>
+In “[A proposal for a system to replace phonograph record
+merchandising][FZProposal]”, Zappa anticipates the technological capabilities to
+meet consumers’ demands and take advantage of what the record business
+considers a negative trend. 
+</aside>
+
+[FZProposal]: http://www.zappa.com/whatsnew/news/FZ-Proposal/
+
+[[!img donnaEMobile.png]]
