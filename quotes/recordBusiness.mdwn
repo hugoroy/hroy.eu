@@ -5,12 +5,13 @@
 >
 > <cite>Frank Zappa with Peter Occhiogrosso, <em>The Real Frank Zappa
 > Book</em> (p. 336, Chapter 18, “Failure”), A Touchstone Book,
-> published by Simon & Schuster, 1988-1989.</cite>
+> published by Simon & Schuster, 1988-1989. Also see, “[A proposal for a system to replace phonograph record
+merchandising][FZProposal]”.</cite>
 
 [[!tag lang:en music internet FrankZappa]]
 [[!meta title="… to put an end to the record business as we know it"]]
 
-<aside>
+<aside class="hide">
 In “[A proposal for a system to replace phonograph record
 merchandising][FZProposal]”, Zappa anticipates the technological capabilities to
 meet consumers’ demands and take advantage of what the record business
@@ -18,5 +19,3 @@ considers a negative trend.
 </aside>
 
 [FZProposal]: http://www.zappa.com/whatsnew/news/FZ-Proposal/
-
-[[!img donnaEMobile.png]]
