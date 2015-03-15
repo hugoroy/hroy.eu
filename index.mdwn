@@ -26,7 +26,7 @@
 
 
 [[!inline pages="page(./posts/*) and !*/Discussion" archive=yes show="15"
-feedshow=15 quick=yes trail=yes feeds=no]]
+feedshow=15 quick=yes trail=no feeds=no]]
 
 ----------------------------------------------------------------------------
 
