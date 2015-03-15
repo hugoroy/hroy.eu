@@ -5,14 +5,13 @@
 """]]
 
 [[!meta author="Hugo Roy"]]
-[[!meta description="You can’t do that online anymore! a blog, notes, tips and everything else elsewhere… by Hugo Roy."]]
+[[!meta description="You can’t do that online anymore! a blog, notes, tips, thoughts… by Hugo Roy."]]
 
-<!--[[!inline pages="page(./hugo) and !*/Discussion" show="0" feeds=no actions=no template=inlinetext]]-->
 
 <div id="blog-motto">You can’t do that online anymore!</div>
 
 <div id="timeline-last">
-<p id="last-bits"><span>[[Blog Posts|posts]]</span></p>
+<p class="lastBits"><span>[[Last Blog Posts|#lastposts]]</span></p>
 </div>
 
 <div class="subscribers">
@@ -21,11 +20,21 @@
     by email <i class="fa fa-envelope icon-envelope"></i></a>
 </div>
 
-[[!inline pages="page(./posts/*) and !*/Discussion and !(tagged(meta:ignore))" show="10" actions=no title="“You can’t do that online anymore!”"]]
+[[!inline pages="page(./posts/*) and !*/Discussion and !(tagged(meta:ignore))" show="5" actions=no title="“You can’t do that online anymore!”"]]
+
 
 ----------------------------------------------------------------------------
 
-If you’ve read until here, you should head to the full list of [[posts]].
+<div id="lastposts">
+<p class="lastBits"><span>[[Last Blog Posts|#lastposts]]</span></p>
+</div>
+
+[[!inline pages="page(./posts/*) and !*/Discussion" archive=yes show="15"
+feedshow=15 quick=yes trail=yes feeds=yes]]
+
+
+If you’ve read until here, you should head to the full list of
+[[posts]] or [[browse_the_archives|archives]].
 
 
 <style type="text/css">
