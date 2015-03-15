@@ -22,11 +22,8 @@
 
 [[!inline pages="page(./posts/*) and !*/Discussion and !(tagged(meta:ignore))" show="5" actions=no title="“You can’t do that online anymore!”"]]
 
-<h2>Last Blog Posts</h2>
+<h2 id="lastposts">Last Blog Posts</h2>
 
-<div id="lastposts">
-<p class="lastBits"><span>[[Last Blog Posts|#lastposts]]</span></p>
-</div>
 
 [[!inline pages="page(./posts/*) and !*/Discussion" archive=yes show="15"
 feedshow=15 quick=yes trail=yes feeds=no]]
