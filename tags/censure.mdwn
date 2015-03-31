@@ -1,0 +1,4 @@
+[[!meta title="pages tagged censure"]]
+
+[[!inline pages="tagged(censure)" actions="no" archive="yes"
+feedshow=10]]
