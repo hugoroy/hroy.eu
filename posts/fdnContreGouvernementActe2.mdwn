@@ -19,7 +19,7 @@ laisse le soin à Benjamin de le faire, probablement sur le
 
 Samedi dernier, j'ai pu présenter notre action lors de l'assemblée
 générale de FDN. Pour ceux que ça intéresse,
-[voici les diapos](presentationRecours.beamer.pdf). Ils contiennent
+[voici les diapos](/posts/fdnContreGouvernementActe2/presentationRecours.beamer.pdf). Ils contiennent
 notamment une chronologie du contexte entourant chacun des deux
 décrets que nous avons attaqué, ainsi qu'une revue de nos principaux
 arguments.
