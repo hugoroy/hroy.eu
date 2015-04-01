@@ -4,8 +4,8 @@
 
 [[Last_month|startingAgainstDataRetention]], French Data Network and
 La Quadrature du Net filed a brief to the Conseil d'Etat, one of the
-supreme courts. Our objective is simple: we want to take down data
-retention.
+supreme courts. Our objective is simple: we want to take down French data
+retention laws.
 
 #### Who?
 
@@ -39,7 +39,7 @@ Specifically, article 20 of this law set new ways for the state to
 access data retained by telcos and internet ISPs.
 
 For us, this was just a legal opportunity to seize in order to bring
-in our arguments in front of a court, against the whole concept of
+our arguments in front of a judge, against the concept of general
 data retention, i.e. keeping metadata and records on communications of
 the whole population.
 
@@ -79,7 +79,7 @@ And, of course, the main argument (part 4.1 of our legal writing):
   - As a consequence, the judge must realise that data retention, as
     set in French law, is clearly against our fundamental rights to
     free speech and to the respect of private life! The government
-    cannot mandates telcos and internet ISPs to keep metadata and
+    cannot legally mandates telcos and internet ISPs to keep metadata and
     records on the communications of the whole population (and for *a
     whole year* at least)!
 
