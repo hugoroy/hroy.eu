@@ -3,9 +3,9 @@
 [[!tag lang:en surveillance privacy dataRetention law LaQuadratureDuNet FrenchDataNetwork FédérationFDN ConseilDÉtat décretLPM 2014-1576]]
 
 [[Last_month|startingAgainstDataRetention]], French Data Network and
-La Quadrature du Net filed a brief to the Conseil d'Etat, one of the
-supreme courts. Our objective is simple: we want to take down French data
-retention laws.
+La Quadrature du Net filed a lawsuit to the Conseil d'État, one of the
+supreme courts, against the French government. Our objective is
+simple: we want to take down French data retention laws.
 
 #### Who?
 
@@ -25,18 +25,18 @@ retention laws.
 
 #### How?
 
-On December 24, the government issued a *[décret]*, an order
-by the executive to enable the application of the law
-(issed by the Parliament). Décrets can be challenged in court, directly to the Conseil d'Etat, until
-two months after they are published. This is the procedure our
-challenge is in.
+On December 24, the government issued a *[décret]*, an order by the
+executive branch to enable the application of the law (issed by the
+Parliament). Décrets can be challenged in court, directly to the
+Conseil d'État, until two months after they are published. This is the
+procedure we're in.
 
 [décret]: http://en.wikipedia.org/wiki/Decree#France
 
-This procedure officially targets a décret of the 2013 law setting the
-strategy for military operations and prerogatives for the near future.
-Specifically, article 20 of this law set new ways for the state to
-access data retained by telcos and internet ISPs.
+Formally, our target is a décret of the 2013 law setting the strategy
+for military operations and prerogatives for the near future (the
+“LPM” law). Specifically, article 20 of this law set new ways for the
+state to access data retained by telcos and internet ISPs.
 
 For us, this was just a legal opportunity to seize in order to bring
 our arguments in front of a judge, against the concept of general
@@ -44,16 +44,18 @@ data retention, i.e. keeping metadata and records on communications of
 the whole population.
 
 In the aftermath of the
-[[!taglink European_Union_Court_of_Justice|EUCJ]] landmark decision in
-*Digital Rights Ireland* (April 8, 2015; C‑293/12 & C‑594/12), laws in
-Europe are being cancelled, almost automatically, one by one (lately,
-in the Netherlands, see the preliminary injunction by the Hague court,
-March 11, 2015). Because national judges, in matter of European Union
-law, have to apply EU principles and case law directly.
+[[!taglink European_Union_Court_of_Justice|EUCJ]]'s landmark decision
+in *Digital Rights Ireland* (April 8, 2014; C‑293/12 & C‑594/12), data
+retention laws in Europe are being cancelled, almost automatically,
+one by one (lately, in the Netherlands, see the preliminary injunction
+by the Hague court, March 11, 2015). Almost automatically indeed,
+because national judges, in matter of European Union law, have to
+apply EU principles and case law directly.
 
-So this is what we're trying to do in France. French laws on data
-retention predate the 2006 EU data retention directive; so our task
-seems to be a bit more difficult.
+So this is what we're trying to do in France, albeit one difference.
+Unlike other data retention laws in Europe, French laws predate the
+2006 EU data retention directive; so our task seems a bit more
+difficult.
 
 #### What?
 
@@ -92,12 +94,12 @@ I'll keep you posted on the blog about the
 if nothing unexpected happens (but it can be significantly longer
 depending on prejudicial and accessory procedures...).
 
-But as you may know, the government is currently trying to pass law
+But as you may know, the government is currently trying to pass new law
 giving extremely broad powers to the state with regard to surveillance
 measures, including new ways to access our communications and our
-data. 
+data, all of this without effective judicial oversight.
 
-Our legal challenge has taken a new level, against the
+Our legal challenge has thus taken a new level, against the
 [French surveillance state](http://www.nytimes.com/2015/04/01/opinion/the-french-surveillance-state.html).
 
 ------
