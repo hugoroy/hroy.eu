@@ -59,8 +59,7 @@ difficult.
 
 #### What?
 
-Anyway, our introductory brief is going to be published very soon, but
-here comes an overview of our main arguments:
+Anyway, here comes an overview of our main arguments:
 
   - the décret tries to fix the law; because the law did not define
     correctly its own scope (the definition of the type of data
@@ -85,7 +84,10 @@ And, of course, the main argument (part 4.1 of our legal writing):
     records on the communications of the whole population (and for *a
     whole year* at least)!
 
+If you're interested, you can [read the whole thing][recours2014-1576]
+(in French).
 
+[recours2014-1576]: http://www.fdn.fr/2014-1576/recours.pdf
 
 #### What next?
 
