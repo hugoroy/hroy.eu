@@ -65,7 +65,7 @@ here comes an overview of our main arguments:
   - the décret tries to fix the law; because the law did not define
     correctly its own scope (the definition of the type of data
     subject to the law). But that's something the government is not
-    abilitated to do! The scope of the law is a legislative power
+    supposed to do! The scope of the law is a legislative power
     prerogative, not the executive's.
   - the décret had to organise the administrative control defined in
     the law, but the décret doesn't do it. Thus, the government did
@@ -81,7 +81,7 @@ And, of course, the main argument (part 4.1 of our legal writing):
   - As a consequence, the judge must realise that data retention, as
     set in French law, is clearly against our fundamental rights to
     free speech and to the respect of private life! The government
-    cannot legally mandates telcos and internet ISPs to keep metadata and
+    cannot legally mandate telcos and internet ISPs to keep metadata and
     records on the communications of the whole population (and for *a
     whole year* at least)!
 
