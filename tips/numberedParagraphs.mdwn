@@ -1,0 +1,38 @@
+[[!tag lang:en]]
+[[!meta language="en"]]
+[[!meta title="Numbered Paragraphs"]]
+
+Sometimes, you want to get numbered paragraphs throughout a document.
+
+I'm looking for a way to achieve this with [[!taglink pandoc]], in a way that I can
+write once, and publish in several formats.
+
+
+I added this in  pandoc's [[!taglink LaTeX]] template:
+    
+    $if(numberparagraphs)$
+    %% numerate paragraphs with a label
+    \newcounter{paranumero}
+    \newcommand{\para}[1]{%
+    \noindent\refstepcounter{paranumero}\llap{\small\bfseries\theparanumero\label{#1}.~}}
+    $endif$
+
+
+That way, I can write
+
+    \para{shortId} A paragraph...
+
+    and later in the document, I can refer to that paragraph\vref{shortId}
+
+<aside class="sidenote right note">
+I was recently told about the [varioref] package, it's awesome.
+</aside>
+
+[varioref]: https://www.ctan.org/pkg/varioref
+
+That's good, but it only works in LaTeX. I'd like to write something
+similar in a [[!taglink Markdown]] document and be able to also
+produce HTML, or even ODT or OOXML.
+
+I'll experiment a bit, but if you have ideas of your own... tell
+me :-)
