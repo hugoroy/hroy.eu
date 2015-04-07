@@ -36,3 +36,9 @@ produce HTML, or even ODT or OOXML.
 
 I'll experiment a bit, but if you have ideas of your own... tell
 me :-)
+
+-----------
+
+**TODO**: allow to write `\para` without any value and assign it a
+  predictable `\label`... for instance the first letter of the first
+  five words of the paragraph.
