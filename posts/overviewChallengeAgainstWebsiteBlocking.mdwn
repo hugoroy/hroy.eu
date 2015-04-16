@@ -1,10 +1,12 @@
 [[!meta title="Overview of FDN & La Quadrature's challenge against Website Blocking"]]
 [[!meta language="en"]]
-[[!tag lang:en surveillance censorship webBlocking privacy freedomOfExpression law LaQuadratureDuNet FrenchDataNetwork FédérationFDN ConseilDÉtat décretBlocage 2015-125]]
+[[!tag 389140 lang:en surveillance censorship webBlocking privacy freedomOfExpression law LaQuadratureDuNet FrenchDataNetwork FédérationFDN ConseilDÉtat décretBlocage 2015-125]]
 
 This month, French Data Network and La Quadrature du Net filed a
 lawsuit to the Conseil d'État, one of the supreme courts, against the
 French government on website blocking.
+
+This is part 2 of our series [“French Data Network *versus* the French Government”](/tags/FdnContreGouvernement/).
 
 #### Who?
 
