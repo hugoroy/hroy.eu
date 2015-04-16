@@ -1,6 +1,6 @@
 [[!meta title="Overview of FDN & La Quadrature's challenge against Data Retention"]]
 [[!meta language="en"]]
-[[!tag 388174 lang:en surveillance privacy dataRetention law LaQuadratureDuNet FrenchDataNetwork FédérationFDN ConseilDÉtat décretLPM 2014-1576]]
+[[!tag 388134 lang:en surveillance privacy dataRetention law LaQuadratureDuNet FrenchDataNetwork FédérationFDN ConseilDÉtat décretLPM 2014-1576]]
 
 [[Last_month|startingAgainstDataRetention]], French Data Network and
 La Quadrature du Net filed a lawsuit to the Conseil d'État, one of the
