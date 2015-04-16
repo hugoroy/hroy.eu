@@ -1,6 +1,6 @@
 [[!meta title="French Data Network  contre le Gouvernement, acte 2"]]
 [[!meta language="fr"]]
-[[!tag lang:fr ConseilDÉtat FrenchDataNetwork FédérationFDN LaQuadratureDuNet censure blocageWeb 2015-125]]
+[[!tag lang:fr ConseilDÉtat FrenchDataNetwork FédérationFDN LaQuadratureDuNet censorship webBlocking 2015-125]]
 
 Après le dépôt de la requête introductive d'instance contre le
 [décret LPM][2014-1576], c'est au tour du

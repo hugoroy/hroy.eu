@@ -1,6 +1,6 @@
 [[!meta title="Overview of FDN & La Quadrature's challenge against Website Blocking"]]
 [[!meta language="en"]]
-[[!tag lang:en surveillance privacy freedomOfExpression law LaQuadratureDuNet FrenchDataNetwork FédérationFDN ConseilDÉtat décretBlocage 2015-125]]
+[[!tag lang:en surveillance censorship webBlocking privacy freedomOfExpression law LaQuadratureDuNet FrenchDataNetwork FédérationFDN ConseilDÉtat décretBlocage 2015-125]]
 
 This month, French Data Network and La Quadrature du Net filed a
 lawsuit to the Conseil d'État, one of the supreme courts, against the
@@ -22,7 +22,7 @@ This décret is an application of two laws:
 
 - the 2011 LOPPSI law which had a provision about website blocking in
   order to fight against child pornography
-- the 2013 “Cazeneuve law” against terrorism which created a new
+- the 2014 “Cazeneuve law” against terrorism which created a new
   article in the French penal code about “incitement to terrorism” or
   terrorism apology.
 
@@ -35,7 +35,7 @@ For us, the judicial guarantees of our freedoms of expression and of
 
 There are several arguments, but in a nutshell:
 
- - the décret is nothing but clear in limiting the scope of what the
+ - the décret is everything but clear in limiting the scope of what the
    police can put on that secret list of websites that Internet access
    providers have to block; it could be anything from a whole domain
    name (regardless of the protocols: email, web, whatever) to a
@@ -49,6 +49,7 @@ There are several arguments, but in a nutshell:
     censorship**; while URL blocking requires **very intrusive** analysis of
     network connections, i.e. what people are doing online.
 
+
  - the décret specifies that ISP must redirect intercepted connections
    to blocked addresses to a server of the Government. This is a
    technical equivalent of denunciation and puts a risk on all of us:
@@ -56,6 +57,27 @@ There are several arguments, but in a nutshell:
    until after you end up on the Government's server. So you better
    not try to inform yourself on sensitive issues... *The government
    has your back (and is behind your back!)*
+
+But really, the most troubling thing is in the law: all of these
+powers are exempt of efficient judicial oversight.
+
+Indeed, it's entirely possible that the police can order website
+blocking without the editor or the hosting provider even aware of
+this. The decision is secret, so it's very difficult to have an
+efficient course of action against it. More troubling, this can have
+direct consequences on everyone's privacy or freedom to access
+information which hasn't been judged unlawful information.
+
+So there's clearly not enough judicial gurantee checking on the power
+of the State.
+
+Fortunately, I think we good case law from the European Court of Human
+Rights already against France:
+[Association Ekin v. France](http://hudoc.echr.coe.int/sites/eng/pages/search.aspx?i=001-59603)
+(2001). Indeed, especially when it comes to freedom of expression, it
+is important that the law plans for “control over the scope of bans
+and effective judicial review to prevent any abuse of power”, which, I
+think in the case of the 2011 and 2014 laws is entirely missing.
 
 If you're interested, you can [read the whole thing][recours2015-125]
 (in French).
