@@ -61,7 +61,7 @@ There are several arguments, but in a nutshell:
    has your back (and is behind your back!)*
 
 But really, the most troubling thing is in the law: all of these
-powers are exempt of efficient judicial oversight.
+powers are exempt of effective judicial oversight.
 
 Indeed, it's entirely possible that the police can order website
 blocking without the editor or the hosting provider even aware of
