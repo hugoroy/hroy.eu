@@ -73,11 +73,11 @@ information which hasn't been judged unlawful information.
 So there's clearly not enough judicial gurantee checking on the power
 of the State.
 
-Fortunately, I think we good case law from the European Court of Human
+Fortunately, I think we have good case law from the European Court of Human
 Rights already against France:
 [Association Ekin v. France](http://hudoc.echr.coe.int/sites/eng/pages/search.aspx?i=001-59603)
 (2001). Indeed, especially when it comes to freedom of expression, it
-is important that the law plans for “control over the scope of bans
+is important that the law provides for “control over the scope of bans
 and effective judicial review to prevent any abuse of power”, which, I
 think in the case of the 2011 and 2014 laws is entirely missing.
 
