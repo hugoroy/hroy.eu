@@ -1,0 +1,4 @@
+[[!meta title="pages tagged décretBlocage"]]
+
+[[!inline pages="tagged(décretBlocage)" actions="no" archive="yes"
+feedshow=10]]
