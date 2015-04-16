@@ -10,7 +10,7 @@ French government on website blocking.
 
 French Data Network, the Fédération FDN and La Quadrature du Net. This
 is the same team working against
-[[overviewChallengeAgainstDataRetention|Data_Retention]].
+[[Data_Retention|overviewChallengeAgainstDataRetention]].
 
 #### How?
 
