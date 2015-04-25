@@ -350,4 +350,19 @@ safar <span class="ipa hide">[FIXME]</span>
 سفر
 </td>
 </tr>
+
+<tr>
+<td lang="fr">
+paresseux
+</td>
+<td class="phonetic" lang="">
+tanbal <span class="ipa hide">[FIXME]</span>
+</td>
+<td class="audio" lang="fa">
+<audio src="" controls></audio>
+</td>
+<td class="farsiscript" lang="fa">
+تنبل
+</td>
+</tr>
 </table>
