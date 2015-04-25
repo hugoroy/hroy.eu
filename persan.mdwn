@@ -359,7 +359,7 @@ paresseux
 tanbal <span class="ipa hide">[FIXME]</span>
 </td>
 <td class="audio" lang="fa">
-<audio src="" controls></audio>
+<audio src="https://storage.5apps.com/hugo/public/shares/150425-1447-recording20150425164709.wav" controls></audio>
 </td>
 <td class="farsiscript" lang="fa">
 تنبل
