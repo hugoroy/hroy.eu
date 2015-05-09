@@ -11,7 +11,7 @@
 <div id="blog-motto">You can’t do that online anymore!</div>
 
 <div id="timeline-last">
-<p class="lastBits"><span><a href="#lastposts">Last Blog Posts</a></span></p>
+<p class="lastBits"><span><a href="/posts/">Blog Posts</a></span></p>
 </div>
 
 <div class="subscribers">
@@ -22,16 +22,10 @@
 
 [[!inline pages="page(./posts/*) and !*/Discussion and !(tagged(meta:ignore))" show="5" actions=no title="“You can’t do that online anymore!”"]]
 
-<h2 id="lastposts">Last Blog Posts</h2>
-
-
-[[!inline pages="page(./posts/*) and !*/Discussion" archive=yes show="15"
-feedshow=15 quick=yes trail=no feeds=no]]
 
 ----------------------------------------------------------------------------
 
-If you’ve read until here, you should head to the full list of
-[[posts]] or [[browse_the_archives|archives]].
+If you’ve read until here, you should [[browse_the_archives|archives]].
 
 
 <style type="text/css">
