@@ -33,6 +33,7 @@ archive pages.
 </div>
 
 <div id="archives-allposts" class="collapse">
+<h2>All blog posts</h2>
 [[!inline pages="page(./posts/*) and !*/Discussion" archive=yes feedshow=0 quick=yes trail=no feeds=no]]
 </div>
 </div>
