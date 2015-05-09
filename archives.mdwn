@@ -15,20 +15,25 @@ archive pages.
 [[!meta title="Archives"]]
 
 <div id="select-archive">
+<div class="seeWhat">See:</div>
 <div class="selectors btn-group" role="group">
   <button type="button" class="selector btn btn-default" data-toggle="collapse" data-target="#archives-bytags" data-parent="#select-archive">By Tags</button>
   <button type="button" class="selector btn btn-default" data-toggle="collapse" data-target="#archives-bydate" data-parent="#select-archive">By Date</button>
+  <button type="button" class="selector btn btn-default" data-toggle="collapse" data-target="#archives-allposts" data-parent="#select-archive">All Posts</button>
 </div>
 
 <div class="accordeon">
 <div id="archives-bytags" class="collapse in">
 [[!pagestats pages="./tags/*" among="*" style="list" show="40"]]
 <span class="btn btn-default">[[All Tags|tags]]</span>
-<br /><br />
 </div>
 
 <div id="archives-bydate" class="collapse">
-[[!map pages="page(./archives/*) and !*/discussion" sort="-path"]]
+[[!map pages="page(./archives/*) and !*/Discussion" sort="-path"]]
+</div>
+
+<div id="archives-allposts" class="collapse">
+[[!inline pages="page(./posts/*) and !*/Discussion" archive=yes feedshow=0 quick=yes trail=no feeds=no]]
 </div>
 </div>
 </div>
