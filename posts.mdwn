@@ -6,7 +6,7 @@
 
 
 Here is a full list of posts to the [[blog|index]] in both
-[[English|tags/lang:en]] and [[French|tags/lang:fr]].
+[[English|/en/]] and [[French|/fr/]].
 
 [[!inline pages="page(./posts/*) and !*/Discussion" archive=yes
 feedshow=15 quick=yes trail=yes feeds=yes]]
