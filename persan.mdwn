@@ -365,4 +365,20 @@ tanbal <span class="ipa hide">[FIXME]</span>
 تنبل
 </td>
 </tr>
+
+<tr>
+<td lang="fr">
+nourriture
+</td>
+<td class="phonetic" lang="">
+razoh <span class="ipa">[ɢæˈzɒː]</span>
+</td>
+<td class="audio" lang="fa">
+<audio src="https://commons.wikimedia.org/w/index.php?title=File%3AFa-%D8%BA%D8%B0%D8%A7.ogg" controls></audio>
+</td>
+<td class="farsiscript" lang="fa">
+غذا
+</td>
+</tr>
+
 </table>
