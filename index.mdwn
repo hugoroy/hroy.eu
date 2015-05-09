@@ -11,7 +11,7 @@
 <div id="blog-motto">You can’t do that online anymore!</div>
 
 <div id="timeline-last">
-<p class="lastBits"><span><a href="/posts/">Blog Posts</a></span><span><a href="/en/">in English</a></span><span><a href="/posts/">en français</a></span></p>
+<p class="lastBits"><span><a href="/posts/">Blog Posts</a>: </span><span><a href="/en/">in English</a></span>&nbsp;/ <span><a href="/posts/">en français</a></span></p>
 </div>
 
 <div class="subscribers">
