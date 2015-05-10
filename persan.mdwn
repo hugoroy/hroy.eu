@@ -381,4 +381,19 @@ razoh <span class="ipa">[ɢæˈzɒː]</span>
 </td>
 </tr>
 
+<tr>
+<td lang="fr">
+lunettes
+</td>
+<td class="phonetic" lang="">
+eynak <span class="ipa hide">[FIXME]</span>
+</td>
+<td class="audio" lang="fa">
+<audio src="" controls></audio>
+</td>
+<td class="farsiscript" lang="fa">
+عینک
+</td>
+</tr>
+
 </table>
