@@ -6,5 +6,5 @@ template="microblog"]]
 
  * Twitter: [[!aggregate name="@hugoroyd" dir="tweets" 
 feedurl="https://alpha-api.app.net/feed/rss/users/133334/posts"
-url="https://twitter.com/hugoroyd" updateinterval="15"]]
+url="https://twitter.com/hugoroyd" updateinterval="15" expirecount=60]]
 
