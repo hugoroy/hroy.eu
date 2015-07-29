@@ -26,7 +26,7 @@ Voici quelques liens qui nous ont été utiles :
 
     Ensuite, je copie `totosh.ampoliros.net.csr` vers
     `/etc/ssl/certs/totosh.ampoliros.net.crt` puis je configure mes
-    services pour utiliser ce certificat, avec la clé généré par
+    services pour utiliser ce certificat ainsi que la clé privée générée à
     l'étape 1.
 
 - [Je veux HTTPS](https://www.jeveuxhttps.fr/)
