@@ -1,5 +1,5 @@
 [[!meta lang=fr]]
-[[!tags lang:fr openSSL encryption certificates Android freeSoftware machine:totosh]]
+[[!tag lang:fr openSSL encryption certificates Android freeSoftware machine:totosh]]
 
 Hier, j'étais au [loop] avec [Okhin] pour refaire le chiffrement de
 mon serveur mail, que je viens de réinstaller (Kolab 3.4, Debian 8).
