@@ -1,0 +1,64 @@
+[[!meta lang=fr]]
+[[!tags lang:fr openSSL encryption certificates Android freeSoftware machine:totosh]]
+
+Hier, j'étais au [loop] avec [Okhin] pour refaire le chiffrement de
+mon serveur mail, que je viens de réinstaller (Kolab 3.4, Debian 8).
+
+[loop]: https://leloop.org/ 
+[okhin]: https://about.okhin.fr/
+
+Voici quelques liens qui nous ont été utiles :
+
+- [How to create a self-signed SSL Certificate][akadia]
+
+    Attention cependant, en suivant ces instructions on crée un
+    certificat avec le *flag CA false* alors que pour utiliser un
+    certificat autosigné sur Android, il faut absolument que le *flag
+    CA* soit *true* (voir [ci-dessous](#androidCAself)).
+
+    Finalement, voici la commande qui m'a permis de faire le
+    certificat, dans `/etc/ssl/private/`:
+
+        openssl req -x509 -new -key totosh.ampoliros.net.key -out totosh.ampoliros.net.csr -days 730
+ 
+    Cette commande remplace l'étape 2. L'étape 4 n'est donc pas
+    nécessaire semble-t-il.
+
+    Ensuite, je copie `totosh.ampoliros.net.csr` vers
+    `/etc/ssl/certs/totosh.ampoliros.net.crt` puis je configure mes
+    services pour utiliser ce certificat, avec la clé généré par
+    l'étape 1.
+
+- [Je veux HTTPS](https://www.jeveuxhttps.fr/)
+
+    Utilisé pour configurer Apache2.
+
+- [Exemples de configuration Postfix de Benjamin Sonntag](http://www.iletaitunefoisinternet.fr/ssltls-benjamin-sonntag/)
+
+- [Securing all Kolab Services](https://docs.kolab.org/howtos/secure-kolab-server.html)
+
+    Utilisé pour configurer Cyrus IMAPD.
+
+[akadia]: http://www.akadia.com/services/ssh_test_certificate.html
+
+
+### Importer un certificat autosigné dans <span id="androidCAself">Android</a>
+
+Normalement, avec la commande openssl donnée plus haut, on génère un
+certificat autosigné acceptable pour Android.
+
+On peut par exemple utiliser l'application [CAdroid] pour importer le
+certificat.
+
+[CAdroid]: https://f-droid.org/repository/browse/?fdfilter=dav&fdid=at.bitfire.cadroid
+
+Si on est root sur l'Android, on peut aussi copier le certificat
+directement dans le système en passant par `adb`. C'est la solution
+que j'ai choisie.
+
+[Installing CAcert certificates on Android as 'system' credentials without lockscreen - instructions](http://wiki.pcprobleemloos.nl/android/cacert)
+
+(En passant: j'ai un bug sur CyanogenMod qui m'enmpêche pour le moment
+de modifier les paramètres de sécurité. Je suis donc passé par `adb`
+pour autoriser l'installation de sources autres que Google avec la
+commande: `adb shell settings put secure install_non_market_apps 1`.)
