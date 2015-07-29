@@ -1,0 +1,4 @@
+[[!meta title="pages tagged certificates"]]
+
+[[!inline pages="tagged(certificates)" actions="no" archive="yes"
+feedshow=10]]
