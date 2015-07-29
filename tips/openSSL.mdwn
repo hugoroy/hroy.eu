@@ -35,6 +35,10 @@ Voici quelques liens qui nous ont été utiles :
 
 - [Exemples de configuration Postfix de Benjamin Sonntag](http://www.iletaitunefoisinternet.fr/ssltls-benjamin-sonntag/)
 
+    Sans oublier de générer `dh2048.pem`:
+
+        openssl dhparam -out /etc/ssl/private/dh2048.pem -outform PEM -2 2048
+
 - [Securing all Kolab Services](https://docs.kolab.org/howtos/secure-kolab-server.html)
 
     Utilisé pour configurer Cyrus IMAPD.
