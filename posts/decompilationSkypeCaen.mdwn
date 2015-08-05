@@ -1,5 +1,6 @@
 [[!meta title="Décompilation d'un logiciel : état des lieux]]
 [[!meta language="fr"]]
+[[!meta date="2015-07-28"]]
 [[!tag lang:fr droit copyright droitDAuteur software]]
 
 > Dans un arrêt du 18 mars 2015, la Cour d’appel de Caen a retenu que
