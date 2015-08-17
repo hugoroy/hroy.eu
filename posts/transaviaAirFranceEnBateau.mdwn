@@ -129,13 +129,14 @@ vol que j'avais initialement réservé.
 Et là, Transavia pousse le vice un peu plus loin : les deux sièges que
 j'avais sélectionnés au mois de mai sont disponibles...
 
-[[!img 2015-08-13--11-47-51.png alt="Capture d'écran" caption="4E et 4F, pas du tout surbooké, mais disponible]]
+[[!img 2015-08-13--11-47-51.png alt="Capture d'écran" caption="4E et 4F, pas du tout surbooké, mais disponible"]]
 
 Mais Transavia ne s'arrête pas là et, quand je signale cela sur
 Twitter, essaye de me décourager de continuer ma réservation en
 essayant de me faire croire qu'il s'agit d'un « bug » et que Transavia
 est vraiment « contraint » de me changer de vol.
 
+<div style="width:100%;text-align:center">
 <blockquote class="twitter-tweet" lang="en"><p lang="fr" dir="ltr"><a href="https://twitter.com/hugoroyd">@hugoroyd</a> Bonjour Hugo. Je suis vraiment désolé que nous ayons été contraints de vous replacer sur un autre vol. :( Je vous présente =&gt;</p>&mdash; Transavia France (@transaviaFR) <a href="https://twitter.com/transaviaFR/status/631772445402365952">August 13, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -144,8 +145,7 @@ est vraiment « contraint » de me changer de vol.
 
 <blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="fr" dir="ltr"><a href="https://twitter.com/hugoroyd">@hugoroyd</a> =&gt; internet., ces places n&#39;étaient pas réservables. Encore toutes mes excuses. Bonne journée</p>&mdash; Transavia France (@transaviaFR) <a href="https://twitter.com/transaviaFR/status/631773195054485504">August 13, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
+</div>
 
 
 En faisant cette re-réservation de places non réservables, nous avons
@@ -172,10 +172,7 @@ nos places.
 
 
 À l'évidence, je ne tenterai pas à nouveau l'expérience avec
-Transavia^[D'ailleurs, je dois souligner que l'unique raison pour
-laquelle j'ai pris cette compagnie, que je ne connaissais pas, c'est
-que Air France m'y redirigeait automatiquement pour la destination de
-mon choix], d'autant plus que
+Transavia, d'autant plus que
 [cela ne semble pas être son premier coup d'essai (ici, des passagers bloqués deux jours à l'aéroport sans explication de la part de Transavia](http://www.bfmtv.com/mediaplayer/video/portugal-des-francais-bloques-deux-nuits-a-l-aeroport-550208.html).
 
 Ajoutons à cela que le montant de « dédommagement » proposé de 150 €
