@@ -136,7 +136,7 @@ Twitter, essaye de me décourager de continuer ma réservation en
 essayant de me faire croire qu'il s'agit d'un « bug » et que Transavia
 est vraiment « contraint » de me changer de vol.
 
-<div style="width:100%;text-align:center">
+<div class="embedexternal">
 <blockquote class="twitter-tweet" lang="en"><p lang="fr" dir="ltr"><a href="https://twitter.com/hugoroyd">@hugoroyd</a> Bonjour Hugo. Je suis vraiment désolé que nous ayons été contraints de vous replacer sur un autre vol. :( Je vous présente =&gt;</p>&mdash; Transavia France (@transaviaFR) <a href="https://twitter.com/transaviaFR/status/631772445402365952">August 13, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
