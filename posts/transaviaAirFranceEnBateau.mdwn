@@ -1,0 +1,194 @@
+[[!meta title="Transavia, la filiaie d'Air France qui vous mène en bateau"]]
+[[!meta language="fr"]]
+[[!tag lang:fr]]
+
+J'aimerais vous faire partager la mésaventure que m'a fait vivre
+Transavia France pendant mes vacances ce mois d'août.
+
+Tout d'abord, un récapitulatif.
+
+J'ai réservé au mois de mai deux billets aller-retour les 8 et 15 août
+entre Paris Orly et Antalya (Turquie).
+
+- Mardi 11 août, 22 heures (heure locale, soit 21 heures à Paris)
+
+    Transavia m'appelle pour me dire que mon vol est modifié, qu'il ne
+    partira pas le 15 août à 19h10 comme prévu, mais le 16 à 3h10 du
+    matin.
+
+    Déjà, à cette heure-là, je ne suis pas vraiment disposé à prendre
+    une quelconque décision et je refuse d'approuver le changement
+    qu'on m'indique.
+
+    J'ai demandé deux choses :
+
+     1. qu'on m'adresse par email les détails sur les autres vols
+     possibles,
+     2. qu'on me confirme que le vol du 15 août « n'aura pas lieu »
+     dans tous les cas — ce qu'on me confirme aussitôt par téléphone.
+
+- 20 minutes plus tard
+
+    L'email que j'ai demandé arrive, mais il est assez lacunaire sur
+    ce que j'avais demandé, à savoir les options possibles autres que
+    celle du vol à 3h10 du matin :
+
+    > Suite à note appel téléphonique, veuillez trouver ci-joints les informations de la modification de votre vol.
+    >
+    > Votre vol Antalya - Paris Orly initialement prévu le 15 Août 2015 à
+    > 19h10 à été modifié au 16 Août 2015 à 3h10 du matin avec une arrivée
+    > à Paris à 6h20.
+    > 
+    > Suite à cette modification de notre part, nous vous offrons trois possibilités :
+    > 
+    > Dans le cas où vous accepter la modification, nous vous offrons
+    > 150 euros de dédommagement par passager.
+    > 
+    > Si ce changement ne vous convient pas, nous pouvons modifier la date
+    > de votre vol sans frais (à plus ou moins 14 jours de votre date de
+    > départ initiale) ou vous proposer le remboursement total de votre
+    > vol.  
+    > Vous pouvez nous contacter par téléphone au 08 92 05 88 88 afin de nous communiquer votre décision.
+
+- 1h32 du matin, je réponds par mail et demande à nouveau quelles sont
+  les options proposées (celles « à plus ou moins 14 jours de [la]
+  date de départ initiale » comme indiquées dans l'email).
+
+    Au passage, je leur rappelle que le « dédommagement » de
+    150 euros est bien en dessous du montant légal et forfaitaire de
+    400 euros (prévu à l'article 7 du règlement CE
+    n<sup>o</sup> 261/2004 et rappelé
+    [sur le site de la compagnie](https://www.transavia.com/fr-FR/services/vol-annule/#id-30f5b23a-3b53-4379-b90b-3b9d7e728b9b)).
+
+    Je signale aussi les autres dispositions prévues par
+    [la loi en cas d'annulation de vol](http://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32004R0261).
+
+- Le lendemain après-midi, n'ayant pas obtenu de réponse, j'appelle le
+numéro de téléphone indiqué :
+
+    On me propose un vol le 5 septembre, soit trois semaines plus tard
+    que prévu.
+
+    On me dit qu'il n'y a pas d'autre vol possible, qu'il y avait un
+    vol le 22 août mais qu'il est déjà complet, et que celui du 15 est
+    en réalité « surbooké » et non annulé comme on m'avait laissé
+    croire par omissions multiples et répétées.
+
+    Finalement le service téléphonique est complètement inutile. Il
+    faut voir avec le service client par email exclusivement pour
+    trouver une solution.
+
+    À ce moment là, mon opérateur mobile m'envoie un SMS pour
+    m'alerter que j'ai atteint 100 € de communications. Évidemment,
+    j'ai dû faire durer, devant le manque patent de coopération de mes
+    interlocuteurs. Le système pousse le délire jusqu'à imposer une
+    limite de 30 minutes aux communications : que le problème soit
+    résolu ou pas, rien à faire, ça coupe automatiquement (enfin,
+    c'est ce qu'on me dit, mais peut-être est-ce là un mensonge ?).
+    
+ - À 19h27, toujours pas de réponse à mon email de 1h32, je renvoie un
+   nouvel email, après avoir commencé à utiliser Facebook et Twitter
+   pour faire part du problème au service client.
+
+- À 20h39, j'obtiens enfin une réponse par email du service client :
+
+    > Après étude de votre dossier, nous avons le plaisir de vous informer
+    > que nous donnons une suite favorable à votre demande.
+    > 
+    > Après vérification, le règlement européen (CE) n°261/2004, prévoit
+    > dans ce cas, une indemnisation à hauteur de 400 euros par passager.
+    > 
+    > De ce fait, nous allons vous indemniser comme le prévoit le règlement
+    > européen, la somme de 800 euros soit 400 euros pour les deux passagers
+    > présents sur la réservation.
+    > 
+    > Cette somme sera créditée sur votre compte bancaire dans un délai de
+    > quatre à six semaines.
+
+
+    Toujours pas de réponse concernant les possibilités de vol retour
+    à Paris. Transavia veut me contraindre à prendre l'avion à 3
+    heures du matin, pour une arrivée à Paris vers 6 heures du matin.
+
+
+
+Sauf que... pendant ce temps-là, sur le site de Transavia, depuis
+le moment où on m'a prévenu pour dire que mon vol du 15 août a été
+« modifié » et qu'on m'a laissé croire qu'il a été annulé, je découvre
+que le vol en question est toujours disponible à la réservation :
+
+[[!img 2015-08-12--12-06-18.png alt="Capture d'écran" caption="Évidemment, le prix est bien supérieur à celui que j'ai payé en mai"]]
+
+C'est donc le **premier mensonge** de Transavia. Mon vol n'est *pas annulé
+ni réellement modifié*. C'est simplement ma réservation sur ce vol qui
+a sauté. Le vol que j'avais réservé aura bien lieu.
+
+Alors, le 13 août, je tente de faire une nouvelle réservation sur le
+vol que j'avais initialement réservé.
+
+Et là, Transavia pousse le vice un peu plus loin : les deux sièges que
+j'avais sélectionnés au mois de mai sont disponibles...
+
+[[!img 2015-08-13--11-47-51.png alt="Capture d'écran" caption="4E et 4F, pas du tout surbooké, mais disponible]]
+
+Mais Transavia ne s'arrête pas là et, quand je signale cela sur
+Twitter, essaye de me décourager de continuer ma réservation en
+essayant de me faire croire qu'il s'agit d'un « bug » et que Transavia
+est vraiment « contraint » de me changer de vol.
+
+<blockquote class="twitter-tweet" lang="en"><p lang="fr" dir="ltr"><a href="https://twitter.com/hugoroyd">@hugoroyd</a> Bonjour Hugo. Je suis vraiment désolé que nous ayons été contraints de vous replacer sur un autre vol. :( Je vous présente =&gt;</p>&mdash; Transavia France (@transaviaFR) <a href="https://twitter.com/transaviaFR/status/631772445402365952">August 13, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="fr" dir="ltr"><a href="https://twitter.com/hugoroyd">@hugoroyd</a> =&gt; toutes mes excuses. Je vous confirme qu&#39;il n&#39;y a plus de places libres sur ce vol et qu&#39;il s&#39;agit simplement d&#39;un bug du site=&gt;</p>&mdash; Transavia France (@transaviaFR) <a href="https://twitter.com/transaviaFR/status/631772696603439104">August 13, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="fr" dir="ltr"><a href="https://twitter.com/hugoroyd">@hugoroyd</a> =&gt; internet., ces places n&#39;étaient pas réservables. Encore toutes mes excuses. Bonne journée</p>&mdash; Transavia France (@transaviaFR) <a href="https://twitter.com/transaviaFR/status/631773195054485504">August 13, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+
+En faisant cette re-réservation de places non réservables, nous avons
+réussi par magie à réparer un bug et à rendre nos places réservables à
+nouveau… par nous. Cela n'est pas crédible.
+
+
+Le **deuxième mensonge**, celui-ci par omission, de Transavia, c'est qu'il
+y a en réalité, non pas *un*, mais *trois vols* Transavia pour le même
+trajet dans la soirée du 15 août : celui que j'avais réservé à 19h10,
+un autre à 19h35 et un suivant vers 22 heures (et, bien sûr, celui
+qu'on essayait de me faire accepter à 3h10 du matin le 16 août).
+
+Au final, le 15 août, l'avion a décollé (en retard) et nous étions sur nos sièges.
+
+---------------------
+
+Bref, le sentiment qui prédomine à l'issue de cette expérience, c'est
+celui d'avoir été mené en bateau. Ce qui est consternant, ce sont les
+mensonges répétés. Notre vol n'a pas été annulé, il y avait plein
+d'autres vols à quelques jours d'intervalle. Pire, notre vol n'était
+manifestement pas surbooké, puisqu'on pouvait sans problème réserver
+nos places.
+
+
+À l'évidence, je ne tenterai pas à nouveau l'expérience avec
+Transavia^[D'ailleurs, je dois souligner que l'unique raison pour
+laquelle j'ai pris cette compagnie, que je ne connaissais pas, c'est
+que Air France m'y redirigeait automatiquement pour la destination de
+mon choix], d'autant plus que
+[cela ne semble pas être son premier coup d'essai (ici, des passagers bloqués deux jours à l'aéroport sans explication de la part de Transavia](http://www.bfmtv.com/mediaplayer/video/portugal-des-francais-bloques-deux-nuits-a-l-aeroport-550208.html).
+
+Ajoutons à cela que le montant de « dédommagement » proposé de 150 €
+est bien inférieur aux montant forfaitaire légalement prévu de 400 €
+et qu'en outre, nous n'avons jamais obtenu de réponse concernant les
+autres frais dont la loi prévoit le remboursement (le cas échéant :
+hébergement, restauration, communications téléphoniques, etc.).
+
+
+Je n'en ai donc pas tout à fait terminé avec Transavia. Notre
+re-réservation nous a finalement été remboursée. Il va désormais
+falloir obtenir le remboursement des communications téléphoniques avec
+le service client.
+
+
+À suivre…
