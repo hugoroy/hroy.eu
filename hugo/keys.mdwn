@@ -230,7 +230,18 @@ trust between our GnuPG keys (with unsecure HTTP connections).</span>
 </form>
 
 
------
+## OTR keys
 
+`943DFE7C 6B1B2CD6 A329D5C0 DDD017F3 3FB51ACB` (XMPP Resource: xps)
+
+`43CD86F3 C5DFF6C1 20B2F252 243DAD15 B650D1DD` (XMPP Resource: ChatSecure-9e87d0d6)
+
+## SMSSecure key
+
+`05 aa c1 4f 3e 3b dc 97 [...]
+ fb 72 cc 9c e6 74 f3 eb
+ 4e`
+
+-----
 
 I'm also on <https://keybase.io/hugoroy>.

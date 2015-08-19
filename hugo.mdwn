@@ -21,7 +21,7 @@ training at the Paris Bar school. And a Zappaist.</span> </p>
 <dd>hu<span class="zzz">SPAM</span>go@hu<span class="zzz">REMOVE</span>go<span class="y">roy.eu</span></dd>
 <dt><a href="https://xmpp.net/directory.php">xmpp</a></dt>
 <dd>hugo@jabber.fsfe.org</dd>
-<dt><a href="//gnupg.org">GnuPG</a></dt>
+<dt>encryption</dt>
 <dd>[[keys]]</dd>
 </dl>
 </div>
