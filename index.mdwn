@@ -11,9 +11,9 @@
 [[!inline pages="page(./hugo) and !*/Discussion" show="0" feeds=no actions=no template=inlinetext]]
 
 
-<p style="margin-bottom:-0.2em;">Last <a href="/blog">blog</a> post:</p>
+<p style="margin-bottom:-0.2em;">Last <a href="/blog">blog</a> posts:</p>
 
-[[!inline pages="page(./posts/*) and !*/Discussion" archive=yes quick=yes trail=no show="1"]]
+[[!inline pages="page(./posts/*) and !*/Discussion" archive=yes quick=yes trail=no show="3"]]
 
 
 <style type="text/css">
