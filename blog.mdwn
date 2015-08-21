@@ -4,11 +4,12 @@
 [[!inline pages=sidebar raw=yes]]
 """]]
 
+[[!meta title="You can't do that online anymore!"]]
 [[!meta author="Hugo Roy"]]
-[[!meta description="You can’t do that online anymore! notes, tips, thoughts… blogging by Hugo Roy."]]
+[[!meta description="blogging by Hugo Roy."]]
 
 
-<div id="blog-motto">You can’t do that online anymore!</div>
+<!--div id="blog-motto">You can’t do that online anymore!</div-->
 
 <div id="timeline-last">
 <p class="lastBits"><span><a href="/posts/">Blog Posts</a>: </span><span><a href="/en/">in English</a></span>&nbsp;/ <span><a href="/fr/">en français</a></span></p>

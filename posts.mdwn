@@ -4,8 +4,10 @@
 [[!inline pages=sidebar raw=yes]]
 """]]
 
+[[!meta title="Blog posts"]]
+[[!meta author="Hugo Roy"]]
 
-Here is a full list of posts to the [[blog|index]] in both
+Here is a full list of posts to the [[blog]] in both
 [[English|/en/]] and [[French|/fr/]].
 
 [[!inline pages="page(./posts/*) and !*/Discussion" archive=yes
