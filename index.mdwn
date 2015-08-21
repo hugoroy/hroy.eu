@@ -17,7 +17,7 @@
 
 <p style="margin-bottom:-0.2em;">Last <a href="/blog">blog</a> posts:</p>
 
-[[!inline pages="page(./posts/*) and !*/Discussion" archive=yes quick=yes trail=no show="3"]]
+[[!inline pages="page(./posts/*) and !*/Discussion" archive=yes quick=yes trail=no show="3" feeds="yes"]]
 
 
 <style type="text/css">
@@ -25,9 +25,12 @@
         background: url(/hugo/background.jpg) no-repeat fixed 50% 0px #000;
         background-size: cover;
     }
-    .page #body {
+    .page #pagebody {
     background-color: transparent;
     color: #FFF;
+    }
+    .page #pagebody a {
+    background-color: rgba(255,255,255,0.8);
     }
     #webmentions{display:none;}
     .pageheader .header .title {
@@ -35,9 +38,6 @@
     }
     #hcard-Hugo-Roy {
     color: #FFF;
-    }
-    #hcard-Hugo-Roy a {
-    background-color: rgba(255,255,255,0.8);
     }
     #hcard-Hugo-Roy .more {
         display: none;
