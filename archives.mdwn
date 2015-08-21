@@ -42,6 +42,6 @@ archive pages.
 <div class="accordeon">
 <div id="archives-allposts" class="collapse in">
 <h2>All blog posts</h2>
-[[!inline pages="page(./posts/*) and !*/Discussion" archive=yes feedshow=0 quick=yes trail=no feeds=no]]
+[[!inline pages="page(./posts) and !*/Discussion" show="0" feeds=no actions=no template=inlinetext]]
 </div>
 </div>
