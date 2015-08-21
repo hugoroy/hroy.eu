@@ -11,12 +11,29 @@
 [[!inline pages="page(./hugo) and !*/Discussion" show="0" feeds=no actions=no template=inlinetext]]
 
 
+<p style="margin-bottom:-0.2em;">Last <a href="/blog">blog</a> post:</p>
+
+[[!inline pages="page(./posts/*) and !*/Discussion" archive=yes quick=yes trail=no show="1"]]
 
 
 <style type="text/css">
+    .page {
+        background: url(/hugo/background.jpg) no-repeat fixed 50% 0px #000;
+        background-size: cover;
+    }
+    .page #body {
+    background-color: transparent;
+    color: #FFF;
+    }
     #webmentions{display:none;}
     .pageheader .header .title {
         padding: 50px 0.3em 150px;
+    }
+    #hcard-Hugo-Roy {
+    color: #FFF;
+    }
+    #hcard-Hugo-Roy a {
+    background-color: rgba(255,255,255,0.8);
     }
     #hcard-Hugo-Roy .more {
         display: none;

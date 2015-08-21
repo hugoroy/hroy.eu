@@ -36,6 +36,3 @@ font-weight: 500;}dl#contact dt + dt {
 float: none;}
 </style>
 
-<p style="margin-bottom:-0.2em;">Last blog post:</p>
-
-[[!inline pages="page(./posts/*) and !*/Discussion" archive=yes quick=yes trail=no feeds=no show="1"]]
