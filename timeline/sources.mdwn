@@ -1,6 +1,6 @@
-- [[!aggregate name="Blog Posts" dir="timeline/aggregate/posts"
-  feedurl="http://hroy.eu/index.atom" 
-  url="https://hroy.eu/posts/"]]
+- [[!aggregate name="Blog" dir="timeline/aggregate/posts"
+  feedurl="http://hroy.eu/blog/index.atom" 
+  url="https://hroy.eu/blog/"]]
 - [[!aggregate name="Short Notes" dir="timeline/aggregate/notes"
   feedurl="http://hroy.eu/notes/index.atom"
   url="https://hroy.eu/notes"]]
