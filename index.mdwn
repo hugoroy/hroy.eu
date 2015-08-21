@@ -19,7 +19,6 @@
 
 [[!inline pages="page(./posts/*) and !*/Discussion" archive=yes quick=yes trail=no show="3" feeds="yes"]]
 
-
 <style type="text/css">
     .page {
         background: url(/hugo/background.jpg) no-repeat fixed 50% 0px #000;
@@ -29,8 +28,9 @@
     background-color: transparent;
     color: #FFF;
     }
-    .page #pagebody a {
-    background-color: rgba(255,255,255,0.8);
+    .page #pagebody a:link,  {
+    .page #pagebody a:visited  {
+    background-color: rgba(255,255,255,0.75);
     }
     #webmentions{display:none;}
     .pageheader .header .title {
