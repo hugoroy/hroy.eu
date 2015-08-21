@@ -1,0 +1,39 @@
+[[!if test="enabled(sidebar)" then="""
+[[!sidebar]]
+""" else="""
+[[!inline pages=sidebar raw=yes]]
+"""]]
+
+[[!meta author="Hugo Roy"]]
+[[!meta description="You can’t do that online anymore! notes, tips, thoughts… blogging by Hugo Roy."]]
+
+
+<div id="blog-motto">You can’t do that online anymore!</div>
+
+<div id="timeline-last">
+<p class="lastBits"><span><a href="/posts/">Blog Posts</a>: </span><span><a href="/en/">in English</a></span>&nbsp;/ <span><a href="/fr/">en français</a></span></p>
+</div>
+
+<div class="subscribers">
+    <a class="email feedbutton btn btn-xs btn-info" title="Hugo’s blog (email subscription)"
+    href="http://feedburner.google.com/fb/a/mailverify?uri=hroyblog&loc=en_US">Subscribe
+    by email <i class="fa fa-envelope icon-envelope"></i></a>
+</div>
+
+[[!inline pages="page(./posts/*) and !*/Discussion and !(tagged(meta:ignore))" show="5" actions=no title="“You can’t do that online anymore!”"]]
+
+
+----------------------------------------------------------------------------
+
+If you’ve read until here, you should [[browse_the_archives|archives]].
+
+
+<style type="text/css">
+    #webmentions{display:none;}
+    .pageheader .header .title {
+        padding: 50px 0.3em 150px;
+    }
+    #hcard-Hugo-Roy .more {
+        display: none;
+    }
+</style>
