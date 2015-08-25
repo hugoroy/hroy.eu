@@ -19,36 +19,36 @@ msgstr ""
 #. type: Plain text
 #, no-wrap
 msgid "[[!if test=\"enabled(sidebar)\" then=\"\"\"\n"
-msgstr ""
+msgstr "[[!if test=\"enabled(sidebar)\" then=\"\"\"\n"
 
 #. type: Plain text
 msgid "\"\"\" else=\"\"\""
-msgstr ""
+msgstr "\"\"\" else=\"\"\""
 
 #. type: Plain text
 #, no-wrap
 msgid "[[!inline pages=sidebar raw=yes]]\n"
-msgstr ""
+msgstr "[[!inline pages=sidebar raw=yes]]\n"
 
 #. type: Plain text
 #, no-wrap
 msgid "[[!meta title=\"You can't do that online anymore!\"]]\n"
-msgstr ""
+msgstr "[[!meta title=\"You can't do that online anymore!\"]]\n"
 
 #. type: Plain text
 #, no-wrap
 msgid "[[!meta author=\"Hugo Roy\"]]\n"
-msgstr ""
+msgstr "[[!meta author=\"Hugo Roy\"]]\n"
 
 #. type: Plain text
 #, no-wrap
 msgid "[[!meta description=\"blogging by Hugo Roy.\"]]\n"
-msgstr ""
+msgstr "[[!meta description=\"Blog d’Hugo Roy.\"]]\n"
 
 #. type: Plain text
 #, no-wrap
 msgid "<!--div id=\"blog-motto\">You can’t do that online anymore!</div-->\n"
-msgstr ""
+msgstr "<!--div id=\"blog-motto\">You can’t do that online anymore!</div-->\n"
 
 #. type: Plain text
 #, no-wrap
@@ -59,6 +59,11 @@ msgid ""
 "href=\"/fr/\">en français</a></span></p>\n"
 "</div>\n"
 msgstr ""
+"<div id=\"timeline-last\">\n"
+"<p class=\"lastBits\"><span><a href=\"/posts/\">Billets de blog</a> : "
+"</span><span><a href=\"/en/\">in English</a></span>&nbsp;/ <span><a "
+"href=\"/fr/\">en français</a></span></p>\n"
+"</div>\n"
 
 #. type: Plain text
 #, no-wrap
@@ -71,6 +76,13 @@ msgid ""
 "    by email <i class=\"fa fa-envelope icon-envelope\"></i></a>\n"
 "</div>\n"
 msgstr ""
+"<div class=\"subscribers\">\n"
+"    <a class=\"email feedbutton btn btn-xs btn-info\" title=\"Hugo’s blog "
+"(email subscription)\"\n"
+"    "
+"href=\"http://feedburner.google.com/fb/a/mailverify?uri=hroyblog&loc=en_US\">S’abonner\n"
+"    par email <i class=\"fa fa-envelope icon-envelope\"></i></a>\n"
+"</div>\n"
 
 #. type: Plain text
 #, no-wrap
@@ -79,10 +91,13 @@ msgid ""
 "!(tagged(meta:ignore))\" show=\"5\" actions=no title=\"“You can’t do that "
 "online anymore!”\"]]\n"
 msgstr ""
+"[[!inline pages=\"page(./posts/*) and !*/Discussion and "
+"!(tagged(meta:ignore))\" show=\"5\" actions=no title=\"“You can’t do that "
+"online anymore!”\"]]\n"
 
 #. type: Plain text
 msgid "If you’ve read until here, you should [[browse_the_archives|archives]]."
-msgstr ""
+msgstr "Si vous avez lu jusque-là, vous devriez [[parcourir_les_archives|archives]]."
 
 #. type: Plain text
 #, no-wrap
@@ -97,3 +112,12 @@ msgid ""
 "    }\n"
 "</style>\n"
 msgstr ""
+"<style type=\"text/css\">\n"
+"    #webmentions{display:none;}\n"
+"    .pageheader .header .title {\n"
+"        padding: 50px 0.3em 150px;\n"
+"    }\n"
+"    #hcard-Hugo-Roy .more {\n"
+"        display: none;\n"
+"    }\n"
+"</style>\n"
