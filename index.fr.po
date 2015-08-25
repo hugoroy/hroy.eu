@@ -17,12 +17,12 @@ msgstr ""
 #. type: Plain text
 #, no-wrap
 msgid "[[!if test=\"enabled(sidebar)\" then=\"\"\"\n"
-msgstr ""
+msgstr "[[!if test=\"enabled(sidebar)\" then=\"\"\"\n"
 
 #. type: Plain text
 #, no-wrap
 msgid "<!--[[!sidebar]]-->\n"
-msgstr ""
+msgstr "<!--[[!sidebar]]-->\n"
 
 #. type: Plain text
 #, no-wrap
@@ -30,35 +30,37 @@ msgid ""
 "\"\"\" else=\"\"\"\n"
 "<!--[[!inline pages=sidebar raw=yes]]-->\n"
 msgstr ""
+"\"\"\" else=\"\"\"\n"
+"<!--[[!inline pages=sidebar raw=yes]]-->\n"
 
 #. type: Plain text
 #, no-wrap
 msgid "[[!meta author=\"Hugo Roy\"]]\n"
-msgstr ""
+msgstr "[[!meta author=\"Hugo Roy\"]]\n"
 
 #. type: Plain text
 #, no-wrap
 msgid "[[!meta description=\"Law // technology. ToS;DR project leader and Free Software activist (FSFE board member). Exégète amateur. A Zappaist based in Paris.\"]]\n"
-msgstr ""
+msgstr "[[!meta description=\"Droit // technologie. Chef du projet ToS;DR et activiste du logiciel libre (membre du CA de la FSFE). Exégète amateur. Zappaïste, basé à Paris.\"]]\n"
 
 #. type: Plain text
 #, no-wrap
 msgid "[[!inline pages=\"page(./hugo) and !*/Discussion\" show=\"0\" feeds=no actions=no template=inlinetext]]\n"
-msgstr ""
+msgstr "[[!inline pages=\"page(./hugo) and !*/Discussion\" show=\"0\" feeds=no actions=no template=inlinetext]]\n"
 
 #. type: Plain text
 msgid "[Contact me](/hugo/#contact)"
-msgstr ""
+msgstr "[Me contacter](/hugo/#contact)"
 
 #. type: Plain text
 #, no-wrap
 msgid "<p style=\"margin-bottom:-0.2em;\">Last <a href=\"/blog\">blog</a> posts:</p>\n"
-msgstr ""
+msgstr "<p style=\"margin-bottom:-0.2em;\">Derniers billets de <a href=\"/blog\">blog</a> :</p>\n"
 
 #. type: Plain text
 #, no-wrap
 msgid "[[!inline pages=\"page(./posts/*) and !*/Discussion\" archive=yes quick=yes trail=no show=\"3\" feeds=\"yes\"]]\n"
-msgstr ""
+msgstr "[[!inline pages=\"page(./posts/*) and !*/Discussion\" archive=yes quick=yes trail=no show=\"3\" feeds=\"yes\"]]\n"
 
 #. type: Plain text
 #, no-wrap
@@ -88,6 +90,30 @@ msgid ""
 "    }\n"
 "</style>\n"
 msgstr ""
+"<style type=\"text/css\">\n"
+"    .page {\n"
+"        background: url(/hugo/background.jpg) no-repeat fixed 50% 0px #000;\n"
+"        background-size: cover;\n"
+"    }\n"
+"    .page #pagebody {\n"
+"    background-color: transparent;\n"
+"    color: #FFF;\n"
+"    }\n"
+"    .page #pagebody a:link, \n"
+"    .page #pagebody a:visited  {\n"
+"    background-color: rgba(255,255,255,0.75);\n"
+"    }\n"
+"    #webmentions{display:none;}\n"
+"    .pageheader .header .title {\n"
+"        padding: 50px 0.3em 150px;\n"
+"    }\n"
+"    #hcard-Hugo-Roy {\n"
+"    color: #FFF;\n"
+"    }\n"
+"    #hcard-Hugo-Roy .more {\n"
+"        display: none;\n"
+"    }\n"
+"</style>\n"
 
 #. type: Plain text
 msgid ""
@@ -97,6 +123,8 @@ msgid ""
 "deed.fr) / Profile picture background using art by [William Sweeney](http://"
 "gu.com/p/2c6gx/stw)\"]]"
 msgstr ""
+"[[!meta copyright=\"Photo de couverture [par Nine Inch Nails](http://www.flickr.com/photos/nineinchnails/7376287586/), utilisée et modifiée sous licence Creative Commons "
+"[non-commerciale](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.fr) / Image de profil utilisant une image de [William Sweeney](http://gu.com/p/2c6gx/stw)\"]]"
 
 #~ msgid "Welcome to your new wiki."
 #~ msgstr "Bienvenue sur votre nouveau wiki."
