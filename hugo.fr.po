@@ -19,7 +19,7 @@ msgstr ""
 #. type: Plain text
 #, no-wrap
 msgid "[[!meta title=\"Hugo Roy\"]]\n"
-msgstr ""
+msgstr "[[!meta title=\"Hugo Roy\"]]\n"
 
 #. type: Plain text
 msgid ""
@@ -30,11 +30,14 @@ msgid ""
 "picture background using art by [William "
 "Sweeney](http://gu.com/p/2c6gx/stw)\"]]"
 msgstr ""
+"[[!meta copyright=\"Photo de couverture [par Nine Inch Nails](http://www.flickr.com/photos/nineinchnails/7376287586/), utilisée et modifiée"
+"sous licence Creative Commons [non-commerciale](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.fr) / Photo de profil"
+"utilisant une image de [William Sweeney](http://gu.com/p/2c6gx/stw)\"]]"
 
 #. type: Plain text
 #, no-wrap
 msgid "[[!tag ToSDR FSFE Paris FrankZappa]]\n"
-msgstr ""
+msgstr "[[!tag ToSDR FSFE Paris FrankZappa]]\n"
 
 #. type: Plain text
 #, no-wrap
@@ -64,6 +67,29 @@ msgid ""
 "</dl>\n"
 "</div>\n"
 msgstr ""
+"<div class=\"vcard\" id=\"hcard-Hugo-Roy\">\n"
+"<img id=\"ma-tete\" class=\"u-photo\" alt=\"Hugo Roy\" title=\"Hugo Roy\" "
+"src=\"/favatar.png\" />\n"
+"<p>Salut ! Je m'appelle <span class=\"fn\" title=\"Hugo Roy\">Hugo</span>.\n"
+"<span class=\"p-note\">Je suis le chef du projet <a\n"
+"href=\"//tosdr.org\"><img alt=\"\"\n"
+"src=\"//tosdr.org/img/tosdr-icon-19.png\"> <span class=\"org\"\n"
+"title=\"ToSDR\">Terms of Service; Didn't Read</span></a> et je siège au conseil d'administration\n"
+"de la <a\n"
+"href=\"//www.fsfe.org\"><img alt=\"\"\n"
+"src=\"//fsfe.org/graphics/stars-smaller.png\" height=\"19\"> <span\n"
+"class=\"org\">Free Software Foundation Europe</span></a>. Je suis également élève-avocat à l'EFB de Paris."
+"Et un Zappaïste.</span> </p>\n"
+"<dl id=\"contact\" class=\"more\">\n"
+"<dt>email</dt>\n"
+"<dd>hu<span class=\"zzz\">SPAM</span>go@hu<span "
+"class=\"zzz\">REMOVE</span>go<span class=\"y\">roy.eu</span></dd>\n"
+"<dt><a href=\"https://xmpp.net/directory.php\">xmpp</a></dt>\n"
+"<dd>hugo@jabber.fsfe.org</dd>\n"
+"<dt>[[clés|keys]]</dt>\n"
+"<dd>de chiffrement</dd>\n"
+"</dl>\n"
+"</div>\n"
 
 #. type: Plain text
 #, no-wrap
@@ -78,3 +104,12 @@ msgid ""
 "float: none;}\n"
 "</style>\n"
 msgstr ""
+"<style type=\"text/css\">\n"
+".zzz{float: right; font-size: 0.001px; color: transparent; display:\n"
+"inline-block; width: 0px; text-decoration: none;}#ma-tete { float: left;\n"
+"margin: 0 0.5em 0.15em -60px; }dl#contact dt {\n"
+"width: 90px;\n"
+"float: left;\n"
+"font-weight: 500;}dl#contact dt + dt {\n"
+"float: none;}\n"
+"</style>\n"
