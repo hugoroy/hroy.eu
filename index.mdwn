@@ -1,7 +1,7 @@
 [[!if test="enabled(sidebar)" then="""
-[[!sidebar]]
+<!--[[!sidebar]]-->
 """ else="""
-[[!inline pages=sidebar raw=yes]]
+<!--[[!inline pages=sidebar raw=yes]]-->
 """]]
 
 [[!meta author="Hugo Roy"]]
@@ -9,17 +9,11 @@
 
 [[!inline pages="page(./hugo) and !*/Discussion" show="0" feeds=no actions=no template=inlinetext]]
 
-
 [Contact me](/hugo/#contact)
-
-
 
 <p style="margin-bottom:-0.2em;">Last <a href="/blog">blog</a> posts:</p>
 
 [[!inline pages="page(./posts/*) and !*/Discussion" archive=yes quick=yes trail=no show="3" feeds="yes"]]
-
-
-
 
 <style type="text/css">
     .page {
@@ -45,7 +39,6 @@
         display: none;
     }
 </style>
-
 
 [[!meta copyright="Cover photo [by Nine Inch Nails](http://www.flickr.com/photos/nineinchnails/7376287586/),
 used and modified under Creative Commons [non-commercial license](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.fr) / Profile picture background using art by [William Sweeney](http://gu.com/p/2c6gx/stw)"]]
