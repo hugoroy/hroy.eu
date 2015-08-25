@@ -19,32 +19,34 @@ msgstr ""
 #. type: Plain text
 #, no-wrap
 msgid "[[!if test=\"enabled(sidebar)\" then=\"\"\"\n"
-msgstr ""
+msgstr "[[!if test=\"enabled(sidebar)\" then=\"\"\"\n"
 
 #. type: Plain text
 msgid "\"\"\" else=\"\"\""
-msgstr ""
+msgstr "\"\"\" else=\"\"\""
 
 #. type: Plain text
 #, no-wrap
 msgid "[[!inline pages=sidebar raw=yes]]\n"
-msgstr ""
+msgstr "[[!inline pages=sidebar raw=yes]]\n"
 
 #. type: Plain text
 #, no-wrap
-msgid "[[!meta title=\"Blog posts\"]]\n"
-msgstr ""
+msgid "[[!meta title=\"blog posts\"]]\n"
+msgstr "[[!meta title=\"billets de blog\"]]\n"
 
 #. type: Plain text
 #, no-wrap
 msgid "[[!meta author=\"Hugo Roy\"]]\n"
-msgstr ""
+msgstr "[[!meta author=\"Hugo Roy\"]]\n"
 
 #. type: Plain text
 msgid ""
 "Here is a full list of posts to the [[blog]] in both [[English|/en/]] and "
 "[[French|/fr/]]."
 msgstr ""
+"Liste des billets de [[blog]] en [[anglais|/en/]] ainsi qu'en "
+"[[français|/fr/]]."
 
 #. type: Plain text
 #, no-wrap
@@ -52,6 +54,8 @@ msgid ""
 "[[!inline pages=\"page(./posts/*) and !*/Discussion\" archive=yes\n"
 "feedshow=15 quick=yes trail=yes feeds=yes]]\n"
 msgstr ""
+"[[!inline pages=\"page(./posts/*) and !*/Discussion\" archive=yes\n"
+"feedshow=15 quick=yes trail=yes feeds=yes]]\n"
 
 #. type: Plain text
 #, no-wrap
@@ -59,3 +63,5 @@ msgid ""
 "<style type=\"text/css\">#pagebody .pagedate.published {display: "
 "none;}</style>\n"
 msgstr ""
+"<style type=\"text/css\">#pagebody .pagedate.published {display: "
+"none;}</style>\n"

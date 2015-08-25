@@ -19,4 +19,4 @@ msgstr ""
 #. type: Plain text
 #, no-wrap
 msgid "[[!map pages=\"law/* and ! law/*/*\"]]\n"
-msgstr ""
+msgstr "[[!map pages=\"law/* and ! law/*/*\"]]\n"
