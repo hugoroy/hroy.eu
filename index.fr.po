@@ -1,0 +1,108 @@
+# Traduction de ikiwiki
+# Copyright (C) 2009 Debian French l10n team <debian-l10n-french@lists.debian.org>
+# This file is distributed under the same license as the PACKAGE Ikiwiki.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ikiwiki\n"
+"POT-Creation-Date: 2015-08-25 22:37+0200\n"
+"PO-Revision-Date: 2009-08-23 18:50+0200\n"
+"Last-Translator: Philippe Batailler <philippe.batailler@free.fr>\n"
+"Language-Team: French <debian-l10n-french@lists.debian.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!if test=\"enabled(sidebar)\" then=\"\"\"\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "<!--[[!sidebar]]-->\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"\"\"\" else=\"\"\"\n"
+"<!--[[!inline pages=sidebar raw=yes]]-->\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!meta author=\"Hugo Roy\"]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!meta description=\"Law // technology. ToS;DR project leader and Free Software activist (FSFE board member). Exégète amateur. A Zappaist based in Paris.\"]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!inline pages=\"page(./hugo) and !*/Discussion\" show=\"0\" feeds=no actions=no template=inlinetext]]\n"
+msgstr ""
+
+#. type: Plain text
+msgid "[Contact me](/hugo/#contact)"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "<p style=\"margin-bottom:-0.2em;\">Last <a href=\"/blog\">blog</a> posts:</p>\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!inline pages=\"page(./posts/*) and !*/Discussion\" archive=yes quick=yes trail=no show=\"3\" feeds=\"yes\"]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"<style type=\"text/css\">\n"
+"    .page {\n"
+"        background: url(/hugo/background.jpg) no-repeat fixed 50% 0px #000;\n"
+"        background-size: cover;\n"
+"    }\n"
+"    .page #pagebody {\n"
+"    background-color: transparent;\n"
+"    color: #FFF;\n"
+"    }\n"
+"    .page #pagebody a:link, \n"
+"    .page #pagebody a:visited  {\n"
+"    background-color: rgba(255,255,255,0.75);\n"
+"    }\n"
+"    #webmentions{display:none;}\n"
+"    .pageheader .header .title {\n"
+"        padding: 50px 0.3em 150px;\n"
+"    }\n"
+"    #hcard-Hugo-Roy {\n"
+"    color: #FFF;\n"
+"    }\n"
+"    #hcard-Hugo-Roy .more {\n"
+"        display: none;\n"
+"    }\n"
+"</style>\n"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"[[!meta copyright=\"Cover photo [by Nine Inch Nails](http://www.flickr.com/"
+"photos/nineinchnails/7376287586/), used and modified under Creative Commons "
+"[non-commercial license](http://creativecommons.org/licenses/by-nc-sa/2.0/"
+"deed.fr) / Profile picture background using art by [William Sweeney](http://"
+"gu.com/p/2c6gx/stw)\"]]"
+msgstr ""
+
+#~ msgid "Welcome to your new wiki."
+#~ msgstr "Bienvenue sur votre nouveau wiki."
+
+#~ msgid "All wikis are supposed to have a [[SandBox]], so this one does too."
+#~ msgstr "Comme tous les wikis, ce wiki possède une page [[SandBox]]."
+
+#~ msgid "This wiki is powered by [[ikiwiki]]."
+#~ msgstr "Ce wiki est propulsé par [[ikiwiki]]."
