@@ -1,0 +1,96 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2015-08-25 22:51+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!if test=\"enabled(sidebar)\" then=\"\"\"\n"
+msgstr ""
+
+#. type: Plain text
+msgid "\"\"\" else=\"\"\""
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!inline pages=sidebar raw=yes]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!meta language=\"en\"]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!meta title=\"About this website\"]]\n"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"This site runs [[ikiwiki]]. It's a mess: it's my blog, it's a wiki, it's "
+"stuff put together. Feel free to explore."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"A copy of the source code of this site is available on "
+"[Github](https://github.com/hugoroy/hroy.eu/)."
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "<span class=\"title\" id=\"comment-policy\">Comment policy</span>\n"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Please keep the comments on-topic. I reserve the right to hide the content "
+"of your comment in my own discretion. Feel free to send me replies from "
+"other corners of the Web, I will happily link to them."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"This website should also support [webmentions] thanks to the [hosted "
+"webmention endpoint]. Have a look at [brid.gy] if you want to send "
+"webmentions from Twitter, Facebook or [other silos]."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Also, note that IP addresses of comment posters will be registered and "
+"published through [commit "
+"logs](http://source.hroy-eu.branchable.com/?p=source.git;a=summary). If you "
+"do not wish to disclose your IP address through this, then [contact "
+"me](http://hugoroy.eu/index.en.html#email) and I’ll post the comment for "
+"you."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"At last, by commenting, you contribute to the blog and thus your comment is "
+"governed by the "
+"[[same_license_as_the_article_to_which_you_comment|copyright]]."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"[webmentions]: http://webmention.org [hosted webmention endpoint]: "
+"https://webmention.herokuapp.com/ [brid.gy]: http://brid.gy/ [other silos]: "
+"https://indiewebcamp.com/silo"
+msgstr ""

@@ -1,0 +1,81 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2015-08-25 22:50+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!if test=\"enabled(sidebar)\" then=\"\"\"\n"
+msgstr ""
+
+#. type: Plain text
+msgid "\"\"\" else=\"\"\""
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!inline pages=sidebar raw=yes]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!meta title=\"User tips and hacks\"]]\n"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Here is a full list of tips, and [below](#configs), some "
+"[configs](/configs)."
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"[[!inline pages=\"page(./tips/*) and !*/Discussion\" archive=yes\n"
+"feedshow=10 quick=yes trail=yes feeds=yes]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"<br />\n"
+"<br />\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "<hr />\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "<span id=\"configs\">Configs</span>\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"[[!inline pages=\"page(./configs/*) and !*/Discussion\" archive=yes\n"
+"feedshow=10 quick=yes trail=no feeds=yes]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"<style type=\"text/css\">\n"
+".pagedate.published.dt-published {display: none;}\n"
+"</style>\n"
+msgstr ""

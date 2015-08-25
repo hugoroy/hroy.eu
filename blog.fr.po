@@ -1,0 +1,99 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2015-08-25 22:51+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!if test=\"enabled(sidebar)\" then=\"\"\"\n"
+msgstr ""
+
+#. type: Plain text
+msgid "\"\"\" else=\"\"\""
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!inline pages=sidebar raw=yes]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!meta title=\"You can't do that online anymore!\"]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!meta author=\"Hugo Roy\"]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!meta description=\"blogging by Hugo Roy.\"]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "<!--div id=\"blog-motto\">You can’t do that online anymore!</div-->\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"<div id=\"timeline-last\">\n"
+"<p class=\"lastBits\"><span><a href=\"/posts/\">Blog Posts</a>: "
+"</span><span><a href=\"/en/\">in English</a></span>&nbsp;/ <span><a "
+"href=\"/fr/\">en français</a></span></p>\n"
+"</div>\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"<div class=\"subscribers\">\n"
+"    <a class=\"email feedbutton btn btn-xs btn-info\" title=\"Hugo’s blog "
+"(email subscription)\"\n"
+"    "
+"href=\"http://feedburner.google.com/fb/a/mailverify?uri=hroyblog&loc=en_US\">Subscribe\n"
+"    by email <i class=\"fa fa-envelope icon-envelope\"></i></a>\n"
+"</div>\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"[[!inline pages=\"page(./posts/*) and !*/Discussion and "
+"!(tagged(meta:ignore))\" show=\"5\" actions=no title=\"“You can’t do that "
+"online anymore!”\"]]\n"
+msgstr ""
+
+#. type: Plain text
+msgid "If you’ve read until here, you should [[browse_the_archives|archives]]."
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"<style type=\"text/css\">\n"
+"    #webmentions{display:none;}\n"
+"    .pageheader .header .title {\n"
+"        padding: 50px 0.3em 150px;\n"
+"    }\n"
+"    #hcard-Hugo-Roy .more {\n"
+"        display: none;\n"
+"    }\n"
+"</style>\n"
+msgstr ""

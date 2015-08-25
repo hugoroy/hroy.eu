@@ -1,0 +1,80 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2015-08-25 22:51+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!meta title=\"Hugo Roy\"]]\n"
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"[[!meta copyright=\"Cover photo [by Nine Inch "
+"Nails](http://www.flickr.com/photos/nineinchnails/7376287586/), used and "
+"modified under Creative Commons [non-commercial "
+"license](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.fr) / Profile "
+"picture background using art by [William "
+"Sweeney](http://gu.com/p/2c6gx/stw)\"]]"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!tag ToSDR FSFE Paris FrankZappa]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"<div class=\"vcard\" id=\"hcard-Hugo-Roy\">\n"
+"<img id=\"ma-tete\" class=\"u-photo\" alt=\"Hugo Roy\" title=\"Hugo Roy\" "
+"src=\"/favatar.png\" />\n"
+"<p>Hi! I’m <span class=\"fn\" title=\"Hugo Roy\">Hugo</span>.\n"
+"<span class=\"p-note\">I am the project leader for <a\n"
+"href=\"//tosdr.org\"><img alt=\"\"\n"
+"src=\"//tosdr.org/img/tosdr-icon-19.png\"> <span class=\"org\"\n"
+"title=\"ToSDR\">Terms of Service; Didn't Read</span></a> and I sit\n"
+"on the board of the <a\n"
+"href=\"//www.fsfe.org\"><img alt=\"\"\n"
+"src=\"//fsfe.org/graphics/stars-smaller.png\" height=\"19\"> <span\n"
+"class=\"org\">Free Software Foundation Europe</span></a>. I’m also a freshly "
+"graduated lawyer, in\n"
+"training at the Paris Bar school. And a Zappaist.</span> </p>\n"
+"<dl id=\"contact\" class=\"more\">\n"
+"<dt>email</dt>\n"
+"<dd>hu<span class=\"zzz\">SPAM</span>go@hu<span "
+"class=\"zzz\">REMOVE</span>go<span class=\"y\">roy.eu</span></dd>\n"
+"<dt><a href=\"https://xmpp.net/directory.php\">xmpp</a></dt>\n"
+"<dd>hugo@jabber.fsfe.org</dd>\n"
+"<dt>encryption</dt>\n"
+"<dd>[[keys]]</dd>\n"
+"</dl>\n"
+"</div>\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"<style type=\"text/css\">\n"
+".zzz{float: right; font-size: 0.001px; color: transparent; display:\n"
+"inline-block; width: 0px; text-decoration: none;}#ma-tete { float: left;\n"
+"margin: 0 0.5em 0.15em -60px; }dl#contact dt {\n"
+"width: 90px;\n"
+"float: left;\n"
+"font-weight: 500;}dl#contact dt + dt {\n"
+"float: none;}\n"
+"</style>\n"
+msgstr ""

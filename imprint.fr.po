@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2015-08-25 22:51+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Bullet: '  - '
+msgid "[[Copyright Info|copyright]]"
+msgstr ""
+
+#. type: Bullet: '  - '
+msgid ""
+"This site is hosted by [branchable](https://www.branchable.com/about/) and "
+"runs [[ikiwiki]]."
+msgstr ""
+
+#. type: Bullet: '      - '
+msgid ""
+"This is their [privacy policy](https://www.branchable.com/privacy/). The "
+"most important information for readers is at the end (from November 2013):"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+"        > We retain data in web server logs for a limited period of time,\n"
+"        > including IP addresses. We may provide this information to the\n"
+"        > owner of a site, in either aggregate or raw form. We may also\n"
+"        > provide this information to third parties as necessary to deal\n"
+"        > with sites that are being used for spamming or distribution of\n"
+"        > malware.\n"
+"        > \n"
+"        > This service will comply with court orders to turn over your\n"
+"        > private information.\n"
+msgstr ""
+
+#. type: Bullet: '      - '
+msgid "I've set logs for 60 days."
+msgstr ""
+
+#. type: Plain text
+msgid ""
+"Legal requests can be addressed by email to: hugo *plus* hroy *dot* eu "
+"*minus* legalrequest *at* ampoliros *dot* net"
+msgstr ""

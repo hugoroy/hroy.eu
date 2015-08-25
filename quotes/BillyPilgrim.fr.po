@@ -1,0 +1,74 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2015-08-25 22:50+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#, no-wrap
+msgid " > God, grant me the serenity to accept the things I cannot change,  \n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid " > courage to change the things I can,  \n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+" > and wisdom to know the difference.\n"
+" >\n"
+" > <span class=\"translated\">Que Dieu  \n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid " > m'accorde la sérénité  \n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid " > d'accepter les choses que je ne peux pas changer,  \n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid " > le courage de transformer celles qui s'y prêtent  \n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid " > et la sagesse  \n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid ""
+" > de savoir toujours les distinguer.</span>\n"
+" >\n"
+" > <cite>Billy Pilgrim, in <em>Slaughterhouse-Five, or The Children's "
+"Crusade: A Duty-Dance with Death</em> (1969)</cite>\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!tag lang:en lang:fr wisdom]]\n"
+msgstr ""
+
+#. type: Plain text
+#, no-wrap
+msgid "[[!meta title=\"God, grant me the serenity to accept…\"]]\n"
+msgstr ""
