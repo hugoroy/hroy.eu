@@ -1,0 +1,4 @@
+[[!meta title="pages tagged DataRights"]]
+
+[[!inline pages="tagged(DataRights)" actions="no" archive="yes"
+feedshow=10]]
