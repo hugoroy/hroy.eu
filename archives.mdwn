@@ -45,3 +45,9 @@ archive pages.
 [[!inline pages="page(./posts) and !*/Discussion" show="0" feeds=no actions=no template=inlinetext]]
 </div>
 </div>
+
+<style type="text/css">
+  a.feedbutton {
+    margin-left: -100px;
+  }
+</style>
