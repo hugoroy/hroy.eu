@@ -3,9 +3,6 @@
 [[!meta language="fr"]]
 [[!tag lang:fr patents EuropeanPatentOffice software]]
 
-<style type="text/css">
-pre {max-width: none; margin:0;}
-</style>
 
 https://hroy.eu/law/Paris/tgi/14_05735-OrangeContreFree/20150618-TgiParis.pdf
 
