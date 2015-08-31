@@ -1,9 +1,17 @@
+
+[[!meta title="Orange c. Free (TGI Paris, 18 juin 2015)"]]
+[[!meta language="fr"]]
+[[!tag lang:fr patents EuropeanPatentOffice software]]
+
+<style type="text/css">
+pre {max-width: none; margin:0;}
+</style>
+
 TRIBUNAL
 D E GRANDE
 INSTANCE
 DE PARIS
 
-         u
 3ème chambre lère
 section
 
@@ -11,7 +19,8 @@ N° RG : 14/05735
 
 
 
-N° MINUTE :      A -a,                            JUGEMENT
+N° MINUTE :
+                                                    JUGEMENT
                                               rendu le 18 Juin 2015
 
                          DEMANDERESSE
