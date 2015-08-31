@@ -1,7 +1,7 @@
 
 [[!meta title="Orange c. Free (TGI Paris, 18 juin 2015)"]]
 [[!meta language="fr"]]
-[[!tag lang:fr patents EuropeanPatentOffice software]]
+[[!tag lang:fr verbatim TgiParis patents EuropeanPatentOffice software]]
 
 
 https://hroy.eu/law/Paris/tgi/14_05735-OrangeContreFree/20150618-TgiParis.pdf
