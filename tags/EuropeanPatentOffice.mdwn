@@ -1,0 +1,4 @@
+[[!meta title="pages tagged EuropeanPatentOffice"]]
+
+[[!inline pages="tagged(EuropeanPatentOffice)" actions="no" archive="yes"
+feedshow=10]]
