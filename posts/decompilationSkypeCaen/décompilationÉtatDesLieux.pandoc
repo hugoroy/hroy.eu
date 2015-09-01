@@ -1,0 +1,472 @@
+---
+title: "Décompilation d’un logiciel : état des lieux"
+authors:
+- name: Pierre-Yves Margnoux
+  affiliation: Derriennic Avocats, associé
+- name: Hugo Roy
+  affiliation: élève-avocat à l'EFB
+date: Mardi 28 juillet 2015\footnote{Publié par Le Monde du Droit, \newline\url{http://www.lemondedudroit.fr/le-monde-du-droit-le-quotidien-des-juristes-daffaires/publications/dossiers/207324-decompilation-dun-logiciel-etat-des-lieux.html?showall=1}}
+lang: french
+mainlang: french
+tags-label: "Mots-clés :"
+tags: [droit d'auteur, logiciels, décompilation, rétroingénierie]
+abstract: |
+  Dans un arrêt du 18 mars 2015, la Cour d’appel de Caen a retenu que
+  l’acte de décompilation d’une partie de Skype n’était pas
+  constitutif du délit de contrefaçon, relaxant ainsi l’associé d’une
+  société de sécurité informatique française qui voulait développer un
+  système d’échanges d’informations sécurisé et fiable, interopérable
+  avec Skype.
+ 
+  Toutefois, dans ce même arrêt, la Cour a eu l’occasion de rappeler
+  les limites des exceptions au droit d’auteur d’un logiciel en
+  matière de décompilation, les résultats ne pouvant être diffusés ou
+  utilisés à des fins étrangères à l’interopérabilité. Ainsi la
+  révélation des failles de sécurité d’un logiciel, par la diffusion
+  de son code source, non seulement constitue une contrefaçon mais
+  également porte atteinte à la réputation de l’éditeur du logiciel.
+ 
+  Cette décision s’inscrit dans un corpus assez maigre de décisions
+  judiciaires sur la décompilation et présente l’originalité, ici, à
+  la fois de valider et de condamner ce qui a été réalisé dans le
+  cadre de cette décompilation. C’est donc une décision intéressante
+  dans sa manière de bien fixer les limites à l'exception de
+  décompilation, dont l'existence est le fruit d'intenses débats et
+  controverses qui ont entouré l'adoption par l'Union européenne de la
+  directive sur la protection juridique des logiciels de mai 1991.
+geometry: a4paper
+header-includes: |
+  \usepackage{varioref,titlesec}
+  \setlength{\parindent}{16pt}\setlength{\parskip}{6pt}
+  \let\oldquote\quote
+  \let\endoldquote\endquote
+  \def\Llap{\strut\llap}
+  \usepackage[normalem]{ulem}
+  \def\quote{\oldquote\slshape\small\renewcommand\emph{\uline}}
+  \newenvironment{qtitle}{%\Llap{\quad}
+  \begin{center}\normalfont\footnotesize\renewcommand\sfdefault{lmssq}\sffamily}{\end{center}}
+  \newenvironment{ctitle}{\begin{center}\scshape\MakeLowercase}{\end{center}}
+  \titleformat{\section}{\bfseries\large\centering}{}{0pt}{}
+include-before: \newpage
+...
+
+
+S'il y a, parmi les exceptions aux droits d'auteur, une disposition
+des plus controversées, c'est bien celle relative à la «décompilation»
+d'un logiciel. À l'époque, d'intenses débats avaient entouré les
+dispositions relatives à la rétroingénierie contenues dans la
+directive européenne concernant la protection juridique des programmes
+d'ordinateur, finalement adoptée le 14 mai 1991 (directive 91/250).
+Force est de constater que, vingt-cinq ans après, la controverse n'a
+pas tenu ses promesses. On dénombre en effet, en France, une poignée
+d'arrêts d'intérêt, dont un seul a été rendu par la Cour de
+cassation[^refCass2011], appliquant ces dispositions transposées en
+droit national depuis 1994.
+
+[^refCass2011]: Civ. 1^re^, 20 oct. 2011, n^o^\ 10-14069
+
+L'arrêt de la Cour d'appel de Caen du 18 mars 2015 offre certainement
+l'opportunité de se pencher à nouveau sur l'utilité de l'exception de
+décompilation, dont on a trop souvent dit qu'elle était inapplicable,
+qu'elle était morte-née, anéantie par la recherche d'un compromis
+illusoire.
+
+Pourtant, la poursuite de l'interopérabilité au bénéfice de
+l'utilisateur d'un logiciel, qui est au centre de l'exception de
+décompilation, est loin d'avoir perdu son intérêt --- comme on a pu le
+voir dans le domaine du droit de la concurrence concernant
+l'interopérabilité entre les logiciels libres «Samba» et les
+logiciels de serveurs de Microsoft[^MsVsEu].
+
+[^MsVsEu]: V. jugement T-201/04 du Tribunal de l'Union européenne du
+17 septembre 2007; jugement T-167/08 du Tribunal de l'Union européenne
+du 27 juin 2012.
+
+Avant de revenir sur les faits de l'espèce et la décision de la Cour
+d'appel de Caen du 18 mars 2015, une petite introduction s'impose pour
+clarifier ce dont il s'agit en matière de rétroingénierie et quels
+régimes juridiques s'appliquent.
+
+
+# Rétroingénierie et décompilation : deux régimes juridiques
+
+La rétroingénierie, au sens large, est un ensemble de techniques et de
+pratiques destiné à déterminer le fonctionnement ou la méthode de
+fabrication d'un objet.
+
+En matière de logiciels, la rétroingénierie regroupe un ensemble de
+techniques qui varient de la simple observation du logiciel lorsqu'il
+s'exécute, à des opérations de transformation de la forme du code du
+logiciel.
+
+Ces différentes techniques de rétroingénierie sont encadrées par deux
+régimes distincts.
+
+Pour rappel, les droits d'exploitation conférés en principe à l'auteur
+d'un logiciel sont divisés notamment entre, d'une part, le droit de
+*reproduction* du logiciel, et d'autre part, le droit d'*adaptation*,
+de traduction ou de modification du logiciel ainsi que la reproduction
+du logiciel en résultant (article L.\ 122-6, 1^o^ et 2^o^, CPI).
+
+Dans une certaine mesure, toutes les techniques de rétroingénierie
+mettent en œuvre une reproduction à tout le moins provisoire d'une
+forme du code du logiciel.
+
+En revanche, toutes les techniques de rétroingénierie n'impliquent pas
+forcément qu'il y ait une adaptation, ni une transformation du code du
+logiciel.
+
+Or, il s'agit là d'une différence cruciale. En effet, la directive
+91/250, transposée en droit français par la loi n^o^\ 94-361 du 10 mai
+1994, consacre une distinction entre deux régimes relatifs à la
+rétroingénierie.
+
+
+**D'une part,** la loi définit une limitation aux droits  de
+l'auteur qui permet à l'utilisateur d'observer, d'étudier ou de tester
+le logiciel:
+
+> @@qtitle{Article L. 122-6-1, III.}
+> 
+> @@Llap{«~}La personne ayant le droit d'utiliser le logiciel peut sans
+> l'autorisation de l'auteur observer, étudier ou tester le
+> fonctionnement ou la sécurité de ce logiciel afin de déterminer les
+> idées et principes qui sont à la base de n'importe quel élément du
+> logiciel lorsqu'elle effectue toute opération de chargement,
+> d'affichage, d'exécution, de transmission ou de stockage du logiciel
+> qu'elle est en droit d'effectuer.»
+
+Étant donné que le chargement, l'affichage, l'exécution, la
+transmission ou le stockage d'un logiciel nécessitent une
+reproduction, ces actes ne sont possibles que si l'ayant-droit a
+autorisé la *reproduction* (L\. 122-6, 1^o^, CPI).
+
+Ce régime recouvre donc toutes les techniques de rétroingénierie, à
+l'exception de celles qui mettent aussi en œuvre une adaptation ou une
+transformation du logiciel (régies par le second régime).
+
+
+Il faut, pour pouvoir se prévaloir de cette première disposition relative à la
+rétroingénierie, respecter plusieurs conditions:
+
+ 1. avoir le droit d'utiliser le logiciel, ce qui implique une licence
+    autorisant la reproduction du logiciel;
+ 
+ 2. se limiter aux opérations qu'on est en droit d'effectuer, ce qui
+    exclut toute opération impliquant l'adaptation, la traduction ou
+    la modification du logiciel;
+    
+ 3. faire exercice de ce droit afin de déterminer les idées et
+    principes qui sont à la base de n'importe quel élément du
+    logiciel.
+
+
+Parmi les techniques sujettes à ce régime, est concernée l'utilisation
+d'un débogueur: un outil qui fait fonctionner le logiciel dans des
+phases de tests et qui permet notamment au programmeur de décortiquer
+des étapes de son fonctionnement afin d'en déceler des anomalies ou
+d'en relever les erreurs.
+
+Les techniques concernées comprennent aussi l'analyse des réseaux ou
+des protocoles ainsi que le développement d'outils destinés
+spécifiquement à tester l'exécution de programmes à des fins de
+rétroingénierie[^discoverer].
+
+[^discoverer]: voir par exemple cet article de recherche en
+informatique: @@sc{Cui}\ W. et al, "*Discoverer*: Automatic Protocol
+Reverse Engineering from Network Traces", in *Proceedings of 16th
+USENIX Security Symposium on USENIX Security Symposium*, pp.\ 1--14
+disponible sur
+[Microsoft Research](http://research.microsoft.com/pubs/153196/discoverer-security07.pdf)
+
+
+**D'autre part,** le second régime définit une exception, intitulée
+*«Décompilation»* dans la directive 91/250 et qui établit un régime
+légal avec des conditions relatives à l'acte de décompilation en soi,
+ainsi que des conditions relatives à l'utilisation des informations
+obtenues par décompilation:
+
+> @@qtitle{Article L. 122-6-1, IV.}
+>
+> @@Llap{«~}La reproduction du code du logiciel ou la traduction de la
+> forme de ce code n'est pas soumise à l'autorisation de l'auteur
+> lorsque la reproduction ou la traduction au sens du 1^o^\ ou du
+> 2^o^\ de l'article L. 122-6 est indispensable pour obtenir les
+> informations nécessaires à l'interopérabilité d'un logiciel créé de
+> façon indépendante avec d'autres logiciels, sous réserve que soient
+> réunies les conditions suivantes :
+> 
+> 1^o^\ Ces actes sont accomplis par la personne ayant le droit
+> d'utiliser un exemplaire du logiciel ou pour son compte par une
+> personne habilitée à cette fin ;
+> 
+> 2^o^\ Les informations nécessaires à l'interopérabilité n'ont pas
+> déjà été rendues facilement et rapidement accessibles aux personnes
+> mentionnées au 1^o^\ ci-dessus ;
+> 
+> 3^o^\ Et ces actes sont limités aux parties du logiciel d'origine
+> nécessaires à cette interopérabilité.
+> 
+> Les informations ainsi obtenues ne peuvent être :
+> 
+> 1^o^\ Ni utilisées à des fins autres que la réalisation de
+> l'interopérabilité du logiciel créé de façon indépendante ;
+> 
+> 2^o^\ Ni communiquées à des tiers sauf si cela est nécessaire à
+> l'interopérabilité du logiciel créé de façon indépendante ;
+> 
+> 3^o^\ Ni utilisées pour la mise au point, la production ou la
+> commercialisation d'un logiciel dont l'expression est
+> substantiellement similaire ou pour tout autre acte portant atteinte
+> au droit d'auteur.»
+
+Ce régime recouvre un champ plus large des techniques de
+rétroingénierie, lesquelles impliquent une reproduction du code ou
+*une traduction de la forme de ce code*.
+
+Parmi les techniques de rétroingénierie concernées par ce régime,
+figure par exemple l'utilisation d'un décompilateur ou d'un
+désassembleur --- des outils informatiques destinés à aider la
+transformation d'un code objet vers un code intelligible pour le
+programmeur qui cherche à modifier le code.
+
+C'est ce second régime que l'arrêt de la Cour d'appel de Caen
+nous permet d'illustrer.
+
+
+# Les faits: la décompilation de Skype et la publication du code source
+
+Deux experts en sécurité informatique, l'un français, l'autre
+australien, s'associent en 2007 pour créer une société spécialisée en
+sécurité informatique. En mars 2008, cette société s'intéresse alors à
+l'élaboration d'un système permettant d'avoir accès aux comptes
+bancaires grâce à l'interface et aux communications sécurisées de
+Skype. <!-- Ce projet, dénommé «Turgot Corporation», donne lieu à une -->
+<!-- présentation lors d'un concours en mai 2010. -->
+
+Le 30 juin 2010, le directeur de la sécurité des systèmes
+d'information de Skype et l'associé australien de la société de
+sécurité informatique entrent en contact, au sujet de la décompilation
+dont Skype a été l'objet.
+
+Puis, le 7 juillet 2010, cet associé décide de publier sur un blog un
+article, accompagné d'un lien vers des codes sources contenant
+l'algorithme de chiffrement RC4 utilisé par Skype et révélant des
+failles de sécurité.
+
+L'auteur justifie cet acte par la volonté «d'aider la communauté des
+experts en sécurité informatique à améliorer celle de Skype» sans
+toutefois accorder le droit «d'utiliser gratuitement [le] code pour
+des exploitations commerciales» et se réservant même, on ne sait sur
+quel fondement, la possibilité de donner «un droit d'exploitation
+commerciale [sic]».
+
+La société Skype poursuit alors les deux associés, notamment au titre
+de la contrefaçon de droit d'auteur pour décompilation non-autorisée.
+
+
+\bigskip
+
+
+La Cour d'appel de Caen va, d'une part, condamner l'associé australien
+qui a publié l'article révélant la faille de sécurité et les codes
+sources contenant l'algorithme de chiffrement de Skype et, d'autre
+part, relaxer l'associé français qui a fourni les moyens et donné des
+instructions relatives à la décompilation en elle-même, considérant
+que sa complicité n'est pas établie concernant la publication des
+informations obtenues par la décompilation reprochée à son associé.
+
+Ainsi, l'arrêt rendu par la Cour permet de faire une illustration
+aussi intéressante que rare de l'application de l'exception de
+décompilation: elle en montre les conditions de validité aux fins de
+l'interopérabilité, ainsi que les limites en-dehors desquelles
+l'utilisation des informations obtenues par décompilation devient
+constitutive d'une contrefaçon. Le raisonnement de la Cour laisse
+cependant certaines zones d'ombre.
+
+
+# La décompilation à des fins d'interopérabilité: absence de contrefaçon {#interop}
+
+Aux termes de l'article L.\ 122-6-1, IV, du Code de la propriété
+intellectuelle, l'opération de décompilation n'est pas soumise à
+l'autorisation de l'ayant-droit lorsqu'elle est réalisée afin
+d'obtenir les informations nécessaires à l'interopérabilité sous
+réserve que trois conditions soient réunies.
+
+Or, aucune de ces trois conditions n'a fait l'objet d'une motivation
+rigoureuse de la part de la Cour d'appel de Caen: autant de points qui
+entretiennent l'incertitude autour de l'exception de décompilation.
+
+
+**Premièrement,** il faut être en droit d'utiliser une copie du
+logiciel, ce qui ne pose pas de difficultés en pratique concernant
+Skype, puisque des copies de ce logiciel sont mises à disposition par
+l'éditeur en téléchargement gratuitement sur Internet.
+
+**Deuxièmement,** il faut que les informations nécessaires à
+l'interopérabilité n'aient pas *déjà* été rendues facilement et
+rapidement accessibles aux personnes en droit d'utiliser une copie du
+logiciel.
+
+La Cour d'appel de Caen n'aborde pas ce point dans son arrêt. Il
+s'agit pourtant d'une zone d'ombre importante sur l'application de
+l'exception de décompilation.
+
+En effet, par un arrêt du 26 septembre 2011, la Cour d'appel de Paris
+avait jugé, en matière de décompilation et de contournement de mesures
+techniques de protection de jeux-vidéos, que les prévenus ne pouvaient
+se prévaloir de l'exception de décompilation au motif qu'ils n'avaient
+pas demandé à Nintendo l'accès aux informations d'interopérabilité (CA
+Paris, ch.\ 5-12, 12 septembre 2011, *Nintendo c/ Absolute Games, Divineo
+et autres*, [Legalis.net, #3238]).
+
+[Legalis.net, #3238]: http://www.legalis.net/spip.php?page=jurisprudence-decision&id_article=3238
+
+La question mérite cependant d'être posée: l'utilisateur légitime
+a-t-il l'obligation de demander d'accéder aux informations
+d'interopérabilité préalablement à toute opération de décompilation? La
+présence des mots «déjà [...] accessibles» permet d'en douter.
+Quoiqu'il en soit, cette condition doit s'interpréter à la lumière de
+la directive 91/250. Or, plusieurs propositions de formulation
+alternative avaient été *écartées* du texte de la directive, alors qu'elles
+imposaient précisément une telle condition de demande préalable[^Irish].
+
+[^Irish]: Voir par exemple le rejet de la proposition de formulation
+faite par la délégation d'Irlande au groupe de travail du Conseil de
+l'Union européene, datée du 2 mai 1990 (SN/2382/90), laquelle
+prévoyait l'obligation préalable pour l'utilisateur de faire "*a
+request to the copyright holder [for] transmission of the relevant
+information*".
+
+Pour autant, si l'auteur du logiciel a prévu une procédure de mise à
+disposition des informations d'interopérabilité respectueuse des
+conditions légales sur l'accessibilité --- par exemple dans le contrat
+de licence --- il semble évident que l'utilisateur a l'obligation de
+suivre cette procédure préalablement à toute décompilation.
+
+
+**Troisièmement,** il faut que les techniques de décompilation ne
+portent que sur les parties du logiciel nécessaires à
+l'interopérabilité.
+
+
+Toutefois, cette condition est difficile à interpréter en pratique,
+puisque la décompilation portant sur les parties réellement
+nécessaires à l'interopérabilité implique que des actes soient
+d'abord commis sur des parties dont on ne peut déterminer *a priori*
+leur caractère *nécessaire*.
+
+Cette condition n'a pas été examinée expressément par la Cour d'appel
+de Caen dans l'arrêt d'espèce, ni d'ailleurs par aucune des décisions
+rendues sur la décompilation dont nous avons eu connaissance.
+
+Quoiqu'il en soit, une interprétation restrictive de cette condition
+reviendrait à refuser toute licéité à l'application pratique de
+l'exception de décompilation, ce qui n'est pas dans l'esprit de
+l'adoption de la directive 91/250, qui précise dans son préambule
+l'objectif «de permettre l'interconnexion de tous les éléments d'un
+système informatique, y compris ceux de fabricants différents, afin
+qu'ils puissent fonctionner ensemble» (considérant\ 15). Au sens de
+cette directive, \emph{les parties du logiciel qui assurent cette
+interopérabilité sont les interfaces} et elles sont caractéristiques
+de l'interconnexion (considérant\ 10).
+
+Le rôle de l'expert serait donc primordial, en cas de litige, pour
+évaluer si les parties du logiciel qui ont fait l'objet d'une
+décompilation sont des parties nécessaires dans l'objectif d'obtenir
+des informations d'interopérabilité.
+
+Il est cependant permis de croire qu'en l'espèce, les parties de Skype
+décompilées étant les parties relatives aux algorithmes de
+déchiffrement des communications, il s'agit bien de parties
+nécessaires à l'interopérabilité.
+
+L'interopérabilité est définie dans la directive européenne comme la
+capacité d'échanger des informations et d'utiliser mutuellement les
+informations échangées --- or, dans le cas d'informations échangées
+après avoir été chiffrées, il faut nécessairement que chacun des
+logiciels qui s'interconnectent ait la capacité à la fois de chiffrer et
+de déchiffrer les informations échangées.
+
+Concernant la décompilation dont Skype a été l'objet, la Cour d'appel
+se borne à relever que les associés de la sécurité informatique avaient
+pour objectif de «mettre au point une technique fiable et sécurisée
+d'échanges d'informations sur l'internet, compatible avec les services
+de Skype». C'est donc en retenant cette fin d'interopérabilité que les
+juges ont considéré que l'opération de décompilation était licite.
+
+Il en va autrement pour l'utilisation des informations obtenues par la
+décompilation, dont la publication répondait à des fins étrangères à
+l'interopérabilité.
+
+
+# L'utilisation des informations obtenues à des fins étrangères: contrefaçon {#contrefacon}
+
+Les informations obtenues par la décompilation d'un logiciel ne
+peuvent être utilisées ou communiquées autrement qu'à des fins
+d'interopérabilité, et non pour porter atteinte au droit d'auteur du
+logiciel d'origine.
+
+Trois conditions encadrent l'utilisation et la communication des
+informations obtenues par la décompilation. Toutes faisaient défaut en
+l'espèce. La Cour d'appel de Caen relève ainsi que la publication d'un
+article de blog afin de révéler les failles de sécurité de Skype et
+publier le code source des parties décompilées, constitue un acte de
+contrefaçon de droit d'auteur --- peu importe que l'opération de
+décompilation en elle-même ait été licite.
+
+**Premièrement,** l'utilisation et la communication des informations
+obtenues par décompilation à des fins de sécurité informatique ne
+rentrent pas dans l'application des conditions 1^o^ et 2^o^ précitées,
+lesquelles ne se justifient que par des fins d'interopérabilité.
+
+L'arrêt de la Cour d'appel de Caen, de ce point de vue, se situe dans
+la lignée d'un autre arrêt de la Cour d'appel de Paris, relatif
+également à une décompilation à des fins de sécurité informatique (CA
+Paris, ch. 13 A, 21 février 2006, affaire G. c/ TEGAM).
+
+**Deuxièmement,** la Cour relève les déclarations faites par le
+prévenu aux services de police qui, maladroitement, indiquent le
+développement d'un système «similaire à Skype».
+
+Pourtant, aucun élément ne permet de relever si une telle similitude
+aurait été pertinente en matière de droit d'auteur.
+
+En effet, on peut comprendre de ces déclarations qu'il s'agissait de
+développer un système concurrent de Skype, qui le remplace, et non
+forcément un système dont l'expression, le code lui-même, serait
+similaire et donc, contrefaisant.
+
+C'est, là aussi, une question majeure d'interprétation de la directive
+91/250. Les informations d'interopérabilité peuvent-elles être
+utilisées pour développer un logiciel interopérable *concurrent*, qui
+remplace le logiciel d'origine, ou seulement un logiciel interopérable
+fonctionnant *avec* le logiciel d'origine, sans le remplacer?
+
+Divers amendements et propositions avaient, en effet, suggéré que seule
+la deuxième option pouvait satisfaire les conditions de légalité[^compete].
+C'est cependant la première option qui a été retenue, le 13 décembre
+1990, par le Conseil des ministres[^councilcommon]: il s'agit de
+permettre «l’interopérabilité d’un logiciel créé de façon indépendante
+**avec d’autres** logiciels» (L. 122-6-1, IV) et non pas forcément
+avec le logiciel d'origine qui fait l'objet de la décompilation.
+
+[^compete]: Proposition du Royaume-Uni du 25 octobre 1990, citée par
+@@sc{Palmer} A.K. et @@sc{Vinje} T., "The EC directive on the legal
+protection of computer software: new law governing software
+development", in Duke Journal of Comparative & International Law, vol.
+2:65, 1992, p. 76.
+
+[^councilcommon]: Positition commune du Conseil 10652/1/90
+
+
+
+
+
+--------
+
+Pierre -Yves MARGNOUX, associé du cabinet Derriennic Associés, est un spécialiste reconnu en droit de l’informatique et des nouvelles technologies. Son expertise couvre aussi bien le contentieux des nouvelles technologies, du droit d’auteur et de la concurrence déloyale, que le conseil et les négociations contractuelles dans le cadre de contrats complexes.
+
+Hugo ROY est élève-avocat, diplômé de Sciences Po. Spécialiste du droit des logiciels et du droit des communications électroniques, il est membre de la fondation européenne du logiciel libre (FSFE) et fondateur du projet « Terms of Service; Didn't Read » (tosdr.org).
+
+  
