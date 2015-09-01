@@ -1,0 +1,4 @@
+[[!meta title="pages tagged TgiParis"]]
+
+[[!inline pages="tagged(TgiParis)" actions="no" archive="yes"
+feedshow=10]]
