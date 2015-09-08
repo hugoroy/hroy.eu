@@ -34,7 +34,7 @@ Some facts and statistics about [[!taglink patents]] (with a focus on software a
 
 [nyt2012]: http://www.nytimes.com/2012/10/08/technology/patent-wars-among-tech-giants-can-stifle-competition.html?_r=2&pagewanted=all
 
-  - IBM abandons around 40% of their US patents in the first three years.
+  - <span id="ibmAbandons">IBM</span> abandons around 40% of their US patents in the first three years.
 
     source: [patentlyo](http://patentlyo.com/patent/2012/03/ibms-patent-abandonment-strategy.html)
 
@@ -75,3 +75,25 @@ Some facts and statistics about [[!taglink patents]] (with a focus on software a
   - WIPO Statistics: <http://www.wipo.int/ipstats/en/>
   - EPO reports and statistics: <http://www.epo.org/about-us/annual-reports-statistics.html>
   - USPTO statistics: <http://www.uspto.gov/about/stats/index.jsp>
+
+## *Not* patent facts
+
+Unfortunately, a lot of debates on patents do not rely on facts, especially debates on patents applied to information technology. Instead, we are witnessing what Mark Lemley has described as [“Faith-Based Intellectual Property”](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2587297). Here's a list of things which are **not facts about patents** but which are often asserted.
+
+  - “companies invest  heavily  in software research  and  development  in
+    the  United  States  *because* new inventions, implemented through software,
+    can be protected by patents”. Yet, the article that makes this assertion
+    offers **absolutely no evidence** that the eligibility of software as
+    patent subject matter has specifically contributed significantly to US
+    growth in software research and development. 
+
+    (I would also note that the conclusion in the executive summary is legally
+    incorrect: the promotion of progress in the useful arts is not a
+    “constitutional imperative”; under the US constitution, Congress “shall
+    *have the power to*“ promote the progress in the useful arts, but this is
+    not *an imperative*.)
+
+    source: David J. Kappos (former USPTO president) and Aaron Cooper, 
+    [At the core of America’ s competitive edge: why software - implemented inventions are — and must remain — patent eligible [pdf]](http://www.iam-media.com/files/software%20white%20paper%20-%20aug%2026%202015%20final.pdf), 
+    Aug 26, 2015
+
