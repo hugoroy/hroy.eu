@@ -76,7 +76,7 @@ Some facts and statistics about [[!taglink patents]] (with a focus on software a
   - EPO reports and statistics: <http://www.epo.org/about-us/annual-reports-statistics.html>
   - USPTO statistics: <http://www.uspto.gov/about/stats/index.jsp>
 
-## *Not* patent facts
+# *Not* patent facts
 
 Unfortunately, a lot of debates on patents do not rely on facts, especially debates on patents applied to information technology. Instead, we are witnessing what Mark Lemley has described as [“Faith-Based Intellectual Property”](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2587297). Here's a list of things which are **not facts about patents** but which are often asserted.
 
