@@ -1,4 +1,5 @@
 [[!meta title="Patent Facts"]]
+[[!meta language="en"]]
 [[!tag lang:en patents]]
 
 [gitrss]: http://source.hroy-eu.branchable.com/?p=source.git;a=atom;f=posts/patentFacts.mdwn
@@ -62,6 +63,16 @@ Some facts and statistics about [[!taglink patents]] (with a focus on software a
     [European Patent Office](http://www.epo.org/about-us/annual-reports-statistics/annual-report/2013/statistics-trends/patent-applications.html)
 
     year: 2013
+
+
+The following assertions do not have reliable sources or data. If you have some
+idea of a better source for these facts, please get in touch.
+
+  - Between 40% and 90% of all patents issued are never used or licensed by their owners.
+
+    source: [The Economist](http://www.economist.com/node/21660559)
+
+    year: ???
 
 
 ## Good articles and other sources on patent facts
