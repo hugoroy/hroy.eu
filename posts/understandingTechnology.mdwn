@@ -13,3 +13,6 @@ to get updates.
 
  - [What *is* Code? — Bloomberg](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
    Paul Ford, June 2015 [[!taglink #software|software]]
+
+ - [Code Is Law, On Liberty in Cyberspace — Harvard Magazine](http://harvardmagazine.com/2000/01/code-is-law-html)
+   Lawrence Lessig, Jan 2000 [[!taglink #network_Neutrality|networkNeutrality]]
