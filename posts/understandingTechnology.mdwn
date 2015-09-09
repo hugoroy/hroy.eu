@@ -1,11 +1,15 @@
+[[!meta title="Understanding Technology"]]
+[[!meta language="en"]]
 
-A collection of links to great articles that can help anyone
-understand technology today.
+A collection of links to [[!taglink great_articles|longreads]] (in
+[[!taglink English|lang:en]]) that can help anyone understand
+[[!taglink technology]] today. I will update this post over time, so
+you can
+[subscribe to the feed](http://source.hroy-eu.branchable.com/?p=source.git;a=atom;f=posts/understandingTechnology.mdwn)
+to get updates.
 
--
-  [On HTML5 and the Group That Rules the Web — The New Yorker](http://www.newyorker.com/tech/elements/group-rules-web),
-  Paul Ford, Nov 2014
+ - [On HTML5 and the Group That Rules the Web — The New Yorker](http://www.newyorker.com/tech/elements/group-rules-web),
+   Paul Ford, Nov 2014 [[!taglink #Web|web]] [[!taglink W3C]]
 
--
-  [What *is* Code? — Bloomberg](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
-  Paul Ford, June 2015
+ - [What *is* Code? — Bloomberg](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+   Paul Ford, June 2015 [[!taglink #software|software]]
