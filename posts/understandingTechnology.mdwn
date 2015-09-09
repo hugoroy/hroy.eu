@@ -1,0 +1,11 @@
+
+A collection of links to great articles that can help anyone
+understand technology today.
+
+-
+  [On HTML5 and the Group That Rules the Web — The New Yorker](http://www.newyorker.com/tech/elements/group-rules-web),
+  Paul Ford, Nov 2014
+
+-
+  [What *is* Code? — Bloomberg](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+  Paul Ford, June 2015
