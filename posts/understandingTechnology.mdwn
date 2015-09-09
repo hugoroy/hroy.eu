@@ -17,5 +17,7 @@ to get updates.
  - [Code Is Law, On Liberty in Cyberspace — Harvard Magazine](http://harvardmagazine.com/2000/01/code-is-law-html)<br />
    Lawrence Lessig, Jan 2000 [[!taglink #network_Neutrality|networkNeutrality]]
 
+ - [A Free Digital Society: What Makes Digital Inclusion Good or Bad? — GNU.org](http://www.gnu.org/philosophy/free-digital-society.en.html)<br />
+   Richard Stallman, Oct 2011
 
 If you have suggestions for articles that you think belong here, [[get_in_touch|hugo]].
