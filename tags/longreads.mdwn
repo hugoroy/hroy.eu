@@ -1,0 +1,4 @@
+[[!meta title="pages tagged longreads"]]
+
+[[!inline pages="tagged(longreads)" actions="no" archive="yes"
+feedshow=10]]
