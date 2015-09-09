@@ -8,11 +8,14 @@ you can
 [subscribe to the feed](http://source.hroy-eu.branchable.com/?p=source.git;a=atom;f=posts/understandingTechnology.mdwn)
 to get updates.
 
- - [On HTML5 and the Group That Rules the Web — The New Yorker](http://www.newyorker.com/tech/elements/group-rules-web),
-   Paul Ford, Nov 2014 [[!taglink #Web|web]] [[!taglink W3C]]
+ - [On HTML5 and the Group That Rules the Web — The New Yorker](http://www.newyorker.com/tech/elements/group-rules-web)<br />
+   Paul Ford, Nov 2014 [[!taglink #Web|web]] [[!taglink #W3C|W3C]]
 
- - [What *is* Code? — Bloomberg](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+ - [What *is* Code? — Bloomberg](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)<br />
    Paul Ford, June 2015 [[!taglink #software|software]]
 
- - [Code Is Law, On Liberty in Cyberspace — Harvard Magazine](http://harvardmagazine.com/2000/01/code-is-law-html)
+ - [Code Is Law, On Liberty in Cyberspace — Harvard Magazine](http://harvardmagazine.com/2000/01/code-is-law-html)<br />
    Lawrence Lessig, Jan 2000 [[!taglink #network_Neutrality|networkNeutrality]]
+
+
+If you have suggestions for articles that you think belong here, [[get_in_touch|hugo]].
