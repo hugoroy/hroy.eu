@@ -1,6 +1,6 @@
 [[!meta title="FDN contre le Gouvernement"]]
 
-[[!inline pages="(tagged(388134) or tagged(389140) or tagged(389896) or tagged(393079) or tagged(393099) or (tagged(2015-478) and tagged(QPC)) and !posts/*)" actions="no" archive="yes"
+[[!inline pages="tagged(388134) or tagged(389140) or tagged(389896) or tagged(393079) or tagged(393099) or (tagged(2015-478) and tagged(QPC)) and !posts/*" actions="no" archive="yes"
 feedshow=10]]
 
 ---------
@@ -8,5 +8,5 @@ feedshow=10]]
 ## Blog
 
 
-[[!inline pages="(tagged(388134) or tagged(389140) or tagged(389896) or tagged(393079) or tagged(393099) or (tagged(2015-478) and tagged(QPC)) and posts/*)" actions="no" archive="yes"
+[[!inline pages="tagged(388134) or tagged(389140) or tagged(389896) or tagged(393079) or tagged(393099) or (tagged(2015-478) and tagged(QPC)) and posts/*" actions="no" archive="yes"
 feedshow=10]]
