@@ -1,12 +1,26 @@
 [[!meta title="FDN, LQDN et FFDN contre le Gouvernement"]]
 [[!tag FrenchDataNetwork LaQuadratureDuNet FédérationFDN exégètesAmateurs]]
 
-Depuis décembre 2014, une poignée de bénévoles[^exam] de FDN, de La
+Depuis décembre 2014, une poignée de bénévoles[^exam] de <abbr
+title="French Data Network">FDN</abbr>, de La
 Quadrature du Net et de la Fédération FDN forment des recours contre
 les lois et décrets français concernant la surveillance et la censure
 par l'État français.
 
-[^exam]: surnommés « exégètes amateurs »
+Voir également :
+[l'aperçu des recours par La Quadrature](recoursLQDN)
+/
+[Le](http://blog.fdn.fr/?category/JURIDIQUE/D%C3%89CRET-LPM)
+[blog](http://blog.fdn.fr/?category/JURIDIQUE/D%C3%89CRET-BLOCAGE)
+[de FDN](http://blog.fdn.fr/?category/JURIDIQUE/PROJET-DE-LOI-RENSEIGNEMENT)
+/
+[Le blog de la Fédé FDN](http://www.ffdn.org/fr/article/tag/recours)
+
+[^exam]: surnommés « exégètes amateurs ». Notre action est parfois
+    soutenue *pro bono* par le cabinet
+    [Spinosi & Sureau](http://spinosi-sureau.fr/), avocats au Conseil
+    d'État et à la Cour de cassation.
+
 
 ## Mémoires et calendrier de chaque recours
 
