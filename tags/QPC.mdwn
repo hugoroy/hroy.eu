@@ -1,0 +1,4 @@
+[[!meta title="pages tagged QPC"]]
+
+[[!inline pages="tagged(QPC)" actions="no" archive="yes"
+feedshow=10]]
