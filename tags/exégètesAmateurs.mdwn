@@ -1,0 +1,4 @@
+[[!meta title="pages tagged exégètesAmateurs"]]
+
+[[!inline pages="tagged(exégètesAmateurs)" actions="no" archive="yes"
+feedshow=10]]
