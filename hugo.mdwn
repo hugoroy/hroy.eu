@@ -7,7 +7,7 @@ used and modified under Creative Commons [non-commercial license](http://creativ
 <div class="vcard" id="hcard-Hugo-Roy">
 <img id="ma-tete" class="u-photo" alt="Hugo Roy" title="Hugo Roy" src="/favatar.png" />
 <p>Hi! I’m <span class="fn" title="Hugo Roy">Hugo</span>. I’m an
-attorney in Paris (but this is my personal space).
+[[attorney|avocat]] in Paris (but this is my personal space).
 <span class="p-note">I am also the project leader for <a
 href="//tosdr.org"><img alt=""
 src="//tosdr.org/img/tosdr-icon-19.png"> <span class="org"
