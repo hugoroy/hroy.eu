@@ -6,3 +6,10 @@ collaboration en droit des technologies (logiciel, communications
 droit des brevets, données personnelles, contentieux, etc.)
 
 [CV (pdf)](HugoRoyCVpub.pdf)
+
+<aside class="left note">
+<strong>Publications récentes</strong>
+</aside>
+
+[[!inline pages="(tagged(pubAvocat)) and posts/*" actions="no" archive="yes"
+feedshow=10]]
