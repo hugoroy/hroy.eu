@@ -1,15 +1,25 @@
 
-[[!meta title="Awesome tools"]]
+[[!meta title="Awesome apps and tools"]]
 [[!meta copyright="Some of these logos may be trademarked. No affiliation or endorsement whatsoever."]]
 [[!meta license="[CC0-1.0](http://creativecommons.org/publicdomain/zero/1.0/)"]]
 [[!meta language="en"]]
 [[!tag lang:en web freeSoftware]]
 
-Here some little known, yet awesome tools that I use. Thanks to the people working on these (I’m glad to have met some of them, and they’re awesome too)!
+Here some little known, yet awesome apps or tools that I use. Thanks to the people working on these (I’m glad to have met some of them, and they’re awesome too)!
 
 <aside class="toc">
 [[!toc startlevel=4 levels=1 ]]
 </aside>
+
+#### [[!img transportr.png link=no size="x28"]] [Transportr]
+
+[Transportr] is an Android app to help you use public transports
+systems. It's simply the best one I've seen, and it supports a lot of
+systems (city-wide like Berlin or Paris and even long-distance).
+
+#### [[!img feedbin.png link=no size="x28"]] [Feedbin]
+
+[Feedbin] is an RSS web reader. It provides a pleasing reading experience and you can easily browse through items and share links. If you’re looking to host it yourself, have a [look at the sources][fbgh]. 
 
 #### [[!img feedbin.png link=no size="x28"]] [Feedbin]
 
@@ -27,9 +37,9 @@ Here some little known, yet awesome tools that I use. Thanks to the people worki
 
 [YunoHost] is custom debian distribution aiming at making self-hosting easy. It provides a nice web interface for administration of your self-hosted server and for users of the web server. If you have basic linux administration skills, this will be very helpful.
 
-#### [[!img pinboard.png link=no size="x28"]] [Pinboard][^nofs]
+#### [[!img pinboard.png link=no size="x28"]] [Pinboard]
 
-[Pinboard] a simple and efficient bookmarking app that also archives the content of marked pages (if you pay for it).
+[Pinboard] a simple and efficient bookmarking app that also archives the content of marked pages (if you pay for it).[^nofs]
 
 #### [[!img sharesome.png link=no size="x28"]] [Sharesome]
 
@@ -44,6 +54,7 @@ Some shameless self-promo with [ToSDR], the app that tells you what happens to y
 
 If you’re looking for a curated list of awesome web services that are free of charge and based on free software and open data, look no further than Jan’s [Libre projects].
 
+[transportr]: https://github.com/grote/Transportr/#transportr
 [sharesome]: https://sharesome.5apps.com/
 [shapp]: https://5apps.com/basti/sharesome/
 [feedbin]: https://feedbin.me/
