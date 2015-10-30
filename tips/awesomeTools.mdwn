@@ -21,10 +21,6 @@ systems (city-wide like Berlin or Paris and even long-distance).
 
 [Feedbin] is an RSS web reader. It provides a pleasing reading experience and you can easily browse through items and share links. If you’re looking to host it yourself, have a [look at the sources][fbgh]. 
 
-#### [[!img feedbin.png link=no size="x28"]] [Feedbin]
-
-[Feedbin] is an RSS web reader. It provides a pleasing reading experience and you can easily browse through items and share links. If you’re looking to host it yourself, have a [look at the sources][fbgh]. 
-
 #### [[!img ikiwiki.png link=http://ikiwiki.info size="x28"]] <span class="hide">ikiwiki</span>
 
 [ikiwiki] powers this blog, hosted by [branchable]. If you like git and markdow, and editing your texts with your favourite text editor, this is for you.
