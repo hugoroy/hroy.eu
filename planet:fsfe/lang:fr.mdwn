@@ -4,4 +4,4 @@
 Voici des posts que j'envoie au [planète FSFE
 francophone](http://planet.fsfe.org/fr/).
 
-[[!inline pages="(tagged(FSFE) or tagged(freeSoftware) or tagged(GNOME) or tagged(GNU) or tagged(Linux) or tagged(technology) or tagged(patent) or page(../tips/*)) and tagged(lang:fr) and !*/Discussion and !(tagged(meta:ignore)" actions="no" feedshow=10]]
+[[!inline pages="(tagged(FSFE) or tagged(freeSoftware) or tagged(GNOME) or tagged(GNU) or tagged(Linux) or tagged(technology) or tagged(patent) or page(../tips/*)) and tagged(lang:fr) and !*/Discussion and !tagged(meta:ignore)" actions="no" feedshow=10]]
