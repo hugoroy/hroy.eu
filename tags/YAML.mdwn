@@ -1,0 +1,4 @@
+[[!meta title="pages tagged YAML"]]
+
+[[!inline pages="tagged(YAML)" actions="no" archive="yes"
+feedshow=10]]
