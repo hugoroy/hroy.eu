@@ -1,6 +1,12 @@
 [[!meta title="How to write in LazyTeX instead of strict LaTeX"]]
 [[!tag lang:en LaTeX XeTeX Pandoc YAML Markdown]]
 
+**TL;DR** Use Pandoc, write your document in a combination of YAML,
+Markdown and, when you need it, inline LaTeX. Read Pandoc's
+[README][pandocReadme].
+
+[pandocReadme]: http://pandoc.org/README.html
+
 TeX is awesome. LaTeX was made to make it easier to use TeX and
 produce high-quality documents.
 
@@ -11,7 +17,7 @@ Still, there are two downsides with using LaTeX:
  2. TeX was designed for paper as the output and thus comes with its
     limitations.
 
-Today, most LaTeX documents end up as PDF and or printed on paper
+Today, most LaTeX documents end up as PDF and/or printed on paper
 (which is *kind of* the same). This is nice, but PDF and paper are not
 mediums that enable others to co-edit the text (unless they can work
 with the LaTeX source, but most people won't learn that, <span
@@ -24,7 +30,7 @@ document, thanks to a myriad of packages that you can use in LaTeX
 
 [[!toggleable id="varioref" text="""
 [[!toggle id="varioref" text="×"]]
-For example, the `[varioref]` package is the best program I've seen to
+For example, the [varioref] package is the best program I've seen to
 make automated references to another point in a document. Using
 varioref, LaTeX is able to print something like: “see section 3, on
 the facing page” automatically (or “… on the next page” if the
@@ -87,8 +93,8 @@ means, what I call from now on LazyTeX.
 
 
 However, lazy also has a downside. Mainly, if I mike a mistake in the
-source file, I will have more chance of being able to produce a PDF
-with the mistake rather than having a compilation error.
+source file, there are more risks of producing a PDF with the mistake
+showing in plain sight, rather than having a compilation error.
 
 When I do a mistake in a LaTeX file, usually the compilation will give
 me an error and not produce the result. Thus, the error flags me that
