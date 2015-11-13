@@ -19,12 +19,35 @@ utiliser les identifiants ECLI sur Eur-Lex:
 #### Cour de cassation
 
     \newcommand{\cCass}[1]{\href{http://legifrance.gouv.fr/rechJuriJudi.do?rech_simple.judi.champ2.title=#1}{\no~#1}}
+
+Pour référencer deux décisions à la fois:
+
     \newcommand{\cCasss}[2]{\nos~\href{http://legifrance.gouv.fr/rechJuriJudi.do?rech_simple.judi.champ2.title=#1}{#1}, \href{http://legifrance.gouv.fr/rechJuriJudi.do?rech_simple.judi.champ2.title=#2}{#2}}
 
 #### Conseil d'État
 
     \newcommand{\cEtat}[1]{\href{http://legifrance.gouv.fr/rechJuriAdmin.do?rech_simple.admin.champ2.title=#1}{\no~#1}}
+
+Pour référencer deux décisions à la fois:
+
     \newcommand{\cEtats}[2]{\nos~\href{http://legifrance.gouv.fr/rechJuriAdmin.do?rech_simple.admin.champ2.title=#1}{#1}, \href{http://legifrance.gouv.fr/rechJuriAdmin.do?rech_simple.admin.champ2.title=#2}{#2}}
+
+# Liens vers des articles de codes
+
+Je n'ai pas encore fait la liste de tous les codes pour aller chercher
+leur identifiant...
+
+#### Code civil
+
+    \newcommand{\cciv}[1]{\href{http://www.legifrance.gouv.fr/UnArticleDeCode.do?code=CCIVILL0.rcv&art=#1}{#1}}
+
+#### Code de la propriété intellectuelle
+
+Les codes ayant une partie législative et une partie réglementaire
+nécessitent deux arguments. Par exemple, pour obtenir la référence de
+l'article L. 122-6-1 CPI, il faut entrer `l'article \cprointl{l}{122-6-1} CPI`.
+
+    \newcommand{\cprointl}[2]{\href{http://www.legifrance.gouv.fr/UnArticleDeCode.do?code=CPROINTL.rcv&art=#1#2}{\MakeUppercase{#1.}~#2}}
 
 
 # TODO
