@@ -52,4 +52,13 @@ l'article L. 122-6-1 CPI, il faut entrer `l'article \cprointl{l}{122-6-1} CPI`.
 
 # TODO
 
-Idéalement, je pourrais mettre tout ça dans un paquet LaTeX `juriste`...
+- faire un paquet
+
+    Idéalement, je pourrais mettre tout ça dans un paquet LaTeX `juriste`...
+
+- ajouter d'autres codes (code de la consommation, code de la sécurité
+  intérieure, etc.)
+
+- générer automatiquement une table des décisions de justice / des
+  articles de code cités dans les écritures
+
