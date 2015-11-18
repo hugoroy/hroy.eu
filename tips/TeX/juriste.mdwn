@@ -1,64 +1,85 @@
 [[!meta title="LaTeX pour les juristes"]]
 [[!tag lang:en LaTeX droit]]
 
+[Code source](https://github.com/hugoroy/juriste-latex-pkg/)
 
+-----
 
 Quelques commandes utiles pour les juristes utilisant LaTeX.
 
-# Liens vers des décisions de justice
-
-En attendant de trouver un résolveur global pour ECLI, on peut
-utiliser les identifiants ECLI sur Eur-Lex:
-
-    \newcommand{\ecli}[1]{\href{http://eur-lex.europa.eu/search.html?qid=&text=ECLI:#1\&type=quick}{\nofrench@punctuation ECLI:#1}} 
-
-#### Eur-LEX
-
-    \newcommand{\eurLex}[1]{\href{http://eur-lex.europa.eu/search.html?qid=&text=#1\&type=quick}{\nofrench@punctuation #1}} 
-
-#### Cour de cassation
-
-    \newcommand{\cCass}[1]{\href{http://legifrance.gouv.fr/rechJuriJudi.do?rech_simple.judi.champ2.title=#1}{\no~#1}}
-
-Pour référencer deux décisions à la fois:
-
-    \newcommand{\cCasss}[2]{\nos~\href{http://legifrance.gouv.fr/rechJuriJudi.do?rech_simple.judi.champ2.title=#1}{#1}, \href{http://legifrance.gouv.fr/rechJuriJudi.do?rech_simple.judi.champ2.title=#2}{#2}}
-
-#### Conseil d'État
-
-    \newcommand{\cEtat}[1]{\href{http://legifrance.gouv.fr/rechJuriAdmin.do?rech_simple.admin.champ2.title=#1}{\no~#1}}
-
-Pour référencer deux décisions à la fois:
-
-    \newcommand{\cEtats}[2]{\nos~\href{http://legifrance.gouv.fr/rechJuriAdmin.do?rech_simple.admin.champ2.title=#1}{#1}, \href{http://legifrance.gouv.fr/rechJuriAdmin.do?rech_simple.admin.champ2.title=#2}{#2}}
-
 # Liens vers des articles de codes
-
-Je n'ai pas encore fait la liste de tous les codes pour aller chercher
-leur identifiant...
 
 #### Code civil
 
-    \newcommand{\cciv}[1]{\href{http://www.legifrance.gouv.fr/UnArticleDeCode.do?code=CCIVILL0.rcv&art=#1}{#1}}
+L'article [1382] du code civil évidemment:
+
+    \cciv{1382}
+
+[1382]: http://www.legifrance.gouv.fr/UnArticleDeCode.do?code=CCIVILL0.rcv&art=1382
 
 #### Code de la propriété intellectuelle
 
 Les codes ayant une partie législative et une partie réglementaire
 nécessitent deux arguments. Par exemple, pour obtenir la référence de
-l'article L. 122-6-1 CPI, il faut entrer `l'article \cprointl{l}{122-6-1} CPI`.
+l’article [L. 122-6-1] CPI, il faut entrer
 
-    \newcommand{\cprointl}[2]{\href{http://www.legifrance.gouv.fr/UnArticleDeCode.do?code=CPROINTL.rcv&art=#1#2}{\MakeUppercase{#1.}~#2}}
+    l'article \cprointl{l}{122-6-1} CPI.
 
+[L. 122-6-1]: http://www.legifrance.gouv.fr/UnArticleDeCode.do?code=CPROINTL.rcv&art=l122-6-1
+
+# Liens vers des décisions de justice
+
+#### Jurisprudence européenne
+
+En attendant de trouver un résolveur global pour ECLI, on peut
+utiliser les identifiants ECLI sur Eur-Lex pour rechercher dans la
+jurisprudence de l'Union européenne.
+
+Par exemple, [EU:C:2010:662] qui peut être obtenu grâce à
+
+    \ecli{EU:C:2010:662} % sans les espaces avant les :
+
+[EU:C:2010:662]: http://eur-lex.europa.eu/search.html?qid=&type=advanced&ECLI=ECLI:EU:C:2010:662
+
+Le moteur de recherche de la Cour de justice de l'UE peut aussi être
+utilisé, par exemple pour référencer une décision de la Cour de
+justice par numéro d'affaire [C-293/12]
+
+    \cjue{C-293/12}
+
+[C-293/12]: http://curia.europa.eu/juris/liste.jsf?num=C-293/12
+
+#### Jurisprudence française
+
+On peut référencer les arrêts de la Cour de cassation ou du Conseil
+d'État directement par numéro d'affaire, ainsi que les décisions du
+Conseil constitutionnel par numéro de décision (DC ou QPC).
+
+Voir par exemple l'arrêt de la 2^e^ chambre civile du jeudi 4
+décembre 2014 n^o^ [13-25684] \[ne fonctionnera pas]
+
+    \ccass{13-25684}
+
+[13-25684]: http://www.legifrance.gouv.fr/rechJuriJudi.do?reprise=true&page=1&rech_simple.judi.champ2.title=13-25684
+
+ou par exemple, n^o^ [345903] pour le Conseil d'État,
+
+    \cetat{345903}
+
+[345903]: http://arianeinternet.conseil-etat.fr/arianeinternet/advancedsearch.asp?dec_id_t=345903
+
+ou encore la décision n^o^ [2015-478] QPC pour
+le Conseil constitutionnel,
+
+    \ccons{2015-478}
+
+[2015-478]: http://recherche.conseil-constitutionnel.fr/?expert=2&filtres3=2015-478
 
 # TODO
 
-- faire un paquet
+ -   ajouter d’autres codes (code de la consommation, code de la sécurité intérieure, etc.)
 
-    Idéalement, je pourrais mettre tout ça dans un paquet LaTeX `juriste`...
+ -   générer automatiquement une table des décisions de justice / des articles de code cités dans les écritures
 
-- ajouter d'autres codes (code de la consommation, code de la sécurité
-  intérieure, etc.)
-
-- générer automatiquement une table des décisions de justice / des
-  articles de code cités dans les écritures
-
+ -   corriger la requête à légifrance qui ne fonctionne pas pour la
+     Cour de cassation
