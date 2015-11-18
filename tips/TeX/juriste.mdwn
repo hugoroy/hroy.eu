@@ -56,20 +56,20 @@ On peut référencer les arrêts de la Cour de cassation ou du Conseil
 d'État directement par numéro d'affaire, ainsi que les décisions du
 Conseil constitutionnel par numéro de décision (DC ou QPC).
 
-Voir par exemple l'arrêt de la 2^e^ chambre civile du jeudi 4
-décembre 2014 n^o^ [13-25684] \[ne fonctionnera pas]
+Voir par exemple l'arrêt de la 2e chambre civile du jeudi 4
+décembre 2014 n° [13-25684] \[ne fonctionnera pas]
 
     \ccass{13-25684}
 
 [13-25684]: http://www.legifrance.gouv.fr/rechJuriJudi.do?reprise=true&page=1&rech_simple.judi.champ2.title=13-25684
 
-ou par exemple, n^o^ [345903] pour le Conseil d'État,
+ou par exemple, n° [345903] pour le Conseil d'État,
 
     \cetat{345903}
 
 [345903]: http://arianeinternet.conseil-etat.fr/arianeinternet/advancedsearch.asp?dec_id_t=345903
 
-ou encore la décision n^o^ [2015-478] QPC pour
+ou encore la décision n° [2015-478] QPC pour
 le Conseil constitutionnel,
 
     \ccons{2015-478}
