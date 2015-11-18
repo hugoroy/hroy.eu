@@ -1,7 +1,7 @@
 [[!meta title="LaTeX pour les juristes"]]
 [[!tag lang:en LaTeX droit]]
 
-[Code source](https://github.com/hugoroy/juriste-latex-pkg/)
+[Paquet LaTeX](https://github.com/hugoroy/juriste-latex-pkg/)
 
 -----
 
