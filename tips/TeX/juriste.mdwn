@@ -1,5 +1,5 @@
 [[!meta title="LaTeX pour les juristes"]]
-[[!lang fr-fr]]
+[[!meta lang="fr-fr"]]
 [[!tag lang:fr LaTeX droit]]
 
 [Paquet LaTeX](https://github.com/hugoroy/juriste-latex-pkg/)
