@@ -1,6 +1,6 @@
 [[!meta title="Avocat en droit des technologies"]]
 
-<aside>[[!img portraitbw.jpg alt="Portrait" class="pull-right aside"]]</aside>
+<aside>[[!img portraitbw.jpg alt="Portrait" class="pull-right aside" link=no]]</aside>
 
 Titulaire du CAPA (EFB octobre 2015), je recherche activement une
 collaboration en droit des technologies (logiciel, communications
