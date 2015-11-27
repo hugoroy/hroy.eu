@@ -1,0 +1,4 @@
+[[!meta title="pages tagged Allemagne"]]
+
+[[!inline pages="tagged(Allemagne)" actions="no" archive="yes"
+feedshow=10]]
