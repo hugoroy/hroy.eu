@@ -14,3 +14,10 @@ droit des brevets, données personnelles, contentieux, etc.)
 
 [[!inline pages="(tagged(pubAvocat)) and posts/*" actions="no" archive="yes"
 feedshow=10]]
+
+<aside class="left note">
+<strong>Commentaires sur la jurisprudence</strong>
+</aside>
+
+[[!inline pages="(tagged(pubAvocat)) and caselaw/*" actions="no" archive="yes"
+feedshow=10]]
