@@ -1,4 +1,4 @@
-[[!meta title="Arrêt en Allemagne: Conditions de résiliation de la licence GNU GPL verseion 3"]]
+[[!meta title="Arrêt en Allemagne : conditions de résiliation de la licence GNU GPL verseion 3"]]
 [[!tag lang:fr pubAvocat Allemagne jurisprudence droit freeSoftware GPL-3]]
 
 En Allemagne, un arrêt intéressant relatif à la licence GNU GPL
