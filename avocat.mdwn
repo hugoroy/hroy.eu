@@ -14,12 +14,12 @@ droit des brevets, données personnelles, contentieux, etc.)
 <strong>Publications récentes</strong>
 </aside>
 
-[[!inline pages="(tagged(pubAvocat)) and posts/*" title="Publications récentes par Hugo Roy, avocat" actions="no" archive="yes"
+[[!inline pages="(tagged(pubAvocat)) and posts/*" title="Publications récentes par Hugo Roy, avocat" feedfile="publications" actions="no" archive="yes"
 feedshow=10]]
 
 <aside class="left note">
 <strong>Commentaires sur la jurisprudence</strong>
 </aside>
 
-[[!inline pages="(tagged(pubAvocat)) and caselaw/*" title="Cmomentaires sur la jurisprudence par Hugo Roy" actions="no" archive="yes"
+[[!inline pages="(tagged(pubAvocat)) and caselaw/*" title="Cmomentaires sur la jurisprudence par Hugo Roy" feedfile="jurisprudence" actions="no" archive="yes"
 feedshow=10]]
