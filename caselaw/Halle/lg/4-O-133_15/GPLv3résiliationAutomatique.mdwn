@@ -41,7 +41,7 @@ Les conditions de résiliation ([[!toggle id="gpl3-sec8" text="section 8"]]) —
 > material under section 10.
 """]]
 
-[gpl3-sec8]: https://www.gnu.org/licenses/gpl-3.0.txt##8. Termination.
+[gpl3-sec8]: https://www.gnu.org/licenses/gpl-3.0.txt
 
 
 Extrait de l'arrêt ([traduit par JBB][tradJBB]) :
