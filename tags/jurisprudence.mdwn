@@ -1,0 +1,4 @@
+[[!meta title="pages tagged jurisprudence"]]
+
+[[!inline pages="tagged(jurisprudence)" actions="no" archive="yes"
+feedshow=10]]
