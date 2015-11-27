@@ -12,7 +12,7 @@ Les conditions de résiliation ([[!toggle id="gpl3-sec8" text="section 8"]]) —
 [[!toggleable id="gpl3-sec8" text="""
 [Conditions de résiliation de la GPL-3][gpl3-sec8] :
 
-> 8. Termination.
+> 8. Termination.
 > 
 >   You may not propagate or modify a covered work except as expressly
 > provided under this License.  Any attempt otherwise to propagate or
