@@ -4,7 +4,10 @@
 En Allemagne, un arrêt intéressant relatif à la licence GNU GPL
 version 3 [rendu au mois de juillet pour la cour d'appel de Halle (Saxe-Anhalt)][lgHalle].
 
-Les conditions de résiliation ([[!toggle id="gpl3-sec8" text="section 8"]]) — si elles offrent « une seconde chance » au licencié qui remédie à ses manquements sous 30 jours ([[!toggle id="gpl3-sec8" text="sec. 8(3)"]]) — n'empêchent pas l'ayant-droit d'obtenir la réparation du préjudice résultant des manquements du licencié.
+Les conditions de résiliation
+([[!toggle id="gpl3-sec8" text="section 8"]]) — si elles offrent « une
+seconde chance » au licencié qui remédie à ses manquements sous 30
+jours ([[!toggle id="gpl3-sec8" text="sec. 8, 3e alinéa"]]) — n'empêchent pas l'ayant-droit d'obtenir la réparation du préjudice résultant des manquements du licencié.
 
 [lgHalle]: http://www.landesrecht.sachsen-anhalt.de/jportal/?quelle=jlink&docid=JURE150012453&psml=bssahprod.psml&max=true
 
@@ -73,5 +76,7 @@ Extrait de l'arrêt ([traduit par JBB][tradJBB]) :
 
 [tradJBB]: http://www.jbb.de/en/news/open-source-software-preliminary-injunction-based-violation-gpl-30
 
+
+---------
 
 [Plus d'informations sur la licence GPL-3](http://gplv3.fsf.org/)
