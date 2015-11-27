@@ -1,0 +1,77 @@
+[[!meta title="Arrêt en Allemagne: Conditions de résiliation de la licence GNU GPL verseion 3"]]
+[[!tag lang:fr pubAvocat Allemagne jurisprudence droit freeSoftware GPL-3]]
+
+En Allemagne, un arrêt intéressant relatif à la licence GNU GPL
+version 3 [rendu au mois de juillet pour la cour d'appel de Halle (Saxe-Anhalt)][lgHalle].
+
+Les conditions de résiliation ([[!toggle id="gpl3-sec8" text="section 8"]]) — si elles offrent « une seconde chance » au licencié qui remédie à ses manquements sous 30 jours ([[!toggle id="gpl3-sec8" text="sec. 8(3)"]]) — n'empêchent pas l'ayant-droit d'obtenir la réparation du préjudice résultant des manquements du licencié.
+
+[lgHalle]: http://www.landesrecht.sachsen-anhalt.de/jportal/?quelle=jlink&docid=JURE150012453&psml=bssahprod.psml&max=true
+
+
+[[!toggleable id="gpl3-sec8" text="""
+[Conditions de résiliation de la GPL-3][gpl3-sec8] :
+
+> 8. Termination.
+> 
+>   You may not propagate or modify a covered work except as expressly
+> provided under this License.  Any attempt otherwise to propagate or
+> modify it is void, and will automatically terminate your rights under
+> this License (including any patent licenses granted under the third
+> paragraph of section 11).
+> 
+>   However, if you cease all violation of this License, then your
+> license from a particular copyright holder is reinstated (a)
+> provisionally, unless and until the copyright holder explicitly and
+> finally terminates your license, and (b) permanently, if the copyright
+> holder fails to notify you of the violation by some reasonable means
+> prior to 60 days after the cessation.
+> 
+>   Moreover, your license from a particular copyright holder is
+> reinstated permanently if the copyright holder notifies you of the
+> violation by some reasonable means, this is the first time you have
+> received notice of violation of this License (for any work) from that
+> copyright holder, and you cure the violation prior to 30 days after
+> your receipt of the notice.
+> 
+>   Termination of your rights under this section does not terminate the
+> licenses of parties who have received copies or rights from you under
+> this License.  If your rights have been terminated and not permanently
+> reinstated, you do not qualify to receive new licenses for the same
+> material under section 10.
+"""]]
+
+[gpl3-sec8]: https://www.gnu.org/licenses/gpl-3.0.txt##8. Termination.
+
+
+Extrait de l'arrêt ([traduit par JBB][tradJBB]) :
+
+> Contrary to the Defendant’s opinion, section 8 para. 3 of the GPL
+> version 3 of 29 June 2007 does not preclude the asserted claim. This
+> is the case because **even though the provision grants reinstatement
+> of the licence to the violator on the condition that the violation
+> is remedied within 30 days** of receipt of a corresponding notice, as
+> the Chamber would expect in light of Mr.           affidavit.
+> However, this granting of the right to continue using the licence
+> **cannot be interpreted to mean that the licensor at the same time had
+> the intention of waiving his right to demand a cease and desist
+> declaration with a penalty clause from the (first time) violator.**
+> Despite the fact that the licensor thereby affords the violator a
+> “second chance” to use the licence, it does, on the other hand, have
+> an interest worth protecting in the lasting prevention of further
+> infringements after the first infringement has occurred. If the
+> interpretation of the Defendant was correct, this would in effect be
+> tantamount to an invitation to every user of the licence to violate
+> the terms of the licence in the secure knowledge that he would only
+> need to reckon with having to submit a cease and desist declaration
+> with a penalty clause or a cease and desist order issued by a court
+> upon discovery of the second case of infringement. Based upon an
+> equitable interpretation of section 8 para. 3 GPL version 3 of 29
+> June 2007, neither the pre-trial warning letter to the Defendant nor
+> the assertion of the claim for injunctive relief through the courts
+> appear to be meaningless or in bad faith.
+
+[tradJBB]: http://www.jbb.de/en/news/open-source-software-preliminary-injunction-based-violation-gpl-30
+
+
+[Plus d'informations sur la licence GPL-3](http://gplv3.fsf.org/)
