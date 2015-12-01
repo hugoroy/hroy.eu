@@ -50,7 +50,7 @@ Some shameless self-promo with [ToSDR], the app that tells you what happens to y
 
 If you’re looking for a curated list of awesome web services that are free of charge and based on free software and open data, look no further than Jan’s [Libre projects].
 
-[transportr]: https://github.com/grote/Transportr/#transportr
+[transportr]: https://transportr.grobox.de/
 [sharesome]: https://sharesome.5apps.com/
 [shapp]: https://5apps.com/basti/sharesome/
 [feedbin]: https://feedbin.me/
