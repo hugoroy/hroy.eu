@@ -1,11 +1,12 @@
-[[!meta title="Avocat en droit des technologies"]]
+[[!meta title="Avocat / droit des technologies"]]
 
 <aside>[[!img portraitbw.jpg alt="Portrait" class="pull-right aside" link=no]]</aside>
 
-Titulaire du CAPA (EFB octobre 2015), je recherche activement une
-collaboration en droit des technologies (logiciel, communications
-électroniques, contrats de projets informatiques, droit d'auteur,
-droit des brevets, données personnelles, contentieux, etc.)
+
+J’interviens principalement dans le domaine du droit des technologies
+(logiciel, communications électroniques, contrats de projets
+informatiques, licences libres, droit d'auteur, droit des brevets,
+données personnelles, etc.).
 
 [CV (pdf)](HugoRoyCVpub.pdf) //  [LinkedIn](https://www.linkedin.com/in/hugoroy)
 
