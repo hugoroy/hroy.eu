@@ -1,6 +1,8 @@
 <div class="vcard" id="hcard-Hugo-Roy-avocat">
 
+<p>
 <img class="u-photo" alt="Hugo Roy" src="/avocat/portraitbw.jpg" />
+</p>
 
 <p><span class="fn" style="font-weight:700">Hugo Roy</span><br />Avocat à la Cour /
 <em>Attorney at law</em><br />Barreau de Paris / <em>Paris Bar</em></p>
@@ -14,8 +16,8 @@
 <dd>+33 144176560</dd>
 <dt>Mobile</dt>
 <dd>+33 761619046</dd>
-<dt>Signal</dt>
-<dd><span style="font-size:60%;font-family:monospace;">...9d4f79f2ce53428d17d36d0c66</span></dd>
+<dt style="font-size:70%">Signal</dt>
+<dd><span style="font-size:70%;font-family:monospace;">9d4f79f2ce53428d17d36d0c66</span></dd>
 </dl>
 </div>
 
