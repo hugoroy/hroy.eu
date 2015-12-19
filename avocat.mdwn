@@ -1,6 +1,6 @@
 [[!meta title="Avocat / droit des technologies"]]
 
-<aside class="pull-right aside">
+<aside id="avocat-contact" class="pull-right aside">
 [[!inline pages="page(./avocat/contact) and !*/Discussion" show="0" feeds=no actions=no template=inlinetext]]
 </aside>
 
@@ -26,3 +26,10 @@ feedshow=10]]
 
 [[!inline pages="(tagged(pubAvocat)) and caselaw/*" title="Cmomentaires sur la jurisprudence par Hugo Roy" feedfile="jurisprudence" actions="no" archive="yes"
 feedshow=10]]
+
+
+<style type="text/css">#avocat-contact {
+max-width: 300px;
+font-size: 90%;
+margin-left: 1.25em;
+}</style>

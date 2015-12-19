@@ -5,7 +5,7 @@
 <p><span class="fn">Hugo Roy</span><br />Avocat à la Cour /
 <em>Attorney at law</em><br />Barreau de Paris / <em>Paris Bar</em></p>
 
-<dl>
+<dl id="contact">
 <dt>Ad.</dt>
 <dd>avo<span class="zzz">SPAM</span>cat+contact@hu<span class="zzz">REMOVE</span>go<span class="y">roy.eu</span></dd>
 <dd>1 rue Paul Baudry, 75008 Paris</dd>
@@ -14,7 +14,7 @@
 <dt>Mobile</dt>
 <dd>+33 761619046</dd>
 <dt>Signal</dt>
-<dd>05a99317ebb245dc47cb...9d4f79f2ce53428d17d36d0c66</dd>
+<dd><span style="font-size:70%;font-family:monospace;">05a99317ebb245dc47cb...9d4f79f2ce53428d17d36d0c66</span></dd>
 </dl>
 </div>
 
