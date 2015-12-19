@@ -15,7 +15,7 @@
 <dt>Mobile</dt>
 <dd>+33 761619046</dd>
 <dt>Signal</dt>
-<dd><span style="font-size:70%;font-family:monospace;">05a99317ebb245dc47cb...9d4f79f2ce53428d17d36d0c66</span></dd>
+<dd><span style="font-size:60%;font-family:monospace;">...9d4f79f2ce53428d17d36d0c66</span></dd>
 </dl>
 </div>
 
