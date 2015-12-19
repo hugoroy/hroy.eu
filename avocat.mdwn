@@ -1,6 +1,8 @@
 [[!meta title="Avocat / droit des technologies"]]
 
-<aside>[[!img portraitbw.jpg alt="Portrait" class="pull-right aside" link=no]]</aside>
+<aside class="pull-right aside">
+[[!inline pages="page(./avocat/contact) and !*/Discussion" show="0" feeds=no actions=no template=inlinetext]]
+</aside>
 
 
 J’interviens principalement dans le domaine du droit des technologies

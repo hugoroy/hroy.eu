@@ -1,0 +1,31 @@
+<div class="vcard" id="hcard-Hugo-Roy-avocat">
+
+<img class="u-photo" alt="Hugo Roy" src="/avocat/portraitbw.jpg" />
+
+<p><span class="fn">Hugo Roy</span><br />Avocat à la Cour /
+<em>Attorney at law</em><br />Barreau de Paris / <em>Paris Bar</em></p>
+
+<dl>
+<dt>Ad.</dt>
+<dd>avo<span class="zzz">SPAM</span>cat+contact@hu<span class="zzz">REMOVE</span>go<span class="y">roy.eu</span></dd>
+<dd>1 rue Paul Baudry, 75008 Paris</dd>
+<dt>Tel.</dt>
+<dd>+33 144176560</dd>
+<dt>Mobile</dt>
+<dd>+33 761619046</dd>
+<dt>Signal</dt>
+<dd>05a99317ebb245dc47cb...9d4f79f2ce53428d17d36d0c66</dd>
+</dl>
+</div>
+
+<style type="text/css">
+.zzz{float: right; font-size: 0.001px; color: transparent; display:
+inline-block; width: 0px; text-decoration: none;}#ma-tete { float: left;
+margin: 0 0.5em 0.15em -60px; }dl#contact dt {
+width: 90px;
+float: left;
+font-weight: 500;}dl#contact dt + dt {
+float: none;}
+</style>
+
+
