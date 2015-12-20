@@ -32,7 +32,7 @@ numerous privacy invasion, some of which were only revealed thanks to
 Edward Snowden’s leak from the NSA.
 
 
-<aside class="sidenote right">
+<aside class="sidenote">
 Bruce Schneier. [The Battle for Power on the Internet (extract)](https://www.schneier.com/blog/archives/2013/10/the_battle_for_1.html):
 
 > I have previously characterized this model of computing as "feudal." Users
