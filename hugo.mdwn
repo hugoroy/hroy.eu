@@ -1,6 +1,6 @@
 [[!meta title="Hugo Roy"]]
 [[!meta copyright="Cover photo [by Nine Inch Nails](http://www.flickr.com/photos/nineinchnails/7376287586/),
-used and modified under Creative Commons [non-commercial license](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.fr) / Profile picture: Photo by Ali Madhavi, Circle from Club Mate's logo, background from Zappa's 200 motels movie poster"]]
+used and modified under Creative Commons [non-commercial license](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.fr) / Profile picture: Photo by Ali Mahdavi, Circle from Club Mate's logo, background from Zappa's 200 motels movie poster"]]
 [[!tag ToSDR FSFE Paris FrankZappa]]
 
 

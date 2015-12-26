@@ -1,5 +1,5 @@
 [[!meta title="Avocat / droit des technologies"]]
-[[!meta copyright="Portrait par Ali Madhavi"]]
+[[!meta copyright="Portrait par Ali Mahdavi"]]
 
 <aside id="avocat-contact" class="pull-right aside">
 [[!inline pages="page(./avocat/contact) and !*/Discussion" show="0" feeds=no actions=no template=inlinetext]]
