@@ -1,4 +1,5 @@
 -----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: Please DO NOT send to a keyserver!
 
 mQINBFZYhL8BEACvqOpp2yYasqiRoAPeWUqGt5Ey+gfypLKGqjIkyjzqt8fu+/Wt
 PisHPU86/8OYY5GVYL6Q61ojEwerwTnc3o2vt0nn0cu55h+vRVGpRIifL+bmfZS/
