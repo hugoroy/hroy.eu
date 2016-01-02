@@ -238,9 +238,7 @@ trust between our GnuPG keys (with unsecure HTTP connections).</span>
 
 ## SMSSecure key
 
-`05 aa c1 4f 3e 3b dc 97 [...]
- fb 72 cc 9c e6 74 f3 eb
- 4e`
+`05 8d 90 ba 55 1f 21 25 [...] ec 20 f6 48 5a 5e 0f f9 19`
 
 -----
 
