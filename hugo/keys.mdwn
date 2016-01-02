@@ -234,11 +234,13 @@ trust between our GnuPG keys (with unsecure HTTP connections).</span>
 
 `943DFE7C 6B1B2CD6 A329D5C0 DDD017F3 3FB51ACB` (XMPP Resource: xps)
 
-`43CD86F3 C5DFF6C1 20B2F252 243DAD15 B650D1DD` (XMPP Resource: ChatSecure-9e87d0d6)
+## Signal key
+
+`05 04 4d b4 3e cb 7b 7b [...] b4 d2 b1 57 50 8f eb e7 0e` (+33608....41)
 
 ## SMSSecure key
 
-`05 8d 90 ba 55 1f 21 25 [...] ec 20 f6 48 5a 5e 0f f9 19`
+`05 8d 90 ba 55 1f 21 25 [...] ec 20 f6 48 5a 5e 0f f9 19` (+33608....41)
 
 -----
 
