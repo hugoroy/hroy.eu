@@ -236,11 +236,13 @@ trust between our GnuPG keys (with unsecure HTTP connections).</span>
 
 ## Signal key
 
-`05 04 4d b4 3e cb 7b 7b [...] b4 d2 b1 57 50 8f eb e7 0e` (+33608....41)
+`05 6a af 01 cd e4 1f 12 99 a1 da d4 36 9e c2 9c f4 c6 46 b3 57 c6 d6
+c9 6a f8 d4 d1 8f b7 be 38 57` (+33608....41)
 
 ## SMSSecure key
 
-`05 8d 90 ba 55 1f 21 25 [...] ec 20 f6 48 5a 5e 0f f9 19` (+33608....41)
+`05 66 6d f1 3e 41 dc cf 17 0a 5b 67 2c 97 8d 11 c1 13 fa 03 38 30 87
+d0 b0 1b 45 83 9d 5f be ce 49` (+33608....41)
 
 -----
 
