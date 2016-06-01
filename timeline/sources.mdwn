@@ -14,9 +14,9 @@
   name="Within FSFE" dir="timeline/aggregate/fsfe"
   feedurl="http://blogs.fsfe.org/hugo/feed/"
   url="https://blogs.fsfe.org/hugo/"]]
-- [[!aggregate name="Previous Blog"
-  dir="timeline/aggregate/old" feedurl="http://blog.hugoroy.eu/feed/"
-  url="http://blog.hugoroy.eu/"]]
+<!-- - [[!aggregate name="Previous Blog" -->
+<!--   dir="timeline/aggregate/old" feedurl="http://blog.hugoroy.eu/feed/" -->
+<!--   url="http://blog.hugoroy.eu/"]] -->
 - [[!aggregate name="Flickr Pictures" dir="timeline/aggregate/flickr"
   feedurl="http://www.flickr.com/services/feeds/photos_public.gne?id=91392976@N05&format=rss_200"
   url="https://www.flickr.com/photos/hugoroyd"]]
@@ -29,6 +29,6 @@
 - [[!aggregate name="Vimeo videos" dir="timeline/aggregate/vimeo"
   feedurl="http://vimeo.com/user5876987/videos/rss"
   url="https://vimeo.com/user5876987/videos"]]
-- [[!aggregate name="Media" dir="timeline/aggregate/idno/media"
-  feedurl="https://hugoroy.eu/content/streamingmedia/hugoroyd?_t=rss"
-  url="https://hugoroy.eu/content/streamingmedia/hugoroyd"]]
+<!-- - [[!aggregate name="Media" dir="timeline/aggregate/idno/media" -->
+<!--   feedurl="https://hugoroy.eu/content/streamingmedia/hugoroyd?_t=rss" -->
+<!--   url="https://hugoroy.eu/content/streamingmedia/hugoroyd"]] -->
