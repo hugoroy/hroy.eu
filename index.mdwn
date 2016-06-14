@@ -11,9 +11,13 @@
 
 [Contact me](/hugo/#contact)
 
-<p style="margin-bottom:-0.2em;">Last <a href="/blog">blog</a> posts:</p>
+<section class="recent-blog-posts">
+
+<h2><a href="/blog">Recent blog posts</a></h2>
 
 [[!inline pages="page(./posts/*) and !*/Discussion" archive=yes quick=yes trail=no show="3" feeds="yes"]]
+
+</section>
 
 <style type="text/css">
     .page {
