@@ -132,13 +132,6 @@
 
             <TMPL_IF HTML5></header><TMPL_ELSE></div></TMPL_IF>
 
-            <TMPL_IF HTML5><div class="masthead"><TMPL_ELSE><div class="masthead"></TMPL_IF>
-                <h1 class="title p-name">
-                    <TMPL_VAR TITLE>
-                </h1>
-            <TMPL_IF HTML5></div><TMPL_ELSE></div></TMPL_IF>
-
-
         <TMPL_IF HTML5></header><TMPL_ELSE></div><!--/#pageheader--></TMPL_IF>
 
         <TMPL_UNLESS DYNAMIC>
@@ -152,6 +145,12 @@
         </TMPL_UNLESS>
 
         <div id="pagebody">
+
+            <TMPL_IF HTML5><header class="masthead"><TMPL_ELSE><div class="masthead"></TMPL_IF>
+                <h1 class="title p-name">
+                    <TMPL_VAR TITLE>
+                </h1>
+            <TMPL_IF HTML5></header><TMPL_ELSE></div></TMPL_IF>
 
             <TMPL_IF HTML5><header class="pagedate published dt-published"><TMPL_ELSE><div class="pagedate published dt-published"></TMPL_IF>
                 <TMPL_IF PERMALINK>

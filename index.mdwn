@@ -39,7 +39,7 @@
     #hcard-Hugo-Roy {
     color: #FFF;
     }
-    #hcard-Hugo-Roy .more {
+    .masthead, #hcard-Hugo-Roy .more {
         display: none;
     }
 </style>
