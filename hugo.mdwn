@@ -10,11 +10,11 @@ used and modified under Creative Commons [non-commercial license](http://creativ
 [[attorney]] in Paris (but this is my personal space).
 <span class="p-note">I am also the project leader for <a
 href="//tosdr.org"><img alt=""
-src="//tosdr.org/img/tosdr-icon-19.png"> <span class="org"
+src="//tosdr.org/img/tosdr-icon-19.png">&nbsp;<span class="org"
 title="ToSDR">Terms of Service; Didn't Read</span></a> and I sit
 on the board of the <a
 href="//www.fsfe.org"><img alt=""
-src="//fsfe.org/graphics/stars-smaller.png" height="19"> <span
+src="//fsfe.org/graphics/stars-smaller.png" height="19">&nbsp;<span
 class="org">Free Software Foundation Europe</span></a>. And a Zappaist.</span> </p>
 <dl id="contact" class="more">
 <dt>email</dt>

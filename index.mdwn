@@ -42,6 +42,9 @@
     .masthead, #hcard-Hugo-Roy .more {
         display: none;
     }
+    .recent-blog-posts {
+        margin-top: 8em;
+    }
 </style>
 
 [[!meta copyright="Cover photo [by Nine Inch Nails](http://www.flickr.com/photos/nineinchnails/7376287586/),
