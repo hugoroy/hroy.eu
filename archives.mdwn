@@ -37,24 +37,14 @@ archive pages.
 <div class="seeWhat">See:</div>
 <div class="selectors btn-group" role="group">
   <button type="button" class="selector btn btn-default" data-toggle="collapse" data-target="#archives-allposts" data-parent="#select-archive">Posts</button>
-  <button type="button" class="selector btn btn-default" data-toggle="collapse" data-target="#archives-alltips" data-parent="#select-archive">Tips</button>
-  <button type="button" class="selector btn btn-default" data-toggle="collapse" data-target="#archives-alltalks" data-parent="#select-archive">Talks</button>
+  <a class="selector btn btn-default" href="/tips">Tips</a>
+  <a class="selector btn btn-default" href="/talks">Talks</a>
 </div>
 
 <div class="accordeon">
-<div id="archives-allposts" class="collapse">
+<div id="archives-allposts" class="collapse in">
 <h2>All blog posts</h2>
 [[!inline pages="page(./posts) and !*/Discussion" show="0" feeds=no actions=no template=inlinetext]]
-</div>
-
-<div id="archives-alltips" class="collapse">
-<h2>All tips</h2>
-[[!inline pages="page(./tips) and !*/Discussion" show="0" feeds=no actions=no template=inlinetext]]
-</div>
-
-<div id="archives-alltalks" class="collapse">
-<h2>All talks</h2>
-[[!inline pages="page(./talks) and !*/Discussion" show="0" feeds=no actions=no template=inlinetext]]
 </div>
 </div>
 
