@@ -26,7 +26,8 @@
 
 ----------------------------------------------------------------------------
 
-If you’ve read until here, you should [[browse_the_archives|archives]].
+If you’ve read until here, you should [[browse_the_archives|archives]]
+or go to <a href="/posts/">all posts</a>: </span><span><a href="/en/">in English</a></span>&nbsp;/ <span><a href="/fr/">en français</a>.
 
 
 <style type="text/css">
