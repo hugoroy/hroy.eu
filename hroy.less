@@ -488,12 +488,18 @@ html.js {
 
     }
 
-    a[href*="//"]:not([href*="hroy."])::after {
+    .external-link {
             content: "⇗";
             padding-left: 2px;
             font-size: 80%;
             vertical-align: top;
-        }
+    }
+
+    a[href*="//"]:not([href*="hroy."])::after,
+    a[href*="//"]:not([href*="hroy-eu"])::after
+    {
+        .external-link;
+    }
 
     p, ul {
         margin: 0 0 1.3em;
