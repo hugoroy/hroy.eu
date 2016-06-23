@@ -8,7 +8,7 @@ you can
 [subscribe to the feed](http://source.hroy-eu.branchable.com/?p=source.git;a=atom;f=posts/understandingTechnology.mdwn)
 to get updates.
 
-[[!more  linktext="Read ›" pages="/blog/*" text="""
+[[!more  linktext="Read ›" text="""
 
  - [On HTML5 and the Group That Rules the Web — The New Yorker](http://www.newyorker.com/tech/elements/group-rules-web)<br />
    Paul Ford, Nov 2014 [[!taglink #Web|web]] [[!taglink #W3C|W3C]]
