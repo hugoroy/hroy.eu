@@ -8,6 +8,9 @@ French government on website blocking.
 
 This is part 2 of our series [“French Data Network *versus* the French Government”](/tags/FdnContreGouvernement/).
 
+
+[[!more  linktext="Read ›" text="""
+
 #### Who?
 
 French Data Network, the Fédération FDN and La Quadrature du Net. This
@@ -98,3 +101,5 @@ depending on prejudicial and accessory procedures...).
 
 *Related:* [La Quadrature's press release](http://www.laquadrature.net/en/france-ffdn-and-lqdn-bring-legal-challenge-against-administrative-website-blocking)
 and [FDN's blog post (in French)](http://blog.fdn.fr/?post/2015/04/15/Le-blocage-des-sites-web-attaque-devant-le-Conseil-d-Etat).
+
+"""]]

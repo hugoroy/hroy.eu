@@ -14,6 +14,8 @@ Today, most of users’ data are not stored on their computer’s hard
 drive any more, but rather online on a service provider’s server
 somewhere in a data center.
 
+[[!more  linktext="Read ›" text="""
+
 While most computing happened on local machines, in the late years a
 new kind of “computing“ has emerged in daily use. Marketers have
 called this “Cloud computing”---but do not mistake, as there is no
@@ -122,3 +124,5 @@ starting point rather than an end in itself.
 ---------------------
 
 Thanks to ownCloud, Inc for inviting me over to the ownCloud conf in Berlin.
+
+"""]]

@@ -5,6 +5,7 @@
 J'aimerais partager ici la mésaventure que m'a fait vivre
 Transavia France pendant mes vacances ce mois d'août.
 
+[[!more  linktext="Lire ›" text="""
 Tout d'abord, un récapitulatif.
 
 J'ai réservé au mois de mai deux billets aller-retour les 8 et 15 août
@@ -189,3 +190,5 @@ le service client.
 
 
 À suivre…
+
+"""]]
