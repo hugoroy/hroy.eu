@@ -486,13 +486,14 @@ html.js {
         transition-timing-function: ease-out;
         background-color: rgba(255, 255, 0, 0.2);
 
-        &[href*="//"]:not([href*="hroy."])::after {
+    }
+
+    a[href*="//"]:not([href*="hroy."])::after {
             content: "⇗";
             padding-lefet: 2px;
             font-size: 80%;
             vertical-align: top;
         }
-    }
 
     p, ul {
         margin: 0 0 1.3em;
