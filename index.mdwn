@@ -53,6 +53,7 @@
     .recent-blog-posts a:link, .recent-blog-posts a:visited {
     background-size: 0 !important;
     }
+    .archivepagedate time { color: #FFF; }
 </style>
 
 [[!meta copyright="Cover photo [by Nine Inch Nails](http://www.flickr.com/photos/nineinchnails/7376287586/),
