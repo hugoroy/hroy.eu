@@ -31,7 +31,7 @@ class="org">Free Software Foundation Europe</span></a>. And a Zappaist.</span> <
 <dd>hugo@jabber.fsfe.org</dd>
 </dl>
 
-<p>Let's encrypt, see my [[keys]].</p>
+<p class="more">Let's encrypt, see my [[keys]].</p>
 </div>
 
 <style type="text/css">
