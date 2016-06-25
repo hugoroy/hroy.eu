@@ -38,11 +38,10 @@ class="org">Free Software Foundation Europe</span></a>. And a Zappaist.</span> <
 .zzz{float: right; font-size: 0.001px; color: transparent; display:
 inline-block; width: 0px; text-decoration: none;}#ma-tete { float: left;
 margin: 0 0.5em 0.15em -60px; }dl#contact dt {
-margin-top: 0.25em;
-width: 90px;
+width: 100px;
 float: left;
 font-weight: 600;}dl#contact dt + dt {
-float: none;}dl#contact dd + dd { margin-left: 90px; }
-#contact :target {background-color: transparent;}
+float: none;}dl#contact dd + dd { margin-left: 100px; }
+#contact :target, #contact {background-color: transparent;}
 </style>
 
