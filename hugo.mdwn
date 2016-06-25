@@ -40,6 +40,7 @@ class="org">Free Software Foundation Europe</span></a>. And a Zappaist.</span> <
 dl#contact dt, dl#contact dt + dd {margin-top: 0.33em;}
 dl#contact dt + dt {float: none;}
 dl#contact dd + dd { margin-left: 100px;}
+dl#contact dd:last-child { margin-bottom: 0.33em;}
 dl#contact dt {width: 100px;float: left;font-weight: 600;}
 body :target, body [fragmention] { background-color: transparent;}
 </style>
