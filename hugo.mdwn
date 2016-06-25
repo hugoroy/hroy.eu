@@ -17,8 +17,9 @@ href="//www.fsfe.org" style="display:inline-block"><img alt=""
 src="//fsfe.org/graphics/stars-smaller.png" height="19"> <span
 class="org">Free Software Foundation Europe</span></a>. And a Zappaist.</span> </p>
 
-<h3 id="contact" class="more">Contact me</h3>
-<dl class="more">
+[Contact me](/hugo/#contact)
+
+<dl id="contact" class="more">
 <dt><a href="https://whispersystems.org/#messaging">Signal</a></dt>
 <dd>+33608…41</dd>
 <dt>email</dt>

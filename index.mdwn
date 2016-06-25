@@ -9,8 +9,6 @@
 
 [[!inline pages="page(./hugo) and !*/Discussion" show="0" feeds=no actions=no template=inlinetext]]
 
-[Contact me](/hugo/#contact)
-
 <section class="recent-blog-posts">
 
 <h2><a href="/blog">Recent blog posts</a></h2>
