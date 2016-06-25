@@ -27,6 +27,8 @@ class="org">Free Software Foundation Europe</span></a>. And a Zappaist.</span> <
 <dt>irc</dt>
 <dd>irc.GeekNode.net/Hugo</dd>
 <dd>irc.freenode.net/hugoroyd</dd>
+<dt><a href="http://twitter.com/hugoroyd">Twitter</a></dt>
+<dd>@hugoroyd</dd>
 <dt><a href="https://xmpp.net/directory.php">xmpp</a></dt>
 <dd>hugo@jabber.fsfe.org</dd>
 </dl>
