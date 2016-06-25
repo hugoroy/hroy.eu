@@ -21,8 +21,8 @@ class="org">Free Software Foundation Europe</span></a>. And a Zappaist.</span> <
 <dd>hu<span class="zzz">SPAM</span>go@hu<span class="zzz">REMOVE</span>go<span class="y">roy.eu</span></dd>
 <dt><a href="https://xmpp.net/directory.php">xmpp</a></dt>
 <dd>hugo@jabber.fsfe.org</dd>
-<dt>encryption</dt>
-<dd>[[keys]]</dd>
+<dt>encrypt</dt>
+<dd>[[my keys]]</dd>
 </dl>
 </div>
 
