@@ -21,7 +21,7 @@ class="org">Free Software Foundation Europe</span></a>. And a Zappaist.</span> <
 
 <dl id="contact" class="more">
 <dt><a href="https://whispersystems.org/#messaging">Signal</a></dt>
-<dd>+33608…41</dd>
+<dd>+33608……41</dd>
 <dt>email</dt>
 <dd>hu<span class="zzz">SPAM</span>go+FIKWK@hu<span class="zzz">REMOVE</span>go<span class="y">roy.eu</span></dd>
 <dt>irc</dt>
