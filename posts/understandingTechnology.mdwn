@@ -22,6 +22,7 @@ to get updates.
  - [A Free Digital Society: What Makes Digital Inclusion Good or Bad? — GNU.org](http://www.gnu.org/philosophy/free-digital-society.en.html)<br />
    Richard Stallman, Oct 2011
 
-If you have suggestions for articles that you think belong here, [[get_in_touch|hugo]].
+If you have suggestions for articles that you think belong here, feel
+free to share them with me.
 
 """]]

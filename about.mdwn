@@ -29,8 +29,7 @@ webmentions from Twitter, Facebook or [other silos].
 Also, note that IP addresses of comment posters will be registered and
 published through [commit
 logs](http://source.hroy-eu.branchable.com/?p=source.git;a=summary). If you
-do not wish to disclose your IP address through this, then [contact
-me](http://hugoroy.eu/index.en.html#email) and I’ll post the comment for
+do not wish to disclose your IP address through this, then [[contact_me|hugo]] and I’ll post the comment for
 you.
 
 At last, by commenting, you contribute to the blog and thus your comment is
