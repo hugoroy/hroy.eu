@@ -9,11 +9,11 @@ used and modified under Creative Commons [non-commercial license](http://creativ
 <p>Hi! I’m <span class="fn" title="Hugo Roy">Hugo</span>. I’m an
 [[attorney]] in Paris (but this is my personal space).
 <span class="p-note">I am also the project leader for <a
-href="//tosdr.org" style="inline-block"><img alt=""
+href="//tosdr.org" style="display:inline-block"><img alt=""
 src="//tosdr.org/img/tosdr-icon-19.png"> <span class="org"
 title="ToSDR">Terms of Service; Didn't Read</span></a> and I sit
 on the board of the <a
-href="//www.fsfe.org" style="inline-block"><img alt=""
+href="//www.fsfe.org" style="display:inline-block"><img alt=""
 src="//fsfe.org/graphics/stars-smaller.png" height="19"> <span
 class="org">Free Software Foundation Europe</span></a>. And a Zappaist.</span> </p>
 <dl id="contact" class="more">
