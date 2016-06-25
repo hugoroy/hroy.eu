@@ -36,11 +36,11 @@ class="org">Free Software Foundation Europe</span></a>. And a Zappaist.</span> <
 
 <style type="text/css">
 .zzz{float: right; font-size: 0.001px; color: transparent; display:inline-block; width: 0px; text-decoration: none;}
-#ma-tete { float: left; margin: 0 0.5em 0.15em -60px; }
-dl#contact dt {width: 100px;float: left;font-weight: 600;}
+#ma-tete { float: left; margin: 0 0.5em 0.15em -60px;}
 dl#contact dt, dl#contact dt + dd {margin-top: 0.33em;}
 dl#contact dt + dt {float: none;}
 dl#contact dd + dd { margin-left: 100px;}
+dl#contact dt {width: 100px;float: left;font-weight: 600;}
 body :target, body [fragmention] { background-color: transparent;}
 </style>
 
