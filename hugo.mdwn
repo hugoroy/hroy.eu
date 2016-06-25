@@ -16,13 +16,20 @@ on the board of the <a
 href="//www.fsfe.org" style="display:inline-block"><img alt=""
 src="//fsfe.org/graphics/stars-smaller.png" height="19"> <span
 class="org">Free Software Foundation Europe</span></a>. And a Zappaist.</span> </p>
-<dl id="contact" class="more">
+
+<h3 id="contact" class="more">Contact me</h3>
+<dl class="more">
+<dt><a href="https://whispersystems.org/#messaging">Signal</a></dt>
+<dd>+33608…41</dd>
 <dt>email</dt>
-<dd>hu<span class="zzz">SPAM</span>go@hu<span class="zzz">REMOVE</span>go<span class="y">roy.eu</span></dd>
+<dd>hu<span class="zzz">SPAM</span>go+FIKWK@hu<span class="zzz">REMOVE</span>go<span class="y">roy.eu</span></dd>
+<dt>irc</dt>
+<dd>irc.GeekNode.net/Hugo</dd>
+<dd>irc.freenode.net/hugoroyd</dd>
 <dt><a href="https://xmpp.net/directory.php">xmpp</a></dt>
 <dd>hugo@jabber.fsfe.org</dd>
-<dt>encrypt</dt>
-<dd>[[my keys]]</dd>
+<dt style="margin-top: 1em;">encrypt</dt>
+<dd>see my [[keys]]</dd>
 </dl>
 </div>
 
