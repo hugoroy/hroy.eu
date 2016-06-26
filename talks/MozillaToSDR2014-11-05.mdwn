@@ -16,7 +16,7 @@
 <figure class="slides">
 <figcaption><a href="/talks/MozillaToSDR2014-11-05/src/">Sources</a></figcaption>
 <iframe
-src="//ampoliros.net/slides/hugo/MozillaToSDR2014-11-05/FixingTheBiggestLieAtMozilla.md.revealjs.html"
+src="//hugoroy.eu/slides/hugo/MozillaToSDR2014-11-05/FixingTheBiggestLieAtMozilla.md.revealjs.html"
 allowfullscreen="true" mozallowfullscreen="true"
 webkitallowfullscreen="true" frameborder="0" title="Fixing The Biggest Lie on the Web - Mozilla London"
 width="666" height="580"></iframe>
@@ -35,7 +35,7 @@ width="666" height="580"></iframe>
 <figure class="slides">
 <figcaption><a href="/talks/MozillaToSDR2014-11-05/src/">Sources</a></figcaption>
 <iframe
-src="//ampoliros.net/slides/hugo/MozillaToSDR2014-11-05/ToSDRBehindTheScenes.md.revealjs.html"
+src="//hugoroy.eu/slides/hugo/MozillaToSDR2014-11-05/ToSDRBehindTheScenes.md.revealjs.html"
 allowfullscreen="true" mozallowfullscreen="true"
 webkitallowfullscreen="true" frameborder="0" title="ToS;DR Behind the Scenes, Mozilla, London"
 width="666" height="580"></iframe>
