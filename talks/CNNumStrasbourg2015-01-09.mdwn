@@ -11,7 +11,7 @@ du Numérique
 [[!toggleable id="CNNumStrasbourg2015-01-09" text="""
 
 <figure class="slides">
-<figcaption><a href="/talks/CNNumStrasbourg2015-01-09/src/">Sources</a></figcaption>
+<figcaption><a href="//hugoroy.eu/slides/hugo/CNNumStrasbourg2015-01-09/PitchHugoRoyToSDR.md.revealjs.html" target="_blank">Fullscreen</a><br /><a href="/talks/CNNumStrasbourg2015-01-09/src/">Sources</a></figcaption>
 <iframe
 src="//hugoroy.eu/slides/hugo/CNNumStrasbourg2015-01-09/PitchHugoRoyToSDR.md.revealjs.html"
 allowfullscreen="true" mozallowfullscreen="true"
