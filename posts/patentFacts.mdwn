@@ -65,8 +65,16 @@ Some facts and statistics about [[!taglink patents]] (with a focus on software a
     year: 2013
 
 
-The following assertions do not have reliable sources or data. If you have some
-idea of a better source for these facts, please get in touch.
+The following assertions rely on surveys or do not have reliable
+sources or data. If you have some idea of a better source for these
+facts, please get in touch.
+
+  - 52% of companies purchase patents to secure freedom to operate 
+  
+    source:
+    [IAM](http://www.iam-media.com/blog/Detail.aspx?g=fee0f344-6c2f-419b-a799-deac7d4c92be)
+    
+    year: 2015
 
   - Between 40% and 90% of all patents issued are never used or licensed by their owners.
 
