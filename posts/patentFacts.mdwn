@@ -30,6 +30,7 @@ Some facts and statistics about [[!taglink patents]] (with a focus on software a
   - In the US, patents challenged on the basis of the US Supreme Court
     *Alice v. CLS Bank* decision are invalidated by Federal Circuit
     courts in 91.9% of cases <small>(66.5% for all courts)</small>.
+    (Also ses [Deb Nicholson's talk](https://youtu.be/UR0QEQ3VqU0))
     
     source:
     [Japser L. Tran, Univ. of Minnesota](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2798992)
