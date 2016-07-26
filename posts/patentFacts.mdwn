@@ -26,6 +26,15 @@ Some facts and statistics about [[!taglink patents]] (with a focus on software a
     source: [Bardehle](http://www.bardehle.com/uploads/files/Patent_Papiertiger.pdf) [pdf]
 
     years: 2010-2013
+    
+  - In the US, patents challenged on the basis of the US Supreme Court
+    *Alice v. CLS Bank* decision are invalidated by Federal Circuit
+    courts in 91.9% of cases <small>(66.5% for all courts)</small>.
+    
+    source:
+    [Japser L. Tran, Univ. of Minnesota](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2798992)
+    
+    years: 2013-2016
 
   - Apple and Google spend more on patent litigation and patent purchases than on research and development.
 
