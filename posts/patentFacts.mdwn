@@ -74,6 +74,12 @@ Some facts and statistics about [[!taglink patents]] (with a focus on software a
 
     year: 2013
 
+  - 88% of the patents held by “patent assertion entities” (a.k.a. “patent trolls”) in the US are information and communication technology patents, with more than 75% software-related.
+
+    source: [US Federal Trade Commission (FTC)](https://www.ftc.gov/news-events/press-releases/2016/10/ftc-report-sheds-new-light-how-patent-assertion-entities-operate) [pdf](https://www.ftc.gov/system/files/documents/reports/patent-assertion-entity-activity-ftc-study/p131203_patent_assertion_entity_activity_an_ftc_study.pdf)
+
+    years: 2009-2014
+
 
 The following assertions rely on surveys or do not have reliable
 sources or data. If you have some idea of a better source for these
