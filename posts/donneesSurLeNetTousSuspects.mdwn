@@ -1,10 +1,10 @@
-[[!meta title="Understanding Technology"]]
+[[!meta title="Données sur le net : tous suspects"]]
 [[!meta date="2017-06-18"]]
 [[!meta language="fr"]]
 [[!tag lang:fr privacy dataRetention FrenchDataNetwork FédérationFDN LaQuadratureDuNet surveillance]]
 [[!meta redirect="https://exegetes.eu.org/posts/donnees-sur-le-net-tous-suspects/"]]
 
-**Tribune publiée le 18 juin par les Exégètes dans Libération en version papier et [en ligne](http://www.liberation.fr/debats/2017/06/18/donnees-sur-le-net-tous-suspects_1577671).** 
+**[Tribune publiée le 18 juin par les Exégètes](https://exegetes.eu.org/posts/donnees-sur-le-net-tous-suspects/) dans Libération en version papier et [en ligne](http://www.liberation.fr/debats/2017/06/18/donnees-sur-le-net-tous-suspects_1577671).** 
 
 Placer la totalité de la population sous surveillance préventive n’est pas admissible dans une société démocratique. Voici la conclusion tirée par la Cour de justice de l’Union européenne, dans deux arrêts (*Digital Rights* en 2014 et *Tele2* en 2016) concernant les «*données de connexion*». Pour la cour européenne, ces traces numériques enregistrées dans le sillage des communications électroniques de chacun (géolocalisation, appels téléphoniques, connexions internet, etc.) révèlent des informations précises et sensibles de la vie des personnes. Leur conservation ne peut donc pas être généralisée et systématique ; elle doit à l’inverse être encadrée et limitée afin de garantir le droit fondamental au respect de la vie privée.
 
