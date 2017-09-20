@@ -7,15 +7,22 @@ used and modified under Creative Commons [non-commercial license](http://creativ
 <div class="vcard" id="hcard-Hugo-Roy">
 <img id="ma-tete" class="u-photo" alt="Hugo Roy" title="Hugo Roy" src="/favatar.png" />
 <p>Hi! I’m <span class="fn" title="Hugo Roy">Hugo</span>. I’m an
-[[attorney]] in Paris (but this is my personal space).
-<span class="p-note">I am also the project leader for <a
-href="//tosdr.org" style="display:inline-block"><img alt=""
+attorney in Paris (but this is my personal space).  <span
+class="p-note">I am also the Vice President of <a href="//fdn.fr"
+style="display:inline-block"><img alt=""
+src="//www.fdn.fr/wp-content/uploads/logo-fdn.png" height="19"> <span
+class="org" title="FDN">French Data Network</span></a> (France’s
+oldest Internet access provider) and cofounder of the <a
+href="//exegetes.eu.org/">Exégètes Amateurs</a> (a digital rights
+litigation group). I cofounded <a href="//tosdr.org"
+style="display:inline-block"><img alt=""
 src="//tosdr.org/img/tosdr-icon-19.png"> <span class="org"
-title="ToSDR">Terms of Service; Didn't Read</span></a> and I sit
-on the board of the <a
-href="//www.fsfe.org" style="display:inline-block"><img alt=""
+title="ToSDR">Terms of Service; Didn't Read</span></a> and I sit on
+the board of the <a href="//www.fsfe.org"
+style="display:inline-block"><img alt=""
 src="//fsfe.org/graphics/stars-smaller.png" height="19"> <span
-class="org">Free Software Foundation Europe</span></a>. And a Zappaist.</span> </p>
+class="org">Free Software Foundation Europe</span></a>. True
+Zappaist.</span> </p>
 
 <p><a href="/hugo/#contact">Contact me</a></p>
 
@@ -24,13 +31,15 @@ class="org">Free Software Foundation Europe</span></a>. And a Zappaist.</span> <
 <dd>+33608……41</dd>
 <dt>email</dt>
 <dd>hu<span class="zzz">SPAM</span>go+FIKWK@hu<span class="zzz">REMOVE</span>go<span class="y">roy.eu</span></dd>
+<dt><a href="https://mastodon.xyz/@hugo">Mastodon</a></dt>
+<dd>@hugo@mastodon.xyz</dd>
+<dt><a href="http://twitter.com/hugoroyd">Twitter</a></dt>
+<dd>@hugoroyd</dd>
 <dt>irc</dt>
 <dd>irc.GeekNode.net/Hugo</dd>
 <dd>irc.freenode.net/hugoroyd</dd>
-<dt><a href="http://twitter.com/hugoroyd">Twitter</a></dt>
-<dd>@hugoroyd</dd>
-<dt><a href="https://xmpp.net/directory.php">xmpp</a></dt>
-<dd>hugo@jabber.fsfe.org</dd>
+<!-- <dt><a href="https://xmpp.net/directory.php">xmpp</a></dt>-->
+<!-- <dd>hugo@jabber.fsfe.org</dd>-->
 </dl>
 
 <p class="more">Let's encrypt, see my [[keys]].</p>
