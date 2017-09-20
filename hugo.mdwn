@@ -8,13 +8,13 @@ used and modified under Creative Commons [non-commercial license](http://creativ
 <img id="ma-tete" class="u-photo" alt="Hugo Roy" title="Hugo Roy" src="/favatar.png" />
 <p>Hi! I’m <span class="fn" title="Hugo Roy">Hugo</span>. I’m an
 attorney in Paris (but this is my personal space).  <span
-class="p-note">I am also the Vice President of <a href="//fdn.fr"
+class="p-note">I am the Vice President of <a href="//fdn.fr"
 style="display:inline-block"><img alt=""
 src="//www.fdn.fr/wp-content/uploads/logo-fdn.png" height="19"> <span
 class="org" title="FDN">French Data Network</span></a> (France’s
-oldest Internet access provider) and cofounder of the <a
+oldest Internet access provider), where I co-started the <a
 href="//exegetes.eu.org/">Exégètes Amateurs</a> (a digital rights
-litigation group). I cofounded <a href="//tosdr.org"
+litigation group). I also cofounded <a href="//tosdr.org"
 style="display:inline-block"><img alt=""
 src="//tosdr.org/img/tosdr-icon-19.png"> <span class="org"
 title="ToSDR">Terms of Service; Didn't Read</span></a> and I sit on
