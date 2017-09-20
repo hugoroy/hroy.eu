@@ -6,4 +6,10 @@
 [youtube]: //www.youtube.com/embed/mOHCV-QO5HA
 
 [[!tag lang:en FrankZappa progress]]
-[[!meta title="Without deviation from the norm…"]]
+[[!meta title="Without deviation from the norm, progress is not possible."]]
+
+
+
+<style type="text/css">
+.masthead h1.title {display:none;}
+</style>

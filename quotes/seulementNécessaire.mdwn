@@ -10,3 +10,9 @@
 
 [[!tag lang:fr lang:de FranzKafka truth law]]
 [[!meta title="Non, dit le prêtre, on n'a pas à tenir tout pour vrai…"]]
+
+
+
+<style type="text/css">
+.masthead h1.title {display:none;}
+</style>

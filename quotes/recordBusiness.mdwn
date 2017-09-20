@@ -19,3 +19,8 @@ considers a negative trend.
 </aside>
 
 [FZProposal]: http://web.archive.org/web/20160423130253/http://www.zappa.com/whatsnew/news/FZ-Proposal/
+
+
+<style type="text/css">
+.masthead h1.title {display:none;}
+</style>

@@ -9,3 +9,9 @@
 
 [[!tag lang:en lang:fr JeanMarieGuyau progress]]
 [[!meta title="Dans la pratique — les révolutionnaires se trompent toujours…"]]
+
+
+
+<style type="text/css">
+.masthead h1.title {display:none;}
+</style>

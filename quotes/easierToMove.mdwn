@@ -4,3 +4,9 @@
 
 [[!tag lang:en Berlin nomad]]
 [[!meta title="It's easier to move without a piano"]]
+
+
+
+<style type="text/css">
+.masthead h1.title {display:none;}
+</style>

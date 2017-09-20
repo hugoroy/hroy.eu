@@ -4,3 +4,9 @@
 
 [[!tag lang:en information knowledge wisdom truth beauty love music FrankZappa]]
 [[!meta title="Information is not knowledge…"]]
+
+
+
+<style type="text/css">
+.masthead h1.title {display:none;}
+</style>

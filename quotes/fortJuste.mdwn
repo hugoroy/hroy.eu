@@ -8,3 +8,9 @@
 
 [[!tag lang:fr justice power]]
 [[!meta title="Il est juste que ce qui est juste soit suivi…"]]
+
+
+
+<style type="text/css">
+.masthead h1.title {display:none;}
+</style>

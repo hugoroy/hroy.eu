@@ -4,3 +4,8 @@
 
 [[!tag lang:fr truth justice law]]
 [[!meta title="– Bah, la vérité, la vérité…"]]
+
+
+<style type="text/css">
+.masthead h1.title {display:none;}
+</style>

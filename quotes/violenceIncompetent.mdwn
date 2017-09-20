@@ -6,3 +6,9 @@
 
 [[!meta title="Violence is the last refuge…"]]
 [[!tag violence lang:en IsaacAsimov]]
+
+
+
+<style type="text/css">
+.masthead h1.title {display:none;}
+</style>
