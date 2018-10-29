@@ -2,6 +2,12 @@
 [[!meta language="en"]]
 [[!tag lang:en mutt msmtp]]
 
+**Edit**: You should have a look at [msmtp-queue-scheduler](https://github.com/parisni/msmtp-queue-defer) to solve this :-)
+
+Thanks Nicolas!
+
+-----------------
+
 I've been looking for a solution to this problem:
 
 Sometimes, I just sent an email, and after 10 seconds I realise: “Oh,
