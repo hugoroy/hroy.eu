@@ -52,6 +52,7 @@
     background-size: 0 !important;
     }
     .archivepagedate, .archivepagedate time { color: #FFF; }
+    p#contact-link {display:block !important;}
 </style>
 
 [[!meta copyright="Cover photo [by Nine Inch Nails](http://www.flickr.com/photos/nineinchnails/7376287586/),

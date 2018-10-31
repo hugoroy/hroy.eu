@@ -286,9 +286,6 @@ footer, blockquote {
             font-weight: normal;
             font-size: 80%;
         }
-        #relmes {
-            text-align: center;
-        }
         .randomquote {
             text-align: center;
         }
@@ -1046,7 +1043,6 @@ article.inlinepage {
     }
 }
 
-
 #pagefooter {
     margin: 0;
     border-top: 1px solid #CCC;
@@ -1055,15 +1051,16 @@ article.inlinepage {
         border: 0;
     }
 
-    #relmes, .randomquote {
+    #relmes {
+        display: none;
+        visibility: hidden;
+    }
+
+    .randomquote {
         padding-left: 0;
         li {
             display: inline;
         }
-    }
-
-    #relmes i.fa-lg {
-        color: #333;
     }
 
     .contact {

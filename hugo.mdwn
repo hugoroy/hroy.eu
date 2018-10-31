@@ -8,7 +8,7 @@ used and modified under Creative Commons [non-commercial license](http://creativ
 <img id="ma-tete" class="u-photo" alt="Hugo Roy" title="Hugo Roy" src="/favatar.png" />
 <p>Hi! I’m <span class="fn" title="Hugo Roy">Hugo</span>. I’m an
 attorney in Paris (but this is my personal space).  <span
-class="p-note">I am the Vice President of <a href="//fdn.fr"
+class="p-note">I am a former Vice-President of <a href="//fdn.fr"
 style="display:inline-block"><img alt=""
 src="//www.fdn.fr/wp-content/uploads/logo-fdn.png" height="19"> <span
 class="org" title="FDN">French Data Network</span></a> (France’s
@@ -24,7 +24,31 @@ src="//fsfe.org/graphics/stars-smaller.png" height="19"> <span
 class="org">Free Software Foundation Europe</span></a>. True
 Zappaist.</span> </p>
 
-<p><a href="/hugo/#contact">Contact me</a></p>
+<ul id="relmes">
+    <li>
+        <a href="https://hugoroy.eu/" rel="me"><i class="fa fa-lg fa-fw fa-user-circle" title="Homepage"></i></li>
+    </li>
+    <li> 
+        <a href="https://twitter.com/hugoroyd" rel="me"><i class="fa fa-lg fa-fw fa-twitter" title="Twitter: @hugoroyd"></i></a></li>
+    <li> 
+        <a href="http://mastodon.xyz/@hugo" rel="me" title="Mastodon: @hugo@mastodon.xyz"><img src="https://mastodon.xyz/apple-touch-icon.png" class="fa-fw" alt="" /></a>&nbsp;</li>
+    <li>
+        <a href="https://github.com/hugoroy" rel="me"><i class="fa fa-lg fa-fw fa-github" title="GitHub: @hugoroy"></i></a></li>
+    <li class="hide"><i class="fa fa-fw fa-chevron-right" title="pump.io"></i> 
+        <a href="https://identi.ca/hugoroy" rel="me" title="@hugoroy">identi.ca</a></li>
+    <li class="hide"><i class="fa fa-fw fa-google-plus-square" title="Google+"></i> 
+        <a href="https://plus.google.com/+HugoRoy" rel="me">+Hugo&nbsp;Roy</a></li>
+    <li class="hide"><i class="fa fa-fw fa-linkedin" title="LinkedIn"></i>
+        <a href="http://www.linkedin.com/in/hugoroy" rel="me">my resume</a></li>
+    <li class="hide"><i class="fa fa-fw fa-music" title="Discogs"></i> 
+        <a href="http://www.discogs.com/collection?page=1&amp;limit=250&amp;sort=year%2Casc&amp;layout=big&amp;user=hugoroy">my discs</a></li>
+    <li class="hide"><i class="fa fa-fw fa-book" title="OpenLibrary.org"></i>
+        <a href="http://openlibrary.org/people/hugoroy/lists/OL29190L/Own_Library">my library</a></li>
+    <li class="hide"><i class="fa fa-fw fa-camera-retro" title="Flickr"></i> 
+        <a href="http://www.flickr.com/photos/hugoroyd/">pictures</a></li>
+</ul>
+
+<p id="contact-link"><a href="/hugo/#contact">Contact me</a></p>
 
 <dl id="contact" class="more">
 <dt><a href="https://whispersystems.org/#messaging">Signal</a></dt>
@@ -35,18 +59,20 @@ Zappaist.</span> </p>
 <dd>@hugo@mastodon.xyz</dd>
 <dt><a href="http://twitter.com/hugoroyd">Twitter</a></dt>
 <dd>@hugoroyd</dd>
-<dt>irc</dt>
-<dd>irc.GeekNode.net/Hugo</dd>
-<dd>irc.freenode.net/hugoroyd</dd>
+<!--<dt>irc</dt>-->
+<!--<dd>irc.GeekNode.net/Hugo</dd>-->
+<!--<dd>irc.freenode.net/hugoroyd</dd>-->
 <!-- <dt><a href="https://xmpp.net/directory.php">xmpp</a></dt>-->
 <!-- <dd>hugo@jabber.fsfe.org</dd>-->
 </dl>
-
-<p class="more">Let's encrypt, see my [[keys]].</p>
 </div>
 
 <style type="text/css">
 .zzz{float: right; font-size: 0.001px; color: transparent; display:inline-block; width: 0px; text-decoration: none;}
 body :target, body [fragmention] { background-color: transparent;}
+ul#relmes {padding-left: 0;}
+ul#relmes li {display: inline;list-style-type: none;}
+ul#relmes i.fa-lg {color: #333;}
+p#contact-link {display:none;}
 </style>
 
