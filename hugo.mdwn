@@ -72,7 +72,7 @@ body :target, body [fragmention] { background-color: transparent;}
 ul#relmes {padding-left: 0;}
 ul#relmes li {display: inline;list-style-type: none;}
 ul#relmes a:after {display: none;}
-ul#relmes a {background: transparent;}
+ul#relmes a {background-size:0;}
 p#contact-link {display:none;}
 </style>
 
