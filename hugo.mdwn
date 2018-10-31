@@ -25,9 +25,8 @@ class="org">Free Software Foundation Europe</span></a>. True
 Zappaist.</span> </p>
 
 <ul id="relmes">
-    <li>
-        <a href="https://hugoroy.eu/" rel="me"><i class="fa fa-lg fa-fw fa-user-circle" title="Homepage"></i></li>
-    </li>
+    <li class="hide">
+        <a href="https://hugoroy.eu/" rel="me"><i class="fa fa-lg fa-fw fa-user-circle" title="Hugo Roy - homepage"></i></a></li>
     <li> 
         <a href="https://twitter.com/hugoroyd" rel="me"><i class="fa fa-lg fa-fw fa-twitter" title="Twitter: @hugoroyd"></i></a></li>
     <li> 
@@ -72,6 +71,8 @@ Zappaist.</span> </p>
 body :target, body [fragmention] { background-color: transparent;}
 ul#relmes {padding-left: 0;}
 ul#relmes li {display: inline;list-style-type: none;}
+ul#relmes a:after {display: none;}
+ul#relmes a {background: transparent;}
 ul#relmes i.fa-lg {color: #333;}
 p#contact-link {display:none;}
 </style>
