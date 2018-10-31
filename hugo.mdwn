@@ -73,7 +73,6 @@ ul#relmes {padding-left: 0;}
 ul#relmes li {display: inline;list-style-type: none;}
 ul#relmes a:after {display: none;}
 ul#relmes a {background: transparent;}
-ul#relmes i.fa-lg {color: #333;}
 p#contact-link {display:none;}
 </style>
 
