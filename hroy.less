@@ -192,11 +192,15 @@ footer, blockquote {
     #sidebar {
         z-index: 99999;
     }
-    #sidebar, #pagebody header.pagedate, #pagebody #content {
+    #sidebar, #pagebody #content {
         padding-top: 1.5em;
         @media (min-width: @screen-md) {
             padding-top: 2.5em;
         }
+    }
+    #pagebody header.pagedate {
+        padding-top: 0;
+        margin-top: 0;
     }
     #pagebody {
         z-index: 9999;
