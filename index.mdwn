@@ -35,6 +35,10 @@
     background-size: 2px 2px;
     background-position: 0 99.9%;
     }
+    .page #pagebody #relmes a:link,
+    .page #pagebody #relmes a:visited {
+    background-size: 0;
+    }
     #webmentions{display:none;}
     .pageheader .header .title {
         padding: 50px 0.3em 150px;
