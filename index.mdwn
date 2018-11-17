@@ -11,7 +11,7 @@
 
 <section class="recent-blog-posts">
 
-<h2><a href="/blog">Recent blog posts</a></h2>
+<h2><a href="/blog">Last blog posts</a></h2>
 
 [[!inline pages="page(./posts/*) and !*/Discussion" archive=yes quick=yes trail=no show="3" feeds="yes"]]
 
