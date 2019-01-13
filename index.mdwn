@@ -1,3 +1,4 @@
+[[!meta title="Hugo Roy - hroy.eu"]]
 [[!if test="enabled(sidebar)" then="""
 <!--[[!sidebar]]-->
 """ else="""
