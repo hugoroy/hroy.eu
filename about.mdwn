@@ -26,15 +26,6 @@ This website should also support [webmentions] thanks to the [hosted
 webmention endpoint]. Have a look at [brid.gy] if you want to send
 webmentions from Twitter, Facebook or [other silos].
 
-Also, note that IP addresses of comment posters will be registered and
-published through [commit
-logs](http://source.hroy-eu.branchable.com/?p=source.git;a=summary). If you
-do not wish to disclose your IP address through this, then [[contact_me|hugo]] and I’ll post the comment for
-you.
-
-At last, by commenting, you contribute to the blog and thus your comment is
-governed by the [[same_license_as_the_article_to_which_you_comment|copyright]].
-
 [webmentions]: http://webmention.org
 [hosted webmention endpoint]: https://webmention.herokuapp.com/
 [brid.gy]: http://brid.gy/
