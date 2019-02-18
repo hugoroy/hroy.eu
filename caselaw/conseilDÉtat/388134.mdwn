@@ -1,5 +1,5 @@
 [[!meta title="Recours contre le décret « LPM » sur l'accès administratif aux données de connexion"]]
-[[!tag ConseilDÉtat ConseilConstitutionnel 388134 2015-478 QPC dataRetention]]
+[[!tag ConseilDÉtat ConseilConstitutionnel exégètesAmateurs QPC dataRetention]]
 
 - 18 février 2015 : [Requête introductive](requeteIntroductive.pdf)
 - 14 avril 2015 : [Question prioritaire de constitutionnalité](qpc.pdf)
