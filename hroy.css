@@ -8670,11 +8670,8 @@ a.feedbutton.email:hover {
 a.feedbutton:hover {
   background-color: #ED9C28 !important;
 }
-.feedbutton {
-  display: none;
-}
-.feedbutton.email {
-  display: inline-block;
+.feedbutton.atom {
+  display: none !important;
 }
 .dt-published,
 .archivepagedate,
