@@ -8727,8 +8727,15 @@ a.feedbutton:hover {
 }
 #hcard-Hugo-Roy #ma-tete,
 #timeline-last #ma-tete {
-  float: left;
-  margin: 0 0.5em 0.15em -60px;
+  margin: 0 0.5em 1.15em 15px;
+  float: right;
+}
+@media (min-width: 990) {
+  #hcard-Hugo-Roy #ma-tete,
+  #timeline-last #ma-tete {
+    float: left;
+    margin: 0 0.5em 0.15em -60px;
+  }
 }
 #hcard-Hugo-Roy dl#contact dt,
 #timeline-last dl#contact dt,
