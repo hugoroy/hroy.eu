@@ -73,12 +73,12 @@
                             <li id="link-archives"><a href="/archives/">Archives</a></li>
                             <!-- <li id="link-about"><a href="/hugo/">About</a></li> -->
                             <TMPL_UNLESS DYNAMIC>
-                                <!--TMPL_IF SEARCHFORM>
-                                    <li id="menu-search">
-                                    <span class="search-glass">🔍</span>
-                                        <TMPL_VAR SEARCHFORM>
-                                    </li>
-                                </TMPL_IF-->
+                                <!--TMPL_IF SEARCHFORM-->
+                                    <!-- <li id="menu-search"> -->
+                                    <!-- <span class="search-glass">🔍</span> -->
+                                    <!--     <TMPL_VAR SEARCHFORM> -->
+                                    <!-- </li> -->
+                                <!-- </TMPL_IF> -->
                                 <!-- <form method="get" action="/ikiwiki.cgi" id="searchform"> -->
                                 <!--     <div> -->
                                 <!--         <input type="text" id="searchbox" name="P" value="" size="16" placeholder="search"> -->
@@ -191,7 +191,7 @@
             <TMPL_IF HTML5><section id="pageinfo"><TMPL_ELSE><div id="pageinfo"></TMPL_IF>
 
             <div class="pagedate">
-                Last edited <span class="dt-updated"><TMPL_VAR MTIME></span>. <a href="<TMPL_VAR HISTORYURL>">Source History</a>
+                Last edited/Dernière modif. <span class="dt-updated"><TMPL_VAR MTIME></span>. <a href="<TMPL_VAR HISTORYURL>">Source</a>
                 <!-- Created <TMPL_VAR CTIME> -->
             </div>
 
