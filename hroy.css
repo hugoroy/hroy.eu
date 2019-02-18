@@ -8670,6 +8670,12 @@ a.feedbutton.email:hover {
 a.feedbutton:hover {
   background-color: #ED9C28 !important;
 }
+.feedbutton {
+  display: none;
+}
+.feedbutton.email {
+  display: inline-block;
+}
 .dt-published,
 .archivepagedate,
 .dt-published time,
