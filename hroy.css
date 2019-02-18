@@ -5955,7 +5955,7 @@ blockquote {
 .page {
   margin: 0;
   padding: 0;
-  background: #000;
+  background: url(/background.jpg) fixed no-repeat 50% -20px #000;
   background-size: cover;
   min-height: 100vh;
 }
