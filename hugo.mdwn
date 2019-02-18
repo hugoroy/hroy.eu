@@ -24,6 +24,10 @@ src="//fsfe.org/graphics/stars-smaller.png" height="19"> <span
 class="org">Free Software Foundation Europe</span></a>. True
 Zappaist.</span> </p>
 
+<!--p class="more">
+When I get time...
+</p-->
+
 <ul id="relmes">
     <li class="hide">
         <a href="https://hugoroy.eu/" rel="me"><i class="fa fa-lg fa-fw fa-user-circle" title="Hugo Roy - homepage"></i></a></li>
