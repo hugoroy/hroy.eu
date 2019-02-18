@@ -1,7 +1,3 @@
 
 [[!map pages="page(*)  and !archives/* and !tags/* and !bootstrap/* and !templates/* and !*/discussion and !recentchanges and
 !plugins/* and !sandbox/* and !ikiwiki/*"]]
-
-# Archives
-
-[[!map pages="page(./archives/*) and !*/discussion"]]
