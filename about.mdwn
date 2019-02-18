@@ -14,13 +14,16 @@ put together. Feel free to explore.
 A copy of the source code of this site is available on
 [Github](https://github.com/hugoroy/hroy.eu/).
 
+**[About Hugo](/hugo/)**
 
 <span class="title" id="comment-policy">Comment policy</span>
+
+Comments are closed at the moment. Who cares about comments anymore? It seems to me that these days of the web are gone (for good?).
   
-Please keep the comments on-topic. I reserve the right to hide
+<!--Please keep the comments on-topic. I reserve the right to hide
 the content of your comment in my own discretion. Feel free to
 send me replies from other corners of the Web, I will happily
-link to them.
+link to them.-->
 
 This website should also support [webmentions] thanks to the [hosted
 webmention endpoint]. Have a look at [brid.gy] if you want to send
