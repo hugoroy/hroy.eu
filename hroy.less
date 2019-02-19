@@ -210,11 +210,16 @@ footer, blockquote {
         .masthead {
             margin-bottom: 1.8em;
             padding-top: 2.6em;
+            .hroy-layout;
 
             .title {
+                .hroy-max-px;
+                .hroy-align;
                 font-size: 36px;
-                max-width: 666px;
-                margin: auto;
+                padding: 0 15px;
+                @media (min-width: 1200px) {
+                    padding: 0;
+                }
             }
         }
         
@@ -228,6 +233,10 @@ footer, blockquote {
                 .hroy-max-px;
                 display: block;
                 color: @gray;
+                padding: 0 15px;
+                @media (min-width: 1200px) {
+                    padding: 0;
+                }
             }
         }
 

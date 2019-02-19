@@ -6175,11 +6175,35 @@ blockquote {
 .page #pagebody .masthead {
   margin-bottom: 1.8em;
   padding-top: 2.6em;
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  max-width: 80em;
 }
 .page #pagebody .masthead .title {
-  font-size: 36px;
   max-width: 666px;
-  margin: auto;
+  font-size: 36px;
+  padding: 0 15px;
+}
+@media (min-width: 992px) {
+  .page #pagebody .masthead .title {
+    margin-left: 300px;
+    margin-right: 10%;
+  }
+}
+@media (min-width: 1200px) {
+  .page #pagebody .masthead .title {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+@media (min-width: 1200px) {
+  .page #pagebody .masthead .title {
+    padding: 0;
+  }
 }
 .page #pagebody .published {
   display: block;
@@ -6194,6 +6218,7 @@ blockquote {
   max-width: 666px;
   display: block;
   color: #555555;
+  padding: 0 15px;
 }
 @media (min-width: 992px) {
   .page #pagebody .published a.u-url {
@@ -6205,6 +6230,11 @@ blockquote {
   .page #pagebody .published a.u-url {
     margin-left: auto;
     margin-right: auto;
+  }
+}
+@media (min-width: 1200px) {
+  .page #pagebody .published a.u-url {
+    padding: 0;
   }
 }
 .page #pagebody .select-archive .seeWhat {
