@@ -40,4 +40,5 @@ If you’ve read until here, you should [[browse_the_archives|archives]].
     article.inlinepage {
         margin-bottom: 4em;
     }
+.pagedate.published.dt-published {display: none !important}
 </style>

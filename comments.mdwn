@@ -14,3 +14,7 @@ description="comments pending moderation" show=-1]]
 Comments in the [[!commentmoderation desc="moderation queue"]]:
 [[!pagecount pages="comment_pending(./posts/*)"]]
 
+
+<style type="text/css">
+.pagedate.published.dt-published {display: none !important}
+</style>

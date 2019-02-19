@@ -19,3 +19,8 @@ I'm not really using this any more. To subscribe to my short notes, go to <https
 !*/Discussion and !notes/sources and !notes/instant and
 !notes/lang:fr and !notes/lang:en" show=30
 feedshow=20 template=microblog postform=no trail=yes]]
+
+
+<style type="text/css">
+.pagedate.published.dt-published {display: none !important}
+</style>

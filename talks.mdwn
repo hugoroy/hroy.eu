@@ -9,3 +9,7 @@
 and !*/local" show=55
 trail=yes feeds=yes template="microblog"]]
 
+
+<style type="text/css">
+.pagedate.published.dt-published {display: none !important}
+</style>

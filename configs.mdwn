@@ -4,5 +4,5 @@ Here are some configs that I did for my home servers.
 feedshow=10 quick=yes trail=yes feeds=yes]]
 
 <style type="text/css">
-.pagedate.published.dt-published {display: none;}
+.pagedate.published.dt-published {display: none !important}
 </style>

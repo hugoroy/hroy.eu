@@ -52,4 +52,5 @@ archive pages.
   a.feedbutton {
     margin-left: -100px;
   }
+.pagedate.published.dt-published {display: none !important}
 </style>
