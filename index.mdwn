@@ -48,7 +48,7 @@
     color: #FFF;
     }
     .masthead, #hcard-Hugo-Roy .more {
-        display: none;
+        display: none !important;
     }
     .recent-blog-posts {
         margin-top: 8em;
