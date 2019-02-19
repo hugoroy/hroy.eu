@@ -131,11 +131,11 @@
                             <TMPL_VAR COMMENTS>
 
                             <TMPL_IF ADDCOMMENTURL>
-                                <div class="addcomment">
-                                <a href="<TMPL_VAR ADDCOMMENTURL>" class="btn btn-default">Add a comment</a>
-                                <br />
-                                <a href="/about/#comment-policy" class="terms">Comment Policy (your IP is logged)</a>
-                                </div>
+                                <!-- <div class="addcomment"> -->
+                                <!-- <a href="<TMPL_VAR ADDCOMMENTURL>" class="btn btn-default">Add a comment</a> -->
+                                <!-- <br /> -->
+                                <!-- <a href="/about/#comment-policy" class="terms">Comment Policy (your IP is logged)</a> -->
+                                <!-- </div> -->
                                 <div class="addcomment">
                                 <a href="https://www.brid.gy/" class="btn btn-default">Send webmentions</a>
                                 <br />
@@ -146,20 +146,20 @@
                             </TMPL_IF>
                         <TMPL_IF HTML5></section><TMPL_ELSE></div></TMPL_IF>
 
-                    </TMPL_IF>
+                        <section id="webmentions">
+                            <script id="webmention-hosted">
+                            (function () {
+                                var sn = document.createElement("script"), s = document.getElementsByTagName("script")[0], url;
+                                url = document.querySelectorAll ? document.querySelectorAll("link[rel~=canonical]") : false;
+                                url = url && url[0] ? url[0].href : false;
+                                sn.type = "text/javascript"; sn.async = true;
+                                sn.src = "//webmention.herokuapp.com/api/embed?url=" + encodeURIComponent(url || window.location);
+                                s.parentNode.insertBefore(sn, s);
+                            }());
+                            </script>
+                        </section>
 
-                    <section id="webmentions">
-                        <script id="webmention-hosted">
-                          (function () {
-                            var sn = document.createElement("script"), s = document.getElementsByTagName("script")[0], url;
-                            url = document.querySelectorAll ? document.querySelectorAll("link[rel~=canonical]") : false;
-                            url = url && url[0] ? url[0].href : false;
-                            sn.type = "text/javascript"; sn.async = true;
-                            sn.src = "//webmention.herokuapp.com/api/embed?url=" + encodeURIComponent(url || window.location);
-                            s.parentNode.insertBefore(sn, s);
-                          }());
-                        </script>
-                    </section>
+                    </TMPL_IF>
                 </TMPL_UNLESS>
             <TMPL_IF HTML5></section><TMPL_ELSE></div></TMPL_IF>
 
