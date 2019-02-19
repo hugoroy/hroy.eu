@@ -8760,7 +8760,7 @@ a.feedbutton:hover {
   margin: 0 0.5em 1.15em 15px;
   float: right;
 }
-@media (min-width: 990) {
+@media (min-width: 990px) {
   #hcard-Hugo-Roy #ma-tete,
   #timeline-last #ma-tete {
     float: left;
