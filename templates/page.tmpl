@@ -1,9 +1,9 @@
 <TMPL_IF HTML5>
     <!DOCTYPE html>
-    <html<TMPL_IF LANGUAGE> lang="<TMPL_VAR LANGUAGE>"</TMPL_IF> class="no-js<TMPL_IF LANGUAGE> <TMPL_VAR LANGUAGE></TMPL_IF>">
+    <html<TMPL_IF pandoc_lang> lang="<TMPL_VAR pandoc_lang>"</TMPL_IF> class="no-js<TMPL_IF pandoc_lang> <TMPL_VAR pandoc_lang></TMPL_IF>">
 <TMPL_ELSE>
     <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-    <html xmlns="http://www.w3.org/1999/xhtml"<TMPL_IF LANGUAGE> xml:lang="<TMPL_VAR LANGUAGE>"</TMPL_IF>>
+    <html xmlns="http://www.w3.org/1999/xhtml"<TMPL_IF pandoc_lang> xml:lang="<TMPL_VAR pandoc_lang>"</TMPL_IF>>
 </TMPL_IF>
 <head>
     <TMPL_IF DYNAMIC>
@@ -56,7 +56,7 @@
     <meta name="twitter:description" content="<TMPL_IF DESCRIPTION><TMPL_VAR DESCRIPTION></TMPL_IF> <TMPL_LOOP TAGS>&#35;<TMPL_VAR LINK ESCAPE=HTML> </TMPL_LOOP>">
     <meta name="twitter:domain" content="hroy.eu">
 </head>
-<body class="h-entry hroy-eu<TMPL_IF LANGUAGE> <TMPL_VAR LANGUAGE></TMPL_IF>">
+<body class="h-entry hroy-eu<TMPL_IF pandoc_lang> <TMPL_VAR pandoc_lang></TMPL_IF>">
 
     <nav class="skipto"><a href="#content" rel="nofollow">Skip to content / Aller au contenu</a></nav>
 
