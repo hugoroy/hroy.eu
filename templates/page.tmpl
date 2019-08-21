@@ -72,6 +72,14 @@
                         <ul class="links" role="navigation">
                             <li id="link-archives"><a href="/archives/">Archives</a></li>
                             <!-- <li id="link-about"><a href="/hugo/">About</a></li> -->
+                            <TMPL_UNLESS DYNAMIC>
+                                <TMPL_IF SEARCHFORM>
+                                    <li id="menu-search">
+                                    <a href="/search/"><span class="search-glass">🔍</span></a>
+                                        <!--TMPL_VAR SEARCHFORM-->
+                                    </li>
+                                </TMPL_IF>
+                            </TMPL_UNLESS>
                         </ul>
                     </div>
                 <TMPL_IF HTML5></nav><TMPL_ELSE></div></TMPL_IF>
@@ -136,11 +144,6 @@
                                 <!-- <br /> -->
                                 <!-- <a href="/about/#comment-policy" class="terms">Comment Policy (your IP is logged)</a> -->
                                 <!-- </div> -->
-                                <div class="addcomment">
-                                <a href="https://www.brid.gy/" class="btn btn-default" target="_blank">Send webmentions</a>
-                                <br />
-                                <a href="/about/#webmentions" class="terms">More info about webmentions</a>
-                                </div>
                                 <TMPL_ELSE>
                                 <div class="addcomment">Comments on this page are closed.</div>
                             </TMPL_IF>
@@ -157,6 +160,12 @@
                                 s.parentNode.insertBefore(sn, s);
                             }());
                             </script>
+
+                            <div class="addcomment addwebmention">
+                                <a href="https://www.brid.gy/" class="btn btn-default" target="_blank">Send webmentions</a>
+                                <br />
+                                <a href="/about/#webmentions" class="terms">More info about webmentions</a>
+                            </div>
                         </section>
 
                     </TMPL_IF>
