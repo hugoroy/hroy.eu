@@ -1,4 +1,4 @@
-[[!meta title="pages tagged msmtpq"]]
+[[!meta title="pages tagged Msmtpq"]]
 
-[[!inline pages="tagged(msmtpq)" actions="no" archive="yes"
+[[!inline pages="tagged(Msmtpq)" actions="no" archive="yes"
 feedshow=10]]

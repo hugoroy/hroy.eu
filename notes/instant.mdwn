@@ -1,2 +1,0 @@
-[[!inline pages="internal(notes/instant/*) and !*/Discussion"
-show=30 feedshow=20 template=microblog postform=yes trail=yes]]

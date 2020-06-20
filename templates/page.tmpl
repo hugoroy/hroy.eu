@@ -1,36 +1,31 @@
-<TMPL_IF HTML5>
-    <!DOCTYPE html>
-    <html<TMPL_IF pandoc_lang> lang="<TMPL_VAR pandoc_lang>"</TMPL_IF> class="no-js<TMPL_IF pandoc_lang> <TMPL_VAR pandoc_lang></TMPL_IF>">
-<TMPL_ELSE>
-    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-    <html xmlns="http://www.w3.org/1999/xhtml"<TMPL_IF pandoc_lang> xml:lang="<TMPL_VAR pandoc_lang>"</TMPL_IF>>
-</TMPL_IF>
-<head>
-    <TMPL_IF DYNAMIC>
-        <TMPL_IF FORCEBASEURL>
-            <base href="<TMPL_VAR FORCEBASEURL>" />
+<!doctype html>
+<html <TMPL_IF pandoc_lang>lang="<TMPL_VAR pandoc_lang>"</TMPL_IF>
+      class="no-js<TMPL_IF pandoc_lang> lang-<TMPL_VAR pandoc_lang></TMPL_IF>">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="<TMPL_VAR BASEURL>hroy.css" type="text/css">
+    <TMPL_IF LOCAL_CSS><link rel="stylesheet" href="<TMPL_VAR BASEURL><TMPL_VAR LOCAL_CSS>" type="text/css"></TMPL_IF>
+
+    <TMPL_IF pandoc_title-meta>
+    <title><TMPL_VAR pandoc_title-meta> :: <TMPL_VAR WIKINAME></title>
+    <meta name="twitter:title" content="<TMPL_IF TITLE><TMPL_VAR TITLE><TMPL_ELSE><TMPL_VAR WIKINAME></TMPL_IF>">
+        <TMPL_ELSE>
+        <TMPL_IF TITLE>
+    <title><TMPL_VAR TITLE> :: <TMPL_VAR WIKINAME></title>
+    <meta name="twitter:title" content="<TMPL_VAR TITLE>">
             <TMPL_ELSE>
-            <TMPL_IF BASEURL>
-                <base href="<TMPL_VAR BASEURL>" />
-            </TMPL_IF>
+    <title><TMPL_VAR WIKINAME></title>
         </TMPL_IF>
     </TMPL_IF>
-    <TMPL_IF HTML5><meta charset="utf-8"><TMPL_ELSE><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /></TMPL_IF>
-    <TMPL_IF HTML5><meta name="viewport" content="width=device-width, initial-scale=1.0"></TMPL_IF>
-    <TMPL_IF TITLE>
-        <title><TMPL_VAR TITLE></title>
-        <TMPL_ELSE>
-        <title><TMPL_VAR WIKINAME></title>
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@hugoroyd">
+    <TMPL_IF DESCRIPTION>
+    <meta name="twitter:description" content="<TMPL_IF DESCRIPTION><TMPL_VAR DESCRIPTION></TMPL_IF> <TMPL_LOOP TAGS>&#35;<TMPL_VAR LINK ESCAPE=HTML> </TMPL_LOOP>">
     </TMPL_IF>
-    <TMPL_IF FAVICON>
-        <link rel="icon" href="<TMPL_VAR BASEURL><TMPL_VAR FAVICON>" type="image/x-icon" />
-    </TMPL_IF>
-    <link rel="stylesheet" href="<TMPL_VAR BASEURL>hroy.css" type="text/css" />
-    <TMPL_IF LOCAL_CSS>
-        <link rel="stylesheet" href="<TMPL_VAR BASEURL><TMPL_VAR LOCAL_CSS>" type="text/css" />
-        <TMPL_ELSE>
-        <!--link rel="stylesheet" href="<TMPL_VAR BASEURL>local.css" type="text/css" /-->
-    </TMPL_IF>
+    <meta name="twitter:domain" content="hroy.eu">
+
     <TMPL_UNLESS DYNAMIC>
         <TMPL_IF EDITURL>
             <link rel="alternate" type="application/x-wiki" title="Edit this page" href="<TMPL_VAR EDITURL>" />
@@ -49,235 +44,318 @@
         </TMPL_LOOP>
         <link rel="webmention" href="https://webmention.herokuapp.com/api/webmention">
     </TMPL_UNLESS>
-    <script type="text/javascript" src="/js/modernizr.custom.js"></script>
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="@hugoroyd">
-    <meta name="twitter:title" content="<TMPL_IF TITLE><TMPL_VAR TITLE><TMPL_ELSE><TMPL_VAR WIKINAME></TMPL_IF>">
-    <meta name="twitter:description" content="<TMPL_IF DESCRIPTION><TMPL_VAR DESCRIPTION></TMPL_IF> <TMPL_LOOP TAGS>&#35;<TMPL_VAR LINK ESCAPE=HTML> </TMPL_LOOP>">
-    <meta name="twitter:domain" content="hroy.eu">
-</head>
-<body class="h-entry hroy-eu<TMPL_IF pandoc_lang> <TMPL_VAR pandoc_lang></TMPL_IF>">
+  </head>
 
-    <nav class="skipto"><a href="#content" rel="nofollow">Skip to content / Aller au contenu</a></nav>
+  <body class="h-entry<TMPL_IF pandoc_iw-class> <TMPL_VAR pandoc_iw-class></TMPL_IF>">
+    <nav class="skipto">
+      <a href="#content" rel="nofollow">Skip to content / Aller au contenu</a>
+    </nav>
 
-    <TMPL_IF HTML5><article class="page"><TMPL_ELSE><div class="page"></TMPL_IF>
-
-        <TMPL_IF HTML5><header id="pageheader"><TMPL_ELSE><div id="pageheader"></TMPL_IF>
-
-            <TMPL_IF HTML5><header class="header"><TMPL_ELSE><div class="header"></TMPL_IF>
-
-                <TMPL_IF HTML5><nav class="sitemenu menu"><TMPL_ELSE><div class="menu"></TMPL_IF>
-                    <span class="sr-only label" type="button" data-toggle="collapse" data-target=".menu-toggleable">Menu</span>
-                    <div class="menu-toggleable">
-                        <ul class="links" role="navigation">
-                            <li id="link-archives"><a href="/archives/">Archives</a></li>
-                            <!-- <li id="link-about"><a href="/hugo/">About</a></li> -->
-                            <TMPL_UNLESS DYNAMIC>
-                                <TMPL_IF SEARCHFORM>
-                                    <li id="menu-search">
-                                    <a href="/search/"><span class="search-glass">🔍</span></a>
-                                        <!--TMPL_VAR SEARCHFORM-->
-                                    </li>
-                                </TMPL_IF>
-                            </TMPL_UNLESS>
-                        </ul>
-                    </div>
-                <TMPL_IF HTML5></nav><TMPL_ELSE></div></TMPL_IF>
-
-
-                <div class="directories">
-                    <span class="parentlinks">
-                    <TMPL_LOOP PARENTLINKS>
-                        <a href="<TMPL_VAR URL>"><TMPL_VAR PAGE></a>/ 
-                    </TMPL_LOOP>
-                    </span>
-                </div>
-
-            <TMPL_IF HTML5></header><TMPL_ELSE></div></TMPL_IF>
-
-        <TMPL_IF HTML5></header><TMPL_ELSE></div><!--/#pageheader--></TMPL_IF>
-
-        <TMPL_UNLESS DYNAMIC>
-            <TMPL_IF SIDEBAR>
-            <TMPL_IF HTML5><aside id="sidebar"><TMPL_ELSE><div id="sidebar"></TMPL_IF>
-
-                <TMPL_VAR SIDEBAR>
-
-            <TMPL_IF HTML5></aside><TMPL_ELSE></div></TMPL_IF>
-            </TMPL_IF>
-        </TMPL_UNLESS>
-
-        <div id="pagebody">
-
-            <TMPL_IF HTML5><header class="pagedate published dt-published"><TMPL_ELSE><div class="pagedate published dt-published"></TMPL_IF>
-                <TMPL_IF PERMALINK>
-                    <a href="<TMPL_VAR PERMALINK>" class="u-url" title="Permalink to: <TMPL_VAR TITLE>"><TMPL_VAR CTIME></a>
-                    <TMPL_ELSE>
-                    <a href="<TMPL_VAR PAGEURL>" class="u-url" title="Bookmark: <TMPL_VAR TITLE>"><TMPL_VAR CTIME></a>
-                </TMPL_IF>
-            <TMPL_IF HTML5></header><TMPL_ELSE></div></TMPL_IF>
-
-            <TMPL_IF HTML5><header class="masthead"><TMPL_ELSE><div class="masthead"></TMPL_IF>
-                <h1 class="title p-name">
-                    <TMPL_VAR TITLE>
-                </h1>
-            <TMPL_IF HTML5></header><TMPL_ELSE></div></TMPL_IF>
-
-            <TMPL_IF HTML5><main id="content" class="e-content"><TMPL_ELSE><div id="content"></TMPL_IF>
-
-                <TMPL_VAR CONTENT>
-
-            <TMPL_IF HTML5></main><TMPL_ELSE></div></TMPL_IF>
-
-                
-            <TMPL_IF HTML5><section class="added content"><TMPL_ELSE><div class="added content"></TMPL_IF>
-
-                <TMPL_UNLESS DYNAMIC>
-                    <TMPL_IF COMMENTS>
-                        <TMPL_IF HTML5><section id="comments"><TMPL_ELSE><div id="comments"></TMPL_IF>
-
-                            <TMPL_VAR COMMENTS>
-
-                            <TMPL_IF ADDCOMMENTURL>
-                                <!-- <div class="addcomment"> -->
-                                <!-- <a href="<TMPL_VAR ADDCOMMENTURL>" class="btn btn-default">Add a comment</a> -->
-                                <!-- <br /> -->
-                                <!-- <a href="/about/#comment-policy" class="terms">Comment Policy (your IP is logged)</a> -->
-                                <!-- </div> -->
+    <nav class="site-header">
+        <nav class="site-locator">
+            <span class="site-home"><a href="/">•</a></span>
+            <span class="parentlinks">
+            <TMPL_LOOP PARENTLINKS>
+                <a href="<TMPL_VAR URL>"><TMPL_VAR PAGE></a> <span class="slash">▶</span> 
+            </TMPL_LOOP>
+            </span>
+            <span class="meta-title">
+                    <TMPL_IF PERMALINK>
+                    <a href="<TMPL_VAR PERMALINK>" class="u-url">
+                            <TMPL_IF pandoc_title-meta>
+                                <TMPL_IF pandoc_title>
                                 <TMPL_ELSE>
-                                <div class="addcomment">Comments on this page are closed.</div>
+                                <h1>
+                                </TMPL_IF>
+                                    <TMPL_VAR pandoc_title-meta>
+                                <TMPL_IF pandoc_title>
+                                <TMPL_ELSE>
+                                </h1>
+                                </TMPL_IF>
+                                <TMPL_ELSE>
+                                <TMPL_IF TITLE>
+                                <TMPL_IF pandoc_title>
+                                <TMPL_ELSE>
+                                <h1>
+                                </TMPL_IF>
+                                    <TMPL_VAR TITLE>
+                                <TMPL_IF pandoc_title>
+                                <TMPL_ELSE>
+                                </h1>
+                                </TMPL_IF>
+                                </TMPL_IF>
                             </TMPL_IF>
-                        <TMPL_IF HTML5></section><TMPL_ELSE></div></TMPL_IF>
-
-                        <section id="webmentions">
-                            <script id="webmention-hosted">
-                            (function () {
-                                var sn = document.createElement("script"), s = document.getElementsByTagName("script")[0], url;
-                                url = document.querySelectorAll ? document.querySelectorAll("link[rel~=canonical]") : false;
-                                url = url && url[0] ? url[0].href : false;
-                                sn.type = "text/javascript"; sn.async = true;
-                                sn.src = "//webmention.herokuapp.com/api/embed?url=" + encodeURIComponent(url || window.location);
-                                s.parentNode.insertBefore(sn, s);
-                            }());
-                            </script>
-
-                            <div class="addcomment addwebmention">
-                                <a href="https://www.brid.gy/" class="btn btn-default" target="_blank">Send webmentions</a>
-                                <br />
-                                <a href="/about/#webmentions" class="terms">More info about webmentions</a>
-                            </div>
-                        </section>
-
+                    </a>
+                        <TMPL_ELSE>
+                        <a href="<TMPL_VAR PAGEURL>" class="u-url" title="Bookmark: <TMPL_VAR TITLE>">
+                            <TMPL_IF pandoc_title-meta>
+                                <TMPL_IF pandoc_title>
+                                <TMPL_ELSE>
+                                <h1 class="p-name">
+                                </TMPL_IF>
+                                    <TMPL_VAR pandoc_title-meta>
+                                <TMPL_IF pandoc_title>
+                                <TMPL_ELSE>
+                                </h1>
+                                </TMPL_IF>
+                                <TMPL_ELSE>
+                                <TMPL_IF TITLE>
+                                <TMPL_IF pandoc_title>
+                                <TMPL_ELSE>
+                                <h1 class="p-name">
+                                </TMPL_IF>
+                                    <TMPL_VAR TITLE>
+                                <TMPL_IF pandoc_title>
+                                <TMPL_ELSE>
+                                </h1>
+                                </TMPL_IF>
+                                </TMPL_IF>
+                            </TMPL_IF>
+                        </a>
                     </TMPL_IF>
-                </TMPL_UNLESS>
-            <TMPL_IF HTML5></section><TMPL_ELSE></div></TMPL_IF>
+            </span>
+        </nav>
+        <nav class="site-menu">
+            <!-- <ul class="links" role="navigation"> -->
+            <!--     <li id="link-archives"><a href="/archives/">Archives</a></li> -->
+            <!--     <li id="link-about"><a href="/hugo/">About</a></li> -->
+            <!--     <TMPL_UNLESS DYNAMIC> -->
+            <!--         <TMPL_IF SEARCHFORM> -->
+            <!--             <li id="menu-search"> -->
+            <!--             <a href="/search/"><span class="search-glass">🔍</span> Search</a> -->
+            <!--                 <\!--TMPL_VAR SEARCHFORM-\-> -->
+            <!--             </li> -->
+            <!--         </TMPL_IF> -->
+            <!--     </TMPL_UNLESS> -->
+            <!-- </ul>-->
+        </nav>
+    </nav>
+    
+    <main class="page">
 
-                          
-            <TMPL_IF HTML5><footer id="trails"><TMPL_ELSE><div id="trails"></TMPL_IF>
-                <TMPL_UNLESS DYNAMIC>
-                    <TMPL_VAR TRAILS>
-                </TMPL_UNLESS>
-            <TMPL_IF HTML5></footer><TMPL_ELSE></div></TMPL_IF>
+      <TMPL_UNLESS DYNAMIC>
+      <TMPL_IF SIDEBAR>
+      <aside id="sidebar" class="sidebar">
+<TMPL_VAR SIDEBAR>
+      </aside>
+      </TMPL_IF>
+      </TMPL_UNLESS>
 
+      <TMPL_IF pandoc_generate_all_formats>
+      <TMPL_ELSE>
+      <TMPL_IF pandoc_generate_pdf>
+      <TMPL_ELSE>
+      <TMPL_IF pandoc_generate_latex>
+      <aside class="download-as">
+        <span class="content-lang-en">download as:</span>/<span class="content-lang-fr">télécharger :</span>
+        <TMPL_IF ACTIONS>
+        <TMPL_LOOP ACTIONS>
+        <TMPL_VAR ACTION>
+        </TMPL_LOOP>
+        </TMPL_IF>
+      </aside>
+      </TMPL_IF>
+      </TMPL_IF>
+      </TMPL_IF>
+
+      <article>
+        <header class="masthead<TMPL_IF pandoc_title> title-block-header</TMPL_IF>">
+
+            <TMPL_IF pandoc_title>
+            <h1 class="title p-name">
+                <TMPL_VAR TITLE>
+            </h1>
+            <TMPL_IF pandoc_subtitle>
+            <p class="subtitle">
+                <TMPL_VAR pandoc_subtitle>
+            </p>
+            </TMPL_IF>
+            </TMPL_IF>
+
+            <TMPL_IF AUTHOR>
+            <p class="p-author author">
+            <TMPL_IF AUTHORURL>
+            <a href="<TMPL_VAR AUTHORURL>"><TMPL_VAR AUTHOR></a>
+            <TMPL_ELSE>
+              <TMPL_VAR AUTHOR>
+            </TMPL_IF>
+            </p>
+            </TMPL_IF>
+
+            <TMPL_IF pandoc_version>
+            <p class="version"><span class="label">version </span>
+                <TMPL_VAR pandoc_version>
+                <TMPL_IF pandoc_iw-hidepubdate>
+                <TMPL_ELSE>
+                <span class="pagedate published dt-published date">
+                  <TMPL_IF pandoc_date><TMPL_VAR pandoc_date>
+                  <TMPL_ELSE><TMPL_VAR CTIME></TMPL_IF>
+                </span>
+            </TMPL_IF>
+            </p>
+            <TMPL_ELSE>
+            <TMPL_IF pandoc_title>
+            <TMPL_IF pandoc_iw-hidepubdate>
+            <TMPL_ELSE>
+            <p class="pagedate published dt-published date">
+                  <TMPL_IF pandoc_date><TMPL_VAR pandoc_date>
+                  <TMPL_ELSE><TMPL_VAR CTIME></TMPL_IF>
+            </p>
+            </TMPL_IF>
+            <TMPL_ELSE>
+            <TMPL_IF pandoc_iw-hidepubdate>
+            <TMPL_ELSE>
+            <p class="pagedate published dt-published date">
+                  <TMPL_IF pandoc_date><TMPL_VAR pandoc_date>
+                  <TMPL_ELSE><TMPL_VAR CTIME></TMPL_IF>
+            </p>
+            </TMPL_IF>
+            </TMPL_IF>
+            </TMPL_IF>
+
+
+            <TMPL_IF pandoc_abstract>
+            <div class="abstract">
+                <TMPL_IF pandoc_abstract-label>
+                <p class="abstract-label"><TMPL_VAR pandoc_abstract-label></p>
+                </TMPL_IF>
+                <section class="p-summary">
+<TMPL_VAR pandoc_abstract>
+                </section>
+            </div>
+            <hr>
+            </TMPL_IF>
+
+            <TMPL_IF pandoc_keywords>
+            <p class="keywords"><TMPL_VAR pandoc_keywords></p>
+            </TMPL_IF>
+            
+        </header>
+        
+        <div id="content" class="e-content content">
+<TMPL_VAR CONTENT>
         </div>
+      </article>
 
-        <TMPL_IF HTML5><footer id="pagefooter"><TMPL_ELSE><div id="pagefooter"></TMPL_IF>
+      <nav class="tags">
+        <TMPL_LOOP TAGS>
+        <span class="p-category"><TMPL_VAR LINK></span>
+        </TMPL_LOOP>
+      </nav>
+
+      <TMPL_IF pandoc_iw-hideaddedcontent>
+        <TMPL_ELSE>
+        <section class="added content">
+            <TMPL_UNLESS DYNAMIC>
+                <TMPL_IF COMMENTS>
+                    <section id="comments">
+
+                        <TMPL_VAR COMMENTS>
+
+                        <TMPL_IF ADDCOMMENTURL>
+                            <!-- <div class="addcomment"> -->
+                            <!-- <a href="<TMPL_VAR ADDCOMMENTURL>" class="btn btn-default">Add a comment</a> -->
+                            <!-- <br /> -->
+                            <!-- <a href="/about/#comment-policy" class="terms">Comment Policy (your IP is logged)</a> -->
+                            <!-- </div> -->
+                            <TMPL_ELSE>
+                            <div class="addcomment">Comments on this page are closed.</div>
+                        </TMPL_IF>
+                    </section>
+
+                    <TMPL_IF pandoc_iw-hidewebmentions>
+                    <TMPL_ELSE>
+                    <section id="webmentions">
+                        <script id="webmention-hosted">
+                        (function () {
+                        var sn = document.createElement("script"), s = document.getElementsByTagName("script")[0], url;
+                        url = document.querySelectorAll ? document.querySelectorAll("link[rel~=canonical]") : false;
+                        url = url && url[0] ? url[0].href : false;
+                        sn.type = "text/javascript"; sn.async = true;
+                        sn.src = "//webmention.herokuapp.com/api/embed?url=" + encodeURIComponent(url || window.location);
+                        s.parentNode.insertBefore(sn, s);
+                        }());
+                        </script>
+
+                        <div class="addcomment addwebmention">
+                            <!-- <a href="https://www.brid.gy/" class="btn btn-default" target="_blank">Send webmentions</a> -->
+                            <!-- <br /> -->
+                            <span class="terms">provided by <a href="https://www.brid.gy/">brid.gy</a></span>. <a href="http://webmention.org" class="terms">More info about webmentions</a>
+                        </div>
+                    </section>
+                    </TMPL_IF>
+
+                </TMPL_IF>
+            </TMPL_UNLESS>
+        </section>
+      </TMPL_IF>
+
+    </main>
+
+    <footer id="trails">
+        <TMPL_UNLESS DYNAMIC>
+            <TMPL_VAR TRAILS>
+        </TMPL_UNLESS>
+    </footer>
+
+    <footer id="footer">
         <TMPL_UNLESS DYNAMIC>
 
-            <TMPL_IF HTML5><section id="pageinfo"><TMPL_ELSE><div id="pageinfo"></TMPL_IF>
+            <section id="pageinfo">
 
             <div class="pagedate">
-                Last edited/Dernière modif. <span class="dt-updated"><TMPL_VAR MTIME></span>. <a href="<TMPL_VAR HISTORYURL>">Source</a>
+                <span class="lang-select"><span class="en">Last edited</span><span class="no-lang">/</span><span class="fr">Dernière modif.</span></span> <span class="dt-updated"><TMPL_VAR MTIME></span>. <a href="<TMPL_VAR HISTORYURL>" class="githistory"><img src="/assets/git-icon.png" alt="">Source</a>
                 <!-- Created <TMPL_VAR CTIME> -->
             </div>
 
+            <TMPL_IF pandoc_copyright>
+                <div class="pagecopyright p-copyright" id="pagecopyright">
+                    <TMPL_VAR pandoc_copyright>
+                </div>
+            <TMPL_ELSE>
             <TMPL_IF COPYRIGHT>
                 <div class="pagecopyright p-copyright" id="pagecopyright">
                     <TMPL_VAR COPYRIGHT>
                 </div>
             </TMPL_IF>
+            </TMPL_IF>
 
+            <TMPL_IF pandoc_license>
+                <div class="pagelicense p-license" id="pagelicense">
+                Licence: <span rel="license"><TMPL_VAR pandoc_license></span>
+                </div>
+            <TMPL_ELSE>
             <TMPL_IF LICENSE>
                 <div class="pagelicense p-license" id="pagelicense">
                 Licence: <span rel="license"><TMPL_VAR LICENSE></span>
                 </div>
             </TMPL_IF>
+            </TMPL_IF>
 
-            <TMPL_IF HTML5></section><TMPL_ELSE></div></TMPL_IF>
+            </section>
             
-            <TMPL_IF HTML5><nav id="sitenav"><TMPL_ELSE><div id="sitenav"></TMPL_IF>
-                <a href="https://hroy.eu/">Home</a>
-                <a href="https://hroy.eu/archives/">Archives</a>
-                <a href="https://hroy.eu/map/">Sitemap</a>
-                <a href="https://hroy.eu/imprint/">Legal Info</a>
-            <TMPL_IF HTML5></nav><TMPL_ELSE></div></TMPL_IF>
-
-            <ul id="relmes">
-                <li>
-                    <a href="https://hugoroy.eu/" rel="me" title="Known profile"><img src="/templates/img/logo_k.png" class="fa-fw" alt="" /></a>&nbsp;</li>
-                </li>
-                <li> 
-                    <a href="https://twitter.com/hugoroyd" rel="me"><i class="fa fa-lg fa-fw fa-twitter" title="Twitter: @hugoroyd"></i></a></li>
-                <li>
-                    <a href="https://github.com/hugoroy" rel="me"><i class="fa fa-lg fa-fw fa-github" title="GitHub: @hugoroy"></i></a></li>
-                <li class="hide"><i class="fa fa-fw fa-chevron-right" title="pump.io"></i> 
-                    <a href="https://identi.ca/hugoroy" rel="me" title="@hugoroy">identi.ca</a></li>
-                <li class="hide"><i class="fa fa-fw fa-adn" title="App.net"></i> 
-                    <a href="https://alpha.app.net/hugoroy" rel="me" title="@hugoroy">App.net</a></li>
-                <li class="hide"><i class="fa fa-fw fa-google-plus-square" title="Google+"></i> 
-                    <a href="https://plus.google.com/+HugoRoy" rel="me">+Hugo&nbsp;Roy</a></li>
-                <li class="hide"><i class="fa fa-fw fa-linkedin" title="LinkedIn"></i>
-                    <a href="http://www.linkedin.com/in/hugoroy" rel="me">my resume</a></li>
-                <li class="hide"><i class="fa fa-fw fa-music" title="Discogs"></i> 
-                    <a href="http://www.discogs.com/collection?page=1&amp;limit=250&amp;sort=year%2Casc&amp;layout=big&amp;user=hugoroy">my discs</a></li>
-                <li class="hide"><i class="fa fa-fw fa-book" title="OpenLibrary.org"></i>
-                    <a href="http://openlibrary.org/people/hugoroy/lists/OL29190L/Own_Library">my library</a></li>
-                <li class="hide"><i class="fa fa-fw fa-camera-retro" title="Flickr"></i> 
-                    <a href="http://www.flickr.com/photos/hugoroyd/">pictures</a></li>
-                <li class="hide"><i class="fa fa-fw fa-film" title="WatchThis"></i>
-                    <a href="http://www.watchth.is/users/Hugo/">movies</a></li>
-            </ul>
-
-            <div class="translationStatus">
-                <TMPL_IF ISTRANSLATION>
-                    &nbsp;(<TMPL_VAR PERCENTTRANSLATED>%)
-                </TMPL_IF>
-            </div>
-
-            <TMPL_IF HTML5><footer class="otherlinks"><TMPL_ELSE><div class="otherlinks"></TMPL_IF>
-                <TMPL_IF HTML5><nav id="otherlanguages"><TMPL_ELSE><div id="otherlanguages"></TMPL_IF>
-                <TMPL_IF OTHERLANGUAGES>
-                    <ul>
-                    <TMPL_LOOP OTHERLANGUAGES>
-                        <li>
-                            <a href="<TMPL_VAR URL>"><TMPL_VAR LANGUAGE></a>
-                            <TMPL_IF MASTER>
-                            (master)
-                            <TMPL_ELSE>
-                            &nbsp;(<TMPL_VAR PERCENT>%)
-                            </TMPL_IF>
-                        </li>
-                    </TMPL_LOOP>
-                    </ul>
-                </TMPL_IF>
-                <TMPL_IF HTML5></nav><TMPL_ELSE></div></TMPL_IF>
-
-                <!-- <TMPL_UNLESS DYNAMIC> -->
-                <!-- <TMPL_VAR TRAILS> -->
-                <!-- </TMPL_UNLESS> -->
-            <TMPL_IF HTML5></footer><TMPL_ELSE></div></TMPL_IF>
+            <nav id="sitenav">
+                <a href="/">•&nbsp;hroy.eu</a>
+                /&nbsp;<a href="/archives/">Archives</a>
+                <!-- <a href="/map/">Sitemap</a> -->
+                /&nbsp;<a href="/legal-info/">Legal Info</a>
+            </nav>
 
             <TMPL_IF EXTRAFOOTER>
                 <TMPL_VAR EXTRAFOOTER>
             </TMPL_IF>
 
-        </TMPL_UNLESS>
-        <!-- from <TMPL_VAR WIKINAME> -->
-        <TMPL_IF HTML5></footer><TMPL_ELSE></div></TMPL_IF>
+            <section id="about-me" class="v-card">
+                <img id="ma-tete" class="u-photo" alt="Hugo Roy" title="Hugo Roy" src="/favatar.png">
+                <a href="/"<TMPL_IF AUTHOR><TMPL_ELSE> class="p-author"</TMPL_IF>>Hugo Roy</a>
+                <ul id="relmes">
+                    <li><a href="https://twitter.com/hugoroyd" rel="me" title="Twitter: @hugoroyd"><img src="/assets/twitter-icon.png" alt="">@hugoroyd</a></li>
+                    <li><a href="https://mastodon.xyz/@hugo" rel="me" title="Mastodon: @hugo@mastodon.xyz"><img src="/assets/mastodon-icon.png" alt="">@hugo@mastodon.xyz</a></li>
+                    <!-- <li><a href="http://www.linkedin.com/in/hugoroy" rel="me" title="LinkedIn"><img src="/assets/linkedin-icon.png" alt="">/hugoroy</a></li> -->
+                </ul>
+            </section>
 
-    <TMPL_IF HTML5></article><TMPL_ELSE></div></TMPL_IF>
-<script type="text/javascript" src="/js/jquery.1.11.1.min.js"></script>
-<script type="text/javascript" src="/bootstrap/js/transition.js"></script>
-<script type="text/javascript" src="/bootstrap/js/collapse.js"></script>
-</body>
+        </TMPL_UNLESS>
+    </footer>
+  </body>
 </html>

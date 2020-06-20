@@ -1,4 +1,4 @@
-[[!meta title="pages in English"]]
+[[!meta title="pages tagged lang:en"]]
 
 [[!inline pages="tagged(lang:en)" actions="no" archive="yes"
 feedshow=10]]

@@ -1,4 +1,4 @@
-[[!meta title="pages tagged mutt"]]
+[[!meta title="pages tagged Mutt"]]
 
-[[!inline pages="tagged(mutt)" actions="no" archive="yes"
+[[!inline pages="tagged(Mutt)" actions="no" archive="yes"
 feedshow=10]]

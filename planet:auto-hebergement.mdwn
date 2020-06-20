@@ -1,4 +1,0 @@
-[[!meta title="Hugo Roy - Auto hébergement"]]
-[[!meta language="fr"]]
-
-[[!inline pages="tagged(self-hosting) and tagged(lang:fr) and !*/Discussion and !tagged(meta:ignore)" actions="no" archive="yes" feedshow=10]]

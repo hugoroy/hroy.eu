@@ -1,9 +1,0 @@
-[[!comment format=mdwn
- ip="146.185.36.19"
- claimedauthor="Mohiddeen Mneimne"
- subject="Nautilus"
- date="2014-12-03T22:44:50Z"
- content="""
-To connect using nautilus just add index.php to your dav url ex dav://kolab.your-domain.com/iRony/index.php, that did the trick for me.
-hope it helps.
-"""]]

@@ -1,1 +1,0 @@
-[[!map pages="bootstrap/docs/dist/* and ! bootstrap/docs/dist/*/*"]]

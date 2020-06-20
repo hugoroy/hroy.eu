@@ -11,12 +11,12 @@ merchandising][FZProposal]”.</cite>
 [[!tag lang:en music internet FrankZappa]]
 [[!meta title="… to put an end to the record business as we know it"]]
 
-<aside class="hide">
-In “[A proposal for a system to replace phonograph record
-merchandising][FZProposal]”, Zappa anticipates the technological capabilities to
-meet consumers’ demands and take advantage of what the record business
-considers a negative trend. 
-</aside>
+<!-- <aside class="hide"> -->
+<!-- In “[A proposal for a system to replace phonograph record -->
+<!-- merchandising][FZProposal]”, Zappa anticipates the technological capabilities to -->
+<!-- meet consumers’ demands and take advantage of what the record business -->
+<!-- considers a negative trend.  -->
+<!-- </aside> -->
 
 [FZProposal]: http://web.archive.org/web/20160423130253/http://www.zappa.com/whatsnew/news/FZ-Proposal/
 

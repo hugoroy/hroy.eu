@@ -1,8 +1,0 @@
-
-This website is edited by me, [Hugo Roy](/hugo/).
-
-It is hosted by [5apps](https://5apps.com/about) and generated using [ikiwiki](/about/).
-
-Legal requests can be addressed by email to: hugo *plus* hroy *dot* eu *minus* legalrequest *at* ampoliros *dot* net
-
-[[!inline pages="page(./copyright) and !*/Discussion" show="0" feeds=no actions=no template=inlinetext]]

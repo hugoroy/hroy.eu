@@ -1,4 +1,4 @@
-[[!meta title="pages tagged fsfe"]]
+[[!meta title="pages tagged FSFE"]]
 
-[[!inline pages="tagged(fsfe)" actions="no" archive="yes"
+[[!inline pages="tagged(FSFE)" actions="no" archive="yes"
 feedshow=10]]

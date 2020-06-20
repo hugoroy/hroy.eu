@@ -1,28 +1,66 @@
 <TMPL_LOOP TRAILLOOP>
 <TMPL_IF __FIRST__><TMPL_IF HTML5><nav class="trails"><TMPL_ELSE><div class="trails"></TMPL_IF></TMPL_IF>
+
 <div class="trail">
-<TMPL_IF PREVPAGE>
-<span class="trailprev">
-<span class="trailarrow">↑</span>
-<a href="<TMPL_VAR PREVURL>" title="<TMPL_VAR PREVTITLE>">
-<i class="fa fa-arrow-up icon-arrow-up"></i>
-    <span class="hide">Previous</span>
-</a>
-<span class="trailsep">|</span>
-</span>
-</TMPL_IF>
-<span class="trailup">
-<a href="<TMPL_VAR TRAILURL>" title="<TMPL_VAR TRAILTITLE>"><i class="fa fa-bars"></i><span class="hide">Up </span></a>
-</span>
-<TMPL_IF NEXTPAGE>
-<span class="trailnext">
-<span class="trailsep">|</span>
-<a href="<TMPL_VAR NEXTURL>" title="<TMPL_VAR NEXTTITLE>"><i class="fa fa-arrow-down icon-arrow-down"></i>
-    <span class="hide">Next</span>
-</a>
-<span class="trailarrow">↓</span>
-</span>
-</TMPL_IF>
+
+    <TMPL_IF PREVPAGE>
+        <span class="trailprev">
+        <TMPL_ELSE>
+            <TMPL_IF NEXTPAGE>
+            <span class="trailprev">
+            </TMPL_IF>
+    </TMPL_IF>
+
+    <TMPL_IF PREVPAGE>
+        <span class="trailarrow">↑</span>
+        <a href="<TMPL_VAR PREVURL>" title="<TMPL_VAR PREVTITLE>">
+        <TMPL_VAR PREVTITLE>
+        </a>
+        </span>
+    <TMPL_ELSE>
+        <TMPL_IF NEXTPAGE>
+        </span>
+        </TMPL_IF>
+    </TMPL_IF>
+
+    <TMPL_IF PREVPAGE>
+        <span class="trailup">
+        <a href="<TMPL_VAR TRAILURL>" title="<TMPL_VAR TRAILTITLE>">
+        <TMPL_VAR TRAILTITLE>
+        </a>
+        </span>
+    <TMPL_ELSE>
+        <TMPL_IF NEXTPAGE>
+            <span class="trailup">
+            <a href="<TMPL_VAR TRAILURL>" title="<TMPL_VAR TRAILTITLE>">
+            <TMPL_VAR TRAILTITLE>
+            </a>
+            </span>
+        </TMPL_IF>
+    </TMPL_IF>
+
+
+    <TMPL_IF PREVPAGE>
+        <span class="trailnext">
+        <TMPL_ELSE>
+            <TMPL_IF NEXTPAGE>
+            <span class="trailnext">
+            </TMPL_IF>
+    </TMPL_IF>
+
+    <TMPL_IF NEXTPAGE>
+        <a href="<TMPL_VAR NEXTURL>" title="<TMPL_VAR NEXTTITLE>">
+        <TMPL_VAR NEXTTITLE>
+        </a>
+        <span class="trailarrow">↓</span>
+    </span>
+    <TMPL_ELSE>
+        <TMPL_IF PREVPAGE>
+        </span>
+        </TMPL_IF>
+    </TMPL_IF>
+
 </div>
+        
 <TMPL_IF __LAST__><TMPL_IF HTML5></nav><TMPL_ELSE></div></TMPL_IF></TMPL_IF>
 </TMPL_LOOP>

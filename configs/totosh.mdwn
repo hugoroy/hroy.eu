@@ -1,8 +1,0 @@
-This is [[totosh|tags/machine:totosh]].
-
-  - FQDN: totosh.ampoliros.net
-  - IPv4: 80.67.179.53
-  - IPv6: 2001:910:1335::42
-
-Doc du VPN de FDN: <https://vador.fdn.fr/wiki/travaux:vpn_misc:doc>
-

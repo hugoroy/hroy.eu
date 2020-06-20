@@ -1,5 +1,0 @@
-[[!inline pages="internal(talks/slides/*) and !*/Discussion and !*/local.less and !*/local.css" show=0]]
-
-- [[!aggregate name="Speakerdeck Slides" dir="talks/slides"
-  feedurl="http://speakerdeck.com/hugo.atom"
-  url="https://speakerdeck.com/hugo"]]

@@ -1,8 +1,4 @@
-[[!meta title="“Right to be forgotten”"]]
-
-It is very unclear what a “right to be forgotten” would look like in reality.
-But in a few cases, people have started to describe something as such a
-“right.” Here are posts about such cases.
+[[!meta title="pages tagged rightToBeForgotten"]]
 
 [[!inline pages="tagged(rightToBeForgotten)" actions="no" archive="yes"
 feedshow=10]]
