@@ -1,0 +1,36 @@
+[[!meta date="2014-05-18T12:25:15Z"]]
+[[!template  id="inreplyto.tmpl"
+    replyto="Google Has Most of My Email Because It Has All of Yours"
+    link="http://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours"
+    datetime="2014-05-11T19:11:02+00:00" 
+    time="May 11, 2014" 
+    author="Benjamin Mako Hill"
+    photo="//0.gravatar.com/avatar/c765934363224852356e0d9a992b3a23?s=80&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&r=G"
+    profile="http://mako.cc/"]]
+
+[[!meta title="How much of my email Google has"]]
+[[!meta license="[CC0-1.0](http://creativecommons.org/publicdomain/zero/1.0/)"]]
+[[!meta description="Going through my email archive with mako’s python and R scripts to find out."]]
+[[!meta language="en"]]
+[[!tag lang:en email Google privacy]]
+
+I wanted to find out too, how much of my email is in the hands of Google.
+
+## Whole email archive
+
+I haven’t very carefully archived all my email since 2007. For what preceded 2007, I was using email through OVH’s POP server and I didn’t really care about archiving email, so that’s lost.
+
+[[!img all/emails_gmail_over_time.png id="allemail" alt="R graph" title="Emails over time" caption="Emails I get each week (in red) including those going through Google (in blue)" link="all/emails_gmail_over_time.pdf"]]
+
+[[!img all/emails_gmail_prop_over_time.png id="allgmailproportion" alt="R graph" title="Gmail over time" caption="Proportion of email going through Google for all emails (top) or for emails I replied to (bottom)" link="all/emails_gmail_prop_over_time.pdf"]]
+
+What’s interesting is that the proportion of Gmail is higher when I had the highest quantity of email.
+
+However, the Gmail proportion might seem particularily low because most of it involves people active with the Free Software Foundation Europe. However, it’s still much [higher than Karsten’s](http://blogs.fsfe.org/gerloff/2014/05/13/were-all-gmail-users-now/).
+
+## Personal email since 2011
+
+[[!img personal-since2011/emails_gmail_over_time.png id="personalemail" alt="R graph" title="Personal emails over time" caption="Personal emails I get each week (in red) including those going through Google (in blue)" link="personal-since2011/emails_gmail_over_time.pdf"]]
+
+[[!img personal-since2011/emails_gmail_prop_over_time.png id="personalgmailproportion" alt="R graph" title="Personal gmail over time" caption="Proportion of personal email going through Google for all emails (top) or for emails I replied to (bottom)" link="personal-since2011/emails_gmail_prop_over_time.pdf"]]
+

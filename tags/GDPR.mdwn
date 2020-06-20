@@ -1,0 +1,4 @@
+[[!meta title="pages tagged GDPR"]]
+
+[[!inline pages="tagged(GDPR)" actions="no" archive="yes"
+feedshow=10]]

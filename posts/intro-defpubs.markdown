@@ -1,0 +1,93 @@
+[[!meta date="2014-07-28T10:37:20Z"]]
+[[!meta title="Intro to Open Invention Network’s defensive publications"]] 
+[[!meta description="What I’ve been working on the last three weeks, my internship at Open Invention Network starts"]]
+[[!meta language="en"]]
+[[!tag lang:en OpenInventionNetwork defensivePublications patents freeSoftware]]
+
+Three weeks ago, I started working for *Open Invention Network* as an intern[^intern]. [Open Invention Network][OIN], or OIN in short, aims at creating a safe environment for Linux and Linux-based systems to thrive in spite of all the threats that patents constitute to software developers.
+
+<aside class="dyk-patents2009 sidenote right">
+**Did you know?** In 2009-2011 in the US, $20 billion was spent on patent
+litigation and patent purchases.  In 2011, for Apple and Google, this spending
+exceeded spending on research and development.
+[(source)](http://www.nytimes.com/2012/10/08/technology/patent-wars-among-tech-giants-can-stifle-competition.html?_r=2&pagewanted=all "In the smartphone industry alone, according to a Stanford University analysis, as much as $20 billion was spent on patent litigation and patent purchases in the last two years — an amount equal to eight Mars rover missions. Last year, for the first time, spending by Apple and Google on patent lawsuits and unusually big-dollar patent purchases exceeded spending on research and development of new products, according to public filings.")
+</aside>
+
+As one of my activities with [OIN] in the [Linux Defenders] program, I am helping Free Software (aka Open Source) projects submit “defensive publications.”
+
+Defensive publications are sort of anti-patents: 
+ 
+  - while patents are claimed to *exclude others* from being able to implement something,
+  - defensive publications *prevent anyone to exclude others* from being able to implement something. 
+
+They're called defensive because they can be used against further patent applications or they can be used a posteriori to defend oneself against patent infringement claims. Indeed, if the software is already accessible by the public before a patent on it is submitted, there’s no way you or anyone would be infringing on a patent on that software.  Actually in that situation the patent should be invalidated. Then you might ask: why do I need to write defensive publications if I have already published my source code? -- Unfortunately, that’s because just releasing source code is not effective to protect yourself against patents.
+
+In theory, it is true that you are immune from infringement of subsequent patents as soon as you’ve made your software source code publicly accessible online, for instance using a public version control system like Github.
+
+In practice, it’s not really effective. Here’s why: 
+
+ 1. the life of patents begin at the patent office where patent applications are submitted, then reviewed by patent office staff:
+
+    > Patent examiners have a strong sense of the technology that is patented, but **they’re missing an understanding of what has been and is currently being developed in the open source world**. As shocking as it may seem, the result is the examiner formulating an inaccurate sense of what is innovative. As the final arbiter of a very significant monopoly grant, they are often grossly uninformed in terms of what lies beyond their narrowly scoped search. This is not wholly their fault as they have limited resources and time. However, it is a strong indication of a faulty system that is so entrenched in the archaic methods under which patent offices have been operating.
+
+    As [Andrea pointed out][andreablog], patent office staff will usually not go to software repositories and read source code in order to find prior art. That’s why making it easy for them to read about what you’ve done in software is necessary. That’s what defensive publications are supposed to do.
+
+[andreablog]: http://creative-destruction.me/2014/01/21/defensive-publications-shedding-light-on-innovation/
+
+ 2. The life of patents end in several ways, whichever comes first:
+    
+    1. The patent was filed more than 20 years ago or the patent holders have not paid their yearly patent-taxes, it’s now in the public domain
+    2. an authoritative court decision has striked out the patent as invalid (and there’s no appeal pending)
+    3. the patent office reverts their decision to grant the patent
+
+
+    The problem is that in each of these cases, the process can be quite long. Litigations can go on for several years, especially since a patent holder will probably try to appeal a decision that invalidate its patent.
+
+    As for the patent office procedures, they can take a decade. For instance, it took more than 15 years to strike down a single very broad Amazon patent application[^EP0927945].
+
+    Meanwhile, the patent will constitute a potential threat that will effectively encumber the use and distribution of your software.
+
+[^EP0927945]: It’s patent [EP0927945](https://register.epo.org/application?number=EP99105948)
+The patent’s abstract begins like this: “A method and system for placing an order to purchase an item via the Internet.”
+This patent was filed at the European Patent Office in 1998.
+
+[OIN]: https://www.openinventionnetwork.com/
+[Linux Defenders]: http://www.linuxdefenders.org/
+[defpubs]: http://www.defensivepublications.org/
+
+[^intern]: Since I passed the bar exam in December last year, I now have to fulfil two 6-month internships.
+
+
+
+Basically, [defensive publications][defpubs] consist in documenting one aspect of software projects that’s focused on solving a challenge and does it in a new, innovative way. The document would give some context about the state of the art and then describe in more details how the system works, usually by using meaningful diagrams, flowcharts and other figures.
+
+<a href="https://www.flickr.com/photos/opensourceway/6554315093/">Not like this one:</a>
+
+<!--![Created by Libby Levi for opensource.com](https://farm8.staticflickr.com/7155/6554315093_d4a9119a17_o.png)-->
+[[!img typical-patent-software-fig.png id="typical-patent-software-fig" alt="Parody of a software patent figure" link="" caption="Created by Libby Levi for opensource.com" size="666x"]]
+
+And who’s going to read defensive publications? At [OIN], we maintain a website [to list defensive publications][defpubs]. Then, we submit them to databases used for prior-art examination by patent office examiners. So the target audience for these defensive publications is the patent office that reviews patent applications. A good defensive publication should use generic terms that are understood even by someone who’s not programming in the same language as the one used for the program.
+
+Defensive publications may be no more than a re-arrangement of what’s already written on the project’s blog, or in the documentation.  They can be useful to explain how your program works to other programmers. In some aspect, they look like a (short!) scientific publication.
+
+For software that works in areas heavily encumbered with patents like media codecs, actively submitting defensive publications can safeguard the project’s rights against patent holders. For instance, consider that [patent trolls now account for 67% of all new patent lawsuits](http://www.washingtonpost.com/blogs/the-switch/wp/2014/07/15/patent-trolls-now-account-for-67-percent-of-all-new-patent-lawsuits/) and as shown in a 2012 study, [startups are not immune to patent threats](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2146251 "Startups and Patent Trolls").
+
+So part of my job is to work with Free Software projects to help them submit
+defensive publications.  I have been working with Pablo Joubert on a defensive
+publication around search engines making use of [distributed hash tables
+(DHT)][dht]. Pablo was involved in the [Seeks project][seeks] and has now
+started a new project building upon [seeks]. It was very interesting for me to
+learn more about how [DHT] are used in peer-to-peer networks and how we can
+make use of them for new awesome applications like social search. Now, Pablo
+also has a document that explains concisely what the project is and how it
+works. This could be the preamble to the documentation 😉 
+
+[seeks]: http://seeks-project.info/
+[dht]: https://en.wikipedia.org/wiki/Distributed_hash_table
+
+I’ve also worked on a guide to defensive publications and I am starting to think on how a tutorial might look like. I hope you will find that useful. I’ll write more [[!taglink about_that_next_time|OpenInventionNetwork]]!
+
+If you are interested, don’t hesitate to join [#linuxdefenders][ircld] on the IRC freenode server.
+
+[ircld]: http://irc.lc/freenode/linuxdefenders/
+

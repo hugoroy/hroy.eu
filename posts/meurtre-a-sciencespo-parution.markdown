@@ -1,0 +1,17 @@
+[[!meta date="2014-09-04T12:06:26Z"]]
+[[!meta title="« Meurtre à Sciences Po »"]]
+[[!meta description="Le roman policier de Suznane Azmayesh paraît aujourd’hui"]]
+[[!meta language="fr"]]
+[[!meta copyright="Photographie de couverture : Guillaume Thomas"]]
+[[!tag lang:fr roman littérature SuzanneAzmayesh]]
+
+C’est aujourd’hui que paraît le roman de Suzanne, [*Meurtre à Sciences Po*][masp] ! Je ne peux que [vous inviter à aller le lire][mollat], car il est très divertissant et qu’il dépeint avec un humour pointé de sarcasme, les individualités parfois originales qu’on trouve rue Saint-Guillaume ! Évidemment comme son titre l’indique, il s’agit d’un roman policier. Vous me direz si on reconnaît l’influence d’Agatha Christie 😉
+
+[[!img couverture.jpg alt="Couverture du livre" link="http://meurtre-a-sciencespo.fr/"]]
+
+[masp]: http://meurtre-a-sciencespo.fr
+[mollat]: http://www.mollat.com/livres/suzanne-azmayesh-meurtre-sciences-po-9782825144268.html
+
+* * *
+
+Et non, ce n’est pas moi sur la gauche, mais Maxime ! Je suis sur la droite mais il faut croire que je gâchais toute l’harmonie visuelle de la photographie ☺ 

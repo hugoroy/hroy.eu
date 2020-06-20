@@ -1,0 +1,4 @@
+[[!meta title="pages tagged pandoc"]]
+
+[[!inline pages="tagged(pandoc)" actions="no" archive="yes"
+feedshow=10]]

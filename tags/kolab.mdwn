@@ -1,0 +1,4 @@
+[[!meta title="pages tagged kolab"]]
+
+[[!inline pages="tagged(kolab)" actions="no" archive="yes"
+feedshow=10]]
