@@ -14,7 +14,7 @@ iw-directives: [[!tag lang:fr]]
 <p>Moi, c'est <span class="fn" title="Hugo Roy">Hugo</span>.</p>
 
 <p><span
-class="p-note">Je suis ex vice-président de l'association <a href="//fdn.fr"
+class="p-note">Je suis ex vice-président de <a href="//fdn.fr"
 style="display:inline-block"><img alt=""
 src="/assets/fdn-logo.png" height="19"> <span
 class="org" title="FDN">French Data Network</span></a> (le plus ancien fournisseur d'accès Internet en activité), où j'ai été co-instigateur des <a
