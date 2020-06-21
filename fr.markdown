@@ -14,7 +14,7 @@ Salut ! Vous venez de tomber sur mon espace en ligne personnel...
 
 [[!inline pages="page(./hugo/fr) and !*/Discussion" show="0" feeds=no actions=no template=inlinetext]]
 
-<small>Vous cherchez du conseil juridique ? Je suis avocat au barreau de Paris (mais ceci est mon espace personnel).  
+<small>Vous cherchez du conseil juridique ? Je suis avocat à Paris (mais ceci est mon site perso).  
 👉  Pour accéder à mon 
 <a href="https://avocat.hroy.eu" class="external-link">site professionnel, c'est **ici**</a></small>
 
