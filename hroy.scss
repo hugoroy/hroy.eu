@@ -797,6 +797,37 @@ header .author a {
             font-weight: 300;
         }
     }
+    .inlinetext {
+        .inlinelinks {
+            opacity: 0.05;
+            margin-bottom: 2rem;
+            margin-left: -1em;
+            width: 1em;
+            display: inline-block;
+            vertical-align: bottom;
+
+            .inlinepermalink {
+                text-decoration: none !important;
+                color: $blue;
+                font-size: 80%;
+                display: inline-block;
+                padding: 2px 4px;
+
+                &:visited {
+                    color: $purple;
+                }
+            }
+        }
+
+        &:hover {
+            .inlinelinks {
+                opacity: 0.8;
+            }
+        }
+    }
+    .inlinelinks + .inlinecontent {
+        display: inline-block;
+    }
 }
 
 .toc {

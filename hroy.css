@@ -10643,6 +10643,30 @@ header .author a {
 .content .archivepage .archivepagedate, .content .archivepage .author {
   font-weight: 300;
 }
+.content .inlinetext .inlinelinks {
+  opacity: 0.05;
+  margin-bottom: 2rem;
+  margin-left: -1em;
+  width: 1em;
+  display: inline-block;
+  vertical-align: bottom;
+}
+.content .inlinetext .inlinelinks .inlinepermalink {
+  text-decoration: none !important;
+  color: #007bff;
+  font-size: 80%;
+  display: inline-block;
+  padding: 2px 4px;
+}
+.content .inlinetext .inlinelinks .inlinepermalink:visited {
+  color: #6f42c1;
+}
+.content .inlinetext:hover .inlinelinks {
+  opacity: 0.8;
+}
+.content .inlinelinks + .inlinecontent {
+  display: inline-block;
+}
 
 .toc-enum-off .toc ol, .toc.enum-off ol {
   list-style: none;
