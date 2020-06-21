@@ -1,7 +1,7 @@
 ---
 iw-directives: 
- - [[!meta title=""]]
- - [[!tag lang:en]]
+ - [[!meta title="Template Page"]]
+ - [[!tag lang:en meta:ignore]]
  - [[!sidebar content="Contents[[!toc startlevel=2 levels=1]]"]]
 title-meta: "Meta Title"
 title: "Title"
