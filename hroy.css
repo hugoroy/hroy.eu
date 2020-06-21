@@ -10674,7 +10674,7 @@ header .author a {
   text-decoration: none;
   box-shadow: 0 1px #a4a4a4;
 }
-.tags span.p-category a[href*="tags/lang"], .tags span.p-category a[href*="tags/meta:"], .tags [rel=tag] a[href*="tags/lang"], .tags [rel=tag] a[href*="tags/meta:"] {
+.tags span.p-category a[href*="tags/lang:"], .tags span.p-category a[href*="tags/meta:"], .tags [rel=tag] a[href*="tags/lang:"], .tags [rel=tag] a[href*="tags/meta:"] {
   display: none;
 }
 
@@ -10710,7 +10710,7 @@ header .author a {
 .main-tags a:active {
   color: #fd7e14;
 }
-.main-tags a[href*="tags/lang"], .main-tags a[href*="tags/meta:"] {
+.main-tags a[href*="tags/lang:"], .main-tags a[href*="tags/meta:"] {
   display: none;
 }
 .main-tags span.smallPC {

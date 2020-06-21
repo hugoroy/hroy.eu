@@ -835,7 +835,7 @@ header .author a {
             box-shadow: 0 1px #a4a4a4;
         }
     }
-    a[href*="tags/lang"], a[href*="tags/meta:"]  {
+    a[href*="tags/lang:"], a[href*="tags/meta:"]  {
         display: none;
     }
 }
@@ -864,7 +864,7 @@ header .author a {
         }
         &:link {color: $blue} &:visited {color: $purple} &:active {color: $orange}
     }
-    a[href*="tags/lang"], a[href*="tags/meta:"]  {
+    a[href*="tags/lang:"], a[href*="tags/meta:"]  {
         display: none;
     }
     span.smallPC {
