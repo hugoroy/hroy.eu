@@ -12,6 +12,6 @@ quick=yes trail=no feeds=no]]
 #### Main tags
 
 <nav class="tags main-tags">
-[[!pagestats pages="./tags/*" among="*" style="list" show="40"]]
+[[!pagestats pages="./tags/*" among="*" style="list" show="42"]]
 </nav>
 
