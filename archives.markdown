@@ -6,7 +6,7 @@
 
 **Posts** ⋅ [[Tips]] ⋅ [[Quotes]] ⋅ [[Images]]
 
-[[!inline pages="page(./posts/*) and !*/Discussion" archive=yes
+[[!inline pages="page(./posts/*) and !*/Discussion and !(tagged(meta:ignore))" archive=yes
 quick=yes trail=no feeds=no]]
 
 #### Main tags
