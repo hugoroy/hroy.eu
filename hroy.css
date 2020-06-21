@@ -10674,6 +10674,9 @@ header .author a {
   text-decoration: none;
   box-shadow: 0 1px #a4a4a4;
 }
+.tags span.p-category a[href*="tags/lang"], .tags span.p-category a[href*="tags/meta:"], .tags [rel=tag] a[href*="tags/lang"], .tags [rel=tag] a[href*="tags/meta:"] {
+  display: none;
+}
 
 .main-tags {
   font-size: 80%;

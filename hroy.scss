@@ -835,6 +835,9 @@ header .author a {
             box-shadow: 0 1px #a4a4a4;
         }
     }
+    a[href*="tags/lang"], a[href*="tags/meta:"]  {
+        display: none;
+    }
 }
 
 .main-tags {
