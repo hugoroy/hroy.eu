@@ -790,6 +790,8 @@ header .author a {
         .title, a.title {
             font-weight: 500;
             text-decoration: none;
+
+            &:link {color: $blue} &:visited {color: $purple} &:active {color: $orange}
         }
         .archivepagedate, .author {
             font-weight: 300;
@@ -832,6 +834,47 @@ header .author a {
             text-decoration: none;
             box-shadow: 0 1px #a4a4a4;
         }
+    }
+}
+
+.main-tags {
+    font-size: 80%;
+    ul {
+        list-style: none;
+        padding: 0;
+        li {
+            display: inline-block;
+        }
+    }
+    a {
+        display: inline-block;
+        padding: 0.25em 0.45em;
+        margin: 0 0.15em 0.15em 0;
+        margin-right: 1em !important;
+        background-color: darken(white, 0.2) !important;
+        box-shadow: 0 1px #e3dfe3;
+        text-decoration: none !important;
+
+        &:hover {
+            text-decoration: none;
+            box-shadow: 0 1px #a4a4a4;
+        }
+        &:link {color: $blue} &:visited {color: $purple} &:active {color: $orange}
+    }
+    a[href*="tags/lang"], a[href*="tags/meta:"]  {
+        display: none;
+    }
+    span.smallPC {
+        font-size: 80%;
+    }
+    span.normalPC {
+        font-size: 105%;
+    }
+    span.bigPC {
+        font-size: 150%;
+    }
+    span.biggestPC {
+        font-size: 180%;
     }
 }
 
@@ -1148,6 +1191,7 @@ html[lang] {
     .page {
         background-color: transparent;
         color: #FFF;
+        padding-bottom: 4em;
     }
     .content, .content h2 {color: #FFF;}
     .page .content a:link, 
@@ -1233,6 +1277,9 @@ html[lang] {
     .zzz{float: right; font-size: 0.001px; color: transparent; display:inline-block; width: 0px; text-decoration: none;}
     #relmes {
         margin-bottom: 0.75em;
+    }
+    .page > article + .tags {
+        display: none;
     }
 }
 .home {
