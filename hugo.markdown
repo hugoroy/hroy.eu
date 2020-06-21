@@ -5,6 +5,7 @@ iw-hidepubdate: yes
 meta-author: "Hugo Roy"
 lang: en
 iw-otherlang-fr: /hugo/fr/
+iw-directives: [[!tag lang:en]] 
 ...
 
 

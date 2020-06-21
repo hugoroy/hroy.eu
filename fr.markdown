@@ -5,6 +5,7 @@ iw-otherlang-en: /
 iw-class: home
 iw-hidepubdate: yes
 iw-hideaddedcontent: yes
+iw-directives: [[!tag lang:fr]] 
 author: Hugo Roy
 description: Intersections entre le droit et la technologie. Basé à Paris.
 ...
