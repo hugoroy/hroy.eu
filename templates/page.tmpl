@@ -401,7 +401,11 @@
                 <a href="/">•&nbsp;hroy.eu</a>
                 /&nbsp;<a href="/archives/">Archives</a>
                 <!-- <a href="/map/">Sitemap</a> -->
-                /&nbsp;<a href="/legal-info/">Legal Info</a>
+                <TMPL_IF pandoc_lang>
+                /&nbsp;<a href="/legal-info/"><span class="lang-select"><span class="fr">Mentions Légales</span><span class="no-lang">/</span><span class="en">Legal Info</span></span></a>
+                  <TMPL_ELSE>
+                /&nbsp;<a href="/legal-info/">Legal</a>
+                </TMPL_IF>
             </nav>
 
             <TMPL_IF EXTRAFOOTER>

@@ -32,11 +32,8 @@ id="above">see</a> [point 1 above](#point1)).
 
 This is especially sad because LaTeX is not only able to produce
 awesome typesets, it's also able to produce part of the content of the
-document, thanks to a myriad of packages that you can use in LaTeX
-[[!toggle id="varioref" text="(for instance, varioref)"]].
+document, thanks to a myriad of packages that you can use in LaTeX.
 
-[[!toggleable id="varioref" text="""
-[[!toggle id="varioref" text="×"]]
 For example, the [varioref] package is the best program I've seen to
 make automated references to another point in a document. Using
 varioref, LaTeX is able to print something like: “see section 3, on
@@ -51,7 +48,8 @@ be a single “web page” (of course, we could also emulate pages in HTML
 but, seriously, why are people doing that?) although it still makes
 sense to be able to refer to another part of the doc (like I did
 [above](#above).)
-"""]]
+
+-------
 
 So what I'm doing these days is mostly **LazyTeX**.
 
