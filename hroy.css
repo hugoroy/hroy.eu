@@ -10678,6 +10678,10 @@ header .author a {
   display: none;
 }
 
+.searchddg, .main-tags {
+  margin-bottom: 3em;
+}
+
 .main-tags {
   font-size: 80%;
 }

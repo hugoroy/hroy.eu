@@ -3,15 +3,16 @@
 <small>Search results by DuckDuckGo (<a href="https://duckduckgo.com/privacy">Privacy Policy</a>).</small>
 </div>
 
+Browse by tags:
+
+<nav class="tags main-tags">
+[[!pagestats pages="./tags/*" among="*" style="list" show="42"]]
+</nav>
+
 
 **Posts** ⋅ [[Tips]] ⋅ [[Quotes]] ⋅ [[Images]]
 
 [[!inline pages="page(./posts/*) and !*/Discussion and !(tagged(meta:ignore))" archive=yes
 quick=yes trail=no feeds=no]]
 
-#### Main tags
-
-<nav class="tags main-tags">
-[[!pagestats pages="./tags/*" among="*" style="list" show="42"]]
-</nav>
 
