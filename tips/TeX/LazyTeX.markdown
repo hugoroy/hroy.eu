@@ -1,5 +1,12 @@
-[[!meta title="How to write in LazyTeX instead of strict LaTeX"]]
-[[!tag lang:en LaTeX Pandoc YAML Markdown]]
+---
+iw-directives: 
+ - [[!meta date="2015-11-12T18:37:19Z"]]
+ - [[!meta title="How to write in LazyTeX instead of strict LaTeX"]]
+ - [[!tag lang:en LaTeX Pandoc YAML Markdown]]
+iw-class: post tip 
+lang: en
+description: "Some tips on how to use Pandox, LaTeX and Markdown if you're lazy and don't want to write LaTeX source files."
+...
 
 **TL;DR** Use Pandoc, write your document in a combination of YAML,
 Markdown and, when you need it, inline LaTeX. Read Pandoc's
@@ -48,7 +55,7 @@ sense to be able to refer to another part of the doc (like I did
 
 So what I'm doing these days is mostly **LazyTeX**.
 
-## What's LazyTeX?
+# What's LazyTeX?
 
 LazyTeX is a way to use TeX that is lazy, but has the potential to
 overcome the two donwsides of using strict LaTeX that I just
@@ -108,7 +115,7 @@ print the mistake. So I may need to review the PDF more thoroughly,
 which can be cumbersome for long documents. So, in some cases, maybe
 LazyTeX should be avoided and strict LaTeX prefered.
 
-## How does it work?
+# How does it work?
 
 Pandoc is what makes this possible. Pandoc has its own Markdown
 variant, which enables Markdown to be a bigger subset of HTML than the
@@ -131,7 +138,7 @@ diagram of possibilities:
 [[!img pandoc1dot15.jpg caption="Input on the left, output on the right" alt="pandoc 1.15 diagram"]]
 
 
-## What's not working?
+# What's not working?
 
 The problem is that Pandoc's LaTeX “reader” isn't a full LaTeX parser
 (yet).  So the markdown+inlineLaTeX combination may cause issues for
