@@ -1,17 +1,26 @@
-[[!tag lang:fr privacy]][[!meta language="fr"]]
-[[!meta title="Droit à l’oubli et liberté d’expression"]]
+---
+iw-directives: 
+ - [[!tag lang:fr privacy]][[!meta language="fr"]]
+ - [[!meta title="Droit à l’oubli et liberté d’expression"]]
+ - [[!meta date="2013-11-28T16:36:45Z"]]
+title-meta: "Droit à l'oubli et liberté d'expression"
+lang: fr-FR
+iw-class: post
+...
+
+[[!template  id="inreplyto.tmpl" replyto="Petite question à seenthis au sujet des suppressions de compte." link="http://seenthis.net/messages/199925" datetime="2013-11-24T10:01:33Z" time="2013-11-24T10:01:33Z" author="Agnès Maillard" photo="https://seenthis.net/local/cache-gd2/ca/dab0522ccb8f8b587329c18ed276bf.jpg?1531236535" profile="https://blog.monolecte.fr/"]]
 
 Une discussion intéressante a été lancée [sur seenthis]. Elle est
 difficile à résumer rapidement, mais voici le problème :
 
-Que faire lorsqu’un utilisateur désire supprimer un
-message qu’il a posté ?
+Que faire lorsqu’un⋅e utilisateur⋅ice désire supprimer un
+message qu’il⋅elle a posté ?
 
-Ce problème se pose pour toute sorte de communication, et la
+Ce problème se pose pour toutes sortes de communications, et la
 réponse appropriée à apporter varie probablement selon le type de
-message posté et le genre de media utilisé.
+message posté, le contexte ambiant et le genre de média utilisé.
 
-Il se pose parfois sous d’autres formes :
+Il se pose parfois sous ces formes :
 
   - faut-il instaurer un [[!taglink droit_à_l’oubli|rightToBeForgotten]] ?
 
@@ -22,46 +31,39 @@ Il se pose parfois sous d’autres formes :
   - à partir du moment où une information est publique, est-il
     normal de pouvoir la réutiliser à toutes les sauces ?
 
-    Il n’y a probablement pas de réponse simple, tout n’est pas
-    complètement blanc ou noir, par exemple un projet comme
-    <http://useraddress.net/> me semble assez différent d’un
-    truc aussi immonde que [123people].
-
 [sur seenthis]: http://seenthis.net/messages/199925
-[123people]: https://en.wikipedia.org/wiki/123people
 
 Bref, tout ça pour dire que nous sommes là face à un problème
 épineux et qu’il n’y a certainement pas de réponse toute-faite. Je
-voudrais en revanche explorer quelques enjeux soulevés par la
-discussion.
+voudrais en revanche tenter d'explorer quelques enjeux soulevés.
 
-Imaginons une discussion passionnée avec des gens très opiniâtres,
-appelons-les Alice et Bob pour faire original, sur un sujet
-trollesque. Celle-ci a lieu sur une liste de diffusion par email,
+Imaginons une discussion passionnée, sur un sujet sensible, avec des gens très opiniâtres,
+appelons-les **Alice** et **Bob** pour faire original. Cette discussion
+a lieu sur une liste de diffusion par email,
 semi-publique, c’est-à-dire que les archives sont disponibles pour
 les membres de la liste uniquement, mais chacun peut rejoindre la
 liste librement et obtenir l’accès à l’intégralité des archives.
 
 De toute évidence, la façon dont la liste de diffusion est
 configurée par défaut est déjà en-soi très déterminant. Par
-exemple, si la participation a la liste est soumise à des règles
-spéciales, il faudrait probablement que les choix techniques soit
+exemple, si la participation à la liste est soumise à des règles
+spécifiques, il faudrait probablement que les choix techniques soient
 en adéquation avec ces règles. (Par exemple, les [discussions
 juridiques hébergées][ftf-legal] par la FSFE sont soumises à la
 [règle de Chatham House], il aurait été idiot de confier les
-archives à Mailman).
+archives à Mailman dans sa configuration par défaut).
 
 [ftf-legal]: https://fsfe.org/activities/ftf/network.html
 [règle de Chatham House]: https://fr.wikipedia.org/wiki/R%C3%A8gle_de_Chatham_House
 
 Faisons un bond en avant de 10 ans. Alice regrette profondément
-d’avoir tenu de tels propos à l’époque, ceux-ci lui causent un
+d’avoir tenu les propos transcrits à l’époque, ceux-ci lui causent un
 tort particulier. Non seulement Alice a changé d’avis (on a bien
 le droit après tout !) mais en plus le fait que cette discussion
-ait été rendue publique par Charlie, administrateur de la liste
+ait été ultérieurement rendue publique par Charlie, administrateur de la liste
 ayant changé les règles d’accès aux archives, fait que le nom
-d’Alice remonte systématiquement en étant associé aux recherches
-sur Google concernant ce sujet.
+d’Alice remonte désormais systématiquement en étant associé aux recherches
+sur Google concernant ce sujet sensible.
 
 De son côté, Bob n’a pas changé d’avis et il reste toujours très
 content de ses arguments, d’autant plus qu’ils se sont avérés
@@ -70,9 +72,9 @@ discussion a posteriori sont convaincus qu’il a raison.
 
 On voit bien dans ce cas que, du point de vue d’Alice, un droit à
 l’oubli serait bénéfique. Il est assez injuste de la tenir
-responsable de propos tenus il y a dix ans, non seulement elle a
+responsable de propos tenus il y a dix ans : non seulement elle a
 droit de changer d’avis, mais en plus Alice a échangé ces propos
-sur une liste semi-publique à l’époque.
+sur une liste, à l’époque, semi-publique.
 
 Du point de vue de Charlie, la décision de rendre les archives
 publiques a été motivée par de multiples facteurs, d’autant plus
@@ -88,7 +90,7 @@ Mais voilà qui ne plairait pas beaucoup à Bob, puisque sans les
 messages d’Alice, les propos qu’il a tenus perdraient beaucoup de
 leur sens. On peut ajouter que les perdants dans cette histoire
 sont aussi tous les futurs lecteurs potentiels qui pourraient
-trouver un intérêt quelconque (curiosité, recherche historique,
+y trouver un intérêt quelconque (curiosité, recherche historique,
 sociologique, politique, que sais-je…).
 
 
@@ -185,41 +187,41 @@ cela.
 * * *
 
 On peut se dire à ce stade que sur Twitter ce n’est pas bien grave
-après tout puisqu’un seul tweet en lui-même n’étant que 140
+après tout puisqu’un seul tweet en lui-même n’étant que 280
 caractères, il n’y a pas énormément de perte.
 
-Évidemment, sur un service plus complet comme seenthis, ça pose un
-problème.
+Évidemment, sur un service plus complet comme seenthis ou Mastodon ou
+autre, ça pose potentiellement un problème.
 
 * * *
 
 Alors que faire ?
 
-Moi ce qui m’embête, c’est qu’il est devenu très très facile de
+Il est devenu très très facile de
 publier et de communiquer grâce au Web. Et donc la liberté
 d’expression prend une toute autre dimension. Disons que si je
 publie un truc par an, je prendrais probablement beaucoup de temps
 de réflexion pour peaufiner ce que je publie, peser le pour et le
 contre, etc. Dans cette optique, lorsque je fais usage de ma
 [[!taglink liberté_d’expression|freedomOfExpression]], il est normal que j’assume le propos que
-j’ai publié à un moment donné. Mais dans l’optique où on publie
+j’ai publié à un moment donné. 
+
+Mais dans l’optique où on publie
 beaucoup et tous les jours, il me semble normal d’envisager qu’il
-n’est pas très juste d’imposer une telle responsabilité. Après
+n’est pas très juste d’imposer une telle responsabilité à chacun. Après
 tout, on a non seulement le droit de changer d’avis, mais on a
-aussi un peu le droit de dire des bêtises de temps en temps sans
-qu’on n’en tienne forcément rigueur.
+aussi un peu le droit de dire [des bêtises de temps en temps sans
+qu’on n’en tienne forcément rigueur](https://twitter.com/GrablyR/status/1273909647699857421).
 
 Bref, il peut être tout à fait légitime qu’on décide de faire
 quelque chose pour la pauvre Alice, qui n’a pas vraiment envie
-d’assumer des propos qui ont pris une toute autre mesure qu’elle.
+d’assumer des propos qui ont pris une toute autre dimension.
 D’ailleurs, le fait que ce soit Alice qui les ait publiés n’est
 pas forcément important en soi ! C’est donc que décider de ne pas
 supprimer les propos en cause, lui cause un tort qui n’est
 nullement nécessaire. (Si le fait que ce soit Alice qui ait tenus
 de tels propos est si important, par exemple si Alice est une
-personnalité publique importante sur le sujet, elle aurait dû
-mieux savoir et donc, à elle d’assumer… mais ce n’est pas le cas
-typique.)
+personnalité publique importante sur le sujet, alors c'est un autre sujet.)
 
 C’est pourquoi je trouve qu’on peut envisager d’autres solutions,
 à mettre en place techniquement, et qui permettraient de mettre à
