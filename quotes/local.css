@@ -23,3 +23,7 @@
 .page #pageheader .masthead .title {
     display: none;
 }
+
+.masthead .date {
+    display: none;
+}
