@@ -11013,6 +11013,10 @@ html[lang] .content p {
 }
 .home .content, .home .content h2 {
   color: #FFF;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+.home .content .subscribers, .home .content h2 .subscribers {
+  text-shadow: none;
 }
 .home .page .content a:link, .home .page .content a:link:after,
 .home .page .content a:visited,
