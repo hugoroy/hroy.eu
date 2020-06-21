@@ -1,33 +1,31 @@
 ---
-title-meta: "Contact Hugo"
+title-meta: "Contacter Hugo"
 iw-class: hugo
 iw-hidepubdate: yes
 meta-author: "Hugo Roy"
-lang: en
-iw-otherlang-fr: /hugo/fr/
+iw-otherlang-en: /hugo/
+lang: fr
 ...
 
 
 <div class="vcard" id="hcard-Hugo-Roy">
 <img id="ma-tete" class="u-photo" alt="Hugo Roy" title="Hugo Roy" src="/favatar.png" />
-<p>I’m <span class="fn" title="Hugo Roy">Hugo</span>.</p>
+<p>Moi, c'est <span class="fn" title="Hugo Roy">Hugo</span>.</p>
 
 <p><span
-class="p-note">I am a former Vice-President of <a href="//fdn.fr"
+class="p-note">Je suis ex vice-président de l'association <a href="//fdn.fr"
 style="display:inline-block"><img alt=""
 src="/assets/fdn-logo.png" height="19"> <span
-class="org" title="FDN">French Data Network</span></a> (France’s
-oldest Internet access provider), where I co-started the <a
-href="//exegetes.eu.org/">Exégètes Amateurs</a> (a digital rights
-litigation group). I also cofounded <a href="//tosdr.org"
+class="org" title="FDN">French Data Network</span></a> (le plus ancien fournisseur d'accès Internet en activité), où j'ai été co-instigateur des <a
+href="//exegetes.eu.org/">Exégètes Amateurs</a> (un groupe de travail de contentieux stratégique). J'ai également cofondé le projet <a href="//tosdr.org"
 style="display:inline-block"><img alt=""
 src="/assets/tosdr-icon.png"> <span class="org"
-title="ToSDR">Terms of Service; Didn't Read</span></a> and am a former board member of the <a href="//www.fsfe.org"
+title="ToSDR">Terms of Service; Didn't Read</span></a> et suis un ancien membre du bureau de la <a href="//www.fsfe.org"
 style="display:inline-block"><img alt=""
 src="/assets/fsfe-icon.png" height="19"> <span
 class="org">Free Software Foundation Europe</span></a>.
 <span style="display:inline-block"><a href="/tags/FrankZappa/" style="display:inline-block"><img alt=""
-src="/assets/zappa-logo.png" height="19"> Zappa</a>-ist</span>.</span></p>
+src="/assets/zappa-logo.png" height="19"> Zappa</a>-iste</span>.</span></p>
 
 <!--p class="more">
 When I get time...
@@ -40,13 +38,13 @@ When I get time...
                     <!-- <li><a href="http://www.linkedin.com/in/hugoroy" rel="me" title="LinkedIn"><img src="/assets/linkedin-icon.png" alt="">/hugoroy</a></li> -->
 </ul>
 
-<p id="contact-link"><a href="/hugo/#contact">Contact me</a></p>
+<p id="contact-link"><a href="/hugo/#contact">Me contacter</a></p>
 
 <dl id="contact" class="more">
 <dt><a href="https://signal.org">Signal</a></dt>
 <dd>+33608•••41</dd>
 <dt>email</dt>
-<dd>hu<span class="zzz">SPAM</span>go+hellointernet@hu<span class="zzz">REMOVE</span>go<span class="y">roy.eu</span></dd>
+<dd>hu<span class="zzz">SPAM</span>go+hellointernet@hu<span class="zzz">SUPPRIMER</span>go<span class="y">roy.eu</span></dd>
 <dt>PGP</dt>
 <dd><a href="https://keys.openpgp.org/search?q=0x4BA9A6EE1AA9A69E">0x4BA9A6EE1AA9A69E</a></dd>
 <!-- <dt><a href="https://mastodon.xyz/@hugo">Mastodon</a></dt> -->

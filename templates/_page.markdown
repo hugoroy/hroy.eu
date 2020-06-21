@@ -1,8 +1,7 @@
-
 ---
 iw-directives: 
  - [[!meta title=""]]
- - [[!tag ignore DRAFT lang:en]]
+ - [[!tag lang:en]]
  - [[!sidebar content="Contents[[!toc startlevel=2 levels=1]]"]]
 title-meta: "Meta Title"
 title: "Title"
@@ -10,6 +9,10 @@ subtitle: "Subtitle"
 version: ""
 date: ""
 lang: "en-GB"
+otherlang-fr: ""
+otherlang-en: ""
+otherlang-lang: ""
+otherlang-url: ""
 abstract-label: ""
 abstract: ""
 keywords: ""
@@ -25,3 +28,5 @@ generate_pdf: false
 generate_latex: false
 before-body: [[!template  id='inreplyto.tmpl' replyto='Title' link='' datetime='' time='' author='' photo='' profile='']]
 ...
+
+Save your page as "_draft" to ensure it is not committed.

@@ -1,7 +1,7 @@
-
 ---
 title-meta: Hugo Roy
 lang: en
+iw-otherlang-fr: /fr/
 iw-class: home
 iw-hidepubdate: yes
 iw-hideaddedcontent: yes
@@ -22,7 +22,9 @@ Hello there! You just stumbled upon my personal online space...
 <section class="recent-blog-posts">
 # [[Latest blog posts:|blog]]
 
-[[!inline pages="page(./posts/*) and !*/Discussion and !(tagged(meta:ignore))" archive=yes quick=yes trail=no show="5" feeds="yes" title="“You can’t do that online anymore!” Hugo Roy’s Blog"]]
+<div class="subscribers"><a class="feedbutton atom btn btn-xs btn-warning" type="application/atom+xml" rel="alternate" title="Blog (Atom feed)" href="/blog/index.atom"><span class="feed-link hide">Atom</span> feed</a></div>
+
+[[!inline pages="page(./posts/*) and !*/Discussion and !(tagged(meta:ignore))" archive=yes quick=yes trail=no show="5" feeds="no" title="“You can’t do that online anymore!” Hugo Roy’s Blog"]]
 
 <br>[▶ Archives](/archives/)
 </section>
