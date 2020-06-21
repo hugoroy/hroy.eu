@@ -18,10 +18,10 @@
 <TMPL_IF PERMALINK>
   <a href="<TMPL_VAR PERMALINK>" class="title">
         <TMPL_IF pandoc_title>
-                <h1 class="title"><TMPL_VAR pandoc_title ESCAPE=HTML></h1>
+                <h1 class="title"><TMPL_VAR pandoc_title></h1>
             <TMPL_ELSE>
             <TMPL_IF pandoc_title-meta>
-                <h1 class="title"><TMPL_VAR pandoc_title-meta ESCAPE=HTML></h1>
+                <h1 class="title"><TMPL_VAR pandoc_title-meta></h1>
             <TMPL_ELSE>
             <TMPL_IF TITLE>
                 <h1 class="title"><TMPL_VAR TITLE></h1>
@@ -32,10 +32,10 @@
 <TMPL_ELSE>
   <a href="<TMPL_VAR PAGEURL>" class="title">
         <TMPL_IF pandoc_title>
-                <h1 class="p-name"><TMPL_VAR pandoc_title ESCAPE=HTML></h1>
+                <h1 class="p-name"><TMPL_VAR pandoc_title></h1>
             <TMPL_ELSE>
             <TMPL_IF pandoc_title-meta>
-                <h1 class="p-name"><TMPL_VAR pandoc_title-meta ESCAPE=HTML></h1>
+                <h1 class="p-name"><TMPL_VAR pandoc_title-meta></h1>
             <TMPL_ELSE>
             <TMPL_IF TITLE>
                 <h1 class="title"><TMPL_VAR TITLE></h1>
@@ -51,7 +51,7 @@
 
             <TMPL_IF pandoc_abstract>
                 <section class="p-summary">
-<TMPL_VAR pandoc_abstract ESCAPE=HTML>
+<TMPL_VAR pandoc_abstract>
                 </section>
                 <section class="readmore">
 <TMPL_IF PERMALINK>
@@ -65,7 +65,7 @@
                 <TMPL_ELSE>
                 <TMPL_IF pandoc_summary>
                 <section class="p-summary">
-<TMPL_VAR pandoc_summary ESCAPE=HTML>
+<TMPL_VAR pandoc_summary>
                 </section>
                 <section class="readmore">
 <TMPL_IF PERMALINK>
@@ -79,7 +79,7 @@
                 <TMPL_ELSE>
                 <TMPL_IF pandoc_description>
                 <section class="p-summary">
-<TMPL_VAR pandoc_description ESCAPE=HTML>
+<TMPL_VAR pandoc_description>
                 </section>
                 <section class="readmore">
 <TMPL_IF PERMALINK>

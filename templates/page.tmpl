@@ -85,7 +85,7 @@
                                 <TMPL_ELSE>
                                 <h1>
                                 </TMPL_IF>
-                                    <TMPL_VAR pandoc_title-meta ESCAPE=HTML>
+                                    <TMPL_VAR pandoc_title-meta>
                                 <TMPL_IF pandoc_title>
                                 <TMPL_ELSE>
                                 </h1>
@@ -111,7 +111,7 @@
                                 <TMPL_ELSE>
                                 <h1 class="p-name">
                                 </TMPL_IF>
-                                    <TMPL_VAR pandoc_title-meta ESCAPE=HTML>
+                                    <TMPL_VAR pandoc_title-meta>
                                 <TMPL_IF pandoc_title>
                                 <TMPL_ELSE>
                                 </h1>
@@ -181,11 +181,11 @@
 
             <TMPL_IF pandoc_title>
             <h1 class="title p-name">
-                <TMPL_VAR pandoc_title ESCAPE=HTML>
+                <TMPL_VAR pandoc_title>
             </h1>
             <TMPL_IF pandoc_subtitle>
             <p class="subtitle">
-                <TMPL_VAR pandoc_subtitle ESCAPE=HTML>
+                <TMPL_VAR pandoc_subtitle>
             </p>
             </TMPL_IF>
             </TMPL_IF>
@@ -195,7 +195,7 @@
             <TMPL_IF AUTHORURL>
             <a href="<TMPL_VAR AUTHORURL>"><TMPL_VAR AUTHOR></a>
             <TMPL_ELSE>
-              <TMPL_VAR AUTHOR ESCAPE=HTML>
+              <TMPL_VAR AUTHOR>
             </TMPL_IF>
             </p>
             </TMPL_IF>
@@ -238,7 +238,7 @@
                 <p class="abstract-label"><TMPL_VAR pandoc_abstract-label></p>
                 </TMPL_IF>
                 <section class="p-summary">
-<TMPL_VAR pandoc_abstract ESCAPE=HTML>
+<TMPL_VAR pandoc_abstract>
                 </section>
             </div>
             <hr>
@@ -373,7 +373,7 @@
 
             <TMPL_IF pandoc_copyright>
                 <div class="pagecopyright p-copyright" id="pagecopyright">
-                    <TMPL_VAR pandoc_copyright ESCAPE=HTML>
+                    <TMPL_VAR pandoc_copyright>
                 </div>
             <TMPL_ELSE>
             <TMPL_IF COPYRIGHT>
@@ -385,7 +385,7 @@
 
             <TMPL_IF pandoc_license>
                 <div class="pagelicense p-license" id="pagelicense">
-                Licence: <span rel="license"><TMPL_VAR pandoc_license ESCAPE=HTML></span>
+                Licence: <span rel="license"><TMPL_VAR pandoc_license></span>
                 </div>
             <TMPL_ELSE>
             <TMPL_IF LICENSE>
