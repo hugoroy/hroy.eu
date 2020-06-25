@@ -39,7 +39,7 @@ When I get time...
                     <!-- <li><a href="http://www.linkedin.com/in/hugoroy" rel="me" title="LinkedIn"><img src="/assets/linkedin-icon.png" alt="">/hugoroy</a></li> -->
 </ul>
 
-<p id="contact-link"><a href="/hugo/#contact">Me contacter</a></p>
+<p id="contact-link"><a href="/hugo/fr/#contact">Me contacter</a></p>
 
 <dl id="contact" class="more">
 <dt><a href="https://signal.org">Signal</a></dt>
