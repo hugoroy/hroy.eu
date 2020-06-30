@@ -690,6 +690,8 @@ header .author a {
         h2 {
             text-transform: lowercase;
             font-variant: small-caps;
+            font-variant-numeric: oldstyle-nums;
+            font-feature-settings: 'onum' 1;
             font-weight: 500;
             font-size: 120%;
             margin-top: 1.5em;
