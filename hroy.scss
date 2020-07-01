@@ -10,7 +10,7 @@ div.column{display: inline-block; vertical-align: top; width: 50%;}
 a.uri {overflow-wrap: break-word;overflow-wrap: anywhere;}
 p:first-child {hanging-punctuation: first;}
 h1, h2, h3, h4 {
-    color: #333333;
+    color: #111;
     line-height: 112%;
 }
 h1.title, h1 + .subtitle {
@@ -375,7 +375,6 @@ header .author a {
 
 .content {
     line-height: 1.428571429;
-    color: #666666;
     font-size: 16px;
 
     @media (min-width: 400px) {
@@ -621,7 +620,6 @@ header .author a {
         }
 
         .arrow {
-            // color: @gray-light;
             font-size: 1.25em;
         }
 
@@ -638,7 +636,6 @@ header .author a {
             display: inline-block;
         }
         .h-card .p-name {
-                // color: @gray;
         }
         .h-card:after {
             content: " ⋅ ";

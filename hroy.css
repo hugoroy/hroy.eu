@@ -9941,7 +9941,7 @@ p:first-child {
 }
 
 h1, h2, h3, h4 {
-  color: #333333;
+  color: #111;
   line-height: 112%;
 }
 
@@ -10288,7 +10288,6 @@ header .author a {
 
 .content {
   line-height: 1.428571429;
-  color: #666666;
   font-size: 16px;
 }
 @media (min-width: 400px) {
