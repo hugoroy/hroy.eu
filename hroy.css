@@ -10227,7 +10227,7 @@ sub {
   margin-bottom: 5em;
 }
 
-body:not(.blog) .title-block-header, body:not(.stylish) .title-block-header {
+body:not(.blog) .title-block-header {
   background: white;
   border: 1px solid white;
   border-radius: 5px;
@@ -10238,7 +10238,7 @@ body:not(.blog) .title-block-header, body:not(.stylish) .title-block-header {
   padding: 10px;
 }
 @media (min-width: 700px) {
-  body:not(.blog) .title-block-header, body:not(.stylish) .title-block-header {
+  body:not(.blog) .title-block-header {
     margin-left: 0;
     margin-right: 0;
     padding: 10px 25px;
@@ -10246,13 +10246,13 @@ body:not(.blog) .title-block-header, body:not(.stylish) .title-block-header {
   }
 }
 @media (max-width: 768px) {
-  body:not(.blog) .title-block-header, body:not(.stylish) .title-block-header {
+  body:not(.blog) .title-block-header {
     margin-top: 1.5em;
     margin-bottom: 1.5em;
   }
 }
 @media (min-width: 769px) {
-  body:not(.blog) .title-block-header, body:not(.stylish) .title-block-header {
+  body:not(.blog) .title-block-header {
     margin: 1.5em -25px;
   }
 }
@@ -10278,7 +10278,8 @@ body:not(.blog) .title-block-header .keywords, body:not(.blog) .inlineheader .he
 }
 
 body.stylish .title-block-header .title {
-  font-family: "EB Garamond", Garamond, Times, serif;
+  font-family: "P052", "New Century Schoolbook", "Vendome", Times, serif;
+  font-size: 3em;
 }
 
 header .author a {
