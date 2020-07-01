@@ -497,6 +497,8 @@ header .author a {
     blockquote {
         color: rgba(darken($purple, 30%), $alpha: 0.8);
         background-color: rgba($purple, $alpha: 0.05);
+        border-left: 3px solid;
+        border-color: rgba($purple, $alpha: 0.25);
         padding: 1em 2em;
 
         &:hover {

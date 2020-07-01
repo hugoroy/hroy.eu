@@ -10390,6 +10390,8 @@ header .author a {
 .content blockquote {
   color: rgba(45, 26, 80, 0.8);
   background-color: rgba(111, 66, 193, 0.05);
+  border-left: 3px solid;
+  border-color: rgba(111, 66, 193, 0.25);
   padding: 1em 2em;
 }
 .content blockquote:hover {
