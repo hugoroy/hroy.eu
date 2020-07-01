@@ -25,7 +25,9 @@ Salut ! Vous venez de tomber sur mon espace en ligne personnel...
 
 [[!inline pages="page(./posts/*) and !*/Discussion and !(tagged(meta:ignore))" archive=yes quick=yes trail=no show="5" feeds="no" title="“You can’t do that online anymore!” Hugo Roy’s Blog"]]
 
-<br>[▶ Archives](/archives/)
+<div class="readmore">
+[Archives](/archives/)
+</div>
 </section>
 
 [[!meta copyright="Cover photo [by Nine Inch Nails](http://www.flickr.com/photos/nineinchnails/7376287586/),

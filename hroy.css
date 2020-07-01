@@ -10538,7 +10538,7 @@ header .author a {
   margin-top: 1.5rem;
 }
 .content .readmore a:after, .content .readmore a:link:after {
-  content: "☞";
+  content: " ☞";
 }
 .content .readmore a:hover:after, .content .readmore a:link:hover:after {
   padding-left: 1em;
