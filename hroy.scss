@@ -675,7 +675,7 @@ header .author a {
             margin-top: 1.5rem;
 
             &:after {
-                content: " ☞";
+                content: " ☞";
             }
             &:hover:after {
                 padding-left: 1em;
@@ -1025,8 +1025,11 @@ header .author a {
         img {
             max-width: 40px; max-height: 40px;
             float: left;
-            position: absolute;
-            margin-left: -55px;
+            margin-right: 7px;
+            @media (min-width: 700px) {
+                position: absolute;
+                margin-left: -55px;
+            }
             .webmention-error {
                 display: none;
             }
@@ -1313,11 +1316,11 @@ html[lang] {
 
         #ma-tete { margin: 0 0.5em 0.5em 15px; float : right;}
 
-    @media (min-width: 990px) {
-        #ma-tete { float: left; margin: 0 0.5em 0.15em -60px;}
+        @media (min-width: 990px) {
+            #ma-tete { float: left; margin: 0 0.5em 0.15em -60px;}
+        }
 
         .fn .lastname {display: none;}
-    }
 
     dl#contact dt, dl#contact dt + dd {margin-top: 0.33em;margin-bottom:0;}
         dl#contact dt + dt {float: none;}
