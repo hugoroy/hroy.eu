@@ -18,7 +18,7 @@ style="display:inline-block"><img alt=""
 src="/assets/fdn-logo.png" height="19"> <span
 class="org" title="FDN">French Data Network</span></a> (France’s
 oldest Internet access provider), where I co-started the <a
-href="//exegetes.eu.org/">Exégètes Amateurs</a> (a digital rights
+href="//exegetes.eu.org/en/">Exégètes Amateurs</a> (a digital rights
 litigation group). I also cofounded <a href="//tosdr.org"
 style="display:inline-block"><img alt=""
 src="/assets/tosdr-icon.png"> <span class="org"
