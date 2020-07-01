@@ -6,7 +6,6 @@ iw-class: home
 iw-hidepubdate: yes
 iw-hideaddedcontent: yes
 iw-directives: [[!tag lang:en]] 
-author: Hugo Roy
 description: Law and technology intersections. ToS;DR project leader and Free Software activist (FSFE board member). Exégète amateur. A Zappaist based in Paris.
 ...
 

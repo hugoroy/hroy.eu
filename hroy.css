@@ -11121,6 +11121,9 @@ html[lang] .content p {
     float: left;
     margin: 0 0.5em 0.15em -60px;
   }
+  .home #hcard-Hugo-Roy .fn .lastname, .home .content p .fn .lastname, .home #timeline-last .fn .lastname, .home .recent-blog-posts .fn .lastname, .hugo #hcard-Hugo-Roy .fn .lastname, .hugo .content p .fn .lastname, .hugo #timeline-last .fn .lastname, .hugo .recent-blog-posts .fn .lastname {
+    display: none;
+  }
 }
 .home #hcard-Hugo-Roy dl#contact dt, .home #hcard-Hugo-Roy dl#contact dt + dd, .home .content p dl#contact dt, .home .content p dl#contact dt + dd, .home #timeline-last dl#contact dt, .home #timeline-last dl#contact dt + dd, .home .recent-blog-posts dl#contact dt, .home .recent-blog-posts dl#contact dt + dd, .hugo #hcard-Hugo-Roy dl#contact dt, .hugo #hcard-Hugo-Roy dl#contact dt + dd, .hugo .content p dl#contact dt, .hugo .content p dl#contact dt + dd, .hugo #timeline-last dl#contact dt, .hugo #timeline-last dl#contact dt + dd, .hugo .recent-blog-posts dl#contact dt, .hugo .recent-blog-posts dl#contact dt + dd {
   margin-top: 0.33em;

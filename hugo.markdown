@@ -2,7 +2,6 @@
 title-meta: "Contact Hugo"
 iw-class: hugo
 iw-hidepubdate: yes
-meta-author: "Hugo Roy"
 lang: en
 iw-otherlang-fr: /hugo/fr/
 iw-directives: [[!tag lang:en]] 
@@ -10,8 +9,8 @@ iw-directives: [[!tag lang:en]]
 
 
 <div class="vcard" id="hcard-Hugo-Roy">
-<img id="ma-tete" class="u-photo" alt="Hugo Roy" title="Hugo Roy" src="/favatar.png" />
-<p>I’m <span class="fn" title="Hugo Roy">Hugo</span>.</p>
+<img id="ma-tete" class="u-photo" alt="" src="/favatar.png" />
+<p>I’m <span class="fn" title="Hugo Roy">Hugo<span class="lastname"> Roy</span></span>.</p>
 
 <p><span
 class="p-note">I am a former Vice-President of <a href="//fdn.fr"
