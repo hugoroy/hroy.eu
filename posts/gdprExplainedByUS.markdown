@@ -91,7 +91,7 @@ Maciej argues that basing privacy legislation on individual consent is not the r
     And, where sensitive data is concerned:
     
      -  collection is prohibited as a general rule, 
-     -  unless explicit consent has been obtained and no EU or national laws rule out consent^[For instance, in France, it is prohibited for a company to get DNA from people. Consent cannot override this prohibition. Derogations are available for medical research, etc. See the [French data protection authority's book on this](https://www.cnil.fr/fr/les-donnees-genetiques-premier-titre-de-la-nouvelle-collection-point-cnil).], or 
+     -  unless explicit consent has been obtained and no EU or national laws rule out consent^[For instance, in France, it is prohibited for a company to get DNA from people. Consent cannot override this prohibition. Derogations are available for medical research, etc. See the [French data protection authority's book on this][cnildna].], or 
      -  unless one of the nine other exemptions listed in Article 9(2) applies (many of which require a EU or national law).
 
  -  Additionally, the GDPR provides the principle of “*storage limitation*” in [Article 5(1)(c)][art5]. 
@@ -101,6 +101,8 @@ Maciej argues that basing privacy legislation on individual consent is not the r
     The GDPR allows, however, for retaining data longer, in particular for archival, research or statistical purposes - subject to certain conditions (see Article 5 and Article 89 among others).
 
  -  For the argument on data [collection](#collection), see above.
+
+[cnildna]: https://www.cnil.fr/fr/les-donnees-genetiques-premier-titre-de-la-nouvelle-collection-point-cnil {hreflang="fr"}
 
 [art6]: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0679#d1e1888-1-1
 

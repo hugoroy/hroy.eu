@@ -10380,6 +10380,17 @@ header .author a {
 .content a[href*="//"]:not([href*="hroy.eu"]):active:after, .content a:link.external-link:active:after {
   color: #fd7e14;
 }
+.content a[hreflang*=fr]:after, .content a[hreflang*=en]:after {
+  content: "";
+  border: 1px solid;
+  padding: 0.15em 0.25em;
+}
+.content a[hreflang*=fr]:after {
+  content: "FR" !important;
+}
+.content a[hreflang*=en]:after {
+  content: "EN" !important;
+}
 .content .img a:link, .content .img a:link:before, .content .img a:link:after, .content .img a:link:hover, .content .img a:link:hover:before, .content .img a:link:hover:after, .content .img a:link:active, .content .img a:link:active:before, .content .img a:link:active:after, .content .img a:link:visited, .content .img a:link:visited:before, .content .img a:link:visited:after, .content .img a:link:focus, .content .img a:link:focus:before, .content .img a:link:focus:after, .content a:link.img, .content a:link.img:before, .content a:link.img:after, .content a:link.img:hover, .content a:link.img:hover:before, .content a:link.img:hover:after, .content a:link.img:active, .content a:link.img:active:before, .content a:link.img:active:after, .content a:link.img:visited, .content a:link.img:visited:before, .content a:link.img:visited:after, .content a:link.img:focus, .content a:link.img:focus:before, .content a:link.img:focus:after, .content .img > a:link, .content .img > a:link:before, .content .img > a:link:after, .content .img > a:link:hover, .content .img > a:link:hover:before, .content .img > a:link:hover:after, .content .img > a:link:active, .content .img > a:link:active:before, .content .img > a:link:active:after, .content .img > a:link:visited, .content .img > a:link:visited:before, .content .img > a:link:visited:after, .content .img > a:link:focus, .content .img > a:link:focus:before, .content .img > a:link:focus:after, .content a:link > .img, .content a:link > .img:before, .content a:link > .img:after, .content a:link > .img:hover, .content a:link > .img:hover:before, .content a:link > .img:hover:after, .content a:link > .img:active, .content a:link > .img:active:before, .content a:link > .img:active:after, .content a:link > .img:visited, .content a:link > .img:visited:before, .content a:link > .img:visited:after, .content a:link > .img:focus, .content a:link > .img:focus:before, .content a:link > .img:focus:after {
   content: "" !important;
   margin: 0;

@@ -482,6 +482,18 @@ header .author a {
         }
     }
 
+    a[hreflang*="fr"]:after, a[hreflang*="en"]:after {
+        content: "";
+        border: 1px solid;
+        padding: 0.15em 0.25em;
+    }
+    a[hreflang*="fr"]:after {
+        content: "FR" !important;
+    }
+    a[hreflang*="en"]:after {
+        content: "EN" !important;
+    }
+
     .img a:link, a:link.img, .img > a:link, a:link > .img {
         &, &:hover, &:active, &:visited, &:focus {
             &, &:before, &:after {
