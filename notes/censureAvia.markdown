@@ -3,7 +3,7 @@ iw-class: note
 lang: fr
 title-meta: "Censure de la loi Avia"
 iw-directives:
- - [[!tag ConseilConstitutionnel ConseilDÉtat freedomOfExpression censorship]]
+ - [[!tag ConseilConstitutionnel ConseilDÉtat freedomOfExpression censorship lang:fr]]
 ...
 
 

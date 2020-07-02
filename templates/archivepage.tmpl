@@ -1,8 +1,8 @@
 <div class="archivepage">
 <TMPL_IF PERMALINK>
-<a class="title" href="<TMPL_VAR PERMALINK>"><TMPL_IF pandoc_title><TMPL_VAR pandoc_title><TMPL_ELSE><TMPL_IF pandoc_title-meta><TMPL_VAR pandoc_title-meta><TMPL_ELSE><TMPL_VAR TITLE></TMPL_IF></TMPL_IF></a><br />
+<a class="title" <TMPL_IF pandoc_lang>hreflang="<TMPL_VAR pandoc_lang>" </TMPL_IF>href="<TMPL_VAR PERMALINK>"><TMPL_IF pandoc_title><TMPL_VAR pandoc_title><TMPL_ELSE><TMPL_IF pandoc_title-meta><TMPL_VAR pandoc_title-meta><TMPL_ELSE><TMPL_VAR TITLE></TMPL_IF></TMPL_IF></a><br />
 <TMPL_ELSE>
-<a class="title" href="<TMPL_VAR PAGEURL>"><TMPL_IF pandoc_title><TMPL_VAR pandoc_title><TMPL_ELSE><TMPL_IF pandoc_title-meta><TMPL_VAR pandoc_title-meta><TMPL_ELSE><TMPL_VAR TITLE></TMPL_IF></TMPL_IF></a><br />
+<a class="title" <TMPL_IF pandoc_lang>hreflang="<TMPL_VAR pandoc_lang>" </TMPL_IF>href="<TMPL_VAR PAGEURL>"><TMPL_IF pandoc_title><TMPL_VAR pandoc_title><TMPL_ELSE><TMPL_IF pandoc_title-meta><TMPL_VAR pandoc_title-meta><TMPL_ELSE><TMPL_VAR TITLE></TMPL_IF></TMPL_IF></a><br />
 </TMPL_IF>
 <span class="archivepagedate">
 <TMPL_IF pandoc_date><TMPL_VAR pandoc_date>

@@ -9,6 +9,7 @@ Browse by tags:
 [[!pagestats pages="./tags/*" among="*" style="list" show="42"]]
 </nav>
 
+[[Blog]]: [English only](/blog/en/) ⋅ [Français uniquement](/blog/fr)
 
 **Posts** ⋅ [[Tips]] ⋅ [[Quotes]] ⋅ [[Images]]
 

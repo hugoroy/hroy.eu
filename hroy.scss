@@ -481,15 +481,15 @@ header .author a {
             color: $orange;
         }
 
-        &[hreflang*="fr"]:after, &[hreflang*="en"]:after {
+        &[hreflang*="fr"]:after, &[hreflang*="fr-FR"]:after, &[hreflang*="en"]:after, &[hreflang*="en-GB"]:after {
             content: "";
             border: 1px solid;
             padding: 0.15em 0.25em;
         }
-        &[hreflang*="fr"]:after {
+        &[hreflang*="fr"]:after, &[hreflang*="fr-FR"]:after {
             content: "FR" !important;
         }
-        &[hreflang*="en"]:after {
+        &[hreflang*="en"]:after, &[hreflang*="en-GB"]:after {
             content: "EN" !important;
         }
     }
@@ -815,6 +815,24 @@ header .author a {
             text-decoration: none;
 
             &:link {color: $blue} &:visited {color: $purple} &:active {color: $orange}
+
+            // Show language indicator:
+            // &[hreflang*="fr"]:before, &[hreflang*="en"]:before, &[hreflang*="fr-FR"]:before, &[hreflang*="en-GB"]:before {
+            //     content: "";
+            //     font-size: 50%;
+            //     font-weight: 400;
+            //     border: 1px solid;
+            //     padding: 0.15em 0.25em;
+            //     font-size: 50%;
+            //     vertical-align: middle;
+            //     margin-right: 0.5em;
+            // }
+            // &[hreflang*="fr"]:before, &[hreflang*="fr-FR"]:before {
+            //     content: "FR" !important;
+            // }
+            // &[hreflang*="en"]:before, &[hreflang*="en-GB"]:before {
+            //     content: "EN" !important;
+            // }
         }
         .archivepagedate, .author {
             font-weight: 300;
