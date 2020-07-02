@@ -11098,6 +11098,12 @@ html[lang] .content p {
 .home .recent-blog-posts {
   margin-top: 8em;
 }
+.home .recent-blog-posts .bylang a {
+  border: 1px solid;
+  padding: 0.15em 0.25em;
+  font-size: 75%;
+  margin: 0;
+}
 .home .recent-blog-posts a:link, .home .recent-blog-posts a:visited {
   background-size: 0 !important;
 }

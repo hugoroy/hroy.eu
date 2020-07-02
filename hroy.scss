@@ -1314,7 +1314,15 @@ html[lang] {
     }
     .recent-blog-posts {
         margin-top: 8em;
+
+        .bylang a {
+            border: 1px solid;
+            padding: 0.15em 0.25em;
+            font-size: 75%;
+            margin: 0;
+        }
     }
+
     .recent-blog-posts a:link, .recent-blog-posts a:visited {
     background-size: 0 !important;
     }

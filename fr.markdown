@@ -19,7 +19,7 @@ Salut ! Vous venez de tomber sur mon espace en ligne personnel...
 <a href="https://avocat.hroy.eu" class="external-link">site professionnel, c'est **ici**</a></small>
 
 <section class="recent-blog-posts">
-# [[Derniers billets de blogs:|blog]]
+# [[Derniers billets de blogs:|blog]] <span class="bylang">[EN](/blog/en "English only") [FR](/blog/fr "Français uniquement")</span>
 
 <div class="subscribers"><a class="feedbutton atom btn btn-xs btn-warning" type="application/atom+xml" rel="alternate" title="Blog (Atom feed)" href="/blog/index.atom"><span class="feed-link hide">Atom</span> flux</a></div>
 

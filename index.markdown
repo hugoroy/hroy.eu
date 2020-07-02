@@ -20,7 +20,7 @@ Hello there! You just stumbled upon my personal online space...
 <a href="https://attorney.hroy.eu" class="external-link">professional website **here**</a></small>
 
 <section class="recent-blog-posts">
-# [[Latest blog posts:|blog]]
+# [[Latest blog posts:|blog]] <span class="bylang">[EN](/blog/en "English only") [FR](/blog/fr "Français uniquement")</span>
 
 <div class="subscribers"><a class="feedbutton atom btn btn-xs btn-warning" type="application/atom+xml" rel="alternate" title="Blog (Atom feed)" href="/blog/index.atom"><span class="feed-link hide">Atom</span> feed</a></div>
 
