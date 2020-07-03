@@ -4,8 +4,6 @@
 </div>
 
 
-Subscribe to syndication feeds: [Choose](/feeds/)
-
 
 Browse by tags:
 
