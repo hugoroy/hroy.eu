@@ -573,22 +573,6 @@ header .author a {
         }
     }
 
-    .toggleable {
-        color: rgba(darken($blue, 30%), $alpha: 0.8);
-        background-color: rgba($blue, $alpha: 0.05);
-        font-size: 90%;
-        padding: 1em 2em;
-        margin: 0 0 1rem;
-
-        &:hover {
-            color: rgba(darken($blue, 30%), $alpha: 1);
-        }
-
-        p:last-child {
-            margin-bottom: 0;
-        }
-    }
-
     img, video {
         max-width: 100%;
         max-height: auto;
@@ -705,6 +689,26 @@ header .author a {
                 color: $purple;
             }
         }
+    }
+
+    .toggleable {
+        color: rgba(darken($blue, 30%), $alpha: 0.8);
+        background-color: rgba($blue, $alpha: 0.05);
+        font-size: 90%;
+        padding: 1em 2em;
+        margin: 0 0 1rem;
+
+        &:hover {
+            color: rgba(darken($blue, 30%), $alpha: 1);
+        }
+
+        p:last-child {
+            margin-bottom: 0;
+        }
+    }
+
+    .hide {
+        display: none;
     }
 
     .post & {
