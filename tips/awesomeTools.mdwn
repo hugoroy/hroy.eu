@@ -35,7 +35,8 @@ systems (city-wide like Berlin or Paris and even long-distance).
 
 #### [[!img pinboard.png link=no size="x28"]] [Pinboard]
 
-[Pinboard] a simple and efficient bookmarking app that also archives the content of marked pages (if you pay for it).[^nofs]
+[Pinboard] a simple and efficient bookmarking app that also archives the content of marked pages (if you pay for it). Unfortunately, Pinboard is not released as free software. But you can [export your bookmarks](https://pinboard.in/export/).
+
 
 #### [[!img sharesome.png link=no size="x28"]] [Sharesome]
 
@@ -65,8 +66,6 @@ If you’re looking for a curated list of awesome web services that are free of 
 [tosdrapp]: https://5apps.com/tosdr/tosdr/
 [tosdrext]: http://tosdr.org/downloads.html
 [Libre projects]: http://libreprojects.net/
-
-[^nofs]: Unfortunately, Pinboard is not released as free software. But you can [export your bookmarks](https://pinboard.in/export/).
 
 <style type="text/css">.pagedate.published {display: none;}</style>
 
