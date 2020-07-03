@@ -10882,13 +10882,14 @@ header .author a {
   display: inline-block;
   margin: 0 1em 0 0;
   padding-top: 3rem;
+  padding-bottom: 1.5rem;
   font-size: 1.2em;
   color: #9a9a9a;
   font-weight: 600;
   content: "Webmentions";
 }
 #webmentions .webmention-mention {
-  margin: 1em 0;
+  margin: 1.75em 0;
 }
 #webmentions .webmention-author img {
   max-width: 40px;
