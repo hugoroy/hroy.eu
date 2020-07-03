@@ -670,7 +670,7 @@ header .author a {
         &:hover {
             background-color: #ED9C28 !important;
         }
-        .hide {
+        .hide, .atomdesc, .rssdesc {
             display: none;
         }
     }
@@ -815,14 +815,15 @@ header .author a {
         }
     }
     .feeds & {
-        ul li p, ul li .subscribers {
-            display: inline;
+        // ul li p, ul li .subscribers {
+        //     display: inline;
 
-            .feedbutton {
-                margin-left: 0.25em;
-                margin-right: 1em;
-            }
-        }
+        //     .feedbutton {
+        //         margin-left: 0.25em;
+        //         margin-right: 1em;
+        //     }
+        // }
+        .subscribers { display: none; }
     }
     .archivepage {
 
