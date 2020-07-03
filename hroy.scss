@@ -613,8 +613,10 @@ header .author a {
 
     .inreplyto {
         margin-bottom: 1rem;
-        padding: 19px;
-        font-size: 90%;
+        padding: 0.5em;
+        font-size: 80%;
+        border: 1px solid rgba(#3584e4, $alpha: 0.5);
+        border-radius: 7px;
         // background: $gray-lighter;
         // border-left: 5px solid $gray-light;
 
@@ -630,22 +632,26 @@ header .author a {
             font-size: 1.25em;
         }
 
-        .dt-published {
+        .profile.url, .dt-published {
             font-weight: 300;
+            display: inline-block;
+
+            &:before {
+                content: " ⋅ ";
+            }
         }
         img.u-photo {
             height: 25px;
             width: auto;
             border-radius: 50%;
+            margin-right: 10px;
         }
         .p-content {
-            margin-left: 1.4em;
-            display: inline-block;
+            display: block;
+            margin-top: 0.25em;
         }
         .h-card .p-name {
-        }
-        .h-card:after {
-            content: " ⋅ ";
+            font-weight: 500;
         }
     }
 
