@@ -3,6 +3,10 @@
 <small>Search results by DuckDuckGo (<a href="https://duckduckgo.com/privacy">Privacy Policy</a>).</small>
 </div>
 
+
+Subscribe to syndication feeds: [Choose](/feeds/)
+
+
 Browse by tags:
 
 <nav class="tags main-tags">
