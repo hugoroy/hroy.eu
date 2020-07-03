@@ -10652,6 +10652,13 @@ header .author a {
 .blog .content .note .inlinefooter .tags {
   display: none;
 }
+.feeds .content ul li p, .feeds .content ul li .subscribers {
+  display: inline;
+}
+.feeds .content ul li p .feedbutton, .feeds .content ul li .subscribers .feedbutton {
+  margin-left: 0.25em;
+  margin-right: 1em;
+}
 .content .archivepage + .archivepage {
   margin-top: 1rem;
 }

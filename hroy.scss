@@ -814,6 +814,16 @@ header .author a {
             }
         }
     }
+    .feeds & {
+        ul li p, ul li .subscribers {
+            display: inline;
+
+            .feedbutton {
+                margin-left: 0.25em;
+                margin-right: 1em;
+            }
+        }
+    }
     .archivepage {
 
         & + .archivepage {
