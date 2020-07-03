@@ -10453,19 +10453,6 @@ header .author a {
 .content .footnotes li[id*=fn] *:last-child {
   margin-bottom: 0;
 }
-.content .toggleable {
-  color: rgba(0, 49, 102, 0.8);
-  background-color: rgba(0, 123, 255, 0.05);
-  font-size: 90%;
-  padding: 1em 2em;
-  margin: 0 0 1rem;
-}
-.content .toggleable:hover {
-  color: #003166;
-}
-.content .toggleable p:last-child {
-  margin-bottom: 0;
-}
 .content img, .content video {
   max-width: 100%;
   max-height: auto;
@@ -10561,6 +10548,22 @@ header .author a {
 }
 .content .readmore a:visited, .content .readmore a:link:visited {
   color: #6f42c1;
+}
+.content .toggleable {
+  color: rgba(0, 49, 102, 0.8);
+  background-color: rgba(0, 123, 255, 0.05);
+  font-size: 90%;
+  padding: 1em 2em;
+  margin: 0 0 1rem;
+}
+.content .toggleable:hover {
+  color: #003166;
+}
+.content .toggleable p:last-child {
+  margin-bottom: 0;
+}
+.content .hide {
+  display: none;
 }
 .post .content h2 {
   text-transform: lowercase;
