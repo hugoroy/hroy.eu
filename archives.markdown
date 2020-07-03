@@ -22,7 +22,7 @@ quick=yes trail=no feeds=no]]
 **Older Archives**
 
 
-[2013](https://web.archive.org/web/20131031153049/http://blog.hugoroy.eu/2013/)
+[2013](https://web.archive.org/web/*/http://blog.hugoroy.eu/2013/*)
 
 <div class="archivepage" id="2013-08-01">
 <a class="title" href="//identi.ca/hugoroy/note/8zgqhZC8TiOU4Lu6EZSdlg">Here’s why economists hate software patents</a> <span class="link-out">(identi.ca)</span><br>
@@ -64,7 +64,7 @@ quick=yes trail=no feeds=no]]
 <span class="archivepagedate"><time class="dt-published" datetime="2013-01-13">13 Jan 2013</time></span>
 </div>
 
-[2012](https://web.archive.org/web/20130522091034/http://blog.hugoroy.eu/2012/)
+[2012](https://web.archive.org/web/*/http://blog.hugoroy.eu/2012/*)
 
 <div class="archivepage" id="2012-12-24">
 <a class="title" href="http://web.archive.org/web/20130522091034/http://blog.hugoroy.eu/2012/12/24/patentbs-series-1-abolishing-software-patents-would-harm-free-software/">PatentBS series #1: Abolishing software patents would harm Free Software</a> <span class="link-out">(blog.hugoroy.eu)</span><br>
@@ -106,7 +106,7 @@ quick=yes trail=no feeds=no]]
 <span class="archivepagedate"><time class="dt-published" datetime="2012-01-27">27 Jan 2012</time></br>
 </div>
 
-[2011](https://web.archive.org/web/20130522091034/http://blog.hugoroy.eu/2011/) ⋅ [2010](https://web.archive.org/web/20130522091034/http://blog.hugoroy.eu/2010/)
+[2011](https://web.archive.org/web/*/http://blog.hugoroy.eu/2011/*) ⋅ [2010](https://web.archive.org/web/*/http://blog.hugoroy.eu/2010/*)
 
 <div class="archivepage" id="2010-12-03">
 <a class="title" href="http://web.archive.org/web/20130522091034/http://blog.hugoroy.eu/2010/12/03/brevets-droit-dauteur-ompi-enjeux-mondiaux/">Brevets, droit d’auteur, OMPI — enjeux mondiaux</a> <span class="link-out">(blog.hugoroy.eu)</span><br>
@@ -157,7 +157,7 @@ quick=yes trail=no feeds=no]]
 <span class="archivepagedate"><time class="dt-published" datetime="2010-01-11">11 Jan 2010</time></br>
 </div>
 
-[2009](https://web.archive.org/web/20130522091034/http://blog.hugoroy.eu/2009/)
+[2009](https://web.archive.org/web/*/http://blog.hugoroy.eu/2009/*)
 
 <div class="archivepage" id="2009-11-22">
 <a class="title" href="http://web.archive.org/web/20130522091034/http://blog.hugoroy.eu/2009/11/22/souhaitons-nous-une-societe-dillettres-numeriques-ou-une-societe-libre/">Souhaitons-nous une société d’illettrés numériques ou une société libre&nbsp;?</a> <span class="link-out">(blog.hugoroy.eu)</span><br>
@@ -174,4 +174,4 @@ quick=yes trail=no feeds=no]]
 <span class="archivepagedate"><time class="dt-published" datetime="2009-11-10">10 Nov 2009</time></br>
 </div>
 
-[2008](https://web.archive.org/web/20130522091034/http://blog.hugoroy.eu/2008/)
+[2008](https://web.archive.org/web/*/http://blog.hugoroy.eu/2008/*)
