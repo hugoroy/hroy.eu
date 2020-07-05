@@ -10600,6 +10600,9 @@ header .author a {
 .post .content h7 {
   font-size: 70%;
 }
+.quote .content blockquote cite em, .content article.quote blockquote cite em {
+  font-style: normal;
+}
 .blog .content a.title h1 {
   font-weight: 600;
   font-size: 120%;
@@ -10640,16 +10643,16 @@ header .author a {
 .blog .content .inlinefooter .inlinepermalink:visited {
   color: #6f42c1;
 }
-.blog .content .note {
+.blog .content .note, .blog .content .quote {
   font-size: 90%;
 }
-.blog .content .note .inlineheader .title {
+.blog .content .note .inlineheader .title, .blog .content .quote .inlineheader .title {
   display: none;
 }
-.blog .content .note .inlinefooter {
+.blog .content .note .inlinefooter, .blog .content .quote .inlinefooter {
   padding-top: 0;
 }
-.blog .content .note .inlinefooter .tags {
+.blog .content .note .inlinefooter .tags, .blog .content .quote .inlinefooter .tags {
   display: none;
 }
 .feeds .content .subscribers {

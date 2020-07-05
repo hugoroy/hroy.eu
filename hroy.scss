@@ -747,6 +747,11 @@ header .author a {
             font-size: 70%;
         }
     }
+    .quote &, & article.quote  {
+        blockquote cite em { 
+            font-style: normal;
+        }
+    }
     .blog & {
         a.title {
             h1 {
@@ -798,7 +803,7 @@ header .author a {
                 }
             }
         }
-        .note {
+        .note, .quote {
             font-size: 90%;
             
             .inlineheader {
