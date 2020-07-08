@@ -1,5 +1,5 @@
 <div class="searchddg">
-<iframe src="https://duckduckgo.com/search.html?site=hroy.eu&prefill=search on hroy.eu with DuckDuckGo&focus=no" style="overflow:hidden;margin:0 auto;padding:0;width:100%;max-width:408px;height:40px;" frameborder="0"></iframe>
+<iframe src="https://duckduckgo.com/search.html?site=hroy.eu&prefill=search on hroy.eu with DuckDuckGo" style="overflow:hidden;margin:0 auto;padding:0;width:100%;max-width:408px;height:40px;" frameborder="0"></iframe>
 <small>Search results by DuckDuckGo (<a href="https://duckduckgo.com/privacy">Privacy Policy</a>).</small>
 </div>
 
