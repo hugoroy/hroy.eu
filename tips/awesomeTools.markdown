@@ -1,9 +1,15 @@
+---
+iw-directives: 
+ - [[!meta title="Awesome apps and tools"]]
+ - [[!meta copyright="Some of these logos may be trademarked. No affiliation or endorsement whatsoever."]]
+ - [[!meta license="[CC0-1.0](http://creativecommons.org/publicdomain/zero/1.0/)"]]
+ - [[!meta language="en"]]
+ - [[!tag lang:en web freeSoftware]]
+iw-class: post tip
+lang: en
+description: "Here some little known, yet awesome apps or tools that I use. Thanks to the people working on these (I’m glad to have met some of them, and they’re awesome too)!"
+...
 
-[[!meta title="Awesome apps and tools"]]
-[[!meta copyright="Some of these logos may be trademarked. No affiliation or endorsement whatsoever."]]
-[[!meta license="[CC0-1.0](http://creativecommons.org/publicdomain/zero/1.0/)"]]
-[[!meta language="en"]]
-[[!tag lang:en web freeSoftware]]
 
 Here some little known, yet awesome apps or tools that I use. Thanks to the people working on these (I’m glad to have met some of them, and they’re awesome too)!
 
