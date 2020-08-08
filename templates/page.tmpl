@@ -266,7 +266,7 @@
         <section class="added content">
             <TMPL_UNLESS DYNAMIC>
                 <TMPL_IF COMMENTS>
-                    <section id="comments">
+                    <section id="comments" rel="ugc">
 
                         <TMPL_VAR COMMENTS>
 
@@ -283,7 +283,7 @@
 
                     <TMPL_IF pandoc_iw-hidewebmentions>
                     <TMPL_ELSE>
-                    <section id="webmentions">
+                    <section id="webmentions" rel="ugc">
                         <script id="webmention-hosted">
                         (function () {
                         var sn = document.createElement("script"), s = document.getElementsByTagName("script")[0], url;
