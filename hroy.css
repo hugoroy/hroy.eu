@@ -10453,6 +10453,10 @@ header .author a {
 .content .footnotes li[id*=fn] *:last-child {
   margin-bottom: 0;
 }
+.content .footnotes .footnote-back {
+  margin-left: 0.25em;
+  font-family: caption;
+}
 .content img, .content video {
   max-width: 100%;
   max-height: auto;
