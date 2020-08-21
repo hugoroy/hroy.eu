@@ -14,4 +14,4 @@ under a
 <a xmlns:xh="http://www.w3.org/1999/xhtml/vocab#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rel="xh:license license" href="//creativecommons.org/licenses/by-sa/4.0/" title="CC BY-SA 4.0">Creative Commons
 license allowing sharing and modifications under some
 conditions</a> or, at your option, <a href="//creativecommons.org/licenses/by-sa/3.0/fr/" title="CC BY-SA 3.0 FR">the French
-version</a> or the <a href="http://artlibre.org" title="LAL 1.3">Free Art License</a>.</p>
+version</a> or the <a href="http://artlibre.org" title="LAL 1.3">Free Art License</a>.
