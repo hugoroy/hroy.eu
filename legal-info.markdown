@@ -34,4 +34,8 @@ Phone: +31 (0)20 561 6048 · E-Mail: mail@5apps.com
 
 ----
 
-<div id="cookie-policy">🍪 Ce site n'utilise pas de cookies. Des technologies d'optimisation de distribution du contenu Web sont utilisées (p. ex. [appcache](http://dev.w3.org/html5/spec/offline.html)).</div>
+<div id="cookie-policy">
+
+🍪 Ce site n'utilise pas de cookies. Des technologies d'optimisation de distribution du contenu Web sont utilisées (p. ex. [appcache](http://dev.w3.org/html5/spec/offline.html)).
+
+</div>
