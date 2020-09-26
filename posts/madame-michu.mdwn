@@ -8,7 +8,7 @@
 Mais qui est donc Madame Michu ? La grand’mère, l’utilisateur
 inexpérimenté, le critère absolu du concepteur d’une interface
 pour juger de l’expérience-utilisateur, l’ignare qui n’y connaît
-rien à rien et qui s’en fout, l’inconnu qui meta:ignore mais ne demande
+rien à rien et qui s’en fout, l’inconnu qui s’ignore mais ne demande
 qu’à apprendre… Tout ça à la fois ?
 
 Le fait est que « Madame Michu » est une expression employée pour
@@ -51,12 +51,3 @@ lorsqu’on essaye de se donner du mal pour rendre quelque chose
 meilleur, pour communiquer autour d’un sujet important. Et le
 simple fait qu’on s’inquiète suffisamment de la personne de Madame
 Michu pour avoir eu besoin de la nommer est en soi un bon signe.
-
-PS : c’est fou ce qu’on peut dire de plus construit lorsqu’on se
-détache *cinq petites minutes* du [carcan à 140 signes qu’est
-Twitter](https://twitter.com/hugoroyd/status/449515395595395072).
-
-
-<a href="https://twitter.com/hugoroyd/status/449519330645262337"
-class="u-syndication center"
-rel="syndication"><i class="fa fa-twitter icon-twitter"></i></a>
