@@ -8,6 +8,8 @@ iw-directives:
 summary: "Bashing the European Union's General Data Protection Regulation (GDPR) seems to have become one of American activists' favourite hobbies in the tech field. Some criticism is entirely justified. But many claims that the GDPR is counterproductive or misses the point are based on misconceptions, rather than an accurate understanding of European data protection laws. As a result, several US privacy advocates have therefore suggested alternative principles or rules... many of which, actually, have been part of EU data protection law since 1995."
 ...
 
+<small>*[Latest update, Sept. 2020](#update2020-09)*</small>
+
 Bashing the European Union's General Data Protection Regulation (GDPR) seems to have become one of American activists' favourite hobbies in the tech field. Some criticism is entirely justified. But many claims that the GDPR is “counterproductive” or “misses the point” are based on misconceptions, rather than an accurate understanding of European data protection laws. 
 
 As a result, several US privacy advocates have therefore suggested alternative principles or rules... many of which, actually, have been part of EU data protection law since 1995. 
@@ -37,7 +39,7 @@ If you have other examples to illustrate this, let me know so I can add them to 
 > [Tim Wu:] I think he has a point…that’s what my criticism of GDPR is. It doesn’t actually stop anyone from doing anything. Collect all you want…and I think that’s where the problem starts. I think he’s onto something. 
 > [Source](https://gdpr.report/news/2019/11/18/privsecny-tim-wu-on-gdpr-and-data-privacy-practices-in-the-us/)
 
-Edward Snowden and Tim Wu argue that regulations on data use are not sufficient to protect people. For them, a good regulation should start with data collection.
+Snowden and Wu argue that regulations on data use are not sufficient to protect people. For them, a good regulation should start with data collection.
 
 That is why, since 1995[^1], EU data protection law regulates not only data use, but also the collection of personal data. 
 
@@ -59,7 +61,7 @@ If personal data is collected in breach of these rules, the company responsible 
 > 
 > The robust way to do that, the way that can't be set aside at the whim of a government, is to require systems to be built so as not to collect data about persons. The basic principle is that a system must be designed not to collect certain data, if its basic function can be carried out without that data. Improving efficiency must explicitly not count as a justification for collecting more data. [Source](https://stallman.org/articles/real-privacy-laws.html)
 
-Richard Stallman argues that laws must prohibit data collection if it is not necessary or not justified, and that systems must be designed not to collect certain data.
+Stallman argues that laws must prohibit data collection if it is not necessary or not justified, and that systems must be designed not to collect certain data.
 
 That is why, since 1995, EU data protection law regulates not only data use, but also the collection of personal data (see [above](#snowdenwu)).
 
@@ -69,7 +71,7 @@ Moreover, since 2018, the GDPR has extended the set of rules with the principles
 
 [art25]: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0679#d1e3063-1-1
 
-One last bit: Richard Stallman argues that “improving efficiency” of a system must not be a justification for collecting personal data.
+One last bit: Stallman argues that “improving efficiency” of a system must not be a justification for collecting personal data.
 
 [Article 5(1)][art5] already provides that personal data must be “*collected for specified, explicit and legitimate purposes*.” Therefore, it seems that Richard Stallman's interpretation of this principle means that “improving efficiency” may never be considered legitimate. Do you agree? 
 
@@ -80,7 +82,7 @@ One last bit: Richard Stallman argues that “improving efficiency” of a syste
 
 > The European approach to privacy legislation has been to add layers of complexity, based on a kabuki dance of individual consent, where all that is needed are some strong legal limits on what data can be collected and how long it can be stored. [Source](https://twitter.com/Pinboard/status/1245699326522712064)
 
-Maciej argues that basing privacy legislation on individual consent is not the right approach and, instead, regulations should provide strong legal limits on data collection and data retention.
+Cegłowski argues that basing privacy legislation on individual consent is not the right approach and, instead, regulations should provide strong legal limits on data collection and data retention.
 
  -  That is why, since 1995, individual consent is only *one* among six legal bases that allow lawful collection of personal data. [Article 6][art6] of the GDPR requires at least one of six legal bases to be applicable. In many circumstances, “consent” is not considered as an adequate basis (e.g. in employee-employer relationships).
 
@@ -116,7 +118,7 @@ Maciej argues that basing privacy legislation on individual consent is not the r
 > 
 > To restore privacy, we must stop surveillance before it even asks for consent. [Source](https://stallman.org/articles/real-privacy-laws.html)
 
-Richard Stallman argues that it is too easy to trick users into consenting to the collection of their data, and that is it too easy to claim that data is “somehow useful”. Instead, we should stop surveillance before it even asks for consent.
+Stallman argues that it is too easy to trick users into consenting to the collection of their data, and that is it too easy to claim that data is “somehow useful”. Instead, we should stop surveillance before it even asks for consent.
 
 That is why, under EU data protection laws:
 
@@ -136,9 +138,44 @@ Another confusion that Stallman seems to make here relates to consent and contra
 
 However, consenting or agreeing to a contract (e.g. accepting terms of an online service) only implies that data strictly necessary to perform the agreement (e.g. providing the online service) may be processed. Agreeing to a contract does not equate giving “consent” to any processing purposes in the meaning of “consent” under [Article 4(11)][art4] of the GDPR. Contracts and consent are two separate legal bases under the GDPR (see [above](#maciej)).
 
+    
+# 3. Data cannot be regulated at the individual level, a collective response is necessary 
+
+## Zeynep Tufekci (January 2018 and August 2020) {#update2020-09}
+
+
+> Data privacy is not something that can be effectively regulated at the individual level because it is something akin to air pollution, a public good that requires a collective response. That's why GDPR in Europe doesn't work. [Source](https://twitter.com/zeynep/status/1298972608935927808)
+> 
+> Data/tech has to be examined and regulated at the society level as a collective problem; not one merely of individual consent (though that also matters). [Source](https://twitter.com/zeynep/status/1299077535477772289)
+
+Tufekci argues that the political issues arising out of our data-driven age will not be solved by “regulating at the individual level” but “requires a collective response.” The reference to air pollution seems to point to privacy as more of an [ecological issue][priveco] that cannot be managed “person-by-person through a system of individualized inform consent” ([quoting](https://twitter.com/zeynep/status/1298972608935927808/photo/1) Tufekci from [this NYT opinion](https://www.nytimes.com/2018/01/30/opinion/strava-privacy.html)).
+
+[priveco]: https://hroy.eu/posts/moglen_privacy_ecological/ "A metaphor of privacy that I have long agreed with"
+
+That is why the GDPR does *not* follow a one-size-fits-all approach based on individual consent (see [above](#consent)), and that is also why the GDPR introduced (i) risks-based analyses and (ii) collective enforcement of rights, into EU data protection law.
+
+ -  The GDPR creates several instances in which the risks of natural persons must be taken into account when processing data, regardless of whether or not these natural persons have given consent, and regardless even of whether the data relates to them. A third-party individual whose rights and freedoms are impacted by the processing of data must also be taken into account. This is as wide as you can get in terms of the *personal* scope of human rights: this is not an individual-based regulation.
+ 
+    Examples of this can be found *inter alia*:
+    
+     -  In Articles 35 and 36, which impose obligations to conduct impact assessments or to consult data protection authorities prior to launching high-risks data processing (something that data protection authorities regularly check when launching investigations)
+     -  In Article 25, which defines the obligations of data protection by design and by default
+     -  In Articles 33 and 34, which deal with obligations arising where a data breach happens
+     -  In Articles 24 and 32, which define the general responsibility of a data controller and their security obligations
+     -  Even in Articles 15 and 20, where the rights and freedoms of individuals must be taken into account to limit the data subjects' personal rights to obtain data about themselves.
+
+ -   The GDPR also introduced into data protection law the collective representation of individuals, and the collective enforcement of data protection rights, as permitted in Article 80. However, the exact extent to which collective responses are made possible through complaints or through courts, depends on implementations into national laws.
+
+
+
+
 ---------
 
 If you have other examples to illustrate this, or questions or comments on the above, let me know! 
+
+# See also
+
+Gabriela Zanfir-Fortuna, [10 reasons why the GDPR is the opposite of a ‘notice and consent’ type of law](https://medium.com/@gzf/10-reasons-why-the-gdpr-is-the-opposite-of-a-notice-and-consent-type-of-law-ba9dd895a0f1), March 2019
 
 
 
