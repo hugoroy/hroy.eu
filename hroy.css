@@ -10487,6 +10487,9 @@ header .author a {
 .content table.img table.img:not(.fullwidth), .content table.img figure.video:not(.fullwidth), .content figure.video table.img:not(.fullwidth), .content figure.video figure.video:not(.fullwidth) {
   margin: 0 0 1.5rem;
 }
+.content ul li ul {
+  margin-bottom: 1rem;
+}
 .content .inreplyto {
   margin-bottom: 1rem;
   padding: 0.5em;
