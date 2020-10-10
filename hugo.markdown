@@ -13,7 +13,7 @@ iw-directives: [[!tag lang:en]]
 <p>I’m <span class="fn" title="Hugo Roy">Hugo<span class="lastname"> Roy</span></span>.</p>
 
 <p><span
-class="p-note">I am involved in the launch of <a href="//datarights.ngo"><img alt="" src="/assets/datarights-logo.png" height="19"> <span class="org">Data Rights</span></a> an NGO for advancing users’ and communities’ rights to their data. As Vice-President of <a href="//fdn.fr"
+class="p-note">I am involved in the launch of <a href="//datarights.ngo"><img alt="" src="/assets/datarights-logo.png" height="19"> <span class="org">Data Rights</span></a> an NGO for advancing users’, orgs’ and communities’ rights to their data. As Vice-President of <a href="//fdn.fr"
 style="display:inline-block"><span
 class="org" title="French Data Network"><img alt="FDN"
 src="/assets/fdn-logo.png" height="19"></span></a> (France’s
@@ -40,7 +40,7 @@ When I get time...
                     <!-- <li><a href="http://www.linkedin.com/in/hugoroy" rel="me" title="LinkedIn"><img src="/assets/linkedin-icon.png" alt="">/hugoroy</a></li> -->
 </ul>
 
-<p id="contact-link"><a href="/hugo/#contact">Contact me</a></p>
+<p id="contact-link"><a href="/hugo/#contact">Contact info</a></p>
 
 <dl id="contact" class="more">
 <dt><a href="https://signal.org">Signal</a></dt>
