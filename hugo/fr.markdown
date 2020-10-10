@@ -13,10 +13,10 @@ iw-directives: [[!tag lang:fr]]
 <p>Moi, c'est <span class="fn" title="Hugo Roy">Hugo<span class="lastname"> Roy</span></span>.</p>
 
 <p><span
-class="p-note">Je suis ex vice-président de <a href="//fdn.fr"
-style="display:inline-block"><img alt=""
-src="/assets/fdn-logo.png" height="19"> <span
-class="org" title="FDN">French Data Network</span></a> (le plus ancien fournisseur d'accès Internet en activité), où j'ai été co-instigateur des <a
+class="p-note">Je m’implique dans le lancement de  <a href="//datarights.ngo/fr/"><img alt="" src="/assets/datarights-logo.png" height="19"> <span class="org">Data Rights</span></a> une ONG pour la promotion des droits des utilisateurs et des communautés sur leurs données. Comme vice-président de <a href="//fdn.fr"
+style="display:inline-block"><span
+class="org" title="French Data Network"><img alt="FDN"
+src="/assets/fdn-logo.png" height="19"></span></a> (le plus ancien fournisseur d'accès Internet en activité), j'ai été co-instigateur des <a
 href="//exegetes.eu.org/">Exégètes Amateurs</a> (un groupe de travail de contentieux stratégique). J'ai également cofondé le projet <a href="//tosdr.org"
 style="display:inline-block"><img alt=""
 src="/assets/tosdr-icon.png"> <span class="org"

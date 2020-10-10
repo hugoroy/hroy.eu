@@ -13,11 +13,11 @@ iw-directives: [[!tag lang:en]]
 <p>I’m <span class="fn" title="Hugo Roy">Hugo<span class="lastname"> Roy</span></span>.</p>
 
 <p><span
-class="p-note">I am a former Vice-President of <a href="//fdn.fr"
-style="display:inline-block"><img alt=""
-src="/assets/fdn-logo.png" height="19"> <span
-class="org" title="FDN">French Data Network</span></a> (France’s
-oldest Internet access provider), where I co-started the <a
+class="p-note">I am involved in the launch of <a href="//datarights.ngo"><img alt="" src="/assets/datarights-logo.png" height="19"> <span class="org">Data Rights</span></a>, an NGO for advancing users’ and communities’ rights to their data. As Vice-President of <a href="//fdn.fr"
+style="display:inline-block"><span
+class="org" title="French Data Network"><img alt="FDN"
+src="/assets/fdn-logo.png" height="19"></span></a> (France’s
+oldest Internet access provider), I co-started the <a
 href="//exegetes.eu.org/en/">Exégètes Amateurs</a> (a digital rights
 litigation group). I also cofounded <a href="//tosdr.org"
 style="display:inline-block"><img alt=""
