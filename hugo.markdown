@@ -13,7 +13,7 @@ iw-directives: [[!tag lang:en]]
 <p>I’m <span class="fn" title="Hugo Roy">Hugo<span class="lastname"> Roy</span></span>.</p>
 
 <p><span
-class="p-note">I am involved in the launch of <a href="//datarights.ngo"><img alt="" src="/assets/datarights-logo.png" height="19"> <span class="org">Data Rights</span></a>, an NGO for advancing users’ and communities’ rights to their data. As Vice-President of <a href="//fdn.fr"
+class="p-note">I am involved in the launch of <a href="//datarights.ngo"><img alt="" src="/assets/datarights-logo.png" height="19"> <span class="org">Data Rights</span></a> an NGO for advancing users’ and communities’ rights to their data. As Vice-President of <a href="//fdn.fr"
 style="display:inline-block"><span
 class="org" title="French Data Network"><img alt="FDN"
 src="/assets/fdn-logo.png" height="19"></span></a> (France’s
