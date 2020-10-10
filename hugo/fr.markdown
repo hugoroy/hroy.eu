@@ -25,7 +25,7 @@ style="display:inline-block"><img alt=""
 src="/assets/fsfe-icon.png" height="19"> <span
 class="org">Free Software Foundation Europe</span></a>.
 <span style="display:inline-block"><a href="/tags/FrankZappa/" style="display:inline-block"><img alt=""
-src="/assets/zappa-logo.png" height="19"> Zappa</a>-iste</span>.</span></p>
+src="/assets/zappa-logo.png" height="19"> Zappa</a>-iste.</span></span></p>
 
 <!--p class="more">
 When I get time...
