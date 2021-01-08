@@ -1408,6 +1408,10 @@ html[lang] {
         dl#contact dd + dd { margin-left: 100px;}
         dl#contact dt {width: 100px;float: left;font-weight: 600;}
     }
+    .qrcode {
+        max-width: 120px;
+        float: right;
+    }
     .zzz{float: right; font-size: 0.001px; color: transparent; display:inline-block; width: 0px; text-decoration: none;}
     #relmes {
         margin-bottom: 0.75em;
@@ -1420,6 +1424,12 @@ html[lang] {
     #contact-link {
         margin-top: 0em;
         margin-bottom: 2em;
+    }
+    #relmes a:link {
+        background-color: none;
+        background-size: 100%;
+        background-image: none;
+        max-height: 30px;
     }
 }
 .hugo {

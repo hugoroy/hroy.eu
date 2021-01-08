@@ -11191,6 +11191,10 @@ html[lang] .content p {
   float: left;
   font-weight: 600;
 }
+.home .qrcode, .hugo .qrcode {
+  max-width: 120px;
+  float: right;
+}
 .home .zzz, .hugo .zzz {
   float: right;
   font-size: 0.001px;
@@ -11209,6 +11213,12 @@ html[lang] .content p {
 .home #contact-link {
   margin-top: 0em;
   margin-bottom: 2em;
+}
+.home #relmes a:link {
+  background-color: none;
+  background-size: 100%;
+  background-image: none;
+  max-height: 30px;
 }
 
 .hugo .vcard, .hugo #contact {

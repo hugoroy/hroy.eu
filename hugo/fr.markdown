@@ -13,7 +13,7 @@ iw-directives: [[!tag lang:fr]]
 <p>Moi, c'est <span class="fn" title="Hugo Roy">Hugo<span class="lastname"> Roy</span></span>.</p>
 
 <p><span
-class="p-note">Je m’implique dans le lancement de  <a href="//datarights.ngo/fr/"><img alt="" src="/assets/datarights-logo.png" height="19"> <span class="org">Data Rights</span></a> une ONG pour la promotion des droits des utilisateurs, orgas et communautés sur leurs données. Comme vice-président de <a href="//fdn.fr"
+class="p-note">Je m’implique dans le lancement de <a style="display:inline-block" href="//datarights.ngo/fr/"><img alt="" src="/assets/datarights-logo.png" height="19"> <span class="org">Data Rights</span></a> une ONG pour la promotion des droits des utilisateurs, orgas et communautés sur leurs données. Comme vice-président de <a href="//fdn.fr"
 style="display:inline-block"><span
 class="org" title="French Data Network"><img alt="FDN"
 src="/assets/fdn-logo.png" height="19"></span></a> (le plus ancien fournisseur d'accès Internet en activité), j'ai été co-instigateur des <a
@@ -27,22 +27,23 @@ class="org">Free Software Foundation Europe</span></a>.
 <span style="display:inline-block"><a href="/tags/FrankZappa/" style="display:inline-block"><img alt=""
 src="/assets/zappa-logo.png" height="19"> Zappa</a>-iste.</span></span></p>
 
-<!--p class="more">
-When I get time...
-</p-->
-
 
 <ul id="relmes">
-                    <li><a href="https://twitter.com/hugoroyd" rel="me" title="Twitter: @hugoroyd"><img src="/assets/twitter-icon.png" alt="">@hugoroyd</a></li>
-                    <li><a href="http://mastodon.xyz/@hugo" rel="me" title="Mastodon: @hugo@mastodon.xyz"><img src="/assets/mastodon-icon.png" alt="">@hugo@mastodon.xyz</a></li>
-                    <!-- <li><a href="http://www.linkedin.com/in/hugoroy" rel="me" title="LinkedIn"><img src="/assets/linkedin-icon.png" alt="">/hugoroy</a></li> -->
+        <li><a href="https://signal.group/#CjQKIPGYSG0JycVxEMBS5JO6XfKs5cuqybl1FeFvS-emkczLEhDm-Kg-A1eimWo8YBDJVk96"><img src="/assets/signal-icon.png" alt="">M’écrire sur Signal</a></li>
+        <li><a href="https://twitter.com/hugoroyd" rel="me" title="Twitter: @hugoroyd"><img src="/assets/twitter-icon.png" alt="">@hugoroyd</a></li>
+        <li><a href="http://mastodon.xyz/@hugo" rel="me" title="Mastodon: @hugo@mastodon.xyz"><img src="/assets/mastodon-icon.png" alt="">@hugo@mastodon.xyz</a></li>
+        <li id="contact-link"><a href="/hugo/fr/#contact">Me contacter autrement</a></li>
 </ul>
 
-<p id="contact-link"><a href="/hugo/fr/#contact">Me contacter</a></p>
 
 <dl id="contact" class="more">
-<dt><a href="https://signal.org">Signal</a></dt>
-<dd>+33608•••41</dd>
+<dt>Signal</dt>
+<dd>
+<a href="https://signal.group/#CjQKIPGYSG0JycVxEMBS5JO6XfKs5cuqybl1FeFvS-emkczLEhDm-Kg-A1eimWo8YBDJVk96">
++33608•••41
+<img src="/assets/signal-qr.png" class="qrcode" alt="QR Code">
+</a>
+</dd>
 <dt>email</dt>
 <dd>hu<span class="zzz">SPAM</span>go+hellointernet@hu<span class="zzz">SUPPRIMER</span>go<span class="y">roy.eu</span></dd>
 <dt>PGP</dt>
