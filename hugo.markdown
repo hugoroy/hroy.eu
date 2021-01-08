@@ -40,10 +40,8 @@ src="/assets/zappa-logo.png" height="19"> Zappa</a>-ist</span>.</span></p>
 <dl id="contact" class="more">
 <dt>Signal</dt>
 <dd>
-<a href="https://signal.group/#CjQKIPGYSG0JycVxEMBS5JO6XfKs5cuqybl1FeFvS-emkczLEhDm-Kg-A1eimWo8YBDJVk96">
-+33608•••41
+<a href="https://signal.group/#CjQKIPGYSG0JycVxEMBS5JO6XfKs5cuqybl1FeFvS-emkczLEhDm-Kg-A1eimWo8YBDJVk96">+33608•••41</a>
 <img src="/assets/signal-qr.png" class="qrcode" alt="QR Code">
-</a>
 </dd>
 <dt>email</dt>
 <dd>hu<span class="zzz">SPAM</span>go+hellointernet@hu<span class="zzz">REMOVE</span>go<span class="y">roy.eu</span></dd>

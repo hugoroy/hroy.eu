@@ -1416,7 +1416,13 @@ html[lang] {
     }
     .qrcode {
         max-width: 120px;
-        float: right;
+        display: block; 
+        margin: auto;
+        padding-bottom: 1.5em;
+        @media (min-width: 700px) {
+            float: right;
+            margin-bottom: 0;
+        }
     }
     .zzz{float: right; font-size: 0.001px; color: transparent; display:inline-block; width: 0px; text-decoration: none;}
     #relmes {

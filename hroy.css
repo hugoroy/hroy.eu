@@ -11200,7 +11200,15 @@ html[lang] .content p {
 }
 .home .qrcode, .hugo .qrcode {
   max-width: 120px;
-  float: right;
+  display: block;
+  margin: auto;
+  padding-bottom: 1.5em;
+}
+@media (min-width: 700px) {
+  .home .qrcode, .hugo .qrcode {
+    float: right;
+    margin-bottom: 0;
+  }
 }
 .home .zzz, .hugo .zzz {
   float: right;
