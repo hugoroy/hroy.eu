@@ -43,7 +43,7 @@ src="/assets/zappa-logo.png" height="19"> Zappa</a>-iste.</span></span></p>
 <img src="/assets/signal-qr.png" class="qrcode" alt="QR Code">
 </dd>
 <dt>email</dt>
-<dd>hu<span class="zzz">SPAM</span>go+hellointernet@hu<span class="zzz">SUPPRIMER</span>go<span class="y">roy.eu</span></dd>
+<dd>hu<span class="zzz">SPAM</span>go+helloweb@hu<span class="zzz">SUPPRIMER</span>go<span class="y">roy.eu</span></dd>
 <dt>PGP</dt>
 <dd><a href="https://keys.openpgp.org/search?q=0x4BA9A6EE1AA9A69E">0x4BA9A6EE1AA9A69E</a></dd>
 <!-- <dt><a href="https://mastodon.xyz/@hugo">Mastodon</a></dt> -->
