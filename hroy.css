@@ -11255,6 +11255,26 @@ html[lang] .content p {
   margin-bottom: 1em;
 }
 
+#hcard-Hugo-Roy:hover #ma-tete {
+  width: 0;
+}
+#hcard-Hugo-Roy:hover:before {
+  content: " ";
+  background-image: url("/assets/maskcovidalt.png");
+  background-size: 48px 48px;
+  float: left;
+  width: 48px;
+  height: 48px;
+  box-shadow: 0px 0px 0.5em rgba(0, 0, 0, 0.3);
+  border-width: 0px;
+  border-style: solid;
+  border-radius: 50%;
+  float: left;
+  margin: 0 0.5em 0.15em -60px;
+  margin-right: 0.4em;
+  margin-bottom: 1em;
+}
+
 #relmes {
   list-style: none;
   margin: 0;
