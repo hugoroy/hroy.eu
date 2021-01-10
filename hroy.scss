@@ -1373,7 +1373,7 @@ html[lang] {
 
 .home, .hugo {
     
-    #hcard-Hugo-Roy, .content p, #timeline-last, .recent-blog-posts {
+    #hcard-Hugo-Roy, .content > p, #timeline-last, .recent-blog-posts {
         max-width: 38em;
         margin-left: auto;
         margin-right: auto;
@@ -1431,6 +1431,77 @@ html[lang] {
     .page > article + .tags {
         display: none;
     }
+    .mitm {
+        margin-top: 3em;
+        margin-bottom: 4em;
+        font-size: 80%;
+        margin-left: 0;
+        summary {
+            filter: grayscale(80%);
+            clear: both;
+            &::marker {
+                display: none;
+                content: "";
+            }
+            img, svg {
+                opacity: 0.5;
+                max-width: 80px;
+                max-height: 28px;
+                float: right;
+                margin-left: 1em;
+                @media (min-width: 990px) {
+                    margin-left: -100px;
+                    float: left;
+                }
+            }
+            &:hover {
+                filter: grayscale(0%);
+                img, svg {
+                    opacity: 1;
+                }
+            }
+        }
+        details {
+            padding: 0.5em;
+            margin-top: 0.2em;
+            margin-bottom: -1em;
+            margin-left: -0.5em;
+            &[open] {
+                margin-top: 1.5em;
+                padding-bottom: 0.5em;
+                transition: all 0.2s ease-in-out;
+                summary {
+                    font-weight: 600;
+                    margin-bottom: 0.75em;
+                    filter: grayscale(0%);
+                    img, svg {
+                        opacity: 1;
+                    }
+                    &:after {
+                        content: "×";
+                        float: right;
+                    }
+                }
+            }
+            time {
+                display: block;
+                font-weight: 300;
+            }
+            &:not[open] + &[open] {
+            }
+            &[open] + &:not[open] {
+                margin-top: -0.5em;
+            }
+        }
+        .mediapart {
+            summary img {
+                height: 25px;
+                @media (min-width: 990px) {
+                    margin-left: -70px;
+                }
+            }
+        }
+    }
 }
 .home {
     #contact-link {
@@ -1442,6 +1513,20 @@ html[lang] {
         background-size: 100%;
         background-image: none;
         max-height: 30px;
+    }
+    .mitm summary {
+        img svg, img path, svg {
+            fill: #fff;
+        }
+        .wired {
+            img {
+                filter: invert(100%);
+            }
+        }
+    }
+    .mitm details[open] {
+                margin-bottom: 1.5em;
+                background-color: rgba(0,0,0,0.75);
     }
 }
 .hugo {

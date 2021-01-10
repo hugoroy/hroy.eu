@@ -11145,55 +11145,55 @@ html[lang] .content p {
   display: block !important;
 }
 
-.home #hcard-Hugo-Roy, .home .content p, .home #timeline-last, .home .recent-blog-posts, .hugo #hcard-Hugo-Roy, .hugo .content p, .hugo #timeline-last, .hugo .recent-blog-posts {
+.home #hcard-Hugo-Roy, .home .content > p, .home #timeline-last, .home .recent-blog-posts, .hugo #hcard-Hugo-Roy, .hugo .content > p, .hugo #timeline-last, .hugo .recent-blog-posts {
   max-width: 38em;
   margin-left: auto;
   margin-right: auto;
 }
-.home #hcard-Hugo-Roy h2, .home .content p h2, .home #timeline-last h2, .home .recent-blog-posts h2, .hugo #hcard-Hugo-Roy h2, .hugo .content p h2, .hugo #timeline-last h2, .hugo .recent-blog-posts h2 {
+.home #hcard-Hugo-Roy h2, .home .content > p h2, .home #timeline-last h2, .home .recent-blog-posts h2, .hugo #hcard-Hugo-Roy h2, .hugo .content > p h2, .hugo #timeline-last h2, .hugo .recent-blog-posts h2 {
   font-size: 100%;
   text-transform: lowercase;
   font-variant: small-caps;
 }
-.home #hcard-Hugo-Roy .subscribers, .home .content p .subscribers, .home #timeline-last .subscribers, .home .recent-blog-posts .subscribers, .hugo #hcard-Hugo-Roy .subscribers, .hugo .content p .subscribers, .hugo #timeline-last .subscribers, .hugo .recent-blog-posts .subscribers {
+.home #hcard-Hugo-Roy .subscribers, .home .content > p .subscribers, .home #timeline-last .subscribers, .home .recent-blog-posts .subscribers, .hugo #hcard-Hugo-Roy .subscribers, .hugo .content > p .subscribers, .hugo #timeline-last .subscribers, .hugo .recent-blog-posts .subscribers {
   margin-top: -2em;
   float: right;
   break: both;
 }
-.home #hcard-Hugo-Roy .subscribers .btn, .home .content p .subscribers .btn, .home #timeline-last .subscribers .btn, .home .recent-blog-posts .subscribers .btn, .hugo #hcard-Hugo-Roy .subscribers .btn, .hugo .content p .subscribers .btn, .hugo #timeline-last .subscribers .btn, .hugo .recent-blog-posts .subscribers .btn {
+.home #hcard-Hugo-Roy .subscribers .btn, .home .content > p .subscribers .btn, .home #timeline-last .subscribers .btn, .home .recent-blog-posts .subscribers .btn, .hugo #hcard-Hugo-Roy .subscribers .btn, .hugo .content > p .subscribers .btn, .hugo #timeline-last .subscribers .btn, .hugo .recent-blog-posts .subscribers .btn {
   font-size: 70% !important;
 }
 @media (min-width: 990px) {
-  .home #hcard-Hugo-Roy .subscribers, .home .content p .subscribers, .home #timeline-last .subscribers, .home .recent-blog-posts .subscribers, .hugo #hcard-Hugo-Roy .subscribers, .hugo .content p .subscribers, .hugo #timeline-last .subscribers, .hugo .recent-blog-posts .subscribers {
+  .home #hcard-Hugo-Roy .subscribers, .home .content > p .subscribers, .home #timeline-last .subscribers, .home .recent-blog-posts .subscribers, .hugo #hcard-Hugo-Roy .subscribers, .hugo .content > p .subscribers, .hugo #timeline-last .subscribers, .hugo .recent-blog-posts .subscribers {
     float: left;
     break: both;
     margin-left: -3em;
   }
 }
-.home #hcard-Hugo-Roy #ma-tete, .home .content p #ma-tete, .home #timeline-last #ma-tete, .home .recent-blog-posts #ma-tete, .hugo #hcard-Hugo-Roy #ma-tete, .hugo .content p #ma-tete, .hugo #timeline-last #ma-tete, .hugo .recent-blog-posts #ma-tete {
+.home #hcard-Hugo-Roy #ma-tete, .home .content > p #ma-tete, .home #timeline-last #ma-tete, .home .recent-blog-posts #ma-tete, .hugo #hcard-Hugo-Roy #ma-tete, .hugo .content > p #ma-tete, .hugo #timeline-last #ma-tete, .hugo .recent-blog-posts #ma-tete {
   margin: 0 0.5em 0.5em 15px;
   float: right;
 }
 @media (min-width: 990px) {
-  .home #hcard-Hugo-Roy #ma-tete, .home .content p #ma-tete, .home #timeline-last #ma-tete, .home .recent-blog-posts #ma-tete, .hugo #hcard-Hugo-Roy #ma-tete, .hugo .content p #ma-tete, .hugo #timeline-last #ma-tete, .hugo .recent-blog-posts #ma-tete {
+  .home #hcard-Hugo-Roy #ma-tete, .home .content > p #ma-tete, .home #timeline-last #ma-tete, .home .recent-blog-posts #ma-tete, .hugo #hcard-Hugo-Roy #ma-tete, .hugo .content > p #ma-tete, .hugo #timeline-last #ma-tete, .hugo .recent-blog-posts #ma-tete {
     float: left;
     margin: 0 0.5em 0.15em -60px;
   }
 }
-.home #hcard-Hugo-Roy .fn .lastname, .home .content p .fn .lastname, .home #timeline-last .fn .lastname, .home .recent-blog-posts .fn .lastname, .hugo #hcard-Hugo-Roy .fn .lastname, .hugo .content p .fn .lastname, .hugo #timeline-last .fn .lastname, .hugo .recent-blog-posts .fn .lastname {
+.home #hcard-Hugo-Roy .fn .lastname, .home .content > p .fn .lastname, .home #timeline-last .fn .lastname, .home .recent-blog-posts .fn .lastname, .hugo #hcard-Hugo-Roy .fn .lastname, .hugo .content > p .fn .lastname, .hugo #timeline-last .fn .lastname, .hugo .recent-blog-posts .fn .lastname {
   display: none;
 }
-.home #hcard-Hugo-Roy dl#contact dt, .home #hcard-Hugo-Roy dl#contact dt + dd, .home .content p dl#contact dt, .home .content p dl#contact dt + dd, .home #timeline-last dl#contact dt, .home #timeline-last dl#contact dt + dd, .home .recent-blog-posts dl#contact dt, .home .recent-blog-posts dl#contact dt + dd, .hugo #hcard-Hugo-Roy dl#contact dt, .hugo #hcard-Hugo-Roy dl#contact dt + dd, .hugo .content p dl#contact dt, .hugo .content p dl#contact dt + dd, .hugo #timeline-last dl#contact dt, .hugo #timeline-last dl#contact dt + dd, .hugo .recent-blog-posts dl#contact dt, .hugo .recent-blog-posts dl#contact dt + dd {
+.home #hcard-Hugo-Roy dl#contact dt, .home #hcard-Hugo-Roy dl#contact dt + dd, .home .content > p dl#contact dt, .home .content > p dl#contact dt + dd, .home #timeline-last dl#contact dt, .home #timeline-last dl#contact dt + dd, .home .recent-blog-posts dl#contact dt, .home .recent-blog-posts dl#contact dt + dd, .hugo #hcard-Hugo-Roy dl#contact dt, .hugo #hcard-Hugo-Roy dl#contact dt + dd, .hugo .content > p dl#contact dt, .hugo .content > p dl#contact dt + dd, .hugo #timeline-last dl#contact dt, .hugo #timeline-last dl#contact dt + dd, .hugo .recent-blog-posts dl#contact dt, .hugo .recent-blog-posts dl#contact dt + dd {
   margin-top: 0.33em;
   margin-bottom: 0;
 }
-.home #hcard-Hugo-Roy dl#contact dt + dt, .home .content p dl#contact dt + dt, .home #timeline-last dl#contact dt + dt, .home .recent-blog-posts dl#contact dt + dt, .hugo #hcard-Hugo-Roy dl#contact dt + dt, .hugo .content p dl#contact dt + dt, .hugo #timeline-last dl#contact dt + dt, .hugo .recent-blog-posts dl#contact dt + dt {
+.home #hcard-Hugo-Roy dl#contact dt + dt, .home .content > p dl#contact dt + dt, .home #timeline-last dl#contact dt + dt, .home .recent-blog-posts dl#contact dt + dt, .hugo #hcard-Hugo-Roy dl#contact dt + dt, .hugo .content > p dl#contact dt + dt, .hugo #timeline-last dl#contact dt + dt, .hugo .recent-blog-posts dl#contact dt + dt {
   float: none;
 }
-.home #hcard-Hugo-Roy dl#contact dd + dd, .home .content p dl#contact dd + dd, .home #timeline-last dl#contact dd + dd, .home .recent-blog-posts dl#contact dd + dd, .hugo #hcard-Hugo-Roy dl#contact dd + dd, .hugo .content p dl#contact dd + dd, .hugo #timeline-last dl#contact dd + dd, .hugo .recent-blog-posts dl#contact dd + dd {
+.home #hcard-Hugo-Roy dl#contact dd + dd, .home .content > p dl#contact dd + dd, .home #timeline-last dl#contact dd + dd, .home .recent-blog-posts dl#contact dd + dd, .hugo #hcard-Hugo-Roy dl#contact dd + dd, .hugo .content > p dl#contact dd + dd, .hugo #timeline-last dl#contact dd + dd, .hugo .recent-blog-posts dl#contact dd + dd {
   margin-left: 100px;
 }
-.home #hcard-Hugo-Roy dl#contact dt, .home .content p dl#contact dt, .home #timeline-last dl#contact dt, .home .recent-blog-posts dl#contact dt, .hugo #hcard-Hugo-Roy dl#contact dt, .hugo .content p dl#contact dt, .hugo #timeline-last dl#contact dt, .hugo .recent-blog-posts dl#contact dt {
+.home #hcard-Hugo-Roy dl#contact dt, .home .content > p dl#contact dt, .home #timeline-last dl#contact dt, .home .recent-blog-posts dl#contact dt, .hugo #hcard-Hugo-Roy dl#contact dt, .hugo .content > p dl#contact dt, .hugo #timeline-last dl#contact dt, .hugo .recent-blog-posts dl#contact dt {
   width: 100px;
   float: left;
   font-weight: 600;
@@ -11224,6 +11224,77 @@ html[lang] .content p {
 .home .page > article + .tags, .hugo .page > article + .tags {
   display: none;
 }
+.home .mitm, .hugo .mitm {
+  margin-top: 3em;
+  margin-bottom: 4em;
+  font-size: 80%;
+  margin-left: 0;
+}
+.home .mitm summary, .hugo .mitm summary {
+  filter: grayscale(80%);
+  clear: both;
+}
+.home .mitm summary::marker, .hugo .mitm summary::marker {
+  display: none;
+  content: "";
+}
+.home .mitm summary img, .home .mitm summary svg, .hugo .mitm summary img, .hugo .mitm summary svg {
+  opacity: 0.5;
+  max-width: 80px;
+  max-height: 28px;
+  float: right;
+  margin-left: 1em;
+}
+@media (min-width: 990px) {
+  .home .mitm summary img, .home .mitm summary svg, .hugo .mitm summary img, .hugo .mitm summary svg {
+    margin-left: -100px;
+    float: left;
+  }
+}
+.home .mitm summary:hover, .hugo .mitm summary:hover {
+  filter: grayscale(0%);
+}
+.home .mitm summary:hover img, .home .mitm summary:hover svg, .hugo .mitm summary:hover img, .hugo .mitm summary:hover svg {
+  opacity: 1;
+}
+.home .mitm details, .hugo .mitm details {
+  padding: 0.5em;
+  margin-top: 0.2em;
+  margin-bottom: -1em;
+  margin-left: -0.5em;
+}
+.home .mitm details[open], .hugo .mitm details[open] {
+  margin-top: 1.5em;
+  padding-bottom: 0.5em;
+  transition: all 0.2s ease-in-out;
+}
+.home .mitm details[open] summary, .hugo .mitm details[open] summary {
+  font-weight: 600;
+  margin-bottom: 0.75em;
+  filter: grayscale(0%);
+}
+.home .mitm details[open] summary img, .home .mitm details[open] summary svg, .hugo .mitm details[open] summary img, .hugo .mitm details[open] summary svg {
+  opacity: 1;
+}
+.home .mitm details[open] summary:after, .hugo .mitm details[open] summary:after {
+  content: "×";
+  float: right;
+}
+.home .mitm details time, .hugo .mitm details time {
+  display: block;
+  font-weight: 300;
+}
+.home .mitm details[open] + .home .mitm details:not[open], .home .mitm details[open] + .hugo .mitm details:not[open], .hugo .mitm details[open] + .home .mitm details:not[open], .hugo .mitm details[open] + .hugo .mitm details:not[open] {
+  margin-top: -0.5em;
+}
+.home .mitm .mediapart summary img, .hugo .mitm .mediapart summary img {
+  height: 25px;
+}
+@media (min-width: 990px) {
+  .home .mitm .mediapart summary img, .hugo .mitm .mediapart summary img {
+    margin-left: -70px;
+  }
+}
 
 .home #contact-link {
   margin-top: 0em;
@@ -11234,6 +11305,16 @@ html[lang] .content p {
   background-size: 100%;
   background-image: none;
   max-height: 30px;
+}
+.home .mitm summary img svg, .home .mitm summary img path, .home .mitm summary svg {
+  fill: #fff;
+}
+.home .mitm summary .wired img {
+  filter: invert(100%);
+}
+.home .mitm details[open] {
+  margin-bottom: 1.5em;
+  background-color: rgba(0, 0, 0, 0.75);
 }
 
 .hugo .vcard, .hugo #contact {
