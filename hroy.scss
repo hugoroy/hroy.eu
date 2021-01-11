@@ -579,7 +579,10 @@ header .author a {
 
     img, video {
         max-width: 100%;
-        max-height: auto;
+
+        &[width] {
+            height: auto;
+        }
 
         &:not(.fullwidth), &:not(> .fullwidth) {
             max-width: 100%;
@@ -1373,7 +1376,7 @@ html[lang] {
 
 .home, .hugo {
     
-    #hcard-Hugo-Roy, .content > p, #timeline-last, .recent-blog-posts {
+    #hcard-Hugo-Roy, .content > p, #timeline-last, .recent-blog-posts, .mitm {
         max-width: 38em;
         margin-left: auto;
         margin-right: auto;
@@ -1432,16 +1435,22 @@ html[lang] {
         display: none;
     }
     .mitm {
-        margin-top: 3em;
+        margin-top: 0.5em;
         margin-bottom: 4em;
-        font-size: 80%;
-        margin-left: 0;
+        p, summary {
+            font-size: 80%;
+        }
         summary {
             filter: grayscale(80%);
             clear: both;
             &::marker {
                 display: none;
                 content: "";
+            }
+
+            &:after {
+                content: "   ";
+                float: right;
             }
             img, svg {
                 opacity: 0.5;
@@ -1464,10 +1473,15 @@ html[lang] {
         details {
             padding: 0.5em;
             margin-top: 0.2em;
-            margin-bottom: -1em;
             margin-left: -0.5em;
+            margin-bottom: -0.4em;
+
+            @media (min-width: 990px) {
+            margin-bottom: -1em;
+            }
             &[open] {
                 margin-top: 1.5em;
+                margin-bottom: 1em;
                 padding-bottom: 0.5em;
                 transition: all 0.2s ease-in-out;
                 summary {
@@ -1478,8 +1492,9 @@ html[lang] {
                         opacity: 1;
                     }
                     &:after {
-                        content: "×";
-                        float: right;
+                        @media (min-width: 990px) {
+                            content: "×";
+                        }
                     }
                 }
             }
@@ -1514,14 +1529,16 @@ html[lang] {
         background-image: none;
         max-height: 30px;
     }
-    .mitm summary {
-        img svg, img path, svg {
-            fill: #fff;
-        }
-        .wired {
-            img {
-                filter: invert(100%);
+    .mitm  {
+        summary {
+            img svg, img path, svg {
+                fill: #fff;
             }
+        }
+    }
+    .wired {
+        summary img {
+            filter: invert(100%);
         }
     }
     .mitm details[open] {
@@ -1533,8 +1550,17 @@ html[lang] {
     .vcard, #contact {
         padding-top: 5em;
     }
-    #contact-link {
-        display: none;
+    #hcard-Hugo-Roy {
+        p {
+            display: none;
+        }
+    }
+    #relmes li {
+        display: block;
+        margin-bottom: 0.5em;
+        &#contact-link {
+            display: none;
+        }
     }
 }
 
