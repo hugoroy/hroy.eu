@@ -18,7 +18,7 @@ Hello there! You just stumbled upon my personal online space...
 
 <section class="mitm">
 
-<p>Articles on things I have done:</p>
+<p>Articles my project/object continuity endeavours:</p>
 
 <details class="libe">
 <summary>

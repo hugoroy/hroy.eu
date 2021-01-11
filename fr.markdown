@@ -17,7 +17,7 @@ Salut ! Vous venez de tomber sur mon espace en ligne personnel...
 
 <section class="mitm">
 
-<p>Des articles sur des choses que j'ai faites :</p>
+<p>Des articles sur mes efforts de continuité projet/objet :</p>
 
 <details class="libe">
 <summary>
