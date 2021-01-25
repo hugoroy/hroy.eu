@@ -1271,7 +1271,8 @@ header .author a {
     }
     
     #sitenav {
-        margin: 1em 0;
+        margin-top: 1em;
+        margin-bottom: 0;
 
         a {
             margin-right: 1em;
@@ -1381,6 +1382,10 @@ html[lang] {
         margin-left: auto;
         margin-right: auto;
 
+        @media (min-width: 990px) {
+            margin-left: 100px;
+        }
+
         h2 {
             font-size: 100%;
             text-transform: lowercase;
@@ -1419,13 +1424,7 @@ html[lang] {
     }
     .qrcode {
         max-width: 120px;
-        display: block; 
-        margin: auto;
         padding-bottom: 1.5em;
-        @media (min-width: 700px) {
-            float: right;
-            margin-bottom: 0;
-        }
     }
     .zzz{float: right; font-size: 0.001px; color: transparent; display:inline-block; width: 0px; text-decoration: none;}
     #relmes {
@@ -1474,7 +1473,7 @@ html[lang] {
             padding: 0.5em;
             margin-top: 0.2em;
             margin-left: -0.5em;
-            margin-bottom: -0.4em;
+            margin-bottom: -0.8em;
 
             @media (min-width: 990px) {
             margin-bottom: -1em;
@@ -1511,6 +1510,7 @@ html[lang] {
         .mediapart {
             summary img {
                 height: 25px;
+                width: auto;
                 @media (min-width: 990px) {
                     margin-left: -70px;
                 }
@@ -1545,6 +1545,11 @@ html[lang] {
                 margin-bottom: 1.5em;
                 background-color: rgba(0,0,0,0.75);
     }
+    @media (min-width: 990px) {
+        #footer > * {
+            margin-left: 100px;
+        }
+    }
 }
 .hugo {
     .vcard, #contact {
@@ -1577,24 +1582,26 @@ html[lang] {
     margin-bottom: 1em;
 }
 #hcard-Hugo-Roy:hover  {
-    #ma-tete {
-        width: 0;
-    }
-    &:before {
-        content: " ";
-        background-image: url('/assets/maskcovidalt.png');
-        background-size: 48px 48px;
-        float:left;
-        width: 48px;
-        height: 48px;
-        box-shadow: 0px 0px 0.5em rgba(0, 0, 0, 0.3);
-        border-width: 0px;
-        border-style: solid;
-        border-radius: 50%;
-        float: left;
-        margin: 0 0.5em 0.15em -60px;
-        margin-right: 0.4em;
-        margin-bottom: 1em;
+    @media (min-width: 990px) {
+        #ma-tete {
+            width: 0;
+        }
+        &:before {
+            content: " ";
+            background-image: url('/assets/maskcovidalt.png');
+            background-size: 48px 48px;
+            float:left;
+            width: 48px;
+            height: 48px;
+            box-shadow: 0px 0px 0.5em rgba(0, 0, 0, 0.3);
+            border-width: 0px;
+            border-style: solid;
+            border-radius: 50%;
+            float: left;
+            margin: 0 0.5em 0.15em -60px;
+            margin-right: 0.4em;
+            margin-bottom: 1em;
+        }
     }
 }
 #relmes {

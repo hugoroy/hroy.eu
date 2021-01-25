@@ -59,7 +59,7 @@ If personal data is collected in breach of these rules, the company responsible 
 
 > There are so many ways to use data to hurt people that the only safe database is the one that was never collected. Thus, instead of the EU's approach (in the GDPR) of mainly regulating how personal data may be used, I propose a law to stop systems from collecting personal data.
 > 
-> The robust way to do that, the way that can't be set aside at the whim of a government, is to require systems to be built so as not to collect data about persons. The basic principle is that a system must be designed not to collect certain data, if its basic function can be carried out without that data. Improving efficiency must explicitly not count as a justification for collecting more data. [Source](https://stallman.org/articles/real-privacy-laws.html)
+> The robust way to do that, the way that can't be set aside at the whim of a government, is to require systems to be built so as not to collect data about persons. The basic principle is that a system must be designed not to collect certain data, if its basic function can be carried out without that data. [Source](https://stallman.org/articles/real-privacy-laws.html)
 
 Stallman argues that laws must prohibit data collection if it is not necessary or not justified, and that systems must be designed not to collect certain data.
 
@@ -70,10 +70,6 @@ Moreover, since 2018, the GDPR has extended the set of rules with the principles
 [Article 25][art25] provides, specifically, that systems must be designed to implement data minimisation effectively. In addition, technical and organisational measures must by default ensure that “*only personal data which are necessary for each specific purpose of the processing are processed. That obligation applies to the amount of personal data collected [...].*”
 
 [art25]: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0679#d1e3063-1-1
-
-One last bit: Stallman argues that “improving efficiency” of a system must not be a justification for collecting personal data.
-
-[Article 5(1)][art5] already provides that personal data must be “*collected for specified, explicit and legitimate purposes*.” Therefore, it seems that Richard Stallman's interpretation of this principle means that “improving efficiency” may never be considered legitimate. Do you agree? 
 
 
 # 2. Individuals' consent is not the right approach for privacy {#consent}
