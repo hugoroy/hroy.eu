@@ -208,6 +208,11 @@
                   <TMPL_IF pandoc_date><TMPL_VAR pandoc_date>
                   <TMPL_ELSE><TMPL_VAR CTIME></TMPL_IF>
                 </span>
+                <TMPL_IF pandoc_iw-update>
+                  <span class="pagedate update">
+                    (<TMPL_VAR pandoc_iw-update>)
+                  </span>
+                </TMPL_IF>
             </TMPL_IF>
             </p>
             <TMPL_ELSE>
@@ -217,6 +222,11 @@
             <p class="pagedate published dt-published date">
                   <TMPL_IF pandoc_date><TMPL_VAR pandoc_date>
                   <TMPL_ELSE><TMPL_VAR CTIME></TMPL_IF>
+                    <TMPL_IF pandoc_iw-update>
+                    <span class="pagedate update">
+                        (<TMPL_VAR pandoc_iw-update>)
+                    </span>
+                    </TMPL_IF>
             </p>
             </TMPL_IF>
             <TMPL_ELSE>
@@ -225,6 +235,11 @@
             <p class="pagedate published dt-published date">
                   <TMPL_IF pandoc_date><TMPL_VAR pandoc_date>
                   <TMPL_ELSE><TMPL_VAR CTIME></TMPL_IF>
+                    <TMPL_IF pandoc_iw-update>
+                    <span class="pagedate update">
+                        (<TMPL_VAR pandoc_iw-update>)
+                    </span>
+                    </TMPL_IF>
             </p>
             </TMPL_IF>
             </TMPL_IF>

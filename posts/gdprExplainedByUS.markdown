@@ -6,9 +6,9 @@ iw-directives:
  - [[!meta title="The EU General Data Protection Regulation explained by Americans"]]
  - [[!tag  lang:en gdprExplainedByUS GDPR dataProtection]]
 summary: "Bashing the European Union's General Data Protection Regulation (GDPR) seems to have become one of American activists' favourite hobbies in the tech field. Some criticism is entirely justified. But many claims that the GDPR is counterproductive or misses the point are based on misconceptions, rather than an accurate understanding of European data protection laws. As a result, several US privacy advocates have therefore suggested alternative principles or rules... many of which, actually, have been part of EU data protection law since 1995."
+iw-update: "[Latest update, Sept. 2020](#update2020-09)"
 ...
 
-<small>*[Latest update, Sept. 2020](#update2020-09)*</small>
 
 Bashing the European Union's General Data Protection Regulation (GDPR) seems to have become one of American activists' favourite hobbies in the tech field. Some criticism is entirely justified. But many claims that the GDPR is “counterproductive” or “misses the point” are based on misconceptions, rather than an accurate understanding of European data protection laws. 
 
