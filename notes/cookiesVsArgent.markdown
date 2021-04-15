@@ -58,7 +58,7 @@ Je pense, ensuite, que le facteur qui joue le plus est probablement la facilité
 La question de déterminer dans quelle mesure le niveau de moyens serait une variable avec un réel impact sur le choix opéré reste donc entière.
 
 
-Si les gens se préocuppent si peu d'être tracés continuellement qu'ils sont prêts à s'abonner ou effectuer un micro-paiement pour accéder à un contenu qu'il consulte régulièrement : le problème est ailleurs. 
+Si les gens se préocuppent si peu d'être tracés continuellement qu'ils ne sont même pas prêts à s'abonner ou effectuer un micro-paiement pour accéder à un contenu qu'il consulte régulièrement : le problème est ailleurs. 
 
 Il serait enfin sur cette question intéressant de mettre en perspective avec les coûts d'accès à l'information avant le Web. Quel est le prix d'une copie d'un journal quotidien en moyenne ?
 
