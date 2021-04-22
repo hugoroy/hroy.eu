@@ -14,10 +14,13 @@ Salut ! Vous venez de tomber sur mon espace en ligne personnel...
 
 [[!inline pages="page(./hugo/fr) and !*/Discussion" show="0" feeds=no actions=no template=inlinetext]]
 
+<section class="pro">Je suis aussi avocat au barreau de Paris (mais ceci est mon site perso).  
+👉  Pour accéder à mon 
+<a href="https://avocat.hroy.eu" class="external-link">site professionnel, c'est **ici**</a></section>
 
 <section class="mitm">
 
-<p>Des articles sur mes efforts de continuité projet/objet :</p>
+# Articles sur des projets personnels {lang=none}
 
 <details class="libe">
 <summary>
@@ -104,12 +107,9 @@ J'avais 20 ans, stagiaire à la [fsfe](https://fsfe.org), et je publiais une let
 
 </section>
 
-<small>Je suis aussi avocat au barreau de Paris (mais ceci est mon site perso).  
-👉  Pour accéder à mon 
-<a href="https://avocat.hroy.eu" class="external-link">site professionnel, c'est **ici**</a></small>
 
 <section class="recent-blog-posts">
-# [[Derniers billets de blogs|blog]]
+# [[Derniers billets de blogs|blog]] {lang=none}
 
 <div class="subscribers"><a class="feedbutton atom btn btn-xs btn-warning" type="application/atom+xml" rel="alternate" title="Blog (Atom feed)" href="/blog/index.atom"><span class="feed-link hide">Atom</span> flux</a></div>
 

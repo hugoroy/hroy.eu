@@ -16,9 +16,18 @@ Hello there! You just stumbled upon my personal online space...
 [[!inline pages="page(./hugo) and !*/Discussion" show="0" feeds=no actions=no template=inlinetext]]
 
 
+
+<section class="pro">
+Looking for legal advice? I work as an attorney in Paris (but this is my personal space).  
+👉  You can access my 
+<a href="https://attorney.hroy.eu" class="external-link">professional website **here**</a>
+</section>
+
+
+
 <section class="mitm">
 
-<p>Articles on my project/object continuity endeavours:</p>
+# Articles on personal projects
 
 <details class="libe">
 <summary>
@@ -106,13 +115,6 @@ I was 20 and working as an intern at [fsfe](https://fsfe.org), and I published a
 </section>
 
 
-
-
-
-
-<small>Looking for legal advice? I work as an attorney in Paris (but this is my personal space).  
-👉  You can access my 
-<a href="https://attorney.hroy.eu" class="external-link">professional website **here**</a></small>
 
 <section class="recent-blog-posts">
 # [[Latest blog posts|blog]] 

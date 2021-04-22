@@ -1377,7 +1377,7 @@ html[lang] {
 
 .home, .hugo {
     
-    #hcard-Hugo-Roy, .content > p, #timeline-last, .recent-blog-posts, .mitm {
+    #hcard-Hugo-Roy, .content > p, #timeline-last, .recent-blog-posts, .mitm, .pro {
         max-width: 38em;
         margin-left: auto;
         margin-right: auto;
@@ -1528,6 +1528,10 @@ html[lang] {
         background-size: 100%;
         background-image: none;
         max-height: 30px;
+    }
+    .pro {
+        font-size: 85%;
+        max-width: 42em;
     }
     .mitm  {
         summary {
