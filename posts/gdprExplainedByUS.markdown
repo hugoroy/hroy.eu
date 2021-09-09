@@ -6,7 +6,7 @@ iw-directives:
  - [[!meta title="The EU General Data Protection Regulation explained by Americans"]]
  - [[!tag  lang:en gdprExplainedByUS GDPR dataProtection]]
 summary: "Bashing the European Union's General Data Protection Regulation (GDPR) seems to have become one of American activists' favourite hobbies in the tech field. Some criticism is entirely justified. But many claims that the GDPR is counterproductive or misses the point are based on misconceptions, rather than an accurate understanding of European data protection laws. As a result, several US privacy advocates have therefore suggested alternative principles or rules... many of which, actually, have been part of EU data protection law since 1995."
-iw-update: "[Latest update, Sept. 2020](#update2020-09)"
+iw-update: "[Latest update, Sept. 2021 (addition of a summary)](#update2021-09)"
 ...
 
 
@@ -24,9 +24,35 @@ If you have other examples to illustrate this, let me know so I can add them to 
 
 [tagfeed]: /tags/gdprExplainedByUS/index.atom
 
+# Summary {#update2021-09}
+
+5 things that US people call for having in a ”good” privacy law instead of the GDPR, that actually are in the GDPR:
+
+
+1.  **Snowden/Tim Wu**: Good laws must start from regulating data collection, not just data use.
+
+    The GDPR regulates data collection from the start, and all other processing operations on personal data (Article 4(2)).
+
+2.  **Stallman**: Good laws must ensure that systems are designed not to collect data that they don't need.
+
+    The GDPR puts “data protection by design” and “by default” requirements, including to minimise collection of data (Article 25) and encourage developers and manufacturers to implement these in their products (Recital 78).
+    
+3.  **Cegłowski**: Good laws must not focus on consent as a silver bullet, strong legal limits are needed.
+
+    In the GDPR, “consent” is only one of six other bases for giving a lawful ground to a data processing (Article 6). The GDPR includes 9 general principles putting strong limits, and dozens of compliance obligations (Articles 5 to 50).
+
+4.  **Stallman**: Good laws must ensure it is not easy to trick users into giving some kind of broad consent for any purpose.
+
+    The GDPR prohibits broad, meaningless consent (Articles 4, 6, 7) and requires any purpose to pass lawful and compatibility tests (Articles 5-6).
+
+5.  **Tufekci**: Good laws must not be limited to individual regulation must include a collective approach.
+
+    The GDPR requires to take into account collective risks of processing personal data (Articles 15, 20, 24, 25, 32-36) and allows collective actions and enforcement (Article 80).
+
+Read on for actual quotes and details.
 
 # 1. The problem starts not with “data use” but with “data collection” {#collection}
-
+    
 ## Edward Snowden and Tim Wu (November 2019) {#snowdenwu}
 
 > Snowden also directed some criticism at data privacy authorities that have tried to step up regulation on companies over how they handle user data. He said the EU’s General Data Protection Regulation [...] “misplaces the problem.”
@@ -71,6 +97,7 @@ Moreover, since 2018, the GDPR has extended the set of rules with the principles
 
 [art25]: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0679#d1e3063-1-1
 
+Moreover, Recital 78 provides that: “*When developing, designing, selecting and using applications, services and products that are based on the processing of personal data or process personal data to fulfil their task, producers of the products, services and applications should be encouraged to take into account the right to data protection when developing and designing such products, services and applications and, with due regard to the state of the art, to make sure that controllers and processors are able to fulfil their data protection obligations.*”
 
 # 2. Individuals' consent is not the right approach for privacy {#consent}
 
