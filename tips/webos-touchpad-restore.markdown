@@ -34,7 +34,7 @@ You should be able to find these for your system. I use Arch Linux and there was
 
 If you can hold **Power+Home+VolumeUp** for 30 seconds and see a big USB symbol, then you should probably skip this step, and directly try to [restore webOS](#webosrestore).
 
-If you get PALM error message referring to a missing ROM, or if you don't get anything at all, it may be that you nearly bricked your device. 
+If you get an error message referring to a missing ROM and suggesting you to Palm's website, or if you don't get anything at all, it may be that you nearly bricked your device. 
 
 Then use the **tpdebrick** script. Thanks to [TopTongueBarry](https://web.archive.org/web/20171209165258/http://forums.webosnation.com/hp-touchpad/320485-how-completely-fix-bricked-touch-pad.html#post3368470) for the tip. For me, the version that worked was [tpdebrick v004](https://www.rootzwiki.com/threads/tpdebrick-v004.38786/). 
 
