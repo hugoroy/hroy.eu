@@ -9,7 +9,7 @@ summary: "I unintentionally broke my HP Touchpad. It was useless and would not b
 ...
 
 
-Have you messed with your HP Touchpad partitions and multiboot? Or have you found your old HP Touchpad dusting under your bed? Interesting in legacy software and IT history, and want to give Palm's/HP's webOS a try? This collection of tips and scripts may be for you. At least, it worked for me. Good luck.
+Have you messed with your HP Touchpad partitions and multiboot? Or have you found your old HP Touchpad dusting under your bed? Curious about this piece of legacy software and IT history, and want to give Palm's/HP's webOS a try? This collection of tips and scripts may be for you. At least, it worked for me. Good luck.
 
 Elsewhere, a post with the same goal: [Restoring a Touchpad to original state](https://www.bjoreman.com/thoughts/touchpadReinstall.html) (I wished I found this page when I started my own restoration efforts - I don't know how I missed it. Maybe it works :^))
 
