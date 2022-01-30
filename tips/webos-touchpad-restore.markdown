@@ -14,7 +14,7 @@ Have you messed with your HP Touchpad partitions and multiboot? Or have you foun
 Elsewhere, a post with the same goal: [Restoring a Touchpad to original state](https://www.bjoreman.com/thoughts/touchpadReinstall.html) (I wished I found this page when I started my own restoration efforts - I don't know how I missed it. Maybe it works :^))
 
 *WARNING: TL;DR* ***Use at your own risks***  
-*These steps below will probably erase any data left on the device. Also, what you are reading is just a random post on the web. I give no guarantee whatsoever that this will work for you. Last but not least, many of the programs below were downloaded from second-hand non official sources due the history of Palm and webOS and, the short history of the HP Touchpad. I cannot guarantee that they are totally free from malware or other malicious intent...*
+*These steps below will probably erase any data left on the device. Also, what you are reading is just a random post on the web. I give no guarantee whatsoever that this will work for you. Last but not least, many of the programs below were downloaded from second-hand non official sources due the history of Palm and webOS and, the short history of the HP Touchpad. I cannot guarantee that they are totally free from malware or have not  otherwise been subject to malicious intent...*
 
 # Step 0: Ensure that there is enough battery to boot something
 
