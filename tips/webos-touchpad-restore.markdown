@@ -22,9 +22,11 @@ Start by doing this, regardless of where you are. Really, just do this:
 
 Plug in your HP Touchpad (ideally with the HP stock charger) in a good old electrical outlet. Leave it there for a couple of days or more. 
 
-If you get a bit of white light going back and forth within the front button (a.k.a. the "**Home**" button), then things are looking good: keep it on. 
+If you get a bit of white light going back and forth within the front button (a.k.a. the "**Home**" button), then things are looking good: keep it on like this.
 
-For me, leaving it like this for 3 days was enough.
+When your device's battery is well charged, you should see a boot-looping HP logo or something. But to be clear: if you still see the bit of white light going back and forth, it means you need to let your device charge some more.
+
+For me, leaving it charging like this for 3 days was enough. If that does not work for you: maybe you should check your USB cable or the charger and use alternatives.
 
 # Step 1: Install `novacom`/`novaterm` {#step-1}
 
@@ -44,8 +46,8 @@ Original instructions courtsey of jcsullins:
 
 >   Discussion Starter · #1 · Jan 30, 2013 (Edited by Moderator)
 >
->   tpdebrick v004 by jcsullins
->   ===========================
+>   tpdebrick v004 by jcsullins  
+>   ===========================  
 >   TPDebrick is a suite of programs and files used to "debrick"
 >   HP Touchpads. This process should allow the revival of Touchpads
 >   that cannot boot due to corrupted raw partitions, corrupted bootloaders
@@ -101,6 +103,9 @@ Skipping the original instructions' on how to use Ubuntu, and directly to the re
 >   this file somewhere for future analysis, if needed.
 
 If you managed to get to ALL DONE, then you're on the right track. If not, I suggest you try to see if you can leave your device charged, or try online forums with a good search engine, and the Internet Archive [Wayback machine](https://web.archive.org).
+
+
+When this step is complete, don't forget to disable your legacy SSH options.
 
 
 # Unable to launch webOS? How to restore HP's original webOS {#webosrestore}
