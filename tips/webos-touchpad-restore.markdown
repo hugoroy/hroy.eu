@@ -30,7 +30,10 @@ For me, leaving it charging like this for 3 days was enough. If that does not wo
 
 # Step 1: Install `novacom`/`novaterm` {#step-1}
 
-You should be able to find these for your system. I use Arch Linux and there was a package in AUR for this: [palm-novacom-git](https://aur.archlinux.org/packages/palm-novacom-git/).
+You should be able to find these for your system (Windows, MacOS, Linux, etc.). I use Arch Linux and there was a package in AUR for this: [palm-novacom-git](https://aur.archlinux.org/packages/palm-novacom-git/).
+
+To restore an HP Touchpad and get it to a point where it is running and usable, you will need several programs. I have included links below, but if you want to save download time, you can start by grabbing [all you will need here](https://gitlab.com/hugoroy/webos-touchpad-restore/-/archive/main/webos-touchpad-restore-main.zip).
+
 
 # Unable to start a bootloader or launch recovery mode? How to un-brick your device
 
