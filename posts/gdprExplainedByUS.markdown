@@ -5,14 +5,14 @@ lang: "en-GB"
 iw-directives: 
  - [[!meta title="The EU General Data Protection Regulation explained by Americans"]]
  - [[!tag  lang:en gdprExplainedByUS GDPR dataProtection]]
-summary: "Bashing the European Union's General Data Protection Regulation (GDPR) seems to have become one of American activists' favourite hobbies in the tech field. Some criticism is entirely justified. But many claims that the GDPR is counterproductive or misses the point are based on misconceptions, rather than an accurate understanding of European data protection laws. As a result, several US privacy advocates have therefore suggested alternative principles or rules... many of which, actually, have been part of EU data protection law since 1995."
+summary: "Bashing the European Union's General Data Protection Regulation (GDPR) seems to have become one of American activists' favourite hobbies in the tech field. Some criticism is entirely justified. But many claims that the GDPR is counterproductive or misses the point are based on misconceptions, rather than an accurate understanding of European data protection laws. As a result, several US privacy advocates have therefore suggested alternative principles or rules... many of which have been part of EU data protection law since 1995."
 iw-update: "[Latest update, Sept. 2021 (addition of a summary)](#update2021-09)"
 ...
 
 
 Bashing the European Union's General Data Protection Regulation (GDPR) seems to have become one of American activists' favourite hobbies in the tech field. Some criticism is entirely justified. But many claims that the GDPR is “counterproductive” or “misses the point” are based on misconceptions, rather than an accurate understanding of European data protection laws. 
 
-As a result, several US privacy advocates have therefore suggested alternative principles or rules... many of which, actually, have been part of EU data protection law since 1995. 
+As a result, several US privacy advocates have therefore suggested alternative principles or rules... many of which have already been part of EU data protection law since 1995. 
 
 So, [as promised](https://twitter.com/hugoroyd/status/1246024493144911873), here is:
 
@@ -20,13 +20,13 @@ So, [as promised](https://twitter.com/hugoroyd/status/1246024493144911873), here
 
 If you have other examples to illustrate this, let me know so I can add them to this post. I may update this post from time to time, so [subscribe to the feed][tagfeed] to get notified! 
 
-*A short note:* My intention with this post is to help you, my reader from the US or elsewhere, understand better what's actually in the GDPR. I have great respect for many of the people mentioned below (some of whom I consider or have considered personal heroes). I hope they are fine with a bit of teasing ;-)
+*A short note:* My intention with this post is to help you, my reader from the US or elsewhere, understand better the GDPR and what's in it. I have great respect for many of the people mentioned below (some of whom I consider or have considered personal heroes) and, as the saying goes in French, *qui aime bien châtie bien*.
 
 [tagfeed]: /tags/gdprExplainedByUS/index.atom
 
 # Summary {#update2021-09}
 
-5 things that US people call for having in a ”good” privacy law instead of the GDPR, that actually are in the GDPR:
+5 things that US people call for having in a “good” privacy law to address pitfalls of the GDPR, that are actually addressed in the GDPR:
 
 
 1.  **Snowden/Tim Wu**: Good laws must start from regulating data collection, not just data use.
@@ -35,7 +35,7 @@ If you have other examples to illustrate this, let me know so I can add them to 
 
 2.  **Stallman**: Good laws must ensure that systems are designed not to collect data that they don't need.
 
-    The GDPR puts “data protection by design” and “by default” requirements, including to minimise collection of data (Article 25) and encourage developers and manufacturers to implement these in their products (Recital 78).
+    The GDPR puts “data protection by design” and “by default” requirements, including to minimise collection of data (Article 25) and encourages developers and manufacturers to implement these in their products (Recital 78).
     
 3.  **Cegłowski**: Good laws must not focus on consent as a silver bullet, strong legal limits are needed.
 
@@ -45,7 +45,7 @@ If you have other examples to illustrate this, let me know so I can add them to 
 
     The GDPR prohibits broad, meaningless consent (Articles 4, 6, 7) and requires any purpose to pass lawful and compatibility tests (Articles 5-6).
 
-5.  **Tufekci**: Good laws must not be limited to individual regulation must include a collective approach.
+5.  **Tufekci**: Good laws must not be limited to individual regulation, but they must include a collective approach.
 
     The GDPR requires to take into account collective risks of processing personal data (Articles 15, 20, 24, 25, 32-36) and allows collective actions and enforcement (Article 80).
 
