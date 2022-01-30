@@ -13,7 +13,8 @@ Have you messed with your HP Touchpad partitions and multiboot? Or have you foun
 
 Elsewhere, a post with the same goal: [Restoring a Touchpad to original state](https://www.bjoreman.com/thoughts/touchpadReinstall.html) (I wished I found this page when I started my own restoration efforts - I don't know how I missed it. Maybe it works :^))
 
-*Warning: TL;DR* ***Use at your own risks*** *these steps below will probably erase any data left on the device. Also, what you are reading is just a random post on the web. I give no guarantee whatsoever that this will work for you. Last but not least, many of the programs below were downloaded from second-hand non official sources due the history of Palm and webOS and, the short history of the HP Touchpad. I cannot guarantee that they are totally free from malware or other malicious intent...*
+*WARNING: TL;DR* ***Use at your own risks***  
+*These steps below will probably erase any data left on the device. Also, what you are reading is just a random post on the web. I give no guarantee whatsoever that this will work for you. Last but not least, many of the programs below were downloaded from second-hand non official sources due the history of Palm and webOS and, the short history of the HP Touchpad. I cannot guarantee that they are totally free from malware or other malicious intent...*
 
 # Step 0: Ensure that there is enough battery to boot something
 
@@ -31,7 +32,7 @@ You should be able to find these for your system. I use Arch Linux and there was
 
 # Unable to start a bootloader or launch recovery mode? How to un-brick your device
 
-If you can hold **Power+Home+VolumeUp** for 30 seconds and see a big USB symbol, then you should probably skip this step.
+If you can hold **Power+Home+VolumeUp** for 30 seconds and see a big USB symbol, then you should probably skip this step, and directly try to [restore webOS](#webosrestore).
 
 If you get PALM error message referring to a missing ROM, or if you don't get anything at all, it may be that you nearly bricked your device. 
 
@@ -102,7 +103,7 @@ Skipping the original instructions' on how to use Ubuntu, and directly to the re
 If you managed to get to ALL DONE, then you're on the right track. If not, I suggest you try to see if you can leave your device charged, or try online forums with a good search engine, and the Internet Archive [Wayback machine](https://web.archive.org).
 
 
-# Unable to launch webOS? How to restore HP's original webOS
+# Unable to launch webOS? How to restore HP's original webOS {#webosrestore}
 
 You may find a lot of online resources about this. Let me save time for you with the one that worked for me: [thanks to this post from 2012 by rr5678](https://web.archive.org/web/20210113222556/https://forum.xda-developers.com/t/guide-factory-condition-restoration-downgrade-to-webos-3-0-0.1426244/#post-20989526).
 
@@ -114,21 +115,24 @@ For this, you will need `novacom` and `novaterm` (see [step 1](#step-1)) and:
  
      It is very important that you start with this version, and not some later version such as 3.0.4 or 3.0.5. For me, only version 3.0.0 managed to get the job done and to get a non-booting HP Touchpad, to an HP Touchpad booting an operating system (i.e. webOS). You will always be able to "upgrade" after, using a later version of webOS Doctor if you are interested in using webOS, or using an Android ROM, Lune OS, etc.
      
-     However, booting into the original webOS today is useless because the operating system tries to connect to HP's servers to activate the device. So you're going to get stuck there due to HP discontinuing everything. Fortunately, there's [a solution](https://web.archive.org/web/20171209143457mp_/http://forums.webosnation.com/hp-touchpad/317164-activation-bypass-touchpad.html) (the [original and official manual for this also has interesting content](https://web.archive.org/web/20150323051130mp_/https://developer.palm.com/content/resources/develop/developing_on_an_unactivated_device.html#c21702)). To save you time, I provide you directly with a custom [webOS Doctor version 3.0.0 that will install webOS without the HP account activation step](https://gitlab.com/hugoroy/webos-touchpad-restore/-/raw/main/webosdoctorp300hstnhwifi_customhpactivationbypass.jar).
+     However, booting into the original webOS today is useless because the operating system tries to connect to HP's servers to activate the device. So you're going to get stuck there due to HP discontinuing everything. Fortunately, there's [a solution](https://web.archive.org/web/20171209143457mp_/http://forums.webosnation.com/hp-touchpad/317164-activation-bypass-touchpad.html)[^diybypass] (the [original and official manual for this also has interesting content](https://web.archive.org/web/20150323051130mp_/https://developer.palm.com/content/resources/develop/developing_on_an_unactivated_device.html#c21702)). To save you time, I provide you directly with a custom [webOS Doctor version 3.0.0 that will install webOS without the HP account activation step](https://gitlab.com/hugoroy/webos-touchpad-restore/-/raw/main/webosdoctorp300hstnhwifi_customhpactivationbypass.jar).
    
+[^diybypass]: If you want to do this yourself, go ahead. You will find backup copies of the java files here: [devicetool.jar](https://gitlab.com/hugoroy/webos-touchpad-restore/-/raw/main/devicetool-origin.jar) [devicetool customised for webOS Doctor 3.0.5](https://gitlab.com/hugoroy/webos-touchpad-restore/-/raw/main/devicetool-webosdoctor305.jar)
+
 Now, to recover and boot into webOS 3.0.0 you need to:
 
-  1. Load the recovery uImage with `novacom`
+
+ 1. Load the recovery uImage with `novacom` 
   
     Boot your Touchpad into recovery by pressing **Power+VolumeUp** from a powered-off device, connect it to your computer with USB and launch:
     
          novacom boot mem:// < nova-installer-image-topaz.uImage
          
-     You should now see the HP logo. 
+    You should now see the HP logo. 
      
-  2. Reformat partitions on the device with `novaterm`
+ 2. Reformat partitions on the device with `novaterm`
   
-     You should now be able to connect to your device with the `novaterm` program and launch a shell running on the HP Touchpad. Now depending on whether you have a 16GB or a 32GB Touchpad, the instructions will differ:
+    You should now be able to connect to your device with the `novaterm` program: that will launch a shell running on the HP Touchpad. Now depending on whether you have a 16GB or a 32GB Touchpad, the commands to run and reformat the partitions will differ:
      
       - 32GB Touchpad:
 
@@ -188,4 +192,29 @@ Now, to recover and boot into webOS 3.0.0 you need to:
  
  
 
+# How to enable developer mode on webOS
+
+Considering that HP has discontinued everything, enabling developer mode is a must if you want to install packages, etc. You can enable developer mode simply by typing `webos20090606` in the “Just Type” input bar on the webOS home screen.
+
+The instructions from then one will be self-explanatory.
+
+
+# How to install applications on the HP Touchpad
+
+Use Preware.
+
+To install Preware, you can use the webOS Quick Install program: [backup copy](https://gitlab.com/hugoroy/webos-touchpad-restore/-/raw/main/WebOS-Quick-Install-4-7-2.jar)
+
+[Original instructions](https://web.archive.org/web/20210512200143/http://www.webos-internals.org/wiki/Application:Preware):
+
+> 3. Connect your device to your computer with the USB cable, and select "Just Charge" or "Cancel" (on a Touchpad). Do not select USB Drive.
+> 4. Run WebOS Quick Install. If the novacom driver is not installed, WebOS Quick Install will download and install that for you.
+>
+>     Do not believe any guide that says you need to download the SDK or webOSDoctor for WOSQI to run. The most you'll download is the novacom driver, which is only 11MB on Windows, and will be done via WOSQI.
+>
+> 5. If you are installing on a Veer, you will need to reboot the phone at this point or WOSQI will not recognize it. Hold the On/Off button down for about five seconds and release it. Select "Power" then select "Restart".
+> 6. Click the third button on the right (the globe icon)
+> 7. Select the Applications tab at the top
+> 8. Search for Preware
+> 9. Click Install.
 
