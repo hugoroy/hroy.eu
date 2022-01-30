@@ -133,6 +133,8 @@ Now, to recover and boot into webOS 3.0.0 you need to:
  2. Reformat partitions on the device with `novaterm`
   
     You should now be able to connect to your device with the `novaterm` program: that will launch a shell running on the HP Touchpad. Now depending on whether you have a 16GB or a 32GB Touchpad, the commands to run and reformat the partitions will differ:
+    
+    <small>
      
       - 32GB Touchpad:
 
@@ -177,6 +179,8 @@ Now, to recover and boot into webOS 3.0.0 you need to:
             lvm.static vgscan --ignorelockingfailure
             lvm.static vgchange -ay --ignorelockingfailure
             mkdosfs -f 1 -s 64 /dev/store/media 
+            
+     </small>
 
   3. Install webOS 3.0.0 with webOS Doctor
   
@@ -194,9 +198,11 @@ Now, to recover and boot into webOS 3.0.0 you need to:
 
 # How to enable developer mode on webOS
 
-Considering that HP has discontinued everything, enabling developer mode is a must if you want to install packages, etc. You can enable developer mode simply by typing `webos20090606` in the “Just Type” input bar on the webOS home screen.
+Considering that HP has discontinued everything, enabling developer mode is a must if you want to install packages, etc. You can enable developer mode simply by typing:
 
-The instructions from then one will be self-explanatory.
+    webos20090606
+
+in the “Just Type” input bar on the webOS home screen. The instructions from then one will be self-explanatory.
 
 
 # How to install applications on the HP Touchpad
