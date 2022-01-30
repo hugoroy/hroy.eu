@@ -11,10 +11,20 @@ summary: "I unintentionally broke my HP Touchpad. It was useless and would not b
 
 Have you messed with your HP Touchpad partitions and multiboot? Or have you found your old HP Touchpad dusting under your bed? Curious about this piece of legacy software and IT history, and want to give Palm's/HP's webOS a try? This collection of tips and scripts may be for you. At least, it worked for me. Good luck.
 
-Elsewhere, a post with the same goal: [Restoring a Touchpad to original state](https://www.bjoreman.com/thoughts/touchpadReinstall.html) (I wished I found this page when I started my own restoration efforts - I don't know how I missed it. Maybe it works :^))
-
 *WARNING: TL;DR* ***Use at your own risks***  
 *These steps below will probably erase any data left on the device. Also, what you are reading is just a random post on the web. I give no guarantee whatsoever that this will work for you. Last but not least, many of the programs below were downloaded from second-hand non official sources due the history of Palm and webOS and, the short history of the HP Touchpad. I cannot guarantee that they are totally free from malware or have not  otherwise been subject to malicious intent...*
+
+-----------------
+
+The below assumes you are comfortable with Linux, using shells, running commands, interacting with non-graphical interfaces, and know how to run/install stuff on your laptop. 
+
+You will need:
+
+ - an HP Touchpad
+ - a compatible charger
+ - a micro-USB cable
+ - a laptop that can run Java
+
 
 # Step 0: Ensure that there is enough battery to boot something
 
@@ -29,13 +39,23 @@ When your device's battery is well charged, you should see a boot-looping HP log
 For me, leaving it charging like this for 3 days was enough. If that does not work for you: maybe you should check your USB cable or the charger and use alternatives.
 
 # Step 1: Install `novacom`/`novaterm` {#step-1}
+    
+You should be able to find these and install the relevant versions for your system. I use Arch Linux and there was a package in AUR for this: [palm-novacom-git](https://aur.archlinux.org/packages/palm-novacom-git/).
 
-You should be able to find these for your system (Windows, MacOS, Linux, etc.). I use Arch Linux and there was a package in AUR for this: [palm-novacom-git](https://aur.archlinux.org/packages/palm-novacom-git/).
+# Step 2: Download restoration scripts and programs and follow the instructions
 
 To restore an HP Touchpad and get it to a point where it is running and usable, you will need several programs. I have included links below, but if you want to save download time, you can start by grabbing [all you will need here](https://gitlab.com/hugoroy/webos-touchpad-restore/-/archive/main/webos-touchpad-restore-main.zip).
 
+You can now follow the instructions below in that order, or you can jump directly to what you need:
 
-# Unable to start a bootloader or launch recovery mode? How to un-brick your device
+ - [Unable to start a bootloader or launch recovery mode? How to un-brick your device](#unbrick)
+ - [Unable to launch webOS? How to restore HP's original webOS](#webosrestore)
+ - [How to enable developer mode on webOS](#devmode)
+ - [How to install applications on the HP Touchpad](#preware)
+ - [How to browse the modern web with webOS](#browsing)
+
+
+# Unable to start a bootloader or launch recovery mode? How to un-brick your device {#unbrick}
 
 If you can hold **Power+Home+VolumeUp** for 30 seconds and see a big USB symbol, then you should probably skip this step, and directly try to [restore webOS](#webosrestore).
 
@@ -204,7 +224,7 @@ Now, to recover and boot into webOS 3.0.0 you need to:
  
  
 
-# How to enable developer mode on webOS
+# How to enable developer mode on webOS {#devmode}
 
 Considering that HP has discontinued everything, enabling developer mode is a must if you want to install packages, etc. You can enable developer mode simply by typing:
 
@@ -213,7 +233,7 @@ Considering that HP has discontinued everything, enabling developer mode is a mu
 in the “Just Type” input bar on the webOS home screen. The instructions from then one will be self-explanatory.
 
 
-# How to install applications on the HP Touchpad
+# How to install applications on the HP Touchpad {#preware}
 
 Use Preware.
 
@@ -232,3 +252,18 @@ To install Preware, you can use the webOS Quick Install program: [backup copy](h
 > 8. Search for Preware
 > 9. Click Install.
 
+
+
+
+# How to browse the modern web with webOS {#browsing}
+
+I don't know! :)
+
+WebOS is more than 10 years old. Browsing the modern web is near to impossible, due to outdated HTTPS algos, and the outdated web browser... I have no solution for this except to dual boot with Android or Lune OS or something. 
+
+If you have ideas please [let me know](/hugo/)!
+
+
+----------------------
+
+Elsewhere, a post with the same goal: [Restoring a Touchpad to original state](https://www.bjoreman.com/thoughts/touchpadReinstall.html). I wished I found this page when I started my own restoration efforts - I don't know how I missed it. Maybe it works :^)
