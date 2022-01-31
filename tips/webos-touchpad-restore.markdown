@@ -23,7 +23,7 @@ You will need:
  - an HP Touchpad
  - a compatible charger
  - a micro-USB cable
- - a laptop that can run Java
+ - a computer that can run Java
 
 
 # Step 0: Ensure that there is enough battery to boot something
