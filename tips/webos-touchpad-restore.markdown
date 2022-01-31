@@ -271,3 +271,5 @@ However, you should probably look into installing QtWebBrowser. For this, you ca
 ----------------------
 
 Elsewhere, a post with the same goal: [Restoring a Touchpad to original state](https://www.bjoreman.com/thoughts/touchpadReinstall.html). I wished I found this page when I started my own restoration efforts - I don't know how I missed it. Maybe it works :^)
+
+PS: I wished I knew about this website before: [webOS Archive](http://www.webosarchive.com/docs/home/). An absolute great resource on how to use a webOS tablet in 2022 and beyond! 
