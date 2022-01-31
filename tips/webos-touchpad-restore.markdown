@@ -261,7 +261,11 @@ To install Preware, you can use the webOS Quick Install program: [backup copy](h
 
 I don't have a good response for this. You will struggle with deprecated HTTPS ciphers, outdated certs, etc. I went through a lot of trial and error and can't exactly tell you what worked (e.g. setting up a proxy for HTTPS connections etc.).
 
-However, you should probably look into installing QtWebBrowser. For this, you can [download the packages here](https://gitlab.com/nizovn/preware_feed/-/archive/master/preware_feed-master.zip?path=ipkgs) and install them using Preware or the Web OS Quick Install (see previous step above).
+However, you should probably look into installing QtWebBrowser. For this, you can download and install the following, using Preware or the Web OS Quick Install (see previous step above):
+
+ - [org.webosinternals.dbus](http://testing.preware.net/alpha/apps/armv7/org.webosinternals.dbus_1.4.16-3_armv7.ipk) ([backup copy](https://gitlab.com/hugoroy/webos-touchpad-restore/-/raw/main/org.webosinternals.dbus_1.4.16-3_armv7.ipk))
+ - [QtWebBrowser and QupZilla dependencies](https://gitlab.com/nizovn/preware_feed/-/archive/master/preware_feed-master.zip?path=ipkgs) and install them 
+
 
 
 ----------------------
