@@ -16,7 +16,7 @@ Have you messed with your HP Touchpad partitions and multiboot? Or have you foun
 
 -----------------
 
-The below assumes you are comfortable with Linux, using shells, running commands, interacting with non-graphical interfaces, and know how to run/install stuff on your laptop. 
+The below assumes you are comfortable with Linux, using shells, running commands, interacting with non-graphical interfaces, and know how to run/install stuff on your computer. 
 
 You will need:
 
@@ -210,7 +210,9 @@ Now, to recover and boot into webOS 3.0.0 you need to:
             
      </small>
 
-  3. Install webOS 3.0.0 with webOS Doctor
+  3. Install webOS 3.0.0 with webOS Doctor e.g. by launching:
+  
+         java -jar webosdoctorp300hstnhwifi_customhpactivationbypass.jar
   
      Reboot the Touchpad into recovery **Power+Home** until the screen goes off, then **Power+VolumeUp**. Ensure the Touchpad is still connected via USB to your computer :^)
      
@@ -235,7 +237,7 @@ in the “Just Type” input bar on the webOS home screen. The instructions from
 
 # How to install applications on the HP Touchpad {#preware}
 
-Use Preware.
+Use Preware (from the Touchpad) or the webOS Quick Install (from your computer).
 
 To install Preware, you can use the webOS Quick Install program: [backup copy](https://gitlab.com/hugoroy/webos-touchpad-restore/-/raw/main/WebOS-Quick-Install-4-7-2.jar)
 
@@ -257,11 +259,9 @@ To install Preware, you can use the webOS Quick Install program: [backup copy](h
 
 # How to browse the modern web with webOS {#browsing}
 
-I don't know! :)
+I don't have a good response for this. You will struggle with deprecated HTTPS ciphers, outdated certs, etc. I went through a lot of trial and error and can't exactly tell you what worked (e.g. setting up a proxy for HTTPS connections etc.).
 
-WebOS is more than 10 years old. Browsing the modern web is near to impossible, due to outdated HTTPS algos, and the outdated web browser... I have no solution for this except to dual boot with Android or Lune OS or something. 
-
-If you have ideas please [let me know](/hugo/)!
+However, you should probably look into installing QtWebBrowser. For this, you can [download the packages here](https://gitlab.com/nizovn/preware_feed/-/archive/master/preware_feed-master.zip?path=ipkgs) and install them using Preware or the Web OS Quick Install (see previous step above).
 
 
 ----------------------
