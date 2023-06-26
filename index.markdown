@@ -17,11 +17,11 @@ Hello there! You just stumbled upon my personal online space...
 
 
 
-<section class="pro">
-Looking for legal advice? I work as an attorney in Paris (but this is my personal space).  
-👉  You can access my 
-<a href="https://attorney.hroy.eu" class="external-link">professional website **here**</a>
-</section>
+<!-- <section class="pro"> -->
+<!-- Looking for legal advice? I work as an attorney in Paris (but this is my personal space).   -->
+<!-- 👉  You can access my  -->
+<!-- <a href="https://attorney.hroy.eu" class="external-link">professional website **here**</a> -->
+<!-- </section> -->
 
 
 
