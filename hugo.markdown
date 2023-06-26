@@ -31,7 +31,7 @@ src="/assets/zappa-logo.png" height="19"> Zappa</a>-ist</span>.</span></p>
 
 
 <ul id="relmes">
-        <li><a href="https://signal.group/#CjQKIPGYSG0JycVxEMBS5JO6XfKs5cuqybl1FeFvS-emkczLEhDm-Kg-A1eimWo8YBDJVk96"><img src="/assets/signal-icon.png" alt="">Text me on Signal</a></li>
+        <!-- <li><a href="https://signal.group/#CjQKIPGYSG0JycVxEMBS5JO6XfKs5cuqybl1FeFvS-emkczLEhDm-Kg-A1eimWo8YBDJVk96"><img src="/assets/signal-icon.png" alt="">Text me on Signal</a></li> -->
         <li><a href="https://twitter.com/hugoroyd" rel="me" title="Twitter: @hugoroyd"><img src="/assets/twitter-icon.png" alt="">@hugoroyd</a></li>
         <li><a href="http://mastodon.xyz/@hugo" rel="me" title="Mastodon: @hugo@mastodon.xyz"><img src="/assets/mastodon-icon.png" alt="">@hugo@mastodon.xyz</a></li>
         <li id="contact-link"><a href="/hugo/#contact">Other contact info</a></li>
@@ -43,12 +43,12 @@ src="/assets/zappa-logo.png" height="19"> Zappa</a>-ist</span>.</span></p>
 
 
 <dl id="contact" class="more">
-<dt>Signal</dt>
-<dd>
-<a href="https://signal.group/#CjQKIPGYSG0JycVxEMBS5JO6XfKs5cuqybl1FeFvS-emkczLEhDm-Kg-A1eimWo8YBDJVk96">
-<img src="/assets/signal-qr.png" width="150" class="qrcode" alt="QR Code" title="QR Code to Signal contact URL">
-</a>
-</dd>
+<!-- <dt>Signal</dt> -->
+<!-- <dd> -->
+<!-- <a href="https://signal.group/#CjQKIPGYSG0JycVxEMBS5JO6XfKs5cuqybl1FeFvS-emkczLEhDm-Kg-A1eimWo8YBDJVk96"> -->
+<!-- <img src="/assets/signal-qr.png" width="150" class="qrcode" alt="QR Code" title="QR Code to Signal contact URL"> -->
+<!-- </a> -->
+<!-- </dd> -->
 <dt>email</dt>
 <dd>hu<span class="zzz">SPAM</span>go+helloweb@hu<span class="zzz">REMOVE</span>go<span class="y">roy.eu</span></dd>
 <dt>PGP</dt>
