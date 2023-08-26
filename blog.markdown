@@ -15,3 +15,7 @@ iw-hideaddedcontent: yes
 ----------------------------------------------------------------------------
 
 If you’ve read until here, you should [[browse_the_archives|archives]].
+
+<style type="text/css">
+.masthead .pagedate {display: none;}
+</style>
