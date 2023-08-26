@@ -19,7 +19,7 @@ Browse by tags:
 quick=yes trail=no feeds=no]]
 
 
-##### Older Archives
+##### Older archives
 
 
 [2013](https://web.archive.org/web/*/http://blog.hugoroy.eu/2013/*)

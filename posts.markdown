@@ -3,7 +3,8 @@ iw-hidepubdate: yes
 meta-author: "Hugo Roy"
 ...
 
-[You can’t do that online anymore](/blog) > posts
+[You can’t do that online anymore](/blog)  
+Blog
 
 <!-- [[blog]]: [[English|/en/]] / [[Français|/fr/]]. -->
 
