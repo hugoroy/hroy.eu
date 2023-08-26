@@ -16,8 +16,7 @@ les technologies informatiques.
 « Madame Michu » n’existe pas réellement, c'est une évidence.  C’est une
 fiction, prise pour une réalité, c’est-à-dire une hypostase comme on en trouve
 de nombreuses en droit par exemple :  le « bon père de famille » en droit civil
-français, « l’homme du métier » en droit des brevets (et ses cousins
-anglo-américains, les « *persons having ordinary skills in the art* », etc.
+français, « l’homme du métier » en droit des brevets, etc.
 
 Madame Michu, c'est **juste un utilisateur** pour paraphraser Ted Nelson.  Elle
 est à l'extrémité du spectre de l'utilisateur, à l'autre bout duquel se trouve
