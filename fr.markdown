@@ -14,9 +14,9 @@ Salut ! Vous venez de tomber sur mon espace en ligne personnel...
 
 [[!inline pages="page(./hugo/fr) and !*/Discussion" show="0" feeds=no actions=no template=inlinetext]]
 
-<section class="pro">Je suis aussi avocat au barreau de Paris (mais ceci est mon site perso).  
-👉  Pour accéder à mon 
-<a href="https://avocat.hroy.eu" class="external-link">site professionnel, c'est **ici**</a></section>
+<!-- <section class="pro">Je suis aussi avocat au barreau de Paris (mais ceci est mon site perso).   -->
+<!-- 👉  Pour accéder à mon  -->
+<!-- <a href="https://avocat.hroy.eu" class="external-link">site professionnel, c'est **ici**</a></section> -->
 
 <section class="mitm">
 
