@@ -16,7 +16,6 @@ Hello there! You just stumbled upon my personal online space...
 [[!inline pages="page(./hugo) and !*/Discussion" show="0" feeds=no actions=no template=inlinetext]]
 
 
-
 <!-- <section class="pro"> -->
 <!-- Looking for legal advice? I work as an attorney in Paris (but this is my personal space).   -->
 <!-- 👉  You can access my  -->
