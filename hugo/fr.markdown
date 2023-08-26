@@ -67,6 +67,7 @@ src="/assets/zappa-logo.png" height="19"> Zappa</a>-iste.</span></span></p>
 </div>
 
 <style type="text/css">
+.masthead .pagedate {display: none;}
 .zzz{float: right; font-size: 0.001px; color: transparent; display:inline-block; width: 0px; text-decoration: none;}
 body :target, body [fragmention] { background-color: transparent;}
 </style>
