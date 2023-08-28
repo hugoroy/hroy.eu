@@ -11,9 +11,11 @@ Browse by tags:
 [[!pagestats pages="./tags/*" among="*" style="list" show="42"]]
 </nav>
 
-[[Blog]]: [English only](/blog/en/) ⋅ [Français uniquement](/blog/fr)
+**[[Blog]]**:
 
-**Posts** ⋅ [[Tips]] ⋅ [[Quotes]] ⋅ [[Images]]
+[EN-gb](/blog/en/) ⋅ [FR-fr](/blog/fr)
+
+**Posts** ⋅ [[Tips]] ⋅ [[Quotes]] 
 
 [[!inline pages="page(./posts/*) and !*/Discussion and !(tagged(meta:ignore))" archive=yes
 quick=yes trail=no feeds=no]]
