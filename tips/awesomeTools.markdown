@@ -73,5 +73,3 @@ If you’re looking for a curated list of awesome web services that are free of 
 [tosdrext]: http://tosdr.org/downloads.html
 [Libre projects]: http://libreprojects.net/
 
-<style type="text/css">.pagedate.published {display: none;}</style>
-

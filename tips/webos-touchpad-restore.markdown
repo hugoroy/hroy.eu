@@ -6,6 +6,7 @@ iw-directives:
  - [[!meta title="Restoring an HP Touchpad webOS tablet"]]
  - [[!tag  lang:en webOS]]
 summary: "I unintentionally broke my HP Touchpad. It was useless and would not boot any more. Here is all I needed to restore it and boot into webOS 3.0.5"
+iw-otherlang-fr: /
 ...
 
 

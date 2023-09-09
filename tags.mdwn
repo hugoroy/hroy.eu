@@ -1,0 +1,2 @@
+[[!pagestats  style="list" pages="tags/*"]]
+

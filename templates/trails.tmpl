@@ -12,8 +12,8 @@
     </TMPL_IF>
 
     <TMPL_IF PREVPAGE>
-        <span class="trailarrow">↑</span>
         <a href="<TMPL_VAR PREVURL>" title="<TMPL_VAR PREVTITLE>">
+        <span class="trailarrow">↑</span>
         <TMPL_VAR PREVTITLE>
         </a>
         </span>
@@ -51,8 +51,8 @@
     <TMPL_IF NEXTPAGE>
         <a href="<TMPL_VAR NEXTURL>" title="<TMPL_VAR NEXTTITLE>">
         <TMPL_VAR NEXTTITLE>
-        </a>
         <span class="trailarrow">↓</span>
+        </a>
     </span>
     <TMPL_ELSE>
         <TMPL_IF PREVPAGE>

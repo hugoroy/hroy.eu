@@ -1,0 +1,415 @@
+<!doctype html>
+<html <TMPL_IF pandoc_lang>lang="<TMPL_VAR pandoc_lang>"</TMPL_IF>
+      class="no-js<TMPL_IF pandoc_lang> lang-<TMPL_VAR pandoc_lang></TMPL_IF>">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="<TMPL_VAR BASEURL>assets/styles/style.min.css" type="text/css" />
+    <TMPL_IF LOCAL_CSS><link rel="stylesheet" href="<TMPL_VAR BASEURL><TMPL_VAR LOCAL_CSS>" type="text/css"></TMPL_IF>
+    <TMPL_IF pandoc_title-meta><title><TMPL_VAR pandoc_title-meta> :: <TMPL_VAR WIKINAME></title>
+      <meta name="author" <TMPL_IF AUTHOR> content="<TMPL_VAR AUTHOR>" <TMPL_ELSE> content="Hugo Roy"</TMPL_IF>>
+      <meta name="twitter:title" content="<TMPL_IF TITLE><TMPL_VAR TITLE><TMPL_ELSE><TMPL_VAR WIKINAME></TMPL_IF>">
+    <TMPL_ELSE>
+      <TMPL_IF TITLE>
+      <title><TMPL_VAR TITLE> :: <TMPL_VAR WIKINAME></title>
+      <meta name="twitter:title" content="<TMPL_VAR TITLE>">
+        <TMPL_ELSE>
+        <title><TMPL_VAR WIKINAME></title>
+      </TMPL_IF>
+    </TMPL_IF>
+
+    <TMPL_IF pandoc_iw-otherlang-fr>
+    <link rel="alternate" type="text/html" lang="fr" hreflang="fr" title="Version française" href="<TMPL_VAR pandoc_iw-otherlang-fr>">
+    </TMPL_IF>
+    <TMPL_IF pandoc_iw-otherlang-en>
+    <link rel="alternate" type="text/html" lang="en" hreflang="en" title="English Version" href="<TMPL_VAR pandoc_iw-otherlang-en>">
+    </TMPL_IF>
+    <TMPL_IF pandoc_iw-otherlang-lang>
+    <link rel="alternate" type="text/html" lang="<TMPL_VAR pandoc_iw-otherlang-lang>" hreflang="<TMPL_VAR pandoc_iw-otherlang-lang>" title="[<TMPL_VAR pandoc_iw-otherlang-lang>]" href="<TMPL_VAR pandoc_iw-otherlang-url>">
+    </TMPL_IF>
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@hugoroyd">
+    <TMPL_IF DESCRIPTION>
+    <meta name="twitter:description" content="<TMPL_IF DESCRIPTION><TMPL_VAR DESCRIPTION ESCAPE=HTML></TMPL_IF> <TMPL_LOOP TAGS>&#35;<TMPL_VAR LINK ESCAPE=HTML> </TMPL_LOOP>">
+    </TMPL_IF>
+    <meta name="twitter:domain" content="hroy.eu">
+
+    <TMPL_UNLESS DYNAMIC>
+        <TMPL_IF FEEDLINKS><TMPL_VAR FEEDLINKS></TMPL_IF>
+        <TMPL_IF RELVCS><TMPL_VAR RELVCS></TMPL_IF>
+        <TMPL_IF META><TMPL_VAR META></TMPL_IF>
+        <TMPL_LOOP TRAILLOOP>
+            <TMPL_IF PREVPAGE>
+                <link rel="prev" href="<TMPL_VAR PREVURL>" title="<TMPL_VAR PREVTITLE>" />
+            </TMPL_IF>
+            <link rel="up" href="<TMPL_VAR TRAILURL>" title="<TMPL_VAR TRAILTITLE>" />
+            <TMPL_IF NEXTPAGE>
+                <link rel="next" href="<TMPL_VAR NEXTURL>" title="<TMPL_VAR NEXTTITLE>" />
+            </TMPL_IF>
+        </TMPL_LOOP>
+        <link rel="webmention" href="https://webmention.herokuapp.com/api/webmention">
+    </TMPL_UNLESS>
+  </head>
+
+  <body class="page-tmpl <TMPL_IF pandoc_iw-class>pandoc-class <TMPL_VAR pandoc_iw-class></TMPL_IF>">
+
+    <nav class="ui accessibility skipto">
+      <a href="#content" rel="nofollow">Skip to content / Aller au contenu</a>
+    </nav>
+
+    <main role="main" class="ui" id="top">
+
+    <article class="pagecontent h-entry">
+      <header class="content masthead<TMPL_IF pandoc_title> title-block-header</TMPL_IF>">
+          <TMPL_IF pandoc_title>
+              <h1 class="p-name">
+                <TMPL_VAR pandoc_title>
+              </h1>
+              <TMPL_IF pandoc_subtitle>
+                <p class="subtitle">
+                  <TMPL_VAR pandoc_subtitle>
+                </p>
+              </TMPL_IF>
+          </TMPL_IF>
+
+          <TMPL_IF AUTHOR>
+            <p class="p-author">
+            <TMPL_IF AUTHORURL>
+            <a href="<TMPL_VAR AUTHORURL>" rel="author"><TMPL_VAR AUTHOR></a>
+            <TMPL_ELSE>
+              <span rel="author"><TMPL_VAR AUTHOR></span>
+            </TMPL_IF>
+            </p>
+          </TMPL_IF>
+
+          <TMPL_IF pandoc_version>
+            <p class="version"><span class="label">version </span>
+                <TMPL_VAR pandoc_version>
+                <TMPL_IF pandoc_iw-hidepubdate>
+                <TMPL_ELSE>
+                <span class="dt-published">
+                  <TMPL_IF pandoc_date><TMPL_VAR pandoc_date>
+                  <TMPL_ELSE><TMPL_VAR CTIME></TMPL_IF>
+                </span>
+                <TMPL_IF pandoc_iw-update>
+                  <span class="dt-updated">
+                    (<TMPL_VAR pandoc_iw-update>)
+                  </span>
+                </TMPL_IF>
+            </TMPL_IF>
+            </p>
+            <TMPL_ELSE>
+            <TMPL_IF pandoc_title>
+            <TMPL_IF pandoc_iw-hidepubdate>
+            <TMPL_ELSE>
+            <p class="dt-published">
+                  <TMPL_IF pandoc_date><TMPL_VAR pandoc_date>
+                  <TMPL_ELSE><TMPL_VAR CTIME></TMPL_IF>
+                    <TMPL_IF pandoc_iw-update>
+                    <span class="dt-updated">
+                        (<TMPL_VAR pandoc_iw-update>)
+                    </span>
+                    </TMPL_IF>
+            </p>
+            </TMPL_IF>
+            <TMPL_ELSE>
+            <TMPL_IF pandoc_iw-hidepubdate>
+            <TMPL_ELSE>
+            <p class="dt-published">
+                  <TMPL_IF pandoc_date><TMPL_VAR pandoc_date>
+                  <TMPL_ELSE><TMPL_VAR CTIME></TMPL_IF>
+                    <TMPL_IF pandoc_iw-update>
+                    <span class="dt-updated">
+                        (<TMPL_VAR pandoc_iw-update>)
+                    </span>
+                    </TMPL_IF>
+            </p>
+            </TMPL_IF>
+            </TMPL_IF>
+          </TMPL_IF>
+
+
+            <TMPL_IF pandoc_abstract>
+            <div class="abstract">
+                <TMPL_IF pandoc_abstract-label>
+                <p class="abstract-label"><TMPL_VAR pandoc_abstract-label></p>
+                </TMPL_IF>
+                <section class="p-summary">
+<TMPL_VAR pandoc_abstract>
+                </section>
+            </div>
+            <hr>
+            </TMPL_IF>
+
+            <TMPL_IF pandoc_keywords>
+            <p class="p-category"><TMPL_VAR pandoc_keywords></p>
+            </TMPL_IF>
+
+        </header>
+
+        <section class="e-content content" id="content">
+
+            <TMPL_IF pandoc_iw-hidetitlemeta>
+            <TMPL_ELSE>
+                <TMPL_IF pandoc_title>
+                <TMPL_ELSE>
+            <span class="meta-title">
+                    <TMPL_IF PERMALINK>
+                                <h1>
+                                    <TMPL_VAR TITLE>
+                                </h1>
+                        <TMPL_ELSE>
+                                <h1 class="p-name">
+                                    <TMPL_VAR TITLE>
+                                </h1>
+                    </TMPL_IF>
+                </TMPL_IF>
+            </span>
+            </TMPL_IF>
+
+<TMPL_VAR CONTENT>
+
+        </section>
+
+        <aside class="pagemetas content">
+
+            <TMPL_IF TAGS>
+            <nav class="tags">
+            <TMPL_LOOP TAGS>
+            <span rel="tag" class="p-category"><TMPL_VAR LINK></span>
+            </TMPL_LOOP>
+            </nav>
+            </TMPL_IF>
+
+            <section id="pageinfo">
+
+            <div class="pagedate">
+              <span class="lang-select"><span class="en">Last edited</span><span class="no-lang">/</span><span class="fr">Dernière modif.</span></span>
+              <span class="dt-updated"><TMPL_VAR MTIME></span>.
+            </div>
+
+            <TMPL_IF pandoc_copyright>
+                <div class="pagecopyright p-copyright" id="pagecopyright">
+                    <TMPL_VAR pandoc_copyright>
+                </div>
+            <TMPL_ELSE>
+            <TMPL_IF COPYRIGHT>
+                <div class="pagecopyright p-copyright" id="pagecopyright">
+                    <TMPL_VAR COPYRIGHT>
+                </div>
+            </TMPL_IF>
+            </TMPL_IF>
+
+            <TMPL_IF pandoc_license>
+                <div class="pagelicense p-license" id="pagelicense">
+                <span rel="license"><TMPL_VAR pandoc_license></span>
+                </div>
+            <TMPL_ELSE>
+            <TMPL_IF LICENSE>
+                <div class="pagelicense p-license" id="pagelicense">
+                Licence: <span rel="license"><TMPL_VAR LICENSE></span>
+                </div>
+            </TMPL_IF>
+            </TMPL_IF>
+
+            </section>
+
+        </aside>
+
+    </article>
+
+
+    <TMPL_IF pandoc_generate_all_formats>
+    <TMPL_ELSE>
+    <TMPL_IF pandoc_generate_pdf>
+    <TMPL_ELSE>
+    <TMPL_IF pandoc_generate_latex>
+    <aside class="ui download-as">
+        <span class="content-lang-en">download as:</span>/<span class="content-lang-fr">télécharger :</span>
+        <TMPL_IF ACTIONS>
+        <TMPL_LOOP ACTIONS>
+        <TMPL_VAR ACTION>
+        </TMPL_LOOP>
+        </TMPL_IF>
+    </aside>
+    </TMPL_IF>
+    </TMPL_IF>
+    </TMPL_IF>
+
+    <TMPL_IF BACKLINKS>
+    <nav class="ui backlinks">
+        <TMPL_LOOP BACKLINKS>
+        <a href="<TMPL_VAR URL>" class="backlink"><TMPL_VAR PAGE></a>
+        </TMPL_LOOP>
+        <TMPL_IF MORE_BACKLINKS>
+        <TMPL_LOOP MORE_BACKLINKS>
+        <a href="<TMPL_VAR URL>" class="more backlink"><TMPL_VAR PAGE></a>
+        </TMPL_LOOP>
+        </TMPL_IF>
+    </nav>
+    </TMPL_IF>
+
+
+    <TMPL_IF PARENTLINKS>
+    <nav class="ui parentlinks">
+        <TMPL_LOOP PARENTLINKS>
+        <a class="parentlink" href="<TMPL_VAR URL>"><TMPL_VAR PAGE></a>
+        </TMPL_LOOP>
+    </nav>
+    </TMPL_IF>
+
+    <TMPL_IF pandoc_iw-hidehcard>
+    <TMPL_ELSE>
+    <TMPL_IF AUTHOR>
+    <TMPL_ELSE>
+    <aside class="h-card ui">
+        <a href="<TMPL_VAR BASEURL><TMPL_IF pandoc_iw-baseurlappendix><TMPL_VAR pandoc_iw-baseurlappendix></TMPL_IF>" class="u-url" rel="home">
+            <img class="u-logo" alt="" aria-hidden="true" src="/favatar.png" height="25">
+            <span class="p-name" rel="author"><span class="p-given-name">Hugo</span> <span class="p-family-name">Roy</span></span>
+            <span class="u-uid"><TMPL_VAR WIKINAME></span>
+        </a>
+    </aside>
+    </TMPL_IF>
+    </TMPL_IF>
+
+    <nav class="ui trails">
+        <TMPL_UNLESS DYNAMIC>
+            <TMPL_VAR TRAILS>
+        </TMPL_UNLESS>
+    </nav>
+
+    <nav class="ui mainnav">
+        <a href="/<TMPL_IF pandoc_iw-baseurlappendix><TMPL_VAR pandoc_iw-baseurlappendix></TMPL_IF>" class="mainlink">@</a>
+        <a href="/blog/<TMPL_IF pandoc_iw-baseurlappendix><TMPL_VAR pandoc_iw-baseurlappendix></TMPL_IF>" class="mainlink">≡</a>
+        <nav class="sidebar">
+        <TMPL_VAR SIDEBAR>
+        </nav>
+        <!-- TODO -->
+        <!-- <nav class="search"> -->
+        <!--     <details> -->
+        <!--         <summary>🔍</summary> -->
+        <!--         <div class="searchddg"> -->
+        <!--         <iframe src="https://duckduckgo.com/search.html?site=hroy.eu&prefill=search on hroy.eu with DuckDuckGo" style="overflow:hidden;margin:0 auto;padding:0;width:100%;max-width:408px;height:40px;" frameborder="0"></iframe> -->
+        <!--         <small>Search results by DuckDuckGo (<a href="https://duckduckgo.com/privacy">Privacy Policy</a>).</small> -->
+        <!--         </div> -->
+        <!--     </details> -->
+        <!-- </nav> -->
+    </nav>
+  </main>
+
+    <TMPL_IF pandoc_iw-hideaddedcontent>
+    <TMPL_ELSE>
+    <div class="added content">
+        <TMPL_UNLESS DYNAMIC>
+            <TMPL_IF COMMENTS>
+                <section id="comments" rel="ugc">
+
+                    <TMPL_VAR COMMENTS>
+
+                    <TMPL_IF ADDCOMMENTURL>
+                        <!-- <div class="addcomment"> -->
+                        <!-- <a href="<TMPL_VAR ADDCOMMENTURL>" class="btn btn-default">Add a comment</a> -->
+                        <!-- <br /> -->
+                        <!-- <a href="/about/#comment-policy" class="terms">Comment Policy (your IP is logged)</a> -->
+                        <!-- </div> -->
+                        <TMPL_ELSE>
+                        <div class="addcomment">Comments on this page are closed.</div>
+                    </TMPL_IF>
+                </section>
+
+                <TMPL_IF pandoc_iw-hidewebmentions>
+                <TMPL_ELSE>
+                <section id="webmentions" rel="ugc">
+                    <script id="webmention-hosted">
+                    (function () {
+                    var sn = document.createElement("script"), s = document.getElementsByTagName("script")[0], url;
+                    url = document.querySelectorAll ? document.querySelectorAll("link[rel~=canonical]") : false;
+                    url = url && url[0] ? url[0].href : false;
+                    sn.type = "text/javascript"; sn.async = true;
+                    sn.src = "//webmention.herokuapp.com/api/embed?url=" + encodeURIComponent(url || window.location);
+                    s.parentNode.insertBefore(sn, s);
+                    }());
+                    </script>
+
+                    <div class="addcomment addwebmention">
+                        <!-- <a href="https://www.brid.gy/" class="btn btn-default" target="_blank">Send webmentions</a> -->
+                        <!-- <br /> -->
+                        <span class="terms">provided by <a href="https://www.brid.gy/">brid.gy</a></span> <a href="http://webmention.org" class="terms">More info about webmentions</a>
+                    </div>
+                </section>
+                </TMPL_IF>
+
+            </TMPL_IF>
+        </TMPL_UNLESS>
+    </div>
+    </TMPL_IF>
+
+    <footer id="footer">
+        <TMPL_UNLESS DYNAMIC>
+
+            <TMPL_IF pandoc_iw-otherlang-en>
+              <details class="changelang ui" id="choose-lang">
+                  <summary><svg xmlns="http://www.w3.org/2000/svg" width="27" height="16" title="Change language"><path fill="#D3E3F4" d="M0 0h11.876v16h-11.876v-16z"></path><path fill="#E9E9E9" d="M12.819 0v15.969h10.755c1.085-2.578 1.837-4.991 3.062-8.591l-3.062-7.378h-10.755z"></path><path fill="#434343" d="M14.828 4.146c.32.023.639.035.951.035.471 0 .922-.016 1.354-.046l.023-.258.034-.367.081-.711.033-.333.873.058c-.073.577-.133 1.091-.179 1.542 1.116-.119 2.233-.331 3.349-.637l.092.809c-1.078.271-2.251.472-3.521.602-.05.463-.082.968-.098 1.514.524-.187 1.14-.313 1.847-.378.064-.207.136-.461.213-.763l.865.201c-.027.123-.088.315-.184.579.814.104 1.461.34 1.938.711.681.542 1.021 1.252 1.021 2.128 0 .963-.406 1.746-1.221 2.351-.635.47-1.505.784-2.609.94l-.505-.779c.968-.104 1.739-.337 2.317-.7.733-.458 1.101-1.066 1.101-1.823 0-.772-.341-1.363-1.021-1.772-.345-.21-.764-.344-1.256-.401-.604 1.422-1.4 2.598-2.387 3.527.035.352.102.715.201 1.09l-.849.314-.126-.773c-.654.462-1.27.693-1.847.693-.696 0-1.044-.407-1.044-1.222 0-1.104.591-2.103 1.771-2.993.227-.165.532-.352.918-.562.012-.524.046-1.128.104-1.812-.585.046-1.143.069-1.675.069l-.493-.011-.071-.822m2.127 3.384c-.268.161-.545.392-.831.694-.612.619-.94 1.226-.986 1.817l-.017.121.017.138c0 .252.112.378.339.378.492 0 1.02-.258 1.582-.773-.057-.613-.092-1.404-.104-2.375m2.455-.884c-.57.08-1.111.226-1.623.436 0 .883.018 1.581.052 2.093.634-.707 1.158-1.55 1.571-2.529"></path><path fill="#1A1A1A" d="M8.517 11.735l-.734-2.409h-3.69l-.734 2.409h-2.313l3.573-10.165h2.625l3.587 10.165h-2.314m-1.246-4.21c-.679-2.183-1.062-3.418-1.149-3.704-.083-.286-.143-.512-.18-.678-.153.59-.589 2.051-1.309 4.382h2.638"></path><path fill="#BCBCBC" d="M12.817 13.5v2.5h10.757l.98-2.5h-11.737z"></path><path fill="#3692D0" d="M.011 13.511h3.569l2.367-3.116 2.367 3.116h3.57v2.484h-11.873v-2.484z"></path></svg></summary>
+                <TMPL_ELSE>
+                <TMPL_IF pandoc_iw-otherlang-fr>
+            <details class="changelang ui" id="choose-lang">
+                <summary><svg xmlns="http://www.w3.org/2000/svg" width="27" height="16" title="Change language"><path fill="#D3E3F4" d="M0 0h11.876v16h-11.876v-16z"></path><path fill="#E9E9E9" d="M12.819 0v15.969h10.755c1.085-2.578 1.837-4.991 3.062-8.591l-3.062-7.378h-10.755z"></path><path fill="#434343" d="M14.828 4.146c.32.023.639.035.951.035.471 0 .922-.016 1.354-.046l.023-.258.034-.367.081-.711.033-.333.873.058c-.073.577-.133 1.091-.179 1.542 1.116-.119 2.233-.331 3.349-.637l.092.809c-1.078.271-2.251.472-3.521.602-.05.463-.082.968-.098 1.514.524-.187 1.14-.313 1.847-.378.064-.207.136-.461.213-.763l.865.201c-.027.123-.088.315-.184.579.814.104 1.461.34 1.938.711.681.542 1.021 1.252 1.021 2.128 0 .963-.406 1.746-1.221 2.351-.635.47-1.505.784-2.609.94l-.505-.779c.968-.104 1.739-.337 2.317-.7.733-.458 1.101-1.066 1.101-1.823 0-.772-.341-1.363-1.021-1.772-.345-.21-.764-.344-1.256-.401-.604 1.422-1.4 2.598-2.387 3.527.035.352.102.715.201 1.09l-.849.314-.126-.773c-.654.462-1.27.693-1.847.693-.696 0-1.044-.407-1.044-1.222 0-1.104.591-2.103 1.771-2.993.227-.165.532-.352.918-.562.012-.524.046-1.128.104-1.812-.585.046-1.143.069-1.675.069l-.493-.011-.071-.822m2.127 3.384c-.268.161-.545.392-.831.694-.612.619-.94 1.226-.986 1.817l-.017.121.017.138c0 .252.112.378.339.378.492 0 1.02-.258 1.582-.773-.057-.613-.092-1.404-.104-2.375m2.455-.884c-.57.08-1.111.226-1.623.436 0 .883.018 1.581.052 2.093.634-.707 1.158-1.55 1.571-2.529"></path><path fill="#1A1A1A" d="M8.517 11.735l-.734-2.409h-3.69l-.734 2.409h-2.313l3.573-10.165h2.625l3.587 10.165h-2.314m-1.246-4.21c-.679-2.183-1.062-3.418-1.149-3.704-.083-.286-.143-.512-.18-.678-.153.59-.589 2.051-1.309 4.382h2.638"></path><path fill="#BCBCBC" d="M12.817 13.5v2.5h10.757l.98-2.5h-11.737z"></path><path fill="#3692D0" d="M.011 13.511h3.569l2.367-3.116 2.367 3.116h3.57v2.484h-11.873v-2.484z"></path></svg></summary>
+                <TMPL_ELSE>
+                <TMPL_IF pandoc_iw-otherlang-lang>
+            <details class="changelang ui" id="choose-lang">
+                <summary><svg xmlns="http://www.w3.org/2000/svg" width="27" height="16" title="Change language"><path fill="#D3E3F4" d="M0 0h11.876v16h-11.876v-16z"></path><path fill="#E9E9E9" d="M12.819 0v15.969h10.755c1.085-2.578 1.837-4.991 3.062-8.591l-3.062-7.378h-10.755z"></path><path fill="#434343" d="M14.828 4.146c.32.023.639.035.951.035.471 0 .922-.016 1.354-.046l.023-.258.034-.367.081-.711.033-.333.873.058c-.073.577-.133 1.091-.179 1.542 1.116-.119 2.233-.331 3.349-.637l.092.809c-1.078.271-2.251.472-3.521.602-.05.463-.082.968-.098 1.514.524-.187 1.14-.313 1.847-.378.064-.207.136-.461.213-.763l.865.201c-.027.123-.088.315-.184.579.814.104 1.461.34 1.938.711.681.542 1.021 1.252 1.021 2.128 0 .963-.406 1.746-1.221 2.351-.635.47-1.505.784-2.609.94l-.505-.779c.968-.104 1.739-.337 2.317-.7.733-.458 1.101-1.066 1.101-1.823 0-.772-.341-1.363-1.021-1.772-.345-.21-.764-.344-1.256-.401-.604 1.422-1.4 2.598-2.387 3.527.035.352.102.715.201 1.09l-.849.314-.126-.773c-.654.462-1.27.693-1.847.693-.696 0-1.044-.407-1.044-1.222 0-1.104.591-2.103 1.771-2.993.227-.165.532-.352.918-.562.012-.524.046-1.128.104-1.812-.585.046-1.143.069-1.675.069l-.493-.011-.071-.822m2.127 3.384c-.268.161-.545.392-.831.694-.612.619-.94 1.226-.986 1.817l-.017.121.017.138c0 .252.112.378.339.378.492 0 1.02-.258 1.582-.773-.057-.613-.092-1.404-.104-2.375m2.455-.884c-.57.08-1.111.226-1.623.436 0 .883.018 1.581.052 2.093.634-.707 1.158-1.55 1.571-2.529"></path><path fill="#1A1A1A" d="M8.517 11.735l-.734-2.409h-3.69l-.734 2.409h-2.313l3.573-10.165h2.625l3.587 10.165h-2.314m-1.246-4.21c-.679-2.183-1.062-3.418-1.149-3.704-.083-.286-.143-.512-.18-.678-.153.59-.589 2.051-1.309 4.382h2.638"></path><path fill="#BCBCBC" d="M12.817 13.5v2.5h10.757l.98-2.5h-11.737z"></path><path fill="#3692D0" d="M.011 13.511h3.569l2.367-3.116 2.367 3.116h3.57v2.484h-11.873v-2.484z"></path></svg></summary>
+            </TMPL_IF>
+            </TMPL_IF>
+            </TMPL_IF>
+
+                <TMPL_IF pandoc_iw-otherlang-en>
+                <a rel="alternate" lang="en" hreflang="en" href="<TMPL_VAR pandoc_iw-otherlang-en>">English</a>
+                  <TMPL_IF pandoc_iw-otherlang-fr>
+                  <TMPL_ELSE>
+                    <span class="lang-select"><span class="fr">Français</span></span>
+                  </TMPL_IF>
+                </TMPL_IF>
+                <TMPL_IF pandoc_iw-otherlang-fr>
+                  <TMPL_IF pandoc_iw-otherlang-en>
+                  <TMPL_ELSE>
+                    <span class="lang-select"><span class="en">English</span></span>
+                  </TMPL_IF>
+                <a rel="alternate" lang="fr" hreflang="fr" href="<TMPL_VAR pandoc_iw-otherlang-fr>">Français</a>
+                </TMPL_IF>
+                <TMPL_IF pandoc_iw-otherlang-lang>
+                <a rel="alternate" lang="<TMPL_VAR pandoc_iw-otherlang-lang>" hreflang="<TMPL_VAR pandoc_iw-otherlang-lang>" href="<TMPL_VAR pandoc_iw-otherlang-url>">[<TMPL_VAR pandoc_iw-otherlang-lang>]</a>
+                </TMPL_IF>
+            <TMPL_IF pandoc_iw-otherlang-en>
+            </details>
+                <TMPL_ELSE>
+                <TMPL_IF pandoc_iw-otherlang-fr>
+            </details>
+                <TMPL_ELSE>
+                <TMPL_IF pandoc_iw-otherlang-lang>
+            </details>
+            </TMPL_IF>
+            </TMPL_IF>
+            </TMPL_IF>
+
+            <nav id="sitefooter" class="ui sitefooter">
+                <a href="/">•&nbsp;hroy.eu</a>
+                /&nbsp;<a href="/archives/">Archives</a>
+                <!-- <a href="/map/">Sitemap</a> -->
+                <TMPL_IF pandoc_lang>
+                /&nbsp;<a href="/legal-info/"><span class="lang-select"><span class="fr">Mentions Légales</span><span class="no-lang">/</span><span class="en">Legal</span></span></a>
+                  <TMPL_ELSE>
+                /&nbsp;<a href="/legal-info/">Legal</a>
+                </TMPL_IF>
+              /&nbsp;<a href="<TMPL_VAR HISTORYURL>" class="githistory">Source</a>
+            </nav>
+
+            <TMPL_IF EXTRAFOOTER>
+                <TMPL_VAR EXTRAFOOTER>
+            </TMPL_IF>
+
+        </TMPL_UNLESS>
+    </footer>
+
+</body>
+</html>

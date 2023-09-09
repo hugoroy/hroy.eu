@@ -1,0 +1,192 @@
+//
+// BASICS
+//
+body {
+    font-family: ui-sans-serif,system-ui,-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    margin: 0;
+    padding: 0;
+}
+
+article.pagecontent {
+    font-family: "Bricolage Grotesque", BricolageGrotesque, Bricolage Grotesque, ui-sans-serif,system-ui,-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+//for testing
+.ui {
+    background-color: rgba(255,255,0,0.2);
+    font-family: ui-sans-serif,system-ui,-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+#content {
+    background-color: white;
+}
+
+
+main.ui {
+    display: grid;
+    max-width: 100vw;
+    > * {
+        max-width: 100vw;
+    }
+    .ui.parentlinks, .ui.hcard {
+        grid-row: 1;
+        z-index: 1;
+    }
+    .ui.ctime {
+        z-index: 8;
+        display: block;
+        grid-row: 2;
+        grid-column: 1/3;
+    }
+    .pagecontent {
+        z-index: 9;
+        grid-row: 3;
+        grid-column: 1/3;
+    }
+    .ui.pagemetas {
+        grid-row: 4;
+        grid-column: 1/3;
+    }
+    .ui.trails {
+        grid-row: 5;
+        grid-column: 1/3;
+    }
+    .ui.mainnav {
+        z-index: 0;
+        grid-row: 6;
+        grid-column: 1/3;
+    }
+}
+
+.parentlinks {
+    .parentlink {
+        display: none;
+    }
+    .parentlink:last-child {
+        display: inline-block;
+        visibility: hidden;
+        width: 0;
+    }
+    .parentlink:last-child::before {
+        display: inline-block;
+        content: "〈";
+        font-weight: 700;
+        visibility: visible;
+    }
+}
+
+.filter-content {
+    display: grid;
+    input.recent, label.recent, input.chooselang, label.chooselang {
+        grid-row: 1;
+    }
+    input.choosecontent, label.choosecontent {
+        grid-row: 2;
+    }
+    .inlines {
+        grid-row: 3;
+        grid-column: 1/20;
+        display: none;
+        transition: all .35s;
+    }
+    input:checked {
+        + label {
+            + .inlines {
+                    display: block;
+            }
+        }
+    }
+}
+
+#trails .trails {
+    .trail {
+        display:none;
+    }
+    .trail:first-child {
+        display: block;
+    }
+}
+
+
+// ≡
+// #
+// @
+// ٭
+// 〈〉
+// ⚓
+// ©
+// 🛜
+//
+
+.pagecontent {
+
+    pre, .gist {
+        overflow: auto;
+        max-width: 98vw;
+    }
+    // check after styles of p in posts is adjusted how to fix this
+    p > img, p > a > img, figure img, table.img img {
+        max-width: 100vw;
+        height: auto;
+    }
+    figure {
+        margin: 0;
+    }
+
+}
+
+// STUFF
+//
+.zzz{float: right; font-size: 0.001px; color: transparent; display:inline-block; width: 0px; text-decoration: none;}
+.appleinclogo {
+    font-family: "Proxima Nova","Helvetica Neue","Helvetica","Segoe UI","Nimbus Sans L","Liberation Sans","Open Sans",FreeSans,Arial,sans-serif;
+}
+
+//
+// UI SPACES
+//
+
+%for-accessibility {
+    visibility: hidden;
+    height: 0;
+}
+
+.ui.accessibility {
+    @extend %for-accessibility;
+    display: block;
+    line-height: 2.4em;
+    text-align: center;
+}
+
+
+// TYPO
+
+.pagecontent {
+    line-height: 1.42;
+    font-size: 15px;
+
+    p, h1, h2, h3, h4, h5, h6, h7, .p-summary {
+        padding: 2px 5px;
+    }
+
+    table.img {
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+.home .vcard .p-note img, .hugo .vcard .p-note img {
+    max-height: 15px;
+    vertical-align: middle;
+}
+
+
+// UI
+
+.ui.mainnav {
+    > a {
+        vertical-align: top;
+    }
+    .sidebar {
+        display: inline-block;
+    }
+}
