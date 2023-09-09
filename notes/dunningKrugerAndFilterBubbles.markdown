@@ -7,7 +7,7 @@ iw-directives:
 ...
 
 
-Ces deux théories étaient séduisantes intellectuellement mais les recherches scientifiques étudiant leur réalité n'ont pas permis d'être concluant sur leur véracité... force est de constater qu'il faudrait désormais cesser de les employer. Je veux parler de l'Effet Dunning-Kruger et du concept de bulle de filtres ("filter bubble").
+Ces deux théories étaient séduisantes intellectuellement mais les recherches scientifiques remettent sérieusement en cause leur validité... force est de constater qu'il faudrait désormais cesser d'avoir recours à l'Effet Dunning-Kruger ou au concept de bulle de filtres ("filter bubble").
 
 - [A Statistical Explanation of the Dunning–Kruger Effect](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.840180/full)
 
