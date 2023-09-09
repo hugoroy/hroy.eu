@@ -1,0 +1,4 @@
+[[!meta title="#meta:pinned"]]
+
+[[!inline pages="tagged(meta:pinned)" actions="no" archive="yes"
+feedshow=10]]
