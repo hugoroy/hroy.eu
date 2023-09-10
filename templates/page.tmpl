@@ -280,8 +280,9 @@
     </nav>
 
     <nav class="ui mainnav">
-        <a href="/<TMPL_IF pandoc_iw-baseurlappendix><TMPL_VAR pandoc_iw-baseurlappendix></TMPL_IF>" class="mainlink">@</a>
-        <a href="/blog/<TMPL_IF pandoc_iw-baseurlappendix><TMPL_VAR pandoc_iw-baseurlappendix></TMPL_IF>" class="mainlink">≡</a>
+        <a href="/<TMPL_IF pandoc_iw-baseurlappendix><TMPL_VAR pandoc_iw-baseurlappendix></TMPL_IF>" class="mainlink home">/</a>
+        <a href="/hugo/<TMPL_IF pandoc_iw-baseurlappendix><TMPL_VAR pandoc_iw-baseurlappendix></TMPL_IF>" class="mainlink hugo">@</a>
+        <a href="/blog/<TMPL_IF pandoc_iw-baseurlappendix><TMPL_VAR pandoc_iw-baseurlappendix></TMPL_IF>" class="mainlink blog">≡</a>
         <nav class="sidebar">
         <TMPL_VAR SIDEBAR>
         </nav>

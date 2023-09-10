@@ -91,40 +91,53 @@ main.ui {
         // position: sticky; fix this
     }
     @include mobile {
-        .ui.parentlinks, .ui.h-card {
-            grid-row: 1;
-        }
-        .ui.parentlinks{
-            grid-column: 1;
-        }
-        .ui.h-card {
-            grid-column: 2/3;
-        }
-        .ui.ctime {
-            display: block;
-            grid-row: 2;
-            grid-column: 1/3;
-        }
+        grid-template-areas:  "mainnav" "trailprev" "trailnext" "backlinks" "pagecontent" "pagemetasa" "ctime" "hcard" "parentlinks";
+        grid-template-columns: 1fr 2.5rem max-content 2.5rem 1fr;
+        grid-template-areas:
+            ". parentlinks hcard . ."
+            ". ctime ctime ctime ."
+            ". pagecontent pagecontent pagecontent ."
+            ". pagemetas pagemetas pagemetas ."
+            ". backlinks backlinks backlinks ."
+            ". trails trails trails ."
+            "mainnav mainnav mainnav mainnav mainnav";
         .pagecontent {
-            grid-row: 3;
-            grid-column: 1/3;
+            min-height: 70vh;
         }
-        .ui.pagemetas {
-            grid-row: 4;
-            grid-column: 1/3;
-        }
-        .ui.backlinks {
-            grid-row: 4;
-            grid-column: 1/3;
-        }
-        .ui.trails {
-            grid-row: 6;
-            grid-column: 1/3;
-        }
-        .ui.mainnav {
-            grid-row: 9;
-            grid-column: 1/3;
-        }
+        // .ui.parentlinks, .ui.h-card {
+        //     grid-row: 1;
+        // }
+        // .ui.parentlinks{
+        //     grid-column: 1;
+        // }
+        // .ui.h-card {
+        //     grid-column: 2;
+        // }
+        // .ui.ctime {
+        //     display: block;
+        //     grid-row: 2;
+        //     grid-column: 1/3;
+        // }
+        // .pagecontent {
+        //     grid-row: 3;
+        //     grid-column: 1/3;
+        // }
+        // .ui.pagemetas {
+        //     grid-row: 4;
+        //     grid-column: 1/3;
+        // }
+        // .ui.backlinks {
+        //     grid-row: 4;
+        //     grid-column: 1/3;
+        // }
+        // .ui.trails {
+        //     grid-row: 6;
+        //     grid-column: 1/3;
+        // }
+        // .ui.mainnav {
+        //     grid-row: 9;
+        //     grid-column: 1/3;
+        // }
     }
     @include tablet {
         grid-template-areas:  "mainnav" "trailprev" "trailnext" "backlinks" "pagecontent" "pagemetasa" "ctime" "hcard" "parentlinks";
@@ -193,26 +206,12 @@ main.ui > aside.h-card.ui, main.ui > nav.parentlinks.ui {
 }
 
 main.ui > aside.h-card.ui {
-    text-align: right;
+    text-align: center;
     .u-logo {
         height: 42px;
         width: auto;
         float: right;
         margin-left: 0.82em;
-    }
-    @include tablet {
-        padding-top: 2rem;
-        padding-bottom: 1rem;
-        text-align: left;
-        .u-logo {
-            float: left;
-            margin-right: 0.82em;
-        }
-    }
-    @include desktop {
-        .u-logo {
-            margin-left: -0.82em;
-        }
     }
     .u-logo + .p-name {
         display: block;
@@ -232,6 +231,39 @@ main.ui > aside.h-card.ui {
             font-weight: 300;
             font-size: 0.85em;
             display: none;
+        }
+    }
+    @include mobile {
+        display: flex;
+        flex-direction: row;
+        .u-url {
+            margin-top: 0.3rem;
+            margin-left: 2rem;
+            display: flex;
+            flex-direction: row;
+        }
+        .u-logo {
+            float: none;
+            height: 28px;
+            width: auto;
+            margin: 6px;
+        }
+        .u-logo + .p-name {
+            display: inline-block;
+        }
+    }
+    @include tablet {
+        padding-top: 3rem;
+        padding-bottom: 1rem;
+        text-align: left;
+        .u-logo {
+            float: left;
+            margin-right: 0.82em;
+        }
+    }
+    @include desktop {
+        .u-logo {
+            margin-left: -0.82em;
         }
     }
 }
@@ -254,8 +286,10 @@ main.ui > aside.h-card.ui {
         content: "#";
     }
     .p-category {
-        margin-right: 0.6em;
         margin-bottom: 0.25em;
+        a {
+            margin-right: 0.6em;
+        }
     }
 }
 
@@ -381,6 +415,12 @@ main.ui > aside.h-card.ui {
             + * + * + input.chooselang {
                 display: inline-block;
             }
+        }
+    }
+    @include mobile {
+        margin-top: -2.6rem;
+        input.chooselang, * input.chooselang, .chooselang:after {
+            background-color: #F6F6F6; // FIXME theme
         }
     }
     input {
@@ -538,7 +578,8 @@ main.ui > aside.h-card.ui {
         @extend .is-white;
         background-color: transparent;
         display: inline-block;
-        content: "🡨";
+        //content: "🡨";
+        content: "←";
         font-weight: 700;
         visibility: visible;
         margin: 0.3em 0 0 0.3em;
@@ -575,6 +616,12 @@ main.ui > .pagecontent, main.ui + .added.content {
     }
 }
 
+.page-tmpl.blog {
+    main.ui > .pagecontent .masthead.title-block-header {
+        padding-top: 0;
+    }
+}
+
 body:not(.blog).post {
     .masthead.title-block-header {
         @include tablet {
@@ -589,9 +636,11 @@ body:not(.blog).post {
         border-radius: 5px;
         box-shadow: 0 0.1em .5em rgba(0,0,0,0.1);
         font-size: 80%;
-        margin-left: -0.75em;
-        margin-right: -0.75em;
-        padding: 10px;
+        // padding: 10px;
+        @include tablet {
+            margin-left: -0.75em;
+            margin-right: -0.75em;
+        }
 
         // FIXME with new breakpoints
         @media (min-width: 700px) {
@@ -784,7 +833,7 @@ body:not(.blog).post {
                 border-radius: 5px;
                 display: inline-block;
                 padding: 0.25em 0.45em;
-                margin: 0 0.15em 0.15em 0;
+                margin: 0 0.5em 0.15em 0;
                 background-color: #fefefe !important;
                 box-shadow: 0 1px #e3dfe3;
                 font-size: 80%;
@@ -826,6 +875,7 @@ body:not(.blog).post {
     // padding-right: 4em;
     height: 3.5rem;
     @media screen and (orientation:portrait) {
+        border-top: 1px solid #eee; //fixme theme color
         position: sticky;
         bottom: 0;
     }
@@ -899,16 +949,18 @@ body:not(.blog).post {
 }
 
 .page-tmpl.home {
-    .mainnav.ui > .mainlink:first-child {
+    .mainnav.ui > .mainlink.home {
+        color: blue;//FIXME theme color
+    }
+}
+.page-tmpl.hugo {
+    .mainnav.ui > .mainlink.hugo { //FIXME add classes to these links
         color: blue;//FIXME theme color
     }
 }
 .page-tmpl.blog {
-    .mainnav.ui > .mainlink { //FIXME add classes to these links
+    .mainnav.ui > .mainlink.blog { //FIXME add classes to these links
         color: blue;//FIXME theme color
-    }
-    .mainnav.ui > .mainlink:first-child {
-        color: inherit;//FIXME theme color
     }
 }
 .page-tmpl.tags {
@@ -926,6 +978,9 @@ body:not(.blog).post {
     left: 0;
     right: 0;
     bottom: 3.5rem;
+    @tablet {
+        bottom: 0;
+    }
     width: 100vw;
     transition: all .35s;
     text-align: left;
@@ -1214,13 +1269,93 @@ a[href*="//"]:not([href*="hroy.eu"]), a:link.external-link {
 }
 #webmentions {
 
+}
+
+html[lang] {
+    .content p {
+        hyphens: auto;
+        -moz-hyphens: auto;
+        -webkit-hyphens: auto;
+        -ms-hyphens: auto;
+    }
+}
+
+//FIXME
+html[lang="en"], *[lang*="en"], *[lang*="en-GB"] {
+    * .lang-select {
+        .no-lang, .fr {
+            display: none;
+        }
+    }
+}
+html[lang="fr"], *[lang*="fr"], *[lang*="fr-FR"] {
+    * .lang-select {
+        .no-lang, .en {
+            display: none;
+        }
+    }
+}
+
+.e-content {
+        h2 {
+            text-transform: lowercase;
+            font-variant: small-caps;
+            font-variant-numeric: oldstyle-nums;
+            font-feature-settings: 'onum' 1;
+            font-weight: 700;
+            font-size: 130%;
+            margin-top: 1.5em;
+        }
+        h3 {
+            font-size: 110%;
+            margin-top: 1em;
+            font-weight: 600;
+        }
+        h4 {
+            font-size: 110%;
+            margin-top: 1em;
+            font-style: italic;
+            font-weight: 500;
+        }
+        h5 {
+            font-size: 90%;
+        }
+        h6 {
+            font-size: 80%;
+        }
+        h7 {
+            font-size: 70%;
+        }
+    }
+    .quote &, & article.quote  {
+        blockquote cite em {
+            font-style: normal;
+        }
+    }
+}
+
+
+//quickfixes
+//
+
+.added.content {
+    .comment .inlinecontent {
+        overflow: auto;
+    }
+    .webmention-mention .webmention-summary {
+        overflow: auto;
+    }
+}
     .webmention-container, form {
     }
 
-    .webmention-container {
-        max-width: 80%;
+    #comments, .webmention-container {
+        width: 80%;
+        max-width: 42rem;
+        margin-top: 3.5rem;
         margin-left: auto;
         margin-right: auto;
+        padding-left: 6rem;
 
         & > .webmention-mention:first-child:before {
             display: inline-block;
@@ -1300,67 +1435,21 @@ a[href*="//"]:not([href*="hroy.eu"]), a:link.external-link {
         background-size: contain;
         padding-left: 27px;
     }
-}
 
-html[lang] {
-    .content p {
-        hyphens: auto;
-        -moz-hyphens: auto;
-        -webkit-hyphens: auto;
-        -ms-hyphens: auto;
-    }
+.webmention-container {
+    max-width: 42rem;
+    margin-left: auto;
+    margin-right: auto;
 }
-
-//FIXME
-html[lang="en"], *[lang*="en"], *[lang*="en-GB"] {
-    * .lang-select {
-        .no-lang, .fr {
-            display: none;
-        }
-    }
+.addcomment.addwebmention {
+    .terms {visibility: hidden;}
 }
-html[lang="fr"], *[lang*="fr"], *[lang*="fr-FR"] {
-    * .lang-select {
-        .no-lang, .en {
-            display: none;
-        }
-    }
+.webmention-container + .addcomment.addwebmention, .webmention-container + * + .addcomment.addwebmention {
+    .terms {visibility: visible;}
 }
-
-.e-content {
-        h2 {
-            text-transform: lowercase;
-            font-variant: small-caps;
-            font-variant-numeric: oldstyle-nums;
-            font-feature-settings: 'onum' 1;
-            font-weight: 700;
-            font-size: 130%;
-            margin-top: 1.5em;
-        }
-        h3 {
-            font-size: 110%;
-            margin-top: 1em;
-            font-weight: 600;
-        }
-        h4 {
-            font-size: 110%;
-            margin-top: 1em;
-            font-style: italic;
-            font-weight: 500;
-        }
-        h5 {
-            font-size: 90%;
-        }
-        h6 {
-            font-size: 80%;
-        }
-        h7 {
-            font-size: 70%;
-        }
-    }
-    .quote &, & article.quote  {
-        blockquote cite em {
-            font-style: normal;
-        }
-    }
+.webmention-author {
+     img {
+         max-height: 42px;
+         width: auto;
+     }
 }
