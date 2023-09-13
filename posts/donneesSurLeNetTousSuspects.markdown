@@ -7,7 +7,6 @@ lang: "fr-FR"
 abstract-label: Avant-propos
 abstract: "À l'occasion des actions engagées en faveur des droits au respect de la vie privée et à la protection des données personnelles, j'ai pu contribuer à la rédaction de cette tribune. Réaction à la position des autorités françaises face à la justice européenne, ce texte esquisse aussi brièvement ma critique de la société de suspicion généralisée --- l'une des principales raisons de mes engagements avec « les Exégètes »."
 iw-directives:
- - [[!meta title="Données sur le net : tous suspects"]]
  - [[!meta date="2017-06-18"]]
  - [[!tag lang:fr privacy dataRetention FrenchDataNetwork FédérationFDN LaQuadratureDuNet surveillance]]
 ...
