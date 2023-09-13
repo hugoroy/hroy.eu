@@ -4,7 +4,6 @@ lang: "fr"
 title-meta: "French Data Network  contre le Gouvernement, acte 2"
 iw-directives:
  - [[!meta date="2015-03-31T20:09:45Z"]]
- - [[!meta title="French Data Network  contre le Gouvernement, acte 2"]]
  - [[!tag lang:fr ConseilDÉtat FrenchDataNetwork FédérationFDN LaQuadratureDuNet censorship webBlocking exégètesAmateurs]]
 ...
 
