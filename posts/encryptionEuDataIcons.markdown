@@ -1,11 +1,10 @@
 ---
 iw-class: post
-title-meta: Some comments on the EU's draft Privacy Icons
+title: Some comments on the EU's draft Privacy Icons
 tags: [privacy, dataProtection, EuropeanParliament, ToSDR]
 lang: en
 iw-directives:
  - [[!meta date="2014-11-12T16:37:57Z"]]
- - [[!meta title="Some comments on the EU's draft Privacy Icons"]]
  - [[!meta language="en"]]
  - [[!tag lang:en  privacy dataProtection EuropeanParliament ToSDR ]]
 ...
