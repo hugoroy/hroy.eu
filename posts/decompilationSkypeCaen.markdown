@@ -3,7 +3,6 @@ iw-class: post
 title-meta: "Décompilation d'un logiciel : état des lieux"
 lang: fr
 iw-directives:
- - [[!meta title="Décompilation d'un logiciel : état des lieux"]]
  - [[!meta date="2015-07-28"]]
  - [[!tag lang:fr droit droitDAuteur software]]
 ...
