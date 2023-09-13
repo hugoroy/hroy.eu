@@ -1,8 +1,12 @@
-[[!meta date="2014-09-05T07:33:37Z"]]
-[[!meta title="How to produce defensive publications"]] 
-[[!meta description="A proposal and request for comments on how to make it easy for free software projects to produce defensive publications against patents."]]
-[[!meta language="en"]]
-[[!tag lang:en OpenInventionNetwork defensivePublications patents freeSoftware]]
+---
+iw-class: post
+title: "How to produce defensive publications"
+lang: "en-GB"
+iw-directives: 
+ - [[!tag lang:en OpenInventionNetwork defensivePublications patents freeSoftware]]
+ - [[!meta date="2014-09-05T07:33:37Z"]]
+summary: "A proposal and request for comments on how to make it easy for free software projects to produce defensive publications against patents."
+...
 
 Last month, I [[introduced_what_defensive_publications_are|intro-defpubs]]: documents describing something (a new feature, a new algorithm, a new system) in order to prevent further patents. 
 
