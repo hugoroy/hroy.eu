@@ -1,10 +1,10 @@
 ---
 iw-class: note
 lang: fr
-title-meta: "Des cookies ou de l'argent"
+title: "Accepter les cookies et le traçage publicitaire, ou payer"
 iw-directives:
  - [[!tag lang:fr]]
-summary: "Depuis le 1er avril 2021, de nouvelles conditions d'accès à certains sites web sont mises en oeuvre. Accepter le traçage des activités en ligne, ou abonnez-vous en payant. Quelle est la licéité de cette pratique?"
+summary: "Depuis le 1er avril 2021, de nouvelles conditions d'accès à certains sites web sont mises en oeuvre. Accepter le traçage des activités en ligne, ou abonnez-vous en payant. Cette pratique est-elle licite?"
 ...
 
 
