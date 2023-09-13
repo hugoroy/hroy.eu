@@ -1,10 +1,9 @@
 ---
 iw-class: post
-title-meta: "Publication of the User Data Manifesto 2.0"
+title: "Publication of the User Data Manifesto 2.0"
 lang: en-GB
 description: Today, most of users’ data are not stored on their computer’s hard drive any more, but rather online on a service provider’s server somewhere in a data center. While most computing happened on local machines, in the late years a new kind of “computing“ has emerged in daily use. Marketers have called this “Cloud computing”—but do not mistake, as there is no cloud, it’s just some one else’s computer.
 iw-directives:
- - [[!meta title="Publication of the User Data Manifesto 2.0"]]
  - [[!meta date="2015-08-29T10:50:09Z"]]
  - [[!tag privacy surveillance userData DataRights lang:en]]
 ...
