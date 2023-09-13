@@ -7,8 +7,6 @@
     author="Benjamin Mako Hill"
     photo="//0.gravatar.com/avatar/c765934363224852356e0d9a992b3a23?s=80&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&r=G"
     profile="http://mako.cc/"]]
-
-[[!meta title="How much of my email Google has"]]
 [[!meta license="[CC0-1.0](http://creativecommons.org/publicdomain/zero/1.0/)"]]
 [[!meta description="Going through my email archive with mako’s python and R scripts to find out."]]
 [[!meta language="en"]]
