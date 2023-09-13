@@ -1,5 +1,10 @@
-[[!meta title="Facebook, an open source company?"]]
-[[!tag lang:en nonsense freeSoftware openness Facebook]][[!meta language="en"]]
+---
+iw-class: post
+title: "Facebook, an open source company?"
+lang: "en-GB"
+iw-directives: 
+ - [[!tag lang:en nonsense freeSoftware openness Facebook]]
+...
 
 In today’s world, communication and branding matter almost as much
 in business as they do in conveying ideas and ethics. Which is why
