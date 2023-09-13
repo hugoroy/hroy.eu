@@ -1,3 +1,11 @@
+---
+iw-class: post
+title: "“free/open internet”"
+lang: "en-GB"
+iw-directives: 
+ - [[!tag lang:en nonsense]]
+...
+
 ## Time to stop talking about the free/open Internet?
 
 Last week, instead of working on the bar exams, I spent some
@@ -67,5 +75,3 @@ I don't even consider flash as part of the web, but just some
 proprietary blobs served over http. I don't think that everything served
 over http is necessarily part of the web.
 
-[[!tag lang:en nonsense]]
-[[!meta title="“free/open internet”"]][[!meta language="en"]]
