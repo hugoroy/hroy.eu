@@ -1,5 +1,10 @@
-[[!meta title="First impressions on the Dell XPS13"]]
-[[!tag lang:en Dell-XPS-13]][[!meta language="en"]]
+---
+iw-class: post
+title: "First impressions on the Dell XPS13"
+lang: "en-GB"
+iw-directives: 
+ - [[!tag lang:en Dell-XPS-13]]
+...
 
 After I found out that Dell was selling one thing, but
 [[delivering_another|/posts/dell_ubuntu_wireless/]], I decided to leave the new laptop for a bit.
