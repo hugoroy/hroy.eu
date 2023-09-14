@@ -41,7 +41,7 @@ src="/assets/zappa-logo.png" height="19">Zappa</a>-ist</span>.</p>
 <a href="/hugo" class="item u-url ikiwiki">~<span class="u-uid">hroy.eu/hugo</span></a>
 <a href="https://mastodon.xyz/@hugo" class="item u-url mastodon" rel="me"><span class="p-nickname">@hugo@mastodon.xyz</span></a>
 <a href="//nxtcld.ampoliros.net/u/hugo" rel="me" title="Nextcloud federated cloud ID: hugo@nxtcld.ampoliros.net" class="item u-url nextcloud"><span class="p-nickname">hugo@nxtcld.ampoliros.net</span></a>
-<div class="item writemail">hu<span class="zzz">SPAM</span>go+helloweb@hu<span class="zzz">REMOVE</span>go<span class="y">roy.eu</span></div>
+<a href="mailto:zkl2ss4f1@mozmail.com" rel="me" class="item writemail">zkl2ss4f1@mozmail.com</a>
 <a href="https://keys.openpgp.org/search?q=0x4BA9A6EE1AA9A69E" class="item u-key pgp">0x4BA9A6EE1AA9A69E</a>
 </section>
 </div>
